@@ -1,0 +1,1 @@
+import{_ as s}from"./DlAUqK2U.js";import{x as o,y as t,V as c,v as l}from"./BD2I3fch.js";const r={},n={class:"w-screen h-screen overflow-hidden flex flex-col items-center"},a={class:"w-full h-full flex flex-col"};function f(e,d){return l(),o("div",n,[t("div",a,[c(e.$slots,"default")])])}const m=s(r,[["render",f]]);export{m as default};
