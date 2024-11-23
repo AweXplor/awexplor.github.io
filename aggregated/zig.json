@@ -1,0 +1,5895 @@
+[
+  {
+    "id": "00JCIV00/cova",
+    "name": "00JCIV00/cova",
+    "description": "Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library for Zig.",
+    "topics": [
+      "clap",
+      "cli",
+      "command-line",
+      "terminal",
+      "zig",
+      "zig-package",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "00JCIV00",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/68087632?v=4"
+    },
+    "stars": 110,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 5,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-10-23T15:18:49.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-05-02T23:42:13.000Z",
+    "updatedAt": "2024-11-20T03:55:54.000Z"
+  },
+  {
+    "id": "ATTron/astroz",
+    "name": "ATTron/astroz",
+    "description": "Astrodynamics and Spacecraft Toolkit Written in Zig! Features orbit prop, celestial precession, CCSDS parsing, RF parsing, fits image parsing, and more!",
+    "topics": [
+      "astro",
+      "astronomy",
+      "astrophysics",
+      "ccsds",
+      "celestial-bodies",
+      "fits-files",
+      "fits-image",
+      "orbital-simulation",
+      "radio-frequency",
+      "rf",
+      "space",
+      "spacecraft",
+      "tle",
+      "toolkit",
+      "vita",
+      "zig",
+      "zig-library",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "ATTron",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12820359?v=4"
+    },
+    "stars": 16,
+    "starsDetail": null,
+    "license": "GNU General Public License v3.0",
+    "forks": 1,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-11-13T19:28:32.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-06-25T00:35:54.000Z",
+    "updatedAt": "2024-11-20T03:55:32.000Z"
+  },
+  {
+    "id": "Akuli/curses-minesweeper",
+    "name": "Akuli/curses-minesweeper",
+    "description": "Minesweeper game written in curses with zig",
+    "topics": [],
+    "owner": {
+      "name": "Akuli",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18505570?v=4"
+    },
+    "stars": 17,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 2,
+    "primaryLanguage": "C",
+    "pushedAt": "2024-09-19T15:57:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-03-15T19:25:31.000Z",
+    "updatedAt": "2024-11-20T03:55:12.000Z"
+  },
+  {
+    "id": "AndreaOrru/zen",
+    "name": "AndreaOrru/zen",
+    "description": "Experimental operating system written in Zig",
+    "topics": [
+      "kernel",
+      "operating-system",
+      "os",
+      "zig"
+    ],
+    "owner": {
+      "name": "AndreaOrru",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3673952?v=4"
+    },
+    "stars": 443,
+    "starsDetail": null,
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 27,
+    "primaryLanguage": "GDB",
+    "pushedAt": "2024-04-26T16:34:31.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-04-04T20:02:11.000Z",
+    "updatedAt": "2024-11-20T03:54:45.000Z"
+  },
+  {
+    "id": "Aransentin/ZWL",
+    "name": "Aransentin/ZWL",
+    "description": "Zig Windowing Library",
+    "topics": [],
+    "owner": {
+      "name": "Aransentin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5727856?v=4"
+    },
+    "stars": 99,
+    "starsDetail": null,
+    "license": "European Union Public License 1.2",
+    "forks": 12,
+    "primaryLanguage": "AMPL",
+    "pushedAt": "2022-06-13T22:35:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-06-27T23:14:32.000Z",
+    "updatedAt": "2024-11-20T03:55:17.000Z"
+  },
+  {
+    "id": "Arwalk/ChipZ",
+    "name": "Arwalk/ChipZ",
+    "description": "A simple Chip8 emulator (executable and library) written in Zig.",
+    "topics": [
+      "chip-8",
+      "chip8",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "Arwalk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4776412?v=4"
+    },
+    "stars": 3,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 1,
+    "primaryLanguage": "Earthly",
+    "pushedAt": "2024-06-13T21:28:31.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-04-13T14:02:10.000Z",
+    "updatedAt": "2024-11-20T03:55:08.000Z"
+  },
+  {
+    "id": "Arwalk/zig-protobuf",
+    "name": "Arwalk/zig-protobuf",
+    "description": "a protobuf 3 implementation for zig.",
+    "topics": [
+      "protobuf",
+      "zig",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "Arwalk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4776412?v=4"
+    },
+    "stars": 232,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 27,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-11-16T13:48:47.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-04-30T16:11:03.000Z",
+    "updatedAt": "2024-11-20T03:56:00.000Z"
+  },
+  {
+    "id": "Avokadoen/zig_vulkan",
+    "name": "Avokadoen/zig_vulkan",
+    "description": "Toying with vulkan and zig",
+    "topics": [
+      "glfw",
+      "graphics",
+      "raytracing",
+      "voxel",
+      "vulkan",
+      "zig"
+    ],
+    "owner": {
+      "name": "Avokadoen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26302304?v=4"
+    },
+    "stars": 50,
+    "starsDetail": null,
+    "license": null,
+    "forks": 2,
+    "primaryLanguage": "GLSL",
+    "pushedAt": "2024-02-06T19:01:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-06-14T21:06:28.000Z",
+    "updatedAt": "2024-11-20T03:55:20.000Z"
+  },
+  {
+    "id": "BarabasGitHub/LZig4",
+    "name": "BarabasGitHub/LZig4",
+    "description": "Implementing lz4 in zig.",
+    "topics": [],
+    "owner": {
+      "name": "BarabasGitHub",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12561434?v=4"
+    },
+    "stars": 6,
+    "starsDetail": null,
+    "license": null,
+    "forks": 1,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2019-03-21T19:37:33.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-03-17T21:57:06.000Z",
+    "updatedAt": "2024-11-20T03:54:37.000Z"
+  },
+  {
+    "id": "BraedonWooding/Lazy-Zig",
+    "name": "BraedonWooding/Lazy-Zig",
+    "description": "Linq in Zig",
+    "topics": [],
+    "owner": {
+      "name": "BraedonWooding",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22880786?v=4"
+    },
+    "stars": 42,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 4,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2023-12-08T17:38:44.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-04-30T11:55:18.000Z",
+    "updatedAt": "2024-11-20T03:55:26.000Z"
+  },
+  {
+    "id": "CurtisFenner/zsmol",
+    "name": "CurtisFenner/zsmol",
+    "description": "(No longer developed) The new Smol compiler and reference.",
+    "topics": [],
+    "owner": {
+      "name": "CurtisFenner",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3289892?v=4"
+    },
+    "stars": 9,
+    "starsDetail": null,
+    "license": null,
+    "forks": 1,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2022-12-01T21:05:43.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-06-23T00:51:37.000Z",
+    "updatedAt": "2024-11-20T03:54:55.000Z"
+  },
+  {
+    "id": "DorianXGH/Lukarnel",
+    "name": "DorianXGH/Lukarnel",
+    "description": "A microkernel in zig with rust microservices",
+    "topics": [],
+    "owner": {
+      "name": "DorianXGH",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33571477?v=4"
+    },
+    "stars": 21,
+    "starsDetail": null,
+    "license": null,
+    "forks": 0,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2020-06-12T08:58:31.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-01-21T08:27:49.000Z",
+    "updatedAt": "2024-11-20T03:54:47.000Z"
+  },
+  {
+    "id": "DutchGhost/ArrayVec",
+    "name": "DutchGhost/ArrayVec",
+    "description": "An array with a vector feeling in Zig",
+    "topics": [],
+    "owner": {
+      "name": "DutchGhost",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25501014?v=4"
+    },
+    "stars": 15,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 1,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2020-07-14T18:36:28.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-03-10T14:03:46.000Z",
+    "updatedAt": "2024-11-20T03:54:37.000Z"
+  },
+  {
+    "id": "DutchGhost/maybeuninit",
+    "name": "DutchGhost/maybeuninit",
+    "description": "MaybeUninit in Zig.",
+    "topics": [
+      "maybeuninit",
+      "zig"
+    ],
+    "owner": {
+      "name": "DutchGhost",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25501014?v=4"
+    },
+    "stars": 1,
+    "starsDetail": null,
+    "license": "European Union Public License 1.2",
+    "forks": 0,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2020-09-30T19:13:21.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-08-10T18:43:02.000Z",
+    "updatedAt": "2024-11-20T03:55:26.000Z"
+  },
+  {
+    "id": "GrooveStomp/chip8-zig",
+    "name": "GrooveStomp/chip8-zig",
+    "description": "A CHIP-8 emulator written in Zig",
+    "topics": [],
+    "owner": {
+      "name": "GrooveStomp",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/433268?v=4"
+    },
+    "stars": 8,
+    "starsDetail": null,
+    "license": null,
+    "forks": 1,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2020-04-22T12:10:56.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-04-18T13:58:53.000Z",
+    "updatedAt": "2024-11-20T03:55:07.000Z"
+  },
+  {
+    "id": "Hejsil/zig-clap",
+    "name": "Hejsil/zig-clap",
+    "description": "Command line argument parsing library",
+    "topics": [
+      "argument-parser",
+      "argument-parsing",
+      "command-line",
+      "command-line-parser",
+      "parsed-arguments",
+      "zig-package",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "Hejsil",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3759175?v=4"
+    },
+    "stars": 960,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 68,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-11-18T14:53:42.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-03-14T13:06:16.000Z",
+    "updatedAt": "2024-11-20T03:55:54.000Z"
+  },
+  {
+    "id": "Hejsil/zig-gc",
+    "name": "Hejsil/zig-gc",
+    "description": "A super simple mark-and-sweep garbage collector written in Zig.",
+    "topics": [
+      "garbage-collector",
+      "zig"
+    ],
+    "owner": {
+      "name": "Hejsil",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3759175?v=4"
+    },
+    "stars": 38,
+    "starsDetail": null,
+    "license": "The Unlicense",
+    "forks": 2,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2021-06-05T15:42:21.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-06-11T13:35:09.000Z",
+    "updatedAt": "2024-11-20T03:54:42.000Z"
+  },
+  {
+    "id": "Hejsil/zig-midi",
+    "name": "Hejsil/zig-midi",
+    "description": "",
+    "topics": [
+      "midi",
+      "zig",
+      "zig-library",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "Hejsil",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3759175?v=4"
+    },
+    "stars": 30,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 3,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-02-24T01:45:35.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-08-17T09:04:10.000Z",
+    "updatedAt": "2024-11-20T03:54:43.000Z"
+  },
+  {
+    "id": "Himujjal/zig-json5",
+    "name": "Himujjal/zig-json5",
+    "description": "A JSON5 parser/stringifier for Zig resembling the std.json API",
+    "topics": [],
+    "owner": {
+      "name": "Himujjal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18563948?v=4"
+    },
+    "stars": 23,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 3,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2022-12-21T21:51:47.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-10-23T16:55:13.000Z",
+    "updatedAt": "2024-11-20T03:55:52.000Z"
+  },
+  {
+    "id": "InKryption/comath",
+    "name": "InKryption/comath",
+    "description": "",
+    "topics": [],
+    "owner": {
+      "name": "InKryption",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/59504965?v=4"
+    },
+    "stars": 54,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 2,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-11-10T20:38:43.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-07-16T23:45:18.000Z",
+    "updatedAt": "2024-11-20T03:56:01.000Z"
+  },
+  {
+    "id": "JakubSzark/zig-string",
+    "name": "JakubSzark/zig-string",
+    "description": "A String Library made for Zig",
+    "topics": [
+      "library",
+      "simple",
+      "string",
+      "utf-8",
+      "zig",
+      "zig-string"
+    ],
+    "owner": {
+      "name": "JakubSzark",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4969905?v=4"
+    },
+    "stars": 370,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 27,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-09-08T18:48:55.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-09-01T17:06:14.000Z",
+    "updatedAt": "2024-11-20T03:54:40.000Z"
+  },
+  {
+    "id": "Luukdegram/apple_pie",
+    "name": "Luukdegram/apple_pie",
+    "description": "Basic HTTP server implementation in Zig",
+    "topics": [
+      "http",
+      "http-server",
+      "server",
+      "zig",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "Luukdegram",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4252848?v=4"
+    },
+    "stars": 163,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 21,
+    "primaryLanguage": "AMPL",
+    "pushedAt": "2023-06-27T16:28:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-06-06T17:14:54.000Z",
+    "updatedAt": "2024-11-20T03:55:36.000Z"
+  },
+  {
+    "id": "MarioAriasC/zig-support",
+    "name": "MarioAriasC/zig-support",
+    "description": "Zig language support for JetBrains IDEs",
+    "topics": [
+      "idea-plugin",
+      "intellij",
+      "intellij-plugin",
+      "kotlin",
+      "zig"
+    ],
+    "owner": {
+      "name": "MarioAriasC",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4005377?v=4"
+    },
+    "stars": 79,
+    "starsDetail": null,
+    "license": "GNU General Public License v3.0",
+    "forks": 8,
+    "primaryLanguage": "Lex",
+    "pushedAt": "2023-12-08T01:39:12.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-10-03T00:12:42.000Z",
+    "updatedAt": "2024-11-20T03:55:03.000Z"
+  },
+  {
+    "id": "Nelarius/weekend-raytracer-zig",
+    "name": "Nelarius/weekend-raytracer-zig",
+    "description": "A Zig implementation of the \"Ray Tracing in One Weekend\" book",
+    "topics": [
+      "computer-graphics",
+      "ray-tracing-in-one-weekend",
+      "raytracing",
+      "zig"
+    ],
+    "owner": {
+      "name": "Nelarius",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3276684?v=4"
+    },
+    "stars": 92,
+    "starsDetail": null,
+    "license": null,
+    "forks": 9,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2022-07-11T13:28:59.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-05-21T06:12:37.000Z",
+    "updatedAt": "2024-11-20T03:55:22.000Z"
+  },
+  {
+    "id": "Sahnvour/zig-containers",
+    "name": "Sahnvour/zig-containers",
+    "description": "A container library for Zig.",
+    "topics": [
+      "containers",
+      "zig"
+    ],
+    "owner": {
+      "name": "Sahnvour",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1806407?v=4"
+    },
+    "stars": 12,
+    "starsDetail": null,
+    "license": null,
+    "forks": 0,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2021-05-12T18:22:53.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-04-16T20:57:56.000Z",
+    "updatedAt": "2024-11-20T03:54:39.000Z"
+  },
+  {
+    "id": "SasLuca/zig-nanoid",
+    "name": "SasLuca/zig-nanoid",
+    "description": "A tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.",
+    "topics": [
+      "id",
+      "nanoid",
+      "random",
+      "unique-id",
+      "unique-identifier",
+      "uniqueid",
+      "url",
+      "uuid",
+      "uuid-generator",
+      "zig",
+      "zig-package",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "SasLuca",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15983269?v=4"
+    },
+    "stars": 27,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 1,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2022-09-06T13:21:12.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-04-18T22:32:31.000Z",
+    "updatedAt": "2024-11-20T03:55:30.000Z"
+  },
+  {
+    "id": "Snektron/vulkan-zig",
+    "name": "Snektron/vulkan-zig",
+    "description": "Vulkan binding generator for Zig",
+    "topics": [],
+    "owner": {
+      "name": "Snektron",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5640649?v=4"
+    },
+    "stars": 515,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 58,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-10-16T07:46:36.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-10-15T10:34:44.000Z",
+    "updatedAt": "2024-11-20T03:55:20.000Z"
+  },
+  {
+    "id": "SpexGuy/Zig-Gltf-Display",
+    "name": "SpexGuy/Zig-Gltf-Display",
+    "description": "A program that displays glTF files using Vulkan, written in Zig.",
+    "topics": [],
+    "owner": {
+      "name": "SpexGuy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2281818?v=4"
+    },
+    "stars": 31,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 1,
+    "primaryLanguage": "C",
+    "pushedAt": "2024-03-22T08:50:01.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-03-04T20:34:39.000Z",
+    "updatedAt": "2024-11-20T03:55:23.000Z"
+  },
+  {
+    "id": "Srekel/zig-sparse-set",
+    "name": "Srekel/zig-sparse-set",
+    "description": "Sparse sets for zig, supporting both SOA and AOS style",
+    "topics": [
+      "public-domain",
+      "sparse-sets",
+      "zig"
+    ],
+    "owner": {
+      "name": "Srekel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1578924?v=4"
+    },
+    "stars": 66,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 2,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-06-15T16:45:56.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-11-15T21:18:21.000Z",
+    "updatedAt": "2024-11-20T03:54:39.000Z"
+  },
+  {
+    "id": "Stenodyon/blink",
+    "name": "Stenodyon/blink",
+    "description": "A game about building logic with lasers",
+    "topics": [],
+    "owner": {
+      "name": "Stenodyon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15184100?v=4"
+    },
+    "stars": 17,
+    "starsDetail": null,
+    "license": null,
+    "forks": 0,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2020-03-18T14:16:32.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-01-20T14:17:20.000Z",
+    "updatedAt": "2024-11-20T03:55:14.000Z"
+  },
+  {
+    "id": "TM35-Metronome/metronome",
+    "name": "TM35-Metronome/metronome",
+    "description": "A set of tools for modifying and randomizing Pokémon games",
+    "topics": [
+      "command-line-tool",
+      "pokemon",
+      "randomiser",
+      "zig"
+    ],
+    "owner": {
+      "name": "TM35-Metronome",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45124880?v=4"
+    },
+    "stars": 46,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 5,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2023-12-15T01:58:46.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-03-06T19:26:32.000Z",
+    "updatedAt": "2024-11-20T03:55:10.000Z"
+  },
+  {
+    "id": "TM35-Metronome/tm35-nds",
+    "name": "TM35-Metronome/tm35-nds",
+    "description": "A library for working with Nintendo DS roms",
+    "topics": [
+      "nintendo-ds",
+      "rom-hacking",
+      "romhacking",
+      "zig"
+    ],
+    "owner": {
+      "name": "TM35-Metronome",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45124880?v=4"
+    },
+    "stars": 10,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2019-08-09T15:05:11.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-11-19T07:41:55.000Z",
+    "updatedAt": "2024-11-20T03:55:11.000Z"
+  },
+  {
+    "id": "Tetralux/sublime-zig",
+    "name": "Tetralux/sublime-zig",
+    "description": "My own, more lightweight, syntax highlighting for the Zig Programming Language.",
+    "topics": [
+      "basic",
+      "highlighting",
+      "language",
+      "lightweight",
+      "programming",
+      "sublime",
+      "syntax",
+      "zig"
+    ],
+    "owner": {
+      "name": "Tetralux",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1348560?v=4"
+    },
+    "stars": 3,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 1,
+    "primaryLanguage": "",
+    "pushedAt": "2020-09-23T03:04:08.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-08-06T23:20:42.000Z",
+    "updatedAt": "2024-11-20T03:55:04.000Z"
+  },
+  {
+    "id": "Vexu/bog",
+    "name": "Vexu/bog",
+    "description": "Small, strongly typed, embeddable language.",
+    "topics": [
+      "compiler",
+      "programming-language",
+      "zig"
+    ],
+    "owner": {
+      "name": "Vexu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15308111?v=4"
+    },
+    "stars": 546,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 15,
+    "primaryLanguage": "C",
+    "pushedAt": "2023-07-26T12:24:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-01-20T20:04:53.000Z",
+    "updatedAt": "2024-11-20T03:54:54.000Z"
+  },
+  {
+    "id": "Vexu/routez",
+    "name": "Vexu/routez",
+    "description": "Http server for Zig",
+    "topics": [
+      "http",
+      "server",
+      "zig"
+    ],
+    "owner": {
+      "name": "Vexu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15308111?v=4"
+    },
+    "stars": 245,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 8,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2023-02-06T11:23:03.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-06-08T11:33:41.000Z",
+    "updatedAt": "2024-11-20T03:55:37.000Z"
+  },
+  {
+    "id": "Vexu/zuri",
+    "name": "Vexu/zuri",
+    "description": "URI parser for Zig",
+    "topics": [
+      "uri",
+      "zig"
+    ],
+    "owner": {
+      "name": "Vexu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15308111?v=4"
+    },
+    "stars": 45,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 5,
+    "primaryLanguage": "AMPL",
+    "pushedAt": "2022-12-19T09:56:08.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-06-03T18:03:11.000Z",
+    "updatedAt": "2024-11-20T03:55:58.000Z"
+  },
+  {
+    "id": "ZeeBoppityZagZiggity/ZBZZ.OS",
+    "name": "ZeeBoppityZagZiggity/ZBZZ.OS",
+    "description": "An operating system built with RISCV and Zig",
+    "topics": [],
+    "owner": {
+      "name": "ZeeBoppityZagZiggity",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/60005489?v=4"
+    },
+    "stars": 12,
+    "starsDetail": null,
+    "license": null,
+    "forks": 1,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2020-04-26T20:15:35.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-01-21T19:09:49.000Z",
+    "updatedAt": "2024-11-20T03:54:53.000Z"
+  },
+  {
+    "id": "aherrmann/rules_zig",
+    "name": "aherrmann/rules_zig",
+    "description": "Bazel build rules for Zig",
+    "topics": [],
+    "owner": {
+      "name": "aherrmann",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/732652?v=4"
+    },
+    "stars": 44,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 3,
+    "primaryLanguage": "C",
+    "pushedAt": "2024-11-17T16:42:21.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-01-10T07:38:13.000Z",
+    "updatedAt": "2024-11-20T03:55:49.000Z"
+  },
+  {
+    "id": "andrewrk/HellOS",
+    "name": "andrewrk/HellOS",
+    "description": "\"hello world\" x86 kernel example",
+    "topics": [
+      "operating-system",
+      "zig"
+    ],
+    "owner": {
+      "name": "andrewrk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/106511?v=4"
+    },
+    "stars": 273,
+    "starsDetail": null,
+    "license": null,
+    "forks": 36,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2023-01-20T21:39:13.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-10-26T19:29:35.000Z",
+    "updatedAt": "2024-11-20T03:54:46.000Z"
+  },
+  {
+    "id": "andrewrk/clashos",
+    "name": "andrewrk/clashos",
+    "description": "multiplayer arcade game for bare metal Raspberry Pi 3 B+",
+    "topics": [
+      "aarch64",
+      "kernel",
+      "raspberry-pi",
+      "zig"
+    ],
+    "owner": {
+      "name": "andrewrk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/106511?v=4"
+    },
+    "stars": 219,
+    "starsDetail": null,
+    "license": null,
+    "forks": 19,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2020-01-26T14:50:06.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-02-03T22:09:14.000Z",
+    "updatedAt": "2024-11-20T03:54:46.000Z"
+  },
+  {
+    "id": "andrewrk/libchromaprint",
+    "name": "andrewrk/libchromaprint",
+    "description": "chromaprint with the build system replaced by zig",
+    "topics": [],
+    "owner": {
+      "name": "andrewrk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/106511?v=4"
+    },
+    "stars": 5,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 2,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-02-25T06:51:46.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-01-16T23:12:05.000Z",
+    "updatedAt": "2024-11-20T03:56:08.000Z"
+  },
+  {
+    "id": "andrewrk/libgroove",
+    "name": "andrewrk/libgroove",
+    "description": "streaming audio processing library",
+    "topics": [],
+    "owner": {
+      "name": "andrewrk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/106511?v=4"
+    },
+    "stars": 293,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 35,
+    "primaryLanguage": "CMake",
+    "pushedAt": "2024-03-28T02:17:35.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-09-09T02:01:56.000Z",
+    "updatedAt": "2024-11-20T03:56:05.000Z"
+  },
+  {
+    "id": "andrewrk/libsoundio",
+    "name": "andrewrk/libsoundio",
+    "description": "C library for cross-platform real-time audio input and output",
+    "topics": [],
+    "owner": {
+      "name": "andrewrk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/106511?v=4"
+    },
+    "stars": 1950,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 230,
+    "primaryLanguage": "C++",
+    "pushedAt": "2024-06-10T03:47:29.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-06-30T21:14:56.000Z",
+    "updatedAt": "2024-11-19T12:20:40.000Z"
+  },
+  {
+    "id": "andrewrk/libz",
+    "name": "andrewrk/libz",
+    "description": "zlib with the build system replaced by zig",
+    "topics": [],
+    "owner": {
+      "name": "andrewrk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/106511?v=4"
+    },
+    "stars": 14,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 7,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-04-17T19:41:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-01-07T21:16:05.000Z",
+    "updatedAt": "2024-11-20T03:56:04.000Z"
+  },
+  {
+    "id": "andrewrk/lua-in-the-browser",
+    "name": "andrewrk/lua-in-the-browser",
+    "description": "using zig to build lua for webassembly",
+    "topics": [
+      "lua",
+      "webassembly",
+      "zig"
+    ],
+    "owner": {
+      "name": "andrewrk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/106511?v=4"
+    },
+    "stars": 32,
+    "starsDetail": null,
+    "license": null,
+    "forks": 3,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2019-05-16T23:56:53.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-05-16T23:54:19.000Z",
+    "updatedAt": "2024-11-20T03:55:40.000Z"
+  },
+  {
+    "id": "andrewrk/tetris",
+    "name": "andrewrk/tetris",
+    "description": "A simple tetris clone written in zig programming language.",
+    "topics": [
+      "game",
+      "zig"
+    ],
+    "owner": {
+      "name": "andrewrk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/106511?v=4"
+    },
+    "stars": 396,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 54,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-09-26T18:16:59.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-01-19T08:04:05.000Z",
+    "updatedAt": "2024-11-20T03:55:13.000Z"
+  },
+  {
+    "id": "andrewrk/zig-vulkan-triangle",
+    "name": "andrewrk/zig-vulkan-triangle",
+    "description": "simple triangle displayed using vulkan, xcb, and zig",
+    "topics": [
+      "vulkan",
+      "xcb",
+      "zig"
+    ],
+    "owner": {
+      "name": "andrewrk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/106511?v=4"
+    },
+    "stars": 116,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 15,
+    "primaryLanguage": "GLSL",
+    "pushedAt": "2024-09-09T00:40:01.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-08-09T23:26:46.000Z",
+    "updatedAt": "2024-11-20T03:55:20.000Z"
+  },
+  {
+    "id": "andy5995/zigdeck",
+    "name": "andy5995/zigdeck",
+    "description": "A library that creates and shuffles a deck of cards from which you can draw",
+    "topics": [
+      "cards",
+      "library",
+      "mit-license",
+      "simulation",
+      "zig",
+      "zig-library",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "andy5995",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16764864?v=4"
+    },
+    "stars": 3,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-10-24T01:42:26.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-03-11T08:10:46.000Z",
+    "updatedAt": "2024-11-20T03:55:12.000Z"
+  },
+  {
+    "id": "axgdev/telegram_echobot_zig",
+    "name": "axgdev/telegram_echobot_zig",
+    "description": "A bot in Telegram that repeats the text being sent, written in Zig ⚡",
+    "topics": [],
+    "owner": {
+      "name": "axgdev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10045901?v=4"
+    },
+    "stars": 5,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2022-02-15T21:18:12.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-02-11T23:35:39.000Z",
+    "updatedAt": "2024-11-20T03:55:38.000Z"
+  },
+  {
+    "id": "batiati/IUPforZig",
+    "name": "batiati/IUPforZig",
+    "description": "IUP (Portable User Interface Toolkit) bindings for the Zig language.",
+    "topics": [
+      "gui",
+      "iup",
+      "iup-gui-library",
+      "iup-toolkit",
+      "multiplatform",
+      "zig",
+      "zig-package",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "batiati",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5728002?v=4"
+    },
+    "stars": 116,
+    "starsDetail": null,
+    "license": "The Unlicense",
+    "forks": 4,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-01-12T21:15:21.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-06-19T23:19:14.000Z",
+    "updatedAt": "2024-11-20T03:55:19.000Z"
+  },
+  {
+    "id": "batiati/mustache-zig",
+    "name": "batiati/mustache-zig",
+    "description": "Logic-less templates for Zig",
+    "topics": [
+      "mustache",
+      "mustache-templating",
+      "zig-package",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "batiati",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5728002?v=4"
+    },
+    "stars": 120,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 20,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-10-11T12:35:07.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-02-15T12:52:35.000Z",
+    "updatedAt": "2024-11-20T03:55:44.000Z"
+  },
+  {
+    "id": "belse-de/zig-tut",
+    "name": "belse-de/zig-tut",
+    "description": "A collection of small projects and tutorials to learn ZIG; may it be inspiration for others as well.",
+    "topics": [],
+    "owner": {
+      "name": "belse-de",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16528094?v=4"
+    },
+    "stars": 18,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Brainfuck",
+    "pushedAt": "2024-02-25T22:51:53.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-08-15T19:23:55.000Z",
+    "updatedAt": "2024-11-20T03:56:01.000Z"
+  },
+  {
+    "id": "bfactory-ai/zignal",
+    "name": "bfactory-ai/zignal",
+    "description": "Image processing library",
+    "topics": [
+      "image-processing",
+      "webassembly",
+      "zig",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "bfactory-ai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125416817?v=4"
+    },
+    "stars": 68,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 3,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-11-09T14:12:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-04-13T06:47:14.000Z",
+    "updatedAt": "2024-11-20T03:55:28.000Z"
+  },
+  {
+    "id": "capy-ui/capy",
+    "name": "capy-ui/capy",
+    "description": "💻Build one codebase and get native UI on Windows, Linux and Web",
+    "topics": [
+      "cross-platform",
+      "cross-platform-gui",
+      "gui",
+      "gui-library",
+      "linux",
+      "ui",
+      "user-interface",
+      "windows",
+      "zig",
+      "zig-package",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "capy-ui",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/110254452?v=4"
+    },
+    "stars": 1721,
+    "starsDetail": null,
+    "license": "Mozilla Public License 2.0",
+    "forks": 64,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-11-11T12:53:43.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-03-24T11:36:16.000Z",
+    "updatedAt": "2024-11-20T03:55:16.000Z"
+  },
+  {
+    "id": "cheetah/asdf-zig",
+    "name": "cheetah/asdf-zig",
+    "description": "zig plugin for asdf version manager https://github.com/asdf-vm/asdf",
+    "topics": [],
+    "owner": {
+      "name": "cheetah",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/69730?v=4"
+    },
+    "stars": 29,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 5,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-06-25T07:02:47.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-09-20T13:59:53.000Z",
+    "updatedAt": "2024-11-20T03:55:50.000Z"
+  },
+  {
+    "id": "chivay/vmt",
+    "name": "chivay/vmt",
+    "description": "Toy OS written in Zig",
+    "topics": [
+      "kernel",
+      "osdev",
+      "zig"
+    ],
+    "owner": {
+      "name": "chivay",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14790226?v=4"
+    },
+    "stars": 10,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-06-18T23:25:48.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-07-26T19:23:28.000Z",
+    "updatedAt": "2024-11-20T03:54:46.000Z"
+  },
+  {
+    "id": "cshenton/learnopengl",
+    "name": "cshenton/learnopengl",
+    "description": "https://learnopengl.com tutorials ported to zig",
+    "topics": [],
+    "owner": {
+      "name": "cshenton",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14693516?v=4"
+    },
+    "stars": 142,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 13,
+    "primaryLanguage": "GLSL",
+    "pushedAt": "2021-05-28T18:40:53.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-01-01T23:22:35.000Z",
+    "updatedAt": "2024-11-20T03:55:21.000Z"
+  },
+  {
+    "id": "dantecatalfamo/9p-zig",
+    "name": "dantecatalfamo/9p-zig",
+    "description": "9P2000 protocol implemented in zig",
+    "topics": [
+      "9p",
+      "9p2000",
+      "filesystem",
+      "plan9",
+      "protocol",
+      "zig",
+      "zig-library",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "dantecatalfamo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43040593?v=4"
+    },
+    "stars": 4,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2023-04-06T01:47:47.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-03-13T05:37:27.000Z",
+    "updatedAt": "2024-11-20T03:55:31.000Z"
+  },
+  {
+    "id": "dantecatalfamo/OpenCSE",
+    "name": "dantecatalfamo/OpenCSE",
+    "description": "Free implementation of the Can't Stop Express dice game.",
+    "topics": [
+      "dice",
+      "game",
+      "zig"
+    ],
+    "owner": {
+      "name": "dantecatalfamo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43040593?v=4"
+    },
+    "stars": 1,
+    "starsDetail": null,
+    "license": "GNU General Public License v3.0",
+    "forks": 0,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-04-14T20:43:26.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-08-18T06:20:32.000Z",
+    "updatedAt": "2024-11-20T03:55:15.000Z"
+  },
+  {
+    "id": "dantecatalfamo/brainfuck-zig",
+    "name": "dantecatalfamo/brainfuck-zig",
+    "description": "Brainfuck interpreter written in zig",
+    "topics": [
+      "brainfuck",
+      "brainfuck-interpreter",
+      "zig"
+    ],
+    "owner": {
+      "name": "dantecatalfamo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43040593?v=4"
+    },
+    "stars": 9,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 1,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2023-12-03T20:11:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-11-27T02:51:06.000Z",
+    "updatedAt": "2024-11-20T03:54:56.000Z"
+  },
+  {
+    "id": "dantecatalfamo/mruby-zig",
+    "name": "dantecatalfamo/mruby-zig",
+    "description": "mruby bindings for zig",
+    "topics": [
+      "bindings",
+      "mruby",
+      "ruby",
+      "zig",
+      "zig-library"
+    ],
+    "owner": {
+      "name": "dantecatalfamo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43040593?v=4"
+    },
+    "stars": 33,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 7,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2023-06-20T23:13:07.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-02-22T22:30:35.000Z",
+    "updatedAt": "2024-11-20T03:54:56.000Z"
+  },
+  {
+    "id": "dantecatalfamo/sndio-zig",
+    "name": "dantecatalfamo/sndio-zig",
+    "description": "sndio bindings for zig",
+    "topics": [
+      "bindings",
+      "freebsd",
+      "linux",
+      "openbsd",
+      "sndio",
+      "zig"
+    ],
+    "owner": {
+      "name": "dantecatalfamo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43040593?v=4"
+    },
+    "stars": 1,
+    "starsDetail": null,
+    "license": null,
+    "forks": 0,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2022-08-14T19:01:23.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-01-28T22:10:16.000Z",
+    "updatedAt": "2024-11-20T03:54:44.000Z"
+  },
+  {
+    "id": "dantecatalfamo/wren-zig",
+    "name": "dantecatalfamo/wren-zig",
+    "description": "wren bindings for zig",
+    "topics": [
+      "bindings",
+      "wren",
+      "wren-bindings",
+      "zig",
+      "zig-library"
+    ],
+    "owner": {
+      "name": "dantecatalfamo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43040593?v=4"
+    },
+    "stars": 26,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 2,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2022-11-09T04:41:30.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-04-08T23:38:35.000Z",
+    "updatedAt": "2024-11-20T03:54:57.000Z"
+  },
+  {
+    "id": "dantecatalfamo/zig-dns",
+    "name": "dantecatalfamo/zig-dns",
+    "description": "Experimental DNS library implemented in zig",
+    "topics": [
+      "dns",
+      "dns-library",
+      "zig",
+      "zig-library"
+    ],
+    "owner": {
+      "name": "dantecatalfamo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43040593?v=4"
+    },
+    "stars": 57,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 4,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-03-15T23:00:01.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-10-31T02:21:03.000Z",
+    "updatedAt": "2024-11-20T03:55:33.000Z"
+  },
+  {
+    "id": "dbandstra/oxid",
+    "name": "dbandstra/oxid",
+    "description": "",
+    "topics": [],
+    "owner": {
+      "name": "dbandstra",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/141589488?v=4"
+    },
+    "stars": 4,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 2,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-11-10T05:39:57.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-05-26T20:49:12.000Z",
+    "updatedAt": "2024-11-20T03:55:16.000Z"
+  },
+  {
+    "id": "dbandstra/zig-hunk",
+    "name": "dbandstra/zig-hunk",
+    "description": "",
+    "topics": [],
+    "owner": {
+      "name": "dbandstra",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/141589488?v=4"
+    },
+    "stars": 0,
+    "starsDetail": null,
+    "license": null,
+    "forks": 0,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-11-09T20:15:21.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-05-26T20:37:51.000Z",
+    "updatedAt": "2024-11-20T03:54:43.000Z"
+  },
+  {
+    "id": "dbandstra/zig-pcx",
+    "name": "dbandstra/zig-pcx",
+    "description": "",
+    "topics": [],
+    "owner": {
+      "name": "dbandstra",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/141589488?v=4"
+    },
+    "stars": 0,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-11-09T20:12:05.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-05-26T20:32:13.000Z",
+    "updatedAt": "2024-11-20T03:55:29.000Z"
+  },
+  {
+    "id": "dbandstra/zig-wav",
+    "name": "dbandstra/zig-wav",
+    "description": "",
+    "topics": [],
+    "owner": {
+      "name": "dbandstra",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/141589488?v=4"
+    },
+    "stars": 1,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-10-03T04:57:33.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-05-26T20:34:22.000Z",
+    "updatedAt": "2024-11-20T03:54:45.000Z"
+  },
+  {
+    "id": "donpdonp/zootdeck",
+    "name": "donpdonp/zootdeck",
+    "description": "Fediverse GTK Desktop Reader",
+    "topics": [
+      "fediverse",
+      "mastodon",
+      "zig"
+    ],
+    "owner": {
+      "name": "donpdonp",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13176?v=4"
+    },
+    "stars": 41,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 1,
+    "primaryLanguage": "C",
+    "pushedAt": "2024-07-13T13:59:07.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-05-29T22:46:41.000Z",
+    "updatedAt": "2024-11-20T03:55:24.000Z"
+  },
+  {
+    "id": "ducdetronquito/h11",
+    "name": "ducdetronquito/h11",
+    "description": "I/O agnostic HTTP/1.1 implementation for Zig 🦎",
+    "topics": [
+      "http",
+      "io-free",
+      "parser",
+      "zig"
+    ],
+    "owner": {
+      "name": "ducdetronquito",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9960268?v=4"
+    },
+    "stars": 102,
+    "starsDetail": null,
+    "license": "BSD Zero Clause License",
+    "forks": 8,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2023-01-11T12:27:00.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-03-28T12:22:04.000Z",
+    "updatedAt": "2024-11-20T03:55:36.000Z"
+  },
+  {
+    "id": "ducdetronquito/requestz",
+    "name": "ducdetronquito/requestz",
+    "description": "HTTP client for Zig 🦎",
+    "topics": [
+      "http",
+      "zig"
+    ],
+    "owner": {
+      "name": "ducdetronquito",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9960268?v=4"
+    },
+    "stars": 116,
+    "starsDetail": null,
+    "license": "BSD Zero Clause License",
+    "forks": 12,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2023-01-11T12:29:42.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-07-07T11:37:34.000Z",
+    "updatedAt": "2024-11-20T03:55:36.000Z"
+  },
+  {
+    "id": "emekoi/deque.zig",
+    "name": "emekoi/deque.zig",
+    "description": "a lock free chase-lev deque for zig",
+    "topics": [
+      "concurrent",
+      "deque",
+      "lock-free",
+      "zig"
+    ],
+    "owner": {
+      "name": "emekoi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9454576?v=4"
+    },
+    "stars": 16,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 1,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2020-04-14T00:49:45.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-12-24T05:14:32.000Z",
+    "updatedAt": "2024-11-20T03:54:37.000Z"
+  },
+  {
+    "id": "emekoi/log.zig",
+    "name": "emekoi/log.zig",
+    "description": "a thread-safe logging library for zig.",
+    "topics": [],
+    "owner": {
+      "name": "emekoi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9454576?v=4"
+    },
+    "stars": 23,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 3,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2020-05-07T20:20:15.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-11-04T01:40:44.000Z",
+    "updatedAt": "2024-11-20T03:55:27.000Z"
+  },
+  {
+    "id": "euantorano/ip.zig",
+    "name": "euantorano/ip.zig",
+    "description": "A Zig library for working with IP Addresses",
+    "topics": [
+      "ip-address",
+      "zig",
+      "zig-library"
+    ],
+    "owner": {
+      "name": "euantorano",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/748913?v=4"
+    },
+    "stars": 14,
+    "starsDetail": null,
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 1,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2019-10-31T09:43:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-04-26T17:44:51.000Z",
+    "updatedAt": "2024-11-20T03:55:34.000Z"
+  },
+  {
+    "id": "fabioarnold/snake-zig",
+    "name": "fabioarnold/snake-zig",
+    "description": "",
+    "topics": [],
+    "owner": {
+      "name": "fabioarnold",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/473672?v=4"
+    },
+    "stars": 18,
+    "starsDetail": null,
+    "license": null,
+    "forks": 3,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2023-10-22T20:30:28.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-07-30T06:01:16.000Z",
+    "updatedAt": "2024-11-20T03:55:13.000Z"
+  },
+  {
+    "id": "fengb/fundude",
+    "name": "fengb/fundude",
+    "description": "Gameboy emulator: Zig -> wasm",
+    "topics": [
+      "gameboy-emulator",
+      "wasm",
+      "zig"
+    ],
+    "owner": {
+      "name": "fengb",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/219422?v=4"
+    },
+    "stars": 181,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 8,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2021-11-07T05:29:47.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-03-20T23:23:56.000Z",
+    "updatedAt": "2024-11-20T03:55:06.000Z"
+  },
+  {
+    "id": "fengb/zee_alloc",
+    "name": "fengb/zee_alloc",
+    "description": "tiny Zig allocator primarily targeting WebAssembly",
+    "topics": [
+      "memory-allocation",
+      "tiny",
+      "wasm",
+      "zig"
+    ],
+    "owner": {
+      "name": "fengb",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/219422?v=4"
+    },
+    "stars": 82,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 6,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2021-06-05T13:18:07.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-05-21T14:23:17.000Z",
+    "updatedAt": "2024-11-20T03:54:41.000Z"
+  },
+  {
+    "id": "floooh/kc85.zig",
+    "name": "floooh/kc85.zig",
+    "description": "A KC85 emulator written in Zig",
+    "topics": [
+      "sokol",
+      "zig"
+    ],
+    "owner": {
+      "name": "floooh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1699414?v=4"
+    },
+    "stars": 53,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 4,
+    "primaryLanguage": "GLSL",
+    "pushedAt": "2024-08-10T13:19:47.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-07-02T17:55:53.000Z",
+    "updatedAt": "2024-11-20T03:55:08.000Z"
+  },
+  {
+    "id": "floooh/pacman.zig",
+    "name": "floooh/pacman.zig",
+    "description": "Simple Pacman clone written in Zig.",
+    "topics": [],
+    "owner": {
+      "name": "floooh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1699414?v=4"
+    },
+    "stars": 241,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 14,
+    "primaryLanguage": "GLSL",
+    "pushedAt": "2024-11-08T15:50:21.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-12-23T18:14:08.000Z",
+    "updatedAt": "2024-11-20T03:55:15.000Z"
+  },
+  {
+    "id": "floooh/sokol",
+    "name": "floooh/sokol",
+    "description": "minimal cross-platform standalone C headers",
+    "topics": [],
+    "owner": {
+      "name": "floooh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1699414?v=4"
+    },
+    "stars": 7089,
+    "starsDetail": null,
+    "license": "zlib License",
+    "forks": 500,
+    "primaryLanguage": "Batchfile",
+    "pushedAt": "2024-11-19T17:54:38.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-07-14T08:38:25.000Z",
+    "updatedAt": "2024-11-20T03:55:10.000Z"
+  },
+  {
+    "id": "floooh/sokol-zig",
+    "name": "floooh/sokol-zig",
+    "description": "Zig bindings for the sokol headers (https://github.com/floooh/sokol)",
+    "topics": [
+      "crossplatform",
+      "sokol",
+      "zig",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "floooh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1699414?v=4"
+    },
+    "stars": 374,
+    "starsDetail": null,
+    "license": "zlib License",
+    "forks": 48,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-11-19T18:01:56.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-05-31T17:10:41.000Z",
+    "updatedAt": "2024-11-20T03:55:09.000Z"
+  },
+  {
+    "id": "floscodes/zerve",
+    "name": "floscodes/zerve",
+    "description": "A simple framework for writing web services in zig.",
+    "topics": [
+      "framework",
+      "http-server",
+      "server",
+      "server-side",
+      "web"
+    ],
+    "owner": {
+      "name": "floscodes",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/69145145?v=4"
+    },
+    "stars": 49,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 3,
+    "primaryLanguage": "AMPL",
+    "pushedAt": "2024-06-12T04:47:06.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-04-11T17:09:06.000Z",
+    "updatedAt": "2024-11-20T03:55:45.000Z"
+  },
+  {
+    "id": "frmdstryr/zhp",
+    "name": "frmdstryr/zhp",
+    "description": "A Http server written in Zig",
+    "topics": [
+      "http",
+      "zig"
+    ],
+    "owner": {
+      "name": "frmdstryr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/380158?v=4"
+    },
+    "stars": 355,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 24,
+    "primaryLanguage": "AMPL",
+    "pushedAt": "2022-06-02T15:23:08.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-12-03T21:11:48.000Z",
+    "updatedAt": "2024-11-20T03:55:38.000Z"
+  },
+  {
+    "id": "fubark/cosmic",
+    "name": "fubark/cosmic",
+    "description": "A platform for computing and creating applications.",
+    "topics": [
+      "3d",
+      "graphics",
+      "opengl",
+      "ui",
+      "vulkan",
+      "wasm",
+      "zig"
+    ],
+    "owner": {
+      "name": "fubark",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/94020660?v=4"
+    },
+    "stars": 341,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 16,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2023-03-20T20:00:51.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-11-09T22:41:16.000Z",
+    "updatedAt": "2024-11-20T03:55:18.000Z"
+  },
+  {
+    "id": "fubark/cyber",
+    "name": "fubark/cyber",
+    "description": "Fast and concurrent scripting.",
+    "topics": [
+      "apps",
+      "embedded",
+      "gamedev",
+      "scripting",
+      "virtual-machine",
+      "wasm",
+      "web"
+    ],
+    "owner": {
+      "name": "fubark",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/94020660?v=4"
+    },
+    "stars": 1224,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 44,
+    "primaryLanguage": "Raku",
+    "pushedAt": "2024-09-02T15:38:40.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-10-31T20:15:21.000Z",
+    "updatedAt": "2024-11-20T03:54:57.000Z"
+  },
+  {
+    "id": "gernest/base32",
+    "name": "gernest/base32",
+    "description": "base32 encoding/decoding for ziglang",
+    "topics": [
+      "base32",
+      "base32hex",
+      "zig",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "gernest",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6039952?v=4"
+    },
+    "stars": 11,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 5,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-08-22T23:18:24.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-10-12T07:26:58.000Z",
+    "updatedAt": "2024-11-20T03:56:00.000Z"
+  },
+  {
+    "id": "ggerganov/llama.cpp",
+    "name": "ggerganov/llama.cpp",
+    "description": "LLM inference in C/C++",
+    "topics": [
+      "ggml",
+      "llama"
+    ],
+    "owner": {
+      "name": "ggerganov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1991296?v=4"
+    },
+    "stars": 68072,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 9760,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-11-19T23:39:34.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-03-10T18:58:00.000Z",
+    "updatedAt": "2024-11-20T03:56:15.000Z"
+  },
+  {
+    "id": "goto-bus-stop/ziguid",
+    "name": "goto-bus-stop/ziguid",
+    "description": "GUID parsing/stringifying with zig",
+    "topics": [
+      "guid",
+      "zig"
+    ],
+    "owner": {
+      "name": "goto-bus-stop",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1006268?v=4"
+    },
+    "stars": 7,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 0,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2023-06-25T16:04:06.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-06-25T11:59:15.000Z",
+    "updatedAt": "2024-11-20T03:55:54.000Z"
+  },
+  {
+    "id": "hazeycode/zig-alsa",
+    "name": "hazeycode/zig-alsa",
+    "description": "ALSA (libasound) bindings for Zig",
+    "topics": [],
+    "owner": {
+      "name": "hazeycode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22148308?v=4"
+    },
+    "stars": 1,
+    "starsDetail": null,
+    "license": "BSD Zero Clause License",
+    "forks": 0,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2022-04-10T18:39:04.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-02-19T03:22:37.000Z",
+    "updatedAt": "2024-11-20T03:54:44.000Z"
+  },
+  {
+    "id": "hexops/mach",
+    "name": "hexops/mach",
+    "description": "zig game engine & graphics toolkit",
+    "topics": [
+      "2d",
+      "3d",
+      "composable",
+      "cross-platform",
+      "ecs",
+      "entity-component-system",
+      "game-development",
+      "game-engine",
+      "gamedev",
+      "graphics",
+      "gui",
+      "open-source",
+      "steam-deck",
+      "webassembly",
+      "webgpu",
+      "zig",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "hexops",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19482899?v=4"
+    },
+    "stars": 3379,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 160,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-11-18T04:07:12.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-07-04T17:37:47.000Z",
+    "updatedAt": "2024-11-20T03:55:08.000Z"
+  },
+  {
+    "id": "hspak/brightnessztl",
+    "name": "hspak/brightnessztl",
+    "description": "A CLI to control device backlight",
+    "topics": [
+      "brightnessctl",
+      "brightnessztl"
+    ],
+    "owner": {
+      "name": "hspak",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/841216?v=4"
+    },
+    "stars": 8,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 2,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-07-26T16:45:49.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-08-25T03:43:52.000Z",
+    "updatedAt": "2024-11-20T03:55:45.000Z"
+  },
+  {
+    "id": "hspak/geteltorito-zig",
+    "name": "hspak/geteltorito-zig",
+    "description": "geteltorito re-write in Zig",
+    "topics": [
+      "eltorito",
+      "geteltorito"
+    ],
+    "owner": {
+      "name": "hspak",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/841216?v=4"
+    },
+    "stars": 7,
+    "starsDetail": null,
+    "license": "GNU General Public License v2.0",
+    "forks": 1,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-06-08T23:37:42.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-08-04T23:07:49.000Z",
+    "updatedAt": "2024-11-20T03:56:15.000Z"
+  },
+  {
+    "id": "iddev5/inon",
+    "name": "iddev5/inon",
+    "description": ":floppy_disk: Data serialization format in Zig",
+    "topics": [
+      "data-format",
+      "serialization",
+      "zig",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "iddev5",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54106488?v=4"
+    },
+    "stars": 10,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-05-24T06:42:47.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-08-03T17:38:22.000Z",
+    "updatedAt": "2024-11-20T03:56:00.000Z"
+  },
+  {
+    "id": "iguessthislldo/georgios",
+    "name": "iguessthislldo/georgios",
+    "description": "Hobby Operating System",
+    "topics": [
+      "hobby-os",
+      "kernel",
+      "operating-system",
+      "osdev",
+      "unix",
+      "x86",
+      "x86-32",
+      "zig",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "iguessthislldo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5941194?v=4"
+    },
+    "stars": 48,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 6,
+    "primaryLanguage": "Common Lisp",
+    "pushedAt": "2023-03-10T23:47:19.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-12-04T03:49:38.000Z",
+    "updatedAt": "2024-11-20T03:54:47.000Z"
+  },
+  {
+    "id": "isaachier/ztags",
+    "name": "isaachier/ztags",
+    "description": "ctags implementation for Zig written in Zig",
+    "topics": [],
+    "owner": {
+      "name": "isaachier",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2578297?v=4"
+    },
+    "stars": 17,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 8,
+    "primaryLanguage": "",
+    "pushedAt": "2021-02-06T01:48:00.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-06-13T20:25:28.000Z",
+    "updatedAt": "2024-11-20T03:55:03.000Z"
+  },
+  {
+    "id": "jmcnamara/libxlsxwriter",
+    "name": "jmcnamara/libxlsxwriter",
+    "description": "A C library for creating Excel XLSX files.",
+    "topics": [
+      "c",
+      "libxlsxwriter",
+      "spreadsheet",
+      "xlsx",
+      "xlsx-files",
+      "xlsxwriter"
+    ],
+    "owner": {
+      "name": "jmcnamara",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/94267?v=4"
+    },
+    "stars": 1521,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 333,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-11-13T18:05:21.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-06-08T16:36:03.000Z",
+    "updatedAt": "2024-11-19T12:24:52.000Z"
+  },
+  {
+    "id": "jzck/kernel-zig",
+    "name": "jzck/kernel-zig",
+    "description": ":floppy_disk: hobby x86 kernel zig",
+    "topics": [
+      "kernel",
+      "x86",
+      "zig"
+    ],
+    "owner": {
+      "name": "jzck",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13424259?v=4"
+    },
+    "stars": 429,
+    "starsDetail": null,
+    "license": null,
+    "forks": 15,
+    "primaryLanguage": "GDB",
+    "pushedAt": "2023-08-21T22:29:23.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-05-10T23:12:21.000Z",
+    "updatedAt": "2024-11-20T03:54:48.000Z"
+  },
+  {
+    "id": "karlseguin/cache.zig",
+    "name": "karlseguin/cache.zig",
+    "description": "A thread-safe, expiration-aware, LRU cache for Zig",
+    "topics": [
+      "cache",
+      "caching-library",
+      "lru-cache",
+      "zig",
+      "zig-library",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "karlseguin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/206480?v=4"
+    },
+    "stars": 42,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 1,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-05-21T13:50:02.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-05-28T10:55:45.000Z",
+    "updatedAt": "2024-11-20T03:54:41.000Z"
+  },
+  {
+    "id": "karlseguin/http.zig",
+    "name": "karlseguin/http.zig",
+    "description": "An HTTP/1.1 server for zig",
+    "topics": [
+      "http-server",
+      "zig",
+      "zig-library",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "karlseguin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/206480?v=4"
+    },
+    "stars": 597,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 43,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-11-11T01:18:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-03-13T08:51:53.000Z",
+    "updatedAt": "2024-11-20T03:55:39.000Z"
+  },
+  {
+    "id": "karlseguin/log.zig",
+    "name": "karlseguin/log.zig",
+    "description": "A structured logger for Zig",
+    "topics": [
+      "logging-library",
+      "structured-logging",
+      "zig",
+      "zig-library",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "karlseguin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/206480?v=4"
+    },
+    "stars": 100,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 8,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-10-01T01:47:10.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-03-22T07:49:50.000Z",
+    "updatedAt": "2024-11-20T03:55:31.000Z"
+  },
+  {
+    "id": "karlseguin/pg.zig",
+    "name": "karlseguin/pg.zig",
+    "description": "Native PostgreSQL driver / client for Zig",
+    "topics": [
+      "postgresql-client",
+      "zig",
+      "zig-library",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "karlseguin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/206480?v=4"
+    },
+    "stars": 251,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 18,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-11-06T02:00:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-10-26T02:13:32.000Z",
+    "updatedAt": "2024-11-20T03:55:03.000Z"
+  },
+  {
+    "id": "karlseguin/singleflight.zig",
+    "name": "karlseguin/singleflight.zig",
+    "description": "Duplicate function call suppression for Zig",
+    "topics": [
+      "zig",
+      "zig-library"
+    ],
+    "owner": {
+      "name": "karlseguin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/206480?v=4"
+    },
+    "stars": 3,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 1,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-06-26T01:28:53.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-06-03T10:20:06.000Z",
+    "updatedAt": "2024-11-20T03:55:32.000Z"
+  },
+  {
+    "id": "karlseguin/websocket.zig",
+    "name": "karlseguin/websocket.zig",
+    "description": "A websocket implementation for zig",
+    "topics": [
+      "websocket",
+      "zig",
+      "zig-library",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "karlseguin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/206480?v=4"
+    },
+    "stars": 306,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 29,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-11-10T01:20:01.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-05-28T14:35:01.000Z",
+    "updatedAt": "2024-11-20T03:55:41.000Z"
+  },
+  {
+    "id": "karlseguin/zuckdb.zig",
+    "name": "karlseguin/zuckdb.zig",
+    "description": "A DuckDB driver for Zig",
+    "topics": [
+      "duckdb",
+      "duckdb-driver",
+      "zig",
+      "zig-library",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "karlseguin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/206480?v=4"
+    },
+    "stars": 93,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 3,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-10-28T01:39:27.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-05-08T09:53:52.000Z",
+    "updatedAt": "2024-11-20T03:55:02.000Z"
+  },
+  {
+    "id": "kassane/Standalone-Server",
+    "name": "kassane/Standalone-Server",
+    "description": "Asio standalone C++ HTTP/S Server (uses zig build-system)",
+    "topics": [
+      "cpp",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "kassane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
+    },
+    "stars": 3,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-06-28T13:24:30.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-05-25T12:42:07.000Z",
+    "updatedAt": "2024-11-20T03:56:14.000Z"
+  },
+  {
+    "id": "kassane/asio",
+    "name": "kassane/asio",
+    "description": "Asio C++ Library (uses zig build-system)",
+    "topics": [
+      "asio",
+      "asio-library",
+      "asynchronous",
+      "cpp",
+      "cpp-library",
+      "networking",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "kassane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
+    },
+    "stars": 7,
+    "starsDetail": null,
+    "license": "Boost Software License 1.0",
+    "forks": 2,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-10-30T12:58:55.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-03-01T19:22:37.000Z",
+    "updatedAt": "2024-11-20T03:56:09.000Z"
+  },
+  {
+    "id": "kassane/beast",
+    "name": "kassane/beast",
+    "description": "HTTP and WebSocket built on Boost.Asio in C++11 (uses zig build)",
+    "topics": [
+      "asio",
+      "boost-library",
+      "cplusplus",
+      "cpp",
+      "network-library",
+      "websockets",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "kassane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
+    },
+    "stars": 1,
+    "starsDetail": null,
+    "license": "Boost Software License 1.0",
+    "forks": 0,
+    "primaryLanguage": "Batchfile",
+    "pushedAt": "2024-07-16T19:09:32.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-04-20T13:21:08.000Z",
+    "updatedAt": "2024-11-20T03:56:10.000Z"
+  },
+  {
+    "id": "kassane/context",
+    "name": "kassane/context",
+    "description": "`boost.context` library using zig build",
+    "topics": [
+      "boost",
+      "boost-libraries",
+      "cpp-library",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "kassane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
+    },
+    "stars": 0,
+    "starsDetail": null,
+    "license": null,
+    "forks": 0,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-06-26T13:09:25.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-06-18T17:26:42.000Z",
+    "updatedAt": "2024-11-20T03:56:09.000Z"
+  },
+  {
+    "id": "kassane/fiber",
+    "name": "kassane/fiber",
+    "description": "userland threads uses zig build",
+    "topics": [
+      "boost",
+      "boost-library",
+      "cplusplus",
+      "cpp",
+      "fibers",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "kassane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
+    },
+    "stars": 1,
+    "starsDetail": null,
+    "license": null,
+    "forks": 0,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-09-04T12:58:13.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-06-19T16:54:23.000Z",
+    "updatedAt": "2024-11-20T03:56:10.000Z"
+  },
+  {
+    "id": "kassane/fmt",
+    "name": "kassane/fmt",
+    "description": "A modern formatting library (uses zig build-system)",
+    "topics": [
+      "cpp-library",
+      "fmtlib",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "kassane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
+    },
+    "stars": 0,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 0,
+    "primaryLanguage": "C",
+    "pushedAt": "2024-09-28T20:16:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-04-22T12:47:35.000Z",
+    "updatedAt": "2024-11-20T03:56:09.000Z"
+  },
+  {
+    "id": "kassane/hana",
+    "name": "kassane/hana",
+    "description": "Your standard library for metaprogramming (uses zig build-system)",
+    "topics": [
+      "boost-hana",
+      "cpp-library",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "kassane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
+    },
+    "stars": 1,
+    "starsDetail": null,
+    "license": "Boost Software License 1.0",
+    "forks": 0,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2024-08-04T20:29:08.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-05-11T13:22:00.000Z",
+    "updatedAt": "2024-11-20T03:56:11.000Z"
+  },
+  {
+    "id": "kassane/intrusive",
+    "name": "kassane/intrusive",
+    "description": "Boost.org intrusive module (uses zig build)",
+    "topics": [
+      "boost-libraries",
+      "cplusplus",
+      "cpp",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "kassane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
+    },
+    "stars": 0,
+    "starsDetail": null,
+    "license": null,
+    "forks": 0,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2023-06-19T17:58:20.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-06-02T13:53:04.000Z",
+    "updatedAt": "2024-11-20T03:56:11.000Z"
+  },
+  {
+    "id": "kassane/json",
+    "name": "kassane/json",
+    "description": "JSON for Modern C++ (uses zig build-system)",
+    "topics": [
+      "cpp-library",
+      "json-cpp",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "kassane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
+    },
+    "stars": 1,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Cuda",
+    "pushedAt": "2024-08-04T20:32:56.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-05-09T18:41:07.000Z",
+    "updatedAt": "2024-11-20T03:56:13.000Z"
+  },
+  {
+    "id": "kassane/lean4-zig",
+    "name": "kassane/lean4-zig",
+    "description": "Zig bindings for Lean4",
+    "topics": [
+      "ffi-bindings",
+      "lean",
+      "lean-language",
+      "lean4",
+      "zig",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "kassane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
+    },
+    "stars": 8,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 1,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-01-18T17:16:20.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-08-28T14:59:12.000Z",
+    "updatedAt": "2024-11-20T03:55:32.000Z"
+  },
+  {
+    "id": "kassane/libbpf",
+    "name": "kassane/libbpf",
+    "description": "Automated upstream mirror for libbpf stand-alone build.",
+    "topics": [
+      "bpf",
+      "libbpf",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "kassane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
+    },
+    "stars": 2,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 0,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-04-19T18:38:58.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-04-27T16:56:42.000Z",
+    "updatedAt": "2024-11-20T03:56:06.000Z"
+  },
+  {
+    "id": "kassane/libsigcplusplus",
+    "name": "kassane/libsigcplusplus",
+    "description": "libsigc++ implements a typesafe callback system for standard C++. (uses zig build)",
+    "topics": [
+      "cplusplus",
+      "cpp",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "kassane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
+    },
+    "stars": 0,
+    "starsDetail": null,
+    "license": "GNU Lesser General Public License v3.0",
+    "forks": 0,
+    "primaryLanguage": "Batchfile",
+    "pushedAt": "2023-09-11T14:30:28.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-07-04T18:25:39.000Z",
+    "updatedAt": "2024-11-20T03:56:15.000Z"
+  },
+  {
+    "id": "kassane/libvlc-zig",
+    "name": "kassane/libvlc-zig",
+    "description": "Zig bindings for libVLC media framework.",
+    "topics": [
+      "bindings",
+      "libvlc",
+      "libvlc-zig",
+      "zig",
+      "zig-library",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "kassane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
+    },
+    "stars": 17,
+    "starsDetail": null,
+    "license": "BSD 2-Clause \"Simplified\" License",
+    "forks": 0,
+    "primaryLanguage": "C++",
+    "pushedAt": "2023-09-03T12:56:56.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-12-08T17:13:15.000Z",
+    "updatedAt": "2024-11-20T03:55:30.000Z"
+  },
+  {
+    "id": "kassane/libzmq",
+    "name": "kassane/libzmq",
+    "description": "ZeroMQ core engine in C++, implements ZMTP/3.1",
+    "topics": [
+      "cpp",
+      "cpp-library",
+      "networking",
+      "zeromq",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "kassane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
+    },
+    "stars": 2,
+    "starsDetail": null,
+    "license": "Mozilla Public License 2.0",
+    "forks": 0,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2023-11-06T13:32:38.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-02-18T16:15:14.000Z",
+    "updatedAt": "2024-11-20T03:56:14.000Z"
+  },
+  {
+    "id": "kassane/openssl-zig",
+    "name": "kassane/openssl-zig",
+    "description": "TLS/SSL and crypto library (uses Zig Build)",
+    "topics": [
+      "cross-compile",
+      "cryptography",
+      "openssl",
+      "openssl-library",
+      "ssl",
+      "tls",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "kassane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
+    },
+    "stars": 12,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 4,
+    "primaryLanguage": "sed",
+    "pushedAt": "2024-09-27T19:32:31.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-03-22T15:57:38.000Z",
+    "updatedAt": "2024-11-20T03:56:06.000Z"
+  },
+  {
+    "id": "kassane/outcome",
+    "name": "kassane/outcome",
+    "description": "Provides very lightweight outcome<T> and result<T> (non-Boost edition) (uses zig build-system)",
+    "topics": [
+      "cplusplus",
+      "cpp",
+      "cpp-library",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "kassane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
+    },
+    "stars": 1,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 0,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-08-04T20:55:26.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-04-23T13:24:26.000Z",
+    "updatedAt": "2024-11-20T03:56:13.000Z"
+  },
+  {
+    "id": "kassane/qml_zig",
+    "name": "kassane/qml_zig",
+    "description": "QML bindings for the Zig programming language",
+    "topics": [
+      "qml-bindings",
+      "qml-zig",
+      "zig",
+      "zig-package",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "kassane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
+    },
+    "stars": 88,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 4,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-08-11T12:31:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-12-19T17:33:55.000Z",
+    "updatedAt": "2024-11-20T03:55:20.000Z"
+  },
+  {
+    "id": "kassane/range-v3",
+    "name": "kassane/range-v3",
+    "description": "Range library for C++14/17/20, basis for C++20's std::ranges (uses zig build-system)",
+    "topics": [
+      "cpp-library",
+      "range-library",
+      "zig",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "kassane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
+    },
+    "stars": 0,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 0,
+    "primaryLanguage": "Python",
+    "pushedAt": "2024-08-04T20:19:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-04-26T13:41:43.000Z",
+    "updatedAt": "2024-11-20T03:56:14.000Z"
+  },
+  {
+    "id": "kassane/unordered",
+    "name": "kassane/unordered",
+    "description": "Boost.org unordered module (uses zig build)",
+    "topics": [
+      "boost-libraries",
+      "cplusplus",
+      "cpp",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "kassane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
+    },
+    "stars": 0,
+    "starsDetail": null,
+    "license": "Boost Software License 1.0",
+    "forks": 0,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-06-27T13:52:26.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-07-15T15:22:16.000Z",
+    "updatedAt": "2024-11-20T03:56:12.000Z"
+  },
+  {
+    "id": "kassane/winpthreads-zigbuild",
+    "name": "kassane/winpthreads-zigbuild",
+    "description": "The Winpthreads Library for Zig toolchain",
+    "topics": [
+      "mingw",
+      "mingw-w64",
+      "windows",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "kassane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
+    },
+    "stars": 12,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 4,
+    "primaryLanguage": "Assembly",
+    "pushedAt": "2024-10-23T12:22:20.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-03-28T13:48:04.000Z",
+    "updatedAt": "2024-11-20T03:56:07.000Z"
+  },
+  {
+    "id": "kassane/wolfssl",
+    "name": "kassane/wolfssl",
+    "description": "WolfSSL library - Using Zig Build",
+    "topics": [
+      "c-library",
+      "cryptography",
+      "fips",
+      "ssl",
+      "tls",
+      "wolfssl",
+      "wolfssl-library",
+      "zig",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "kassane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6756180?v=4"
+    },
+    "stars": 5,
+    "starsDetail": null,
+    "license": "GNU General Public License v2.0",
+    "forks": 2,
+    "primaryLanguage": "XS",
+    "pushedAt": "2024-11-13T20:40:44.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-06-04T15:27:00.000Z",
+    "updatedAt": "2024-11-20T03:56:06.000Z"
+  },
+  {
+    "id": "kivikakk/htmlentities.zig",
+    "name": "kivikakk/htmlentities.zig",
+    "description": "HTML entity data for Zig",
+    "topics": [
+      "html",
+      "zig"
+    ],
+    "owner": {
+      "name": "kivikakk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1915?v=4"
+    },
+    "stars": 12,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 4,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-06-11T15:16:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-08-18T07:39:24.000Z",
+    "updatedAt": "2024-11-20T03:55:41.000Z"
+  },
+  {
+    "id": "kivikakk/koino",
+    "name": "kivikakk/koino",
+    "description": "CommonMark + GFM compatible Markdown parser and renderer",
+    "topics": [
+      "commonmark",
+      "markdown",
+      "zig"
+    ],
+    "owner": {
+      "name": "kivikakk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1915?v=4"
+    },
+    "stars": 126,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 13,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-07-01T23:10:59.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-08-12T07:24:47.000Z",
+    "updatedAt": "2024-11-20T03:55:56.000Z"
+  },
+  {
+    "id": "kivikakk/libpcre.zig",
+    "name": "kivikakk/libpcre.zig",
+    "description": "Zig bindings to libpcre",
+    "topics": [
+      "pcre",
+      "regular-expression",
+      "zig"
+    ],
+    "owner": {
+      "name": "kivikakk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1915?v=4"
+    },
+    "stars": 25,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 5,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-07-01T23:06:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-08-20T04:03:56.000Z",
+    "updatedAt": "2024-11-20T03:55:55.000Z"
+  },
+  {
+    "id": "kooparse/zalgebra",
+    "name": "kooparse/zalgebra",
+    "description": "Linear algebra library for games and real-time graphics.",
+    "topics": [
+      "gamedev",
+      "graphics",
+      "linear-algebra",
+      "mat4",
+      "math",
+      "matrix",
+      "quaternion",
+      "vec3",
+      "vectors",
+      "zig",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "kooparse",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2859122?v=4"
+    },
+    "stars": 230,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 27,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-11-11T17:14:59.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-10-07T17:15:35.000Z",
+    "updatedAt": "2024-11-20T03:55:15.000Z"
+  },
+  {
+    "id": "korandoru/setup-zig",
+    "name": "korandoru/setup-zig",
+    "description": "Set up your GitHub Actions workflow with a specific version of Zig (https://ziglang.org/).",
+    "topics": [
+      "github-actions",
+      "zig",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "korandoru",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43246943?v=4"
+    },
+    "stars": 19,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 3,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-10-05T08:45:34.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-09-09T04:20:25.000Z",
+    "updatedAt": "2024-11-20T03:55:48.000Z"
+  },
+  {
+    "id": "kprotty/zap",
+    "name": "kprotty/zap",
+    "description": "An asynchronous runtime with a focus on performance and resource efficiency.",
+    "topics": [
+      "asynchronous",
+      "io",
+      "networking",
+      "performance",
+      "runtime",
+      "rust",
+      "scheduler",
+      "unix",
+      "windows",
+      "zig"
+    ],
+    "owner": {
+      "name": "kprotty",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45520026?v=4"
+    },
+    "stars": 447,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 16,
+    "primaryLanguage": "Go",
+    "pushedAt": "2024-08-24T16:06:51.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-07-23T16:50:25.000Z",
+    "updatedAt": "2024-11-20T03:55:27.000Z"
+  },
+  {
+    "id": "kprotty/zefi",
+    "name": "kprotty/zefi",
+    "description": "Zig Fiber Library (experiments; wip)",
+    "topics": [],
+    "owner": {
+      "name": "kprotty",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45520026?v=4"
+    },
+    "stars": 37,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 5,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-07-22T11:18:58.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-06-19T00:45:20.000Z",
+    "updatedAt": "2024-11-20T03:54:58.000Z"
+  },
+  {
+    "id": "kristoff-it/redis-cuckoofilter",
+    "name": "kristoff-it/redis-cuckoofilter",
+    "description": "Hashing-function agnostic Cuckoo filters for Redis",
+    "topics": [
+      "bloom-filter",
+      "c",
+      "cuckoo-filter",
+      "probabilistic-data-structures",
+      "redis",
+      "zig"
+    ],
+    "owner": {
+      "name": "kristoff-it",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1950733?v=4"
+    },
+    "stars": 232,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 22,
+    "primaryLanguage": "C",
+    "pushedAt": "2020-03-05T21:10:34.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-07-23T17:28:09.000Z",
+    "updatedAt": "2024-11-20T03:55:00.000Z"
+  },
+  {
+    "id": "kristoff-it/zig-cuckoofilter",
+    "name": "kristoff-it/zig-cuckoofilter",
+    "description": "Production-ready Cuckoo Filters for any C ABI compatible target.",
+    "topics": [
+      "bloom-filter",
+      "c-abi",
+      "cffi",
+      "cuckoo-filter",
+      "filter",
+      "p11c",
+      "probabilistic-data-structures",
+      "zig"
+    ],
+    "owner": {
+      "name": "kristoff-it",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1950733?v=4"
+    },
+    "stars": 83,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 3,
+    "primaryLanguage": "Go",
+    "pushedAt": "2023-01-10T04:32:44.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-05-12T18:17:24.000Z",
+    "updatedAt": "2024-11-20T03:54:38.000Z"
+  },
+  {
+    "id": "kristoff-it/zig-okredis",
+    "name": "kristoff-it/zig-okredis",
+    "description": "Zero-allocation Client for Redis 6+",
+    "topics": [
+      "okredis",
+      "redis",
+      "redis-client",
+      "zero-allocation",
+      "zig"
+    ],
+    "owner": {
+      "name": "kristoff-it",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1950733?v=4"
+    },
+    "stars": 214,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 16,
+    "primaryLanguage": "AMPL",
+    "pushedAt": "2024-03-25T16:47:49.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-08-21T17:53:43.000Z",
+    "updatedAt": "2024-11-20T03:55:01.000Z"
+  },
+  {
+    "id": "kubkon/zacho",
+    "name": "kubkon/zacho",
+    "description": "Zig's Mach-O parser",
+    "topics": [
+      "zig",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "kubkon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1519747?v=4"
+    },
+    "stars": 37,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 4,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-09-17T04:46:30.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-08-26T19:38:17.000Z",
+    "updatedAt": "2024-11-20T03:55:46.000Z"
+  },
+  {
+    "id": "kubkon/zig-ios-example",
+    "name": "kubkon/zig-ios-example",
+    "description": "Minimal build.zig for targeting iOS",
+    "topics": [],
+    "owner": {
+      "name": "kubkon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1519747?v=4"
+    },
+    "stars": 128,
+    "starsDetail": null,
+    "license": "The Unlicense",
+    "forks": 7,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2023-10-11T19:51:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-08-06T10:37:09.000Z",
+    "updatedAt": "2024-11-20T03:56:18.000Z"
+  },
+  {
+    "id": "kubkon/zig-yaml",
+    "name": "kubkon/zig-yaml",
+    "description": "YAML parser for Zig",
+    "topics": [
+      "yaml",
+      "zig",
+      "zig-library"
+    ],
+    "owner": {
+      "name": "kubkon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1519747?v=4"
+    },
+    "stars": 147,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 37,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-09-08T04:56:09.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-05-31T20:06:47.000Z",
+    "updatedAt": "2024-11-20T03:55:56.000Z"
+  },
+  {
+    "id": "leroycep/sqlite-zig",
+    "name": "leroycep/sqlite-zig",
+    "description": "",
+    "topics": [],
+    "owner": {
+      "name": "leroycep",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2229184?v=4"
+    },
+    "stars": 63,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 9,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-04-23T20:58:41.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-02-13T09:24:20.000Z",
+    "updatedAt": "2024-11-20T03:55:01.000Z"
+  },
+  {
+    "id": "lun-4/zigdig",
+    "name": "lun-4/zigdig",
+    "description": "naive dns client library in zig",
+    "topics": [
+      "dns",
+      "zig",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "lun-4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7283681?v=4"
+    },
+    "stars": 33,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 5,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-08-07T05:10:10.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-05-12T05:39:02.000Z",
+    "updatedAt": "2024-11-20T03:55:34.000Z"
+  },
+  {
+    "id": "lun-4/ziget",
+    "name": "lun-4/ziget",
+    "description": "simple wget in zig without libc",
+    "topics": [
+      "networking",
+      "zig"
+    ],
+    "owner": {
+      "name": "lun-4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7283681?v=4"
+    },
+    "stars": 20,
+    "starsDetail": null,
+    "license": "The Unlicense",
+    "forks": 3,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-05-01T19:16:06.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-05-09T20:08:58.000Z",
+    "updatedAt": "2024-11-20T03:55:37.000Z"
+  },
+  {
+    "id": "marijnfs/zigtimsort",
+    "name": "marijnfs/zigtimsort",
+    "description": "TimSort implementation for Zig",
+    "topics": [],
+    "owner": {
+      "name": "marijnfs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/898011?v=4"
+    },
+    "stars": 5,
+    "starsDetail": null,
+    "license": "Mozilla Public License 2.0",
+    "forks": 0,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2020-06-24T23:02:53.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-06-12T22:37:41.000Z",
+    "updatedAt": "2024-11-20T03:54:38.000Z"
+  },
+  {
+    "id": "markfirmware/zig-bare-metal-microbit",
+    "name": "markfirmware/zig-bare-metal-microbit",
+    "description": "Bare metal microbit program written in zig",
+    "topics": [
+      "bare-metal",
+      "microbit",
+      "zig"
+    ],
+    "owner": {
+      "name": "markfirmware",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22677068?v=4"
+    },
+    "stars": 35,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 2,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2021-10-24T00:12:43.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-11-09T16:48:00.000Z",
+    "updatedAt": "2024-11-20T03:54:48.000Z"
+  },
+  {
+    "id": "markfirmware/zig-bare-metal-raspberry-pi",
+    "name": "markfirmware/zig-bare-metal-raspberry-pi",
+    "description": "Bare metal raspberry pi program written in zig",
+    "topics": [
+      "bare-metal",
+      "raspberry-pi",
+      "zig"
+    ],
+    "owner": {
+      "name": "markfirmware",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22677068?v=4"
+    },
+    "stars": 90,
+    "starsDetail": null,
+    "license": null,
+    "forks": 7,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2020-01-19T03:41:13.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-09-20T02:55:23.000Z",
+    "updatedAt": "2024-11-20T03:54:49.000Z"
+  },
+  {
+    "id": "marler8997/netpunch",
+    "name": "marler8997/netpunch",
+    "description": "",
+    "topics": [],
+    "owner": {
+      "name": "marler8997",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/304904?v=4"
+    },
+    "stars": 17,
+    "starsDetail": null,
+    "license": null,
+    "forks": 1,
+    "primaryLanguage": "Python",
+    "pushedAt": "2024-10-06T14:34:45.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-03-16T16:39:20.000Z",
+    "updatedAt": "2024-11-20T03:55:35.000Z"
+  },
+  {
+    "id": "marler8997/zigup",
+    "name": "marler8997/zigup",
+    "description": "Download and manage zig compilers.",
+    "topics": [
+      "zig",
+      "zig-compilers"
+    ],
+    "owner": {
+      "name": "marler8997",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/304904?v=4"
+    },
+    "stars": 781,
+    "starsDetail": null,
+    "license": "MIT No Attribution",
+    "forks": 61,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-09-23T16:46:09.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-05-30T17:33:47.000Z",
+    "updatedAt": "2024-11-20T03:55:47.000Z"
+  },
+  {
+    "id": "mattnite/ezpkg",
+    "name": "mattnite/ezpkg",
+    "description": "Zig Package Manager Expansion Pack",
+    "topics": [],
+    "owner": {
+      "name": "mattnite",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7270159?v=4"
+    },
+    "stars": 24,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 4,
+    "primaryLanguage": "Nix",
+    "pushedAt": "2023-10-04T17:39:29.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-08-20T07:42:44.000Z",
+    "updatedAt": "2024-11-20T03:55:51.000Z"
+  },
+  {
+    "id": "mattnite/gyro",
+    "name": "mattnite/gyro",
+    "description": "A  Zig package manager with an index, build runner, and build dependencies.",
+    "topics": [
+      "package-manager",
+      "zig"
+    ],
+    "owner": {
+      "name": "mattnite",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7270159?v=4"
+    },
+    "stars": 575,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 23,
+    "primaryLanguage": "Nix",
+    "pushedAt": "2023-08-01T23:48:14.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-06-12T20:12:12.000Z",
+    "updatedAt": "2024-11-20T03:55:49.000Z"
+  },
+  {
+    "id": "mdsteele/ziegfried",
+    "name": "mdsteele/ziegfried",
+    "description": "A general-purpose memory allocator for Zig",
+    "topics": [
+      "zig"
+    ],
+    "owner": {
+      "name": "mdsteele",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35096?v=4"
+    },
+    "stars": 24,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2021-07-21T18:47:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-07-27T15:05:42.000Z",
+    "updatedAt": "2024-11-20T03:54:42.000Z"
+  },
+  {
+    "id": "meheleventyone/zig-wasm-test",
+    "name": "meheleventyone/zig-wasm-test",
+    "description": "A minimal Web Assembly example using Zig's build system.",
+    "topics": [
+      "typescript",
+      "wasm",
+      "webassembly",
+      "zig"
+    ],
+    "owner": {
+      "name": "meheleventyone",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5731661?v=4"
+    },
+    "stars": 55,
+    "starsDetail": null,
+    "license": null,
+    "forks": 11,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-07-03T10:45:59.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-11-20T22:10:38.000Z",
+    "updatedAt": "2024-11-20T03:55:41.000Z"
+  },
+  {
+    "id": "mitchellh/libxev",
+    "name": "mitchellh/libxev",
+    "description": "libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.",
+    "topics": [
+      "async",
+      "c",
+      "epoll",
+      "io-uring",
+      "kqueue",
+      "wasi",
+      "webassembly",
+      "zig"
+    ],
+    "owner": {
+      "name": "mitchellh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1299?v=4"
+    },
+    "stars": 2145,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 75,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-11-19T18:10:42.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-01-07T19:52:16.000Z",
+    "updatedAt": "2024-11-20T03:54:58.000Z"
+  },
+  {
+    "id": "momumi/x86-zig",
+    "name": "momumi/x86-zig",
+    "description": "library for assembling x86 in zig (WIP)",
+    "topics": [],
+    "owner": {
+      "name": "momumi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57862114?v=4"
+    },
+    "stars": 27,
+    "starsDetail": null,
+    "license": "The Unlicense",
+    "forks": 1,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2021-04-30T02:58:19.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-02-02T05:02:44.000Z",
+    "updatedAt": "2024-11-20T03:56:16.000Z"
+  },
+  {
+    "id": "mqttiotstuff/iotmonitor",
+    "name": "mqttiotstuff/iotmonitor",
+    "description": "PainLess, Monitor and State server for iot mqtt devices, and software agents. This daemon permit to maintain the execution of constellations of mqtt devices and associated agents ",
+    "topics": [
+      "agents",
+      "healthcheck",
+      "iot",
+      "iot-device",
+      "monitor",
+      "monitoring",
+      "mqtt",
+      "server",
+      "state",
+      "zig"
+    ],
+    "owner": {
+      "name": "mqttiotstuff",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/71220004?v=4"
+    },
+    "stars": 21,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 1,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-04-21T11:06:46.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-04-12T12:21:38.000Z",
+    "updatedAt": "2024-11-20T03:56:17.000Z"
+  },
+  {
+    "id": "natecraddock/ziglua",
+    "name": "natecraddock/ziglua",
+    "description": "Zig bindings for the Lua C API",
+    "topics": [
+      "binding",
+      "library",
+      "lua",
+      "lua-bindings",
+      "package",
+      "zig",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "natecraddock",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7967463?v=4"
+    },
+    "stars": 274,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 36,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2024-11-14T03:53:35.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-06-02T04:37:17.000Z",
+    "updatedAt": "2024-11-20T03:55:25.000Z"
+  },
+  {
+    "id": "nektro/zigmod",
+    "name": "nektro/zigmod",
+    "description": "📦 A package manager for the Zig programming language.",
+    "topics": [
+      "package-manager",
+      "zig"
+    ],
+    "owner": {
+      "name": "nektro",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5464072?v=4"
+    },
+    "stars": 772,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 35,
+    "primaryLanguage": "Nix",
+    "pushedAt": "2024-10-29T20:19:53.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-11-09T22:56:32.000Z",
+    "updatedAt": "2024-11-20T03:55:50.000Z"
+  },
+  {
+    "id": "nine-lives-later/zzmq",
+    "name": "nine-lives-later/zzmq",
+    "description": "Zig Binding for ZeroMQ",
+    "topics": [
+      "libzmq",
+      "zeromq",
+      "zeromq-czmq",
+      "zig",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "nine-lives-later",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/69648959?v=4"
+    },
+    "stars": 24,
+    "starsDetail": null,
+    "license": "Mozilla Public License 2.0",
+    "forks": 4,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-06-17T03:17:21.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-02-17T10:06:10.000Z",
+    "updatedAt": "2024-11-20T03:55:40.000Z"
+  },
+  {
+    "id": "nix-community/zon2nix",
+    "name": "nix-community/zon2nix",
+    "description": "Convert the dependencies in `build.zig.zon` to a Nix expression [maintainer=@figsoda]",
+    "topics": [
+      "build",
+      "nix",
+      "vendor",
+      "zig",
+      "zon"
+    ],
+    "owner": {
+      "name": "nix-community",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33221035?v=4"
+    },
+    "stars": 73,
+    "starsDetail": null,
+    "license": "Mozilla Public License 2.0",
+    "forks": 10,
+    "primaryLanguage": "Nix",
+    "pushedAt": "2024-06-13T06:39:32.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-08-08T19:18:56.000Z",
+    "updatedAt": "2024-11-20T03:55:51.000Z"
+  },
+  {
+    "id": "nrdmn/ilo_license_key",
+    "name": "nrdmn/ilo_license_key",
+    "description": "iLO license key library",
+    "topics": [
+      "ilo",
+      "keygen",
+      "zig"
+    ],
+    "owner": {
+      "name": "nrdmn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11783095?v=4"
+    },
+    "stars": 16,
+    "starsDetail": null,
+    "license": null,
+    "forks": 4,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2020-05-14T20:50:45.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-05-14T20:44:28.000Z",
+    "updatedAt": "2024-11-20T03:56:16.000Z"
+  },
+  {
+    "id": "nrdmn/uefi-examples",
+    "name": "nrdmn/uefi-examples",
+    "description": "UEFI examples in Zig",
+    "topics": [
+      "uefi",
+      "zig"
+    ],
+    "owner": {
+      "name": "nrdmn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11783095?v=4"
+    },
+    "stars": 61,
+    "starsDetail": null,
+    "license": null,
+    "forks": 6,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2023-08-22T19:08:43.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-09-28T20:05:53.000Z",
+    "updatedAt": "2024-11-20T03:54:50.000Z"
+  },
+  {
+    "id": "nrdmn/uefi-paint",
+    "name": "nrdmn/uefi-paint",
+    "description": "UEFI-bootable touch paint app",
+    "topics": [
+      "uefi",
+      "zig"
+    ],
+    "owner": {
+      "name": "nrdmn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11783095?v=4"
+    },
+    "stars": 46,
+    "starsDetail": null,
+    "license": null,
+    "forks": 2,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2019-09-20T16:45:25.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-08-02T22:06:30.000Z",
+    "updatedAt": "2024-11-20T03:54:50.000Z"
+  },
+  {
+    "id": "olexij-christian/zgtk3",
+    "name": "olexij-christian/zgtk3",
+    "description": "Implementation gtk3 for Zig programming language",
+    "topics": [],
+    "owner": {
+      "name": "olexij-christian",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/161349890?v=4"
+    },
+    "stars": 1,
+    "starsDetail": null,
+    "license": null,
+    "forks": 0,
+    "primaryLanguage": "Nix",
+    "pushedAt": "2024-10-03T17:29:36.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-08-04T20:02:00.000Z",
+    "updatedAt": "2024-11-20T03:55:24.000Z"
+  },
+  {
+    "id": "orhun/linuxwave",
+    "name": "orhun/linuxwave",
+    "description": "Generate music from the entropy of Linux 🐧🎵",
+    "topics": [
+      "entropy",
+      "linux",
+      "linuxwave",
+      "music",
+      "music-generation",
+      "music-generator",
+      "random",
+      "random-music",
+      "retrowave",
+      "synthwave",
+      "tune-generator",
+      "vaporwave",
+      "wav",
+      "waveform",
+      "waveform-generator",
+      "zig",
+      "zig-package",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "orhun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24392180?v=4"
+    },
+    "stars": 537,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 16,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-11-14T18:26:09.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-03-13T22:57:52.000Z",
+    "updatedAt": "2024-11-20T03:54:45.000Z"
+  },
+  {
+    "id": "oven-sh/bun",
+    "name": "oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "topics": [
+      "bun",
+      "bundler",
+      "javascript",
+      "javascriptcore",
+      "jsx",
+      "nodejs",
+      "npm",
+      "react",
+      "transpiler",
+      "typescript",
+      "zig",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "oven-sh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/108928776?v=4"
+    },
+    "stars": 74326,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 2776,
+    "primaryLanguage": "AMPL",
+    "pushedAt": "2024-11-20T03:54:14.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-04-14T00:48:17.000Z",
+    "updatedAt": "2024-11-20T03:54:54.000Z"
+  },
+  {
+    "id": "pbui-project/pbui-main",
+    "name": "pbui-project/pbui-main",
+    "description": "The main repository for the PBUI project ",
+    "topics": [
+      "toolsets",
+      "userland",
+      "zig"
+    ],
+    "owner": {
+      "name": "pbui-project",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57543193?v=4"
+    },
+    "stars": 91,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 9,
+    "primaryLanguage": "Python",
+    "pushedAt": "2021-07-14T02:51:42.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-01-15T17:15:19.000Z",
+    "updatedAt": "2024-11-20T03:55:45.000Z"
+  },
+  {
+    "id": "prime31/zig-upaya",
+    "name": "prime31/zig-upaya",
+    "description": "Zig-based framework for creating game tools and helper apps",
+    "topics": [],
+    "owner": {
+      "name": "prime31",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/60377?v=4"
+    },
+    "stars": 131,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 14,
+    "primaryLanguage": "C++",
+    "pushedAt": "2022-07-03T17:11:04.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-07-27T02:51:01.000Z",
+    "updatedAt": "2024-11-20T03:55:18.000Z"
+  },
+  {
+    "id": "rafaelbreno/zig-os",
+    "name": "rafaelbreno/zig-os",
+    "description": "A simple OS written in Zig following Philipp Oppermann's posts \"Writing an OS in Rust\"",
+    "topics": [
+      "os",
+      "zig"
+    ],
+    "owner": {
+      "name": "rafaelbreno",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32229014?v=4"
+    },
+    "stars": 36,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 4,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2023-03-23T02:11:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-02-06T22:08:21.000Z",
+    "updatedAt": "2024-11-20T03:54:50.000Z"
+  },
+  {
+    "id": "raysan5/raylib",
+    "name": "raysan5/raylib",
+    "description": "A simple and easy-to-use library to enjoy videogames programming",
+    "topics": [
+      "android",
+      "c",
+      "embedded",
+      "game-development",
+      "game-engine",
+      "gamedev",
+      "graphics",
+      "hacktoberfest",
+      "iot",
+      "linux",
+      "opengl",
+      "programming",
+      "raspberry-pi",
+      "raylib",
+      "videogames",
+      "wasm",
+      "webassembly"
+    ],
+    "owner": {
+      "name": "raysan5",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5766837?v=4"
+    },
+    "stars": 22726,
+    "starsDetail": null,
+    "license": "zlib License",
+    "forks": 2281,
+    "primaryLanguage": "Roff",
+    "pushedAt": "2024-11-19T11:33:16.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-10-24T15:46:04.000Z",
+    "updatedAt": "2024-11-19T12:22:47.000Z"
+  },
+  {
+    "id": "remeh/statsd-zig",
+    "name": "remeh/statsd-zig",
+    "description": "Basic statsd implementation in Ziglang.",
+    "topics": [],
+    "owner": {
+      "name": "remeh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1798689?v=4"
+    },
+    "stars": 4,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 1,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2023-11-28T21:15:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-04-30T20:56:14.000Z",
+    "updatedAt": "2024-11-20T03:55:35.000Z"
+  },
+  {
+    "id": "rsepassi/zigcoro",
+    "name": "rsepassi/zigcoro",
+    "description": "A Zig coroutine library",
+    "topics": [],
+    "owner": {
+      "name": "rsepassi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1115739?v=4"
+    },
+    "stars": 161,
+    "starsDetail": null,
+    "license": "BSD Zero Clause License",
+    "forks": 13,
+    "primaryLanguage": "Assembly",
+    "pushedAt": "2024-09-10T15:41:27.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-08-24T19:33:19.000Z",
+    "updatedAt": "2024-11-20T03:54:59.000Z"
+  },
+  {
+    "id": "ryoppippi/zigcv",
+    "name": "ryoppippi/zigcv",
+    "description": "zig bindings for OpenCV4",
+    "topics": [
+      "opencv",
+      "zig",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "ryoppippi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1560508?v=4"
+    },
+    "stars": 101,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 14,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2024-11-01T05:56:08.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-08-21T08:11:05.000Z",
+    "updatedAt": "2024-11-20T03:55:25.000Z"
+  },
+  {
+    "id": "sam701/zig-cli",
+    "name": "sam701/zig-cli",
+    "description": "A simple package for building command line apps in Zig",
+    "topics": [
+      "argument-parser",
+      "cli",
+      "zig"
+    ],
+    "owner": {
+      "name": "sam701",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7078566?v=4"
+    },
+    "stars": 209,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 22,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-10-13T20:47:18.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-03-09T17:55:00.000Z",
+    "updatedAt": "2024-11-20T03:55:55.000Z"
+  },
+  {
+    "id": "shritesh/zig-wasm-dom",
+    "name": "shritesh/zig-wasm-dom",
+    "description": "Zig + WebAssembly + JS + DOM",
+    "topics": [
+      "dom",
+      "wasm",
+      "webassembly",
+      "zig"
+    ],
+    "owner": {
+      "name": "shritesh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/801803?v=4"
+    },
+    "stars": 143,
+    "starsDetail": null,
+    "license": null,
+    "forks": 13,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2023-01-05T16:06:26.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-04-19T02:28:22.000Z",
+    "updatedAt": "2024-11-20T03:55:42.000Z"
+  },
+  {
+    "id": "shritesh/zigfmt-web",
+    "name": "shritesh/zigfmt-web",
+    "description": "zig fmt on the web",
+    "topics": [
+      "fmt",
+      "wasm",
+      "webassembly",
+      "zig"
+    ],
+    "owner": {
+      "name": "shritesh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/801803?v=4"
+    },
+    "stars": 43,
+    "starsDetail": null,
+    "license": null,
+    "forks": 5,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2020-01-07T14:38:35.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-04-27T18:56:18.000Z",
+    "updatedAt": "2024-11-20T03:55:42.000Z"
+  },
+  {
+    "id": "sjdh02/trOS",
+    "name": "sjdh02/trOS",
+    "description": "tiny aarch64 baremetal OS thingy",
+    "topics": [
+      "aarch64",
+      "osdev",
+      "rpi3",
+      "zig"
+    ],
+    "owner": {
+      "name": "sjdh02",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43974899?v=4"
+    },
+    "stars": 49,
+    "starsDetail": null,
+    "license": null,
+    "forks": 5,
+    "primaryLanguage": "Assembly",
+    "pushedAt": "2019-03-14T13:50:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-02-07T21:09:49.000Z",
+    "updatedAt": "2024-11-20T03:54:51.000Z"
+  },
+  {
+    "id": "skunkwerks/zamqp",
+    "name": "skunkwerks/zamqp",
+    "description": "zig wrapper around rabbitmq-c",
+    "topics": [],
+    "owner": {
+      "name": "skunkwerks",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6563319?v=4"
+    },
+    "stars": 4,
+    "starsDetail": null,
+    "license": "BSD 2-Clause \"Simplified\" License",
+    "forks": 1,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2021-03-25T13:33:57.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-12-19T08:55:58.000Z",
+    "updatedAt": "2024-11-20T03:55:40.000Z"
+  },
+  {
+    "id": "squeek502/zua",
+    "name": "squeek502/zua",
+    "description": "An implementation of Lua 5.1 in Zig, for learning purposes",
+    "topics": [
+      "lua",
+      "lua-vm",
+      "zig"
+    ],
+    "owner": {
+      "name": "squeek502",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2389051?v=4"
+    },
+    "stars": 172,
+    "starsDetail": null,
+    "license": "BSD Zero Clause License",
+    "forks": 7,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-03-10T10:21:39.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-12-17T07:44:03.000Z",
+    "updatedAt": "2024-11-20T03:54:54.000Z"
+  },
+  {
+    "id": "sreehax/zig-ini",
+    "name": "sreehax/zig-ini",
+    "description": ".ini parser for zig",
+    "topics": [
+      "zig",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "sreehax",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23709124?v=4"
+    },
+    "stars": 6,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 1,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2021-06-28T00:15:06.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-06-27T07:43:16.000Z",
+    "updatedAt": "2024-11-20T03:55:57.000Z"
+  },
+  {
+    "id": "suirad/Seal",
+    "name": "suirad/Seal",
+    "description": "An allocator that wraps another allocator and detects if memory is leaked after usage",
+    "topics": [
+      "leak-detection",
+      "zig",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "suirad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8798829?v=4"
+    },
+    "stars": 6,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "",
+    "pushedAt": "2018-11-26T08:27:51.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-11-26T07:07:54.000Z",
+    "updatedAt": "2024-11-20T03:54:42.000Z"
+  },
+  {
+    "id": "thejoshwolfe/hexdump-zip",
+    "name": "thejoshwolfe/hexdump-zip",
+    "description": "produce an annotated hexdump of a zipfile",
+    "topics": [],
+    "owner": {
+      "name": "thejoshwolfe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87436?v=4"
+    },
+    "stars": 8,
+    "starsDetail": null,
+    "license": null,
+    "forks": 2,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-04-18T13:29:04.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-09-17T22:21:32.000Z",
+    "updatedAt": "2024-11-20T03:55:46.000Z"
+  },
+  {
+    "id": "thejoshwolfe/legend-of-swarkland",
+    "name": "thejoshwolfe/legend-of-swarkland",
+    "description": "Turn-based action fantasy puzzle game inspired by NetHack and Crypt of the Necrodancer",
+    "topics": [],
+    "owner": {
+      "name": "thejoshwolfe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87436?v=4"
+    },
+    "stars": 94,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 5,
+    "primaryLanguage": "Python",
+    "pushedAt": "2024-10-10T11:54:14.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-01-31T05:30:56.000Z",
+    "updatedAt": "2024-11-20T03:55:14.000Z"
+  },
+  {
+    "id": "tiehuis/zig-raytrace",
+    "name": "tiehuis/zig-raytrace",
+    "description": "simple raytracer in zig",
+    "topics": [
+      "zig"
+    ],
+    "owner": {
+      "name": "tiehuis",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4605603?v=4"
+    },
+    "stars": 16,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 2,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-05-27T05:42:49.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-10-12T08:07:43.000Z",
+    "updatedAt": "2024-11-20T03:55:23.000Z"
+  },
+  {
+    "id": "tiehuis/zig-regex",
+    "name": "tiehuis/zig-regex",
+    "description": "A regex implementation for the zig programming language",
+    "topics": [
+      "regex",
+      "regex-engine",
+      "zig"
+    ],
+    "owner": {
+      "name": "tiehuis",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4605603?v=4"
+    },
+    "stars": 197,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 24,
+    "primaryLanguage": "C",
+    "pushedAt": "2024-07-03T12:01:06.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-02-18T00:00:07.000Z",
+    "updatedAt": "2024-11-20T03:55:57.000Z"
+  },
+  {
+    "id": "tiehuis/zig-ryu",
+    "name": "tiehuis/zig-ryu",
+    "description": "Zig port of https://github.com/ulfjack/ryu",
+    "topics": [
+      "zig"
+    ],
+    "owner": {
+      "name": "tiehuis",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4605603?v=4"
+    },
+    "stars": 15,
+    "starsDetail": null,
+    "license": null,
+    "forks": 6,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-03-09T03:25:17.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-08-01T10:13:14.000Z",
+    "updatedAt": "2024-11-20T03:55:57.000Z"
+  },
+  {
+    "id": "tiehuis/zstack",
+    "name": "tiehuis/zstack",
+    "description": "Line-race tetris mode in Zig",
+    "topics": [
+      "zig"
+    ],
+    "owner": {
+      "name": "tiehuis",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4605603?v=4"
+    },
+    "stars": 5,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 1,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2019-06-17T09:54:38.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-06-16T09:47:24.000Z",
+    "updatedAt": "2024-11-20T03:55:14.000Z"
+  },
+  {
+    "id": "tldr-pages/tldr",
+    "name": "tldr-pages/tldr",
+    "description": "📚 Collaborative cheatsheets for console commands",
+    "topics": [
+      "android",
+      "bsd",
+      "cheatsheet",
+      "cheatsheets",
+      "command-line",
+      "console",
+      "documentation",
+      "examples",
+      "hacktoberfest",
+      "help",
+      "linux",
+      "macos",
+      "man-page",
+      "manpages",
+      "manual",
+      "osx",
+      "shell",
+      "terminal",
+      "tldr",
+      "windows"
+    ],
+    "owner": {
+      "name": "tldr-pages",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7366472?v=4"
+    },
+    "stars": 51278,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 4223,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2024-11-19T17:18:51.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-12-08T07:34:43.000Z",
+    "updatedAt": "2024-11-20T03:56:18.000Z"
+  },
+  {
+    "id": "tralamazza/embedded_zig",
+    "name": "tralamazza/embedded_zig",
+    "description": "minimal Zig embedded ARM example (STM32F103 blue pill)",
+    "topics": [
+      "arm",
+      "stm32f103",
+      "zig"
+    ],
+    "owner": {
+      "name": "tralamazza",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/132159?v=4"
+    },
+    "stars": 75,
+    "starsDetail": null,
+    "license": null,
+    "forks": 12,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2020-10-29T07:50:57.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-06-18T23:15:47.000Z",
+    "updatedAt": "2024-11-20T03:54:52.000Z"
+  },
+  {
+    "id": "truemedian/zfetch",
+    "name": "truemedian/zfetch",
+    "description": "",
+    "topics": [
+      "http",
+      "zig"
+    ],
+    "owner": {
+      "name": "truemedian",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29983540?v=4"
+    },
+    "stars": 60,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 8,
+    "primaryLanguage": "AMPL",
+    "pushedAt": "2022-09-16T23:52:50.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-12-29T00:33:51.000Z",
+    "updatedAt": "2024-11-20T03:55:36.000Z"
+  },
+  {
+    "id": "ulfjack/ryu",
+    "name": "ulfjack/ryu",
+    "description": "Converts floating point numbers to decimal strings",
+    "topics": [],
+    "owner": {
+      "name": "ulfjack",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7355745?v=4"
+    },
+    "stars": 1205,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 99,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-06-19T14:21:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-02-14T21:07:38.000Z",
+    "updatedAt": "2024-11-20T03:55:58.000Z"
+  },
+  {
+    "id": "vbrusca/ZigMatrixUtils",
+    "name": "vbrusca/ZigMatrixUtils",
+    "description": "A matrix utility library written in Zig. Provides functions and tools for manipulating matrices and solving linear algebra problems. A great source for leaning about the Zig programming language.",
+    "topics": [
+      "matrices",
+      "matrix",
+      "zig"
+    ],
+    "owner": {
+      "name": "vbrusca",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8929752?v=4"
+    },
+    "stars": 2,
+    "starsDetail": null,
+    "license": "GNU General Public License v3.0",
+    "forks": 0,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-09-20T15:46:26.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-03-14T12:32:39.000Z",
+    "updatedAt": "2024-11-20T03:55:27.000Z"
+  },
+  {
+    "id": "vbrusca/ZigSdlGameTemplate",
+    "name": "vbrusca/ZigSdlGameTemplate",
+    "description": "An empty Zig project configured with the SDL library as a starting point for Zig game development.",
+    "topics": [],
+    "owner": {
+      "name": "vbrusca",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8929752?v=4"
+    },
+    "stars": 4,
+    "starsDetail": null,
+    "license": "GNU General Public License v3.0",
+    "forks": 0,
+    "primaryLanguage": "CMake",
+    "pushedAt": "2024-09-20T15:44:30.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-04-12T14:09:32.000Z",
+    "updatedAt": "2024-11-20T03:56:19.000Z"
+  },
+  {
+    "id": "vezel-dev/zig-sdk",
+    "name": "vezel-dev/zig-sdk",
+    "description": "An MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler.",
+    "topics": [
+      "build",
+      "c",
+      "cpp",
+      "dotnet",
+      "msbuild",
+      "zig"
+    ],
+    "owner": {
+      "name": "vezel-dev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87844133?v=4"
+    },
+    "stars": 73,
+    "starsDetail": null,
+    "license": "BSD Zero Clause License",
+    "forks": 2,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-11-19T20:01:04.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-06-13T05:19:25.000Z",
+    "updatedAt": "2024-11-20T03:55:49.000Z"
+  },
+  {
+    "id": "vi/zigmkv",
+    "name": "vi/zigmkv",
+    "description": "[wip] Matroska/webm (mkv) parser in Zig",
+    "topics": [
+      "matroska",
+      "mkv",
+      "parser",
+      "webm",
+      "zig",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "vi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/173219?v=4"
+    },
+    "stars": 12,
+    "starsDetail": null,
+    "license": null,
+    "forks": 0,
+    "primaryLanguage": "Python",
+    "pushedAt": "2022-09-13T20:25:29.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-10-03T06:43:19.000Z",
+    "updatedAt": "2024-11-20T03:55:58.000Z"
+  },
+  {
+    "id": "vrischmann/zig-cassandra",
+    "name": "vrischmann/zig-cassandra",
+    "description": "Cassandra CQL client",
+    "topics": [
+      "cassandra",
+      "cassandra-client",
+      "zig"
+    ],
+    "owner": {
+      "name": "vrischmann",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1916079?v=4"
+    },
+    "stars": 8,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2024-09-11T21:24:25.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-03-22T18:39:13.000Z",
+    "updatedAt": "2024-11-20T03:55:01.000Z"
+  },
+  {
+    "id": "vrischmann/zig-sqlite",
+    "name": "vrischmann/zig-sqlite",
+    "description": "zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig. ",
+    "topics": [
+      "sqlite",
+      "zig"
+    ],
+    "owner": {
+      "name": "vrischmann",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1916079?v=4"
+    },
+    "stars": 379,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 52,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-11-17T00:26:12.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-12-12T01:45:21.000Z",
+    "updatedAt": "2024-11-20T03:55:02.000Z"
+  },
+  {
+    "id": "wendigojaeger/ZigGBA",
+    "name": "wendigojaeger/ZigGBA",
+    "description": "Work in progress SDK for creating Game Boy Advance games using Zig programming language.",
+    "topics": [
+      "gba",
+      "sdk",
+      "zig"
+    ],
+    "owner": {
+      "name": "wendigojaeger",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46852732?v=4"
+    },
+    "stars": 354,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 16,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-11-19T18:07:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-12-08T23:29:41.000Z",
+    "updatedAt": "2024-11-20T03:55:11.000Z"
+  },
+  {
+    "id": "weskoerber/kewpie",
+    "name": "weskoerber/kewpie",
+    "description": "A simple query string parser for Zig.",
+    "topics": [
+      "zig",
+      "zig-package",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "weskoerber",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28966224?v=4"
+    },
+    "stars": 2,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-08-17T02:53:49.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-02-10T18:28:15.000Z",
+    "updatedAt": "2024-11-20T03:56:01.000Z"
+  },
+  {
+    "id": "weskoerber/mac_address",
+    "name": "weskoerber/mac_address",
+    "description": "A cross-platform library to retrieve the MAC address from your network interfaces without libc.",
+    "topics": [
+      "tools",
+      "zig",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "weskoerber",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28966224?v=4"
+    },
+    "stars": 2,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 1,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-09-14T03:24:42.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-05-17T01:52:16.000Z",
+    "updatedAt": "2024-11-20T03:55:47.000Z"
+  },
+  {
+    "id": "weskoerber/zvm",
+    "name": "weskoerber/zvm",
+    "description": "Zig Version Manager - POSIX-compliant shell script to manage multiple active Zig versions.",
+    "topics": [
+      "version-manager",
+      "zig",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "weskoerber",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28966224?v=4"
+    },
+    "stars": 4,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-08-29T16:08:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-02-07T20:24:24.000Z",
+    "updatedAt": "2024-11-20T03:55:48.000Z"
+  },
+  {
+    "id": "winksaville/zig-parse-args",
+    "name": "winksaville/zig-parse-args",
+    "description": "Parse command line arguments.",
+    "topics": [],
+    "owner": {
+      "name": "winksaville",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1024284?v=4"
+    },
+    "stars": 0,
+    "starsDetail": null,
+    "license": "The Unlicense",
+    "forks": 1,
+    "primaryLanguage": "",
+    "pushedAt": "2018-11-17T01:18:57.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-09-04T01:57:15.000Z",
+    "updatedAt": "2024-11-20T03:55:59.000Z"
+  },
+  {
+    "id": "winksaville/zig-parse-number",
+    "name": "winksaville/zig-parse-number",
+    "description": "Implement ParseNumber which can parse any TypeId.Int or TypeId.Float.",
+    "topics": [],
+    "owner": {
+      "name": "winksaville",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1024284?v=4"
+    },
+    "stars": 0,
+    "starsDetail": null,
+    "license": "The Unlicense",
+    "forks": 0,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2019-03-05T21:13:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-11-17T05:27:32.000Z",
+    "updatedAt": "2024-11-20T03:55:59.000Z"
+  },
+  {
+    "id": "ynuwenhof/zigbraten",
+    "name": "ynuwenhof/zigbraten",
+    "description": "Internal cheat for Cube 2: Sauerbraten written in Zig",
+    "topics": [],
+    "owner": {
+      "name": "ynuwenhof",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/100025337?v=4"
+    },
+    "stars": 1,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2022-01-30T17:59:35.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-02-20T15:00:06.000Z",
+    "updatedAt": "2024-11-20T03:56:19.000Z"
+  },
+  {
+    "id": "yvt/zig-armv8m-test",
+    "name": "yvt/zig-armv8m-test",
+    "description": "Minimal Zig-based app for Armv8-M + TrustZone",
+    "topics": [
+      "arm",
+      "cortex-m33",
+      "iot",
+      "microcontroller",
+      "trustzone",
+      "zig"
+    ],
+    "owner": {
+      "name": "yvt",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5253988?v=4"
+    },
+    "stars": 11,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 2,
+    "primaryLanguage": "Assembly",
+    "pushedAt": "2019-08-19T14:09:04.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-06-27T15:32:08.000Z",
+    "updatedAt": "2024-11-20T03:54:53.000Z"
+  },
+  {
+    "id": "zighelp/zighelp",
+    "name": "zighelp/zighelp",
+    "description": "Get up to speed with Zig quickly.",
+    "topics": [],
+    "owner": {
+      "name": "zighelp",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/142661911?v=4"
+    },
+    "stars": 37,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 8,
+    "primaryLanguage": "Python",
+    "pushedAt": "2023-10-03T09:52:24.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-08-19T09:50:36.000Z",
+    "updatedAt": "2024-11-20T03:56:02.000Z"
+  },
+  {
+    "id": "ziglang/sublime-zig-language",
+    "name": "ziglang/sublime-zig-language",
+    "description": "Zig language support for Sublime Text",
+    "topics": [
+      "sublime",
+      "zig"
+    ],
+    "owner": {
+      "name": "ziglang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27973237?v=4"
+    },
+    "stars": 85,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 25,
+    "primaryLanguage": "Python",
+    "pushedAt": "2024-10-06T07:47:43.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-01-20T13:16:19.000Z",
+    "updatedAt": "2024-11-20T03:55:04.000Z"
+  },
+  {
+    "id": "ziglang/vscode-zig",
+    "name": "ziglang/vscode-zig",
+    "description": "Zig language support for VSCode",
+    "topics": [
+      "visual-studio-code",
+      "zig"
+    ],
+    "owner": {
+      "name": "ziglang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27973237?v=4"
+    },
+    "stars": 551,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 60,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-11-16T05:02:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-07-14T23:02:35.000Z",
+    "updatedAt": "2024-11-20T03:55:05.000Z"
+  },
+  {
+    "id": "ziglang/zig-mode",
+    "name": "ziglang/zig-mode",
+    "description": "Zig mode for Emacs",
+    "topics": [
+      "emacs",
+      "zig"
+    ],
+    "owner": {
+      "name": "ziglang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27973237?v=4"
+    },
+    "stars": 172,
+    "starsDetail": null,
+    "license": "GNU General Public License v3.0",
+    "forks": 55,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-11-04T16:24:34.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-04-04T12:05:22.000Z",
+    "updatedAt": "2024-11-20T03:55:05.000Z"
+  },
+  {
+    "id": "ziglang/zig.vim",
+    "name": "ziglang/zig.vim",
+    "description": "Vim configuration for Zig",
+    "topics": [
+      "vim",
+      "zig"
+    ],
+    "owner": {
+      "name": "ziglang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27973237?v=4"
+    },
+    "stars": 469,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 58,
+    "primaryLanguage": "Vim Script",
+    "pushedAt": "2024-08-28T02:38:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-04-13T09:21:35.000Z",
+    "updatedAt": "2024-11-20T03:55:06.000Z"
+  },
+  {
+    "id": "ziglibs/known-folders",
+    "name": "ziglibs/known-folders",
+    "description": "Provides access to well-known folders across several operating systems",
+    "topics": [
+      "zig",
+      "zig-library",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "ziglibs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65570835?v=4"
+    },
+    "stars": 232,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 22,
+    "primaryLanguage": "AMPL",
+    "pushedAt": "2024-07-31T15:21:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-05-18T21:48:43.000Z",
+    "updatedAt": "2024-11-20T03:55:29.000Z"
+  },
+  {
+    "id": "ziglibs/s2s",
+    "name": "ziglibs/s2s",
+    "description": "A zig binary serialization format.",
+    "topics": [
+      "binary-data",
+      "serialization",
+      "serialization-library",
+      "zig",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "ziglibs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65570835?v=4"
+    },
+    "stars": 130,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 21,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-09-11T18:22:05.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-02-21T08:07:25.000Z",
+    "updatedAt": "2024-11-20T03:54:37.000Z"
+  },
+  {
+    "id": "zigtools/zls",
+    "name": "zigtools/zls",
+    "description": "A Zig language server supporting Zig developers with features like autocomplete and goto definition",
+    "topics": [
+      "language-server",
+      "language-server-protocol",
+      "lsp",
+      "lsp-server",
+      "zig",
+      "ziglang",
+      "zls"
+    ],
+    "owner": {
+      "name": "zigtools",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65322356?v=4"
+    },
+    "stars": 3020,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 299,
+    "primaryLanguage": "Nix",
+    "pushedAt": "2024-11-18T23:58:38.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-04-24T22:19:50.000Z",
+    "updatedAt": "2024-11-20T03:55:06.000Z"
+  },
+  {
+    "id": "zigtools/zpm",
+    "name": "zigtools/zpm",
+    "description": "Zig package manager helper",
+    "topics": [
+      "zig",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "zigtools",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65322356?v=4"
+    },
+    "stars": 90,
+    "starsDetail": null,
+    "license": null,
+    "forks": 9,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-05-29T18:45:31.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-05-21T01:21:42.000Z",
+    "updatedAt": "2024-11-20T03:55:49.000Z"
+  },
+  {
+    "id": "zigwasm/wasm-zig",
+    "name": "zigwasm/wasm-zig",
+    "description": "Common Wasm runtime binding to C API",
+    "topics": [
+      "c-api",
+      "wasi",
+      "wasm",
+      "zig",
+      "zig-library"
+    ],
+    "owner": {
+      "name": "zigwasm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/84904715?v=4"
+    },
+    "stars": 27,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 7,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2023-08-22T19:41:29.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-05-26T07:47:12.000Z",
+    "updatedAt": "2024-11-20T03:55:43.000Z"
+  },
+  {
+    "id": "zigwasm/wasmer-zig",
+    "name": "zigwasm/wasmer-zig",
+    "description": "Zig bindings for the Wasmer WebAssembly runtime",
+    "topics": [
+      "wasi",
+      "wasm",
+      "wasmer",
+      "zig",
+      "zig-library"
+    ],
+    "owner": {
+      "name": "zigwasm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/84904715?v=4"
+    },
+    "stars": 53,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 6,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2022-02-13T19:44:47.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-05-25T14:29:51.000Z",
+    "updatedAt": "2024-11-20T03:55:43.000Z"
+  },
+  {
+    "id": "zigwasm/wasmtime-zig",
+    "name": "zigwasm/wasmtime-zig",
+    "description": "Zig embedding of Wasmtime",
+    "topics": [
+      "wasi",
+      "wasm",
+      "wasmtime",
+      "zig",
+      "zig-library"
+    ],
+    "owner": {
+      "name": "zigwasm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/84904715?v=4"
+    },
+    "stars": 83,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 8,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2022-08-19T07:10:44.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-05-14T17:44:48.000Z",
+    "updatedAt": "2024-11-20T03:55:44.000Z"
+  },
+  {
+    "id": "zigzap/zap",
+    "name": "zigzap/zap",
+    "description": "blazingly fast backends in zig",
+    "topics": [
+      "api",
+      "blazingly",
+      "fast",
+      "http",
+      "rest",
+      "zig",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "zigzap",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125233599?v=4"
+    },
+    "stars": 2372,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 79,
+    "primaryLanguage": "C#",
+    "pushedAt": "2024-10-20T21:42:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-01-12T21:36:31.000Z",
+    "updatedAt": "2024-11-20T03:55:39.000Z"
+  },
+  {
+    "id": "zon-dev/zinc",
+    "name": "zon-dev/zinc",
+    "description": "Zinc is a web framework written in pure Zig with a focus on high performance, usability, security, and extensibility.",
+    "topics": [
+      "api",
+      "epoll",
+      "framework",
+      "kqueue",
+      "performance",
+      "resetful",
+      "rest-api",
+      "usability",
+      "web",
+      "web-development",
+      "web-framework",
+      "zig",
+      "zig-package",
+      "zig-zinc",
+      "ziglang",
+      "zinc"
+    ],
+    "owner": {
+      "name": "zon-dev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/163546630?v=4"
+    },
+    "stars": 29,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-10-27T09:05:35.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-03-19T12:40:08.000Z",
+    "updatedAt": "2024-11-20T03:55:45.000Z"
+  }
+]
