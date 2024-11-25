@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family:
+    Inter var,
+    ui-sans-serif,
+    system-ui,
+    sans-serif,
+    Apple Color Emoji,
+    Segoe UI Emoji,
+    Segoe UI Symbol,
+    Noto Color Emoji;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .mantine-hover {
+    @mixin hover {
+      @mixin where-light {
+        background-color: var(--mantine-color-gray-0);
+      }
+
+      @mixin where-dark {
+        background-color: var(--mantine-color-dark-6);
+      }
+    }
+  }
+}
