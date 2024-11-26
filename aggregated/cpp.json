@@ -1580,10 +1580,10 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 338906,
+    "stars": 339643,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 61740,
+    "forks": 61802,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-11-20T16:18:47.000Z",
     "archived": false,
@@ -1592,7 +1592,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-11-23T06:00:14.000Z"
+    "updatedAt": "2024-11-26T02:43:48.000Z"
   },
   {
     "id": "Embarcadero/Dev-Cpp",
@@ -5219,19 +5219,19 @@
       "name": "auto-differentiation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/134167429?v=4"
     },
-    "stars": 258,
+    "stars": 291,
     "starsDetail": null,
     "license": "GNU Affero General Public License v3.0",
     "forks": 37,
     "primaryLanguage": "CMake",
-    "pushedAt": "2024-11-19T16:09:54.000Z",
+    "pushedAt": "2024-11-25T08:28:17.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-07T14:00:21.000Z",
-    "updatedAt": "2024-11-23T06:08:30.000Z"
+    "updatedAt": "2024-11-26T02:50:47.000Z"
   },
   {
     "id": "autodiff/autodiff",
@@ -9456,6 +9456,41 @@
     "updatedAt": "2024-11-19T12:23:56.000Z"
   },
   {
+    "id": "fastfloat/fast_float",
+    "name": "fastfloat/fast_float",
+    "description": "Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12, Chromium, Redis and WebKit/Safari",
+    "topics": [
+      "cpp-library",
+      "cpp11",
+      "cpp17",
+      "freebsd",
+      "high-performance",
+      "linux",
+      "macos",
+      "neon",
+      "simd",
+      "sse2",
+      "visual-studio"
+    ],
+    "owner": {
+      "name": "fastfloat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/74873565?v=4"
+    },
+    "stars": 1596,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 138,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-11-25T20:49:40.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-10-19T16:00:53.000Z",
+    "updatedAt": "2024-11-26T02:43:43.000Z"
+  },
+  {
     "id": "felixguendling/cista",
     "name": "felixguendling/cista",
     "description": "Cista is a simple, high-performance, zero-copy C++ serialization & reflection library.",
@@ -9560,19 +9595,19 @@
       "name": "flashlight",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67613832?v=4"
     },
-    "stars": 5289,
+    "stars": 5292,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 497,
     "primaryLanguage": "Shell",
-    "pushedAt": "2024-11-14T21:45:15.000Z",
+    "pushedAt": "2024-11-23T22:13:12.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T18:28:47.000Z",
-    "updatedAt": "2024-11-23T05:59:54.000Z"
+    "updatedAt": "2024-11-26T02:43:31.000Z"
   },
   {
     "id": "flavio/qjson",
@@ -15340,19 +15375,19 @@
       "name": "microsoft",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
-    "stars": 164629,
+    "stars": 164704,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 29426,
+    "forks": 29451,
     "primaryLanguage": "Hack",
-    "pushedAt": "2024-11-23T04:14:20.000Z",
+    "pushedAt": "2024-11-26T02:40:06.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-03T20:23:38.000Z",
-    "updatedAt": "2024-11-23T06:07:32.000Z"
+    "updatedAt": "2024-11-26T02:49:57.000Z"
   },
   {
     "id": "mikke89/RmlUi",
@@ -21220,7 +21255,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2024-11-25T12:43:50.000Z"
+    "updatedAt": "2024-11-26T02:38:40.000Z"
   },
   {
     "id": "uncrustify/uncrustify",
@@ -22265,7 +22300,7 @@
       "name": "ycm-core",
       "avatarUrl": "https://avatars.githubusercontent.com/u/52140259?v=4"
     },
-    "stars": 25474,
+    "stars": 25476,
     "starsDetail": null,
     "license": "GNU General Public License v3.0",
     "forks": 2808,
@@ -22277,7 +22312,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2024-11-25T12:43:33.000Z"
+    "updatedAt": "2024-11-26T02:38:24.000Z"
   },
   {
     "id": "yhirose/cpp-httplib",
@@ -22500,7 +22535,7 @@
       "name": "zlib-ng",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45075615?v=4"
     },
-    "stars": 1243,
+    "stars": 1244,
     "starsDetail": null,
     "license": "Other",
     "forks": 434,
@@ -22512,7 +22547,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-01-21T19:17:23.000Z",
-    "updatedAt": "2024-11-23T05:59:35.000Z"
+    "updatedAt": "2024-11-26T02:43:14.000Z"
   },
   {
     "id": "zlib-ng/zlib-ng",

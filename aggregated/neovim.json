@@ -93,6 +93,38 @@
     "updatedAt": "2024-11-20T03:26:41.000Z"
   },
   {
+    "id": "2KAbhishek/exercism.nvim",
+    "name": "2KAbhishek/exercism.nvim",
+    "description": "Exercism Meets Neovim 💪🧠",
+    "topics": [
+      "exercism",
+      "language",
+      "learning",
+      "neovim",
+      "plugins",
+      "practice",
+      "programming",
+      "workflow"
+    ],
+    "owner": {
+      "name": "2KAbhishek",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25423853?v=4"
+    },
+    "stars": 9,
+    "starsDetail": null,
+    "license": "GNU General Public License v3.0",
+    "forks": 0,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-11-22T15:06:13.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-11-14T03:54:21.000Z",
+    "updatedAt": "2024-11-26T02:46:33.000Z"
+  },
+  {
     "id": "2KAbhishek/markit.nvim",
     "name": "2KAbhishek/markit.nvim",
     "description": "Better marks for Neovim 🏹❌",
@@ -473,7 +505,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-22T05:32:15.000Z",
-    "updatedAt": "2024-11-23T06:03:32.000Z"
+    "updatedAt": "2024-11-26T02:46:35.000Z"
   },
   {
     "id": "Abstract-IDE/Abstract-cs",
@@ -1408,6 +1440,61 @@
     "goImportedBy": null,
     "createdAt": "2022-11-24T13:47:04.000Z",
     "updatedAt": "2024-11-20T03:21:42.000Z"
+  },
+  {
+    "id": "Dan7h3x/neaterm.nvim",
+    "name": "Dan7h3x/neaterm.nvim",
+    "description": "A little (smart maybe) terminal plugin for neovim.",
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "terminal",
+      "vim"
+    ],
+    "owner": {
+      "name": "Dan7h3x",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/123359596?v=4"
+    },
+    "stars": 31,
+    "starsDetail": null,
+    "license": "GNU General Public License v3.0",
+    "forks": 0,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2024-11-22T07:58:31.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-10-10T11:51:30.000Z",
+    "updatedAt": "2024-11-26T02:46:32.000Z"
+  },
+  {
+    "id": "Dan7h3x/signup.nvim",
+    "name": "Dan7h3x/signup.nvim",
+    "description": "A little (smart maybe) lsp signature helper for neovim.",
+    "topics": [
+      "lsp",
+      "neovim",
+      "neovim-plugin"
+    ],
+    "owner": {
+      "name": "Dan7h3x",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/123359596?v=4"
+    },
+    "stars": 22,
+    "starsDetail": null,
+    "license": "GNU General Public License v3.0",
+    "forks": 0,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2024-11-25T21:03:33.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-10-03T09:50:30.000Z",
+    "updatedAt": "2024-11-26T02:46:28.000Z"
   },
   {
     "id": "Darazaki/indent-o-matic",
@@ -27413,6 +27500,29 @@
     "goImportedBy": null,
     "createdAt": "2023-03-16T00:38:20.000Z",
     "updatedAt": "2024-11-20T03:27:58.000Z"
+  },
+  {
+    "id": "you-n-g/navigate-note.nvim",
+    "name": "you-n-g/navigate-note.nvim",
+    "description": "",
+    "topics": [],
+    "owner": {
+      "name": "you-n-g",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/465606?v=4"
+    },
+    "stars": 2,
+    "starsDetail": null,
+    "license": null,
+    "forks": 0,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-11-24T15:25:30.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-11-09T12:27:53.000Z",
+    "updatedAt": "2024-11-26T02:46:30.000Z"
   },
   {
     "id": "you-n-g/simplegpt.nvim",
