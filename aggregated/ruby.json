@@ -5212,33 +5212,6 @@
     "updatedAt": "2024-11-19T12:38:55.000Z"
   },
   {
-    "id": "ctran/annotate_models",
-    "name": "ctran/annotate_models",
-    "description": "Annotate Rails classes with schema and routes info",
-    "topics": [
-      "activerecord",
-      "rails",
-      "ruby"
-    ],
-    "owner": {
-      "name": "ctran",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/491?v=4"
-    },
-    "stars": 4425,
-    "starsDetail": null,
-    "license": "Other",
-    "forks": 616,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2024-08-05T23:45:54.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2008-02-27T18:04:38.000Z",
-    "updatedAt": "2024-11-19T12:37:34.000Z"
-  },
-  {
     "id": "cucumber/aruba",
     "name": "cucumber/aruba",
     "description": "Test command-line applications with Cucumber-Ruby, RSpec or Minitest.",

@@ -16329,6 +16329,36 @@
     "updatedAt": "2024-10-19T06:58:18.000Z"
   },
   {
+    "id": "charlievieth/strcase",
+    "name": "charlievieth/strcase",
+    "description": "Case-insensitive implementation of Go's strings package.",
+    "topics": [
+      "case-insensitive",
+      "case-insensitive-stings",
+      "go",
+      "golang",
+      "strings",
+      "unicode"
+    ],
+    "owner": {
+      "name": "charlievieth",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4875142?v=4"
+    },
+    "stars": 5,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-11-23T05:05:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-12-05T20:42:18.000Z",
+    "updatedAt": "2024-11-26T15:16:32.000Z"
+  },
+  {
     "id": "charmbracelet/bubbles",
     "name": "charmbracelet/bubbles",
     "description": "TUI components for Bubble Tea 🫧",
