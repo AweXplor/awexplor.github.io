@@ -4060,39 +4060,6 @@
     "updatedAt": "2024-10-19T07:12:44.000Z"
   },
   {
-    "id": "NYTimes/gizmo",
-    "name": "NYTimes/gizmo",
-    "description": "A Microservice Toolkit from The New York Times",
-    "topics": [
-      "gizmo",
-      "go",
-      "google-pubsub",
-      "googlecloud",
-      "http-server",
-      "kafka",
-      "pubsub",
-      "sns",
-      "sqs"
-    ],
-    "owner": {
-      "name": "nytimes",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/221409?v=4"
-    },
-    "stars": 3764,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 224,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2023-07-13T14:31:44.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/NYTimes/gizmo",
-    "goImportedBy": 1,
-    "createdAt": "2015-12-15T18:09:36.000Z",
-    "updatedAt": "2024-10-19T07:14:23.000Z"
-  },
-  {
     "id": "NdoleStudio/go-otelroundtripper",
     "name": "NdoleStudio/go-otelroundtripper",
     "description": "Go http.RoundTripper that emits open telemetry metrics. This helps you easily get metrics for all external APIs you interact with.",
@@ -6993,43 +6960,6 @@
     "updatedAt": "2024-10-19T07:12:54.000Z"
   },
   {
-    "id": "abahmed/gearbox",
-    "name": "abahmed/gearbox",
-    "description": "Gearbox :gear: is a web framework written in Go with a focus on high performance",
-    "topics": [
-      "api",
-      "fasthttp",
-      "framework",
-      "gearbox",
-      "go",
-      "golang",
-      "http",
-      "microservice",
-      "middleware",
-      "performance",
-      "rest",
-      "router",
-      "web"
-    ],
-    "owner": {
-      "name": "gogearbox",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/65787373?v=4"
-    },
-    "stars": 757,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 54,
-    "primaryLanguage": "Go",
-    "pushedAt": "2023-08-29T07:26:20.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/gogearbox/gearbox",
-    "goImportedBy": 11,
-    "createdAt": "2020-04-25T01:28:37.000Z",
-    "updatedAt": "2024-10-19T07:14:24.000Z"
-  },
-  {
     "id": "abahmed/kwatch",
     "name": "abahmed/kwatch",
     "description": ":eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly",
@@ -7869,34 +7799,6 @@
     "updatedAt": "2024-10-19T07:13:23.000Z"
   },
   {
-    "id": "aerogo/aero",
-    "name": "aerogo/aero",
-    "description": ":bullettrain_side: High-performance web server for Go (2016). New alpha (2024) with even better performance is currently in development at https://git.akyoto.dev/go/web",
-    "topics": [
-      "go",
-      "high-performance",
-      "server",
-      "web"
-    ],
-    "owner": {
-      "name": "aerogo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23358597?v=4"
-    },
-    "stars": 572,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 33,
-    "primaryLanguage": "Go",
-    "pushedAt": "2024-02-21T09:57:14.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/aerogo/aero",
-    "goImportedBy": 0,
-    "createdAt": "2016-11-09T13:02:13.000Z",
-    "updatedAt": "2024-10-19T07:14:22.000Z"
-  },
-  {
     "id": "aerogo/codetree",
     "name": "aerogo/codetree",
     "description": ":evergreen_tree: Parses indented code and returns a tree structure.",
@@ -8383,39 +8285,6 @@
     "goImportedBy": 8,
     "createdAt": "2021-02-05T17:27:05.000Z",
     "updatedAt": "2024-10-19T06:57:46.000Z"
-  },
-  {
-    "id": "aisk/vox",
-    "name": "aisk/vox",
-    "description": "Simple and lightweight Go web framework inspired by koa",
-    "topics": [
-      "express",
-      "go",
-      "golang",
-      "koa",
-      "lightweight",
-      "lightweight-framework",
-      "sinatra",
-      "web",
-      "webframework"
-    ],
-    "owner": {
-      "name": "aisk",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/699636?v=4"
-    },
-    "stars": 84,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 7,
-    "primaryLanguage": "Go",
-    "pushedAt": "2022-12-10T04:57:26.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/aisk/vox",
-    "goImportedBy": 0,
-    "createdAt": "2014-12-24T11:22:08.000Z",
-    "updatedAt": "2024-10-19T07:14:27.000Z"
   },
   {
     "id": "ajstarks/svgo",
@@ -10567,29 +10436,6 @@
     "updatedAt": "2024-10-19T07:13:54.000Z"
   },
   {
-    "id": "ant0ine/go-json-rest",
-    "name": "ant0ine/go-json-rest",
-    "description": "A quick and easy way to setup a RESTful JSON API",
-    "topics": [],
-    "owner": {
-      "name": "ant0ine",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/40227?v=4"
-    },
-    "stars": 3514,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 382,
-    "primaryLanguage": "Go",
-    "pushedAt": "2021-01-23T18:47:50.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2013-02-19T03:15:45.000Z",
-    "updatedAt": "2024-10-19T07:14:24.000Z"
-  },
-  {
     "id": "antchfx/antch",
     "name": "antchfx/antch",
     "description": "Antch, a fast, powerful and extensible web crawling & scraping framework for Go",
@@ -10982,34 +10828,6 @@
     "updatedAt": "2024-10-19T06:57:32.000Z"
   },
   {
-    "id": "aofei/air",
-    "name": "aofei/air",
-    "description": "An ideally refined web framework for Go.",
-    "topics": [
-      "air",
-      "framework",
-      "go",
-      "web"
-    ],
-    "owner": {
-      "name": "aofei",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5037285?v=4"
-    },
-    "stars": 440,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 37,
-    "primaryLanguage": "Go",
-    "pushedAt": "2023-03-07T01:03:38.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/aofei/air",
-    "goImportedBy": 17,
-    "createdAt": "2016-07-20T12:09:48.000Z",
-    "updatedAt": "2024-10-19T07:14:22.000Z"
-  },
-  {
     "id": "aofei/cameron",
     "name": "aofei/cameron",
     "description": "An avatar generator for Go.",
@@ -11242,39 +11060,6 @@
     "goImportedBy": 0,
     "createdAt": "2020-02-19T16:32:41.000Z",
     "updatedAt": "2024-10-19T07:14:09.000Z"
-  },
-  {
-    "id": "appist/appy",
-    "name": "appist/appy",
-    "description": "An opinionated productive web framework that helps scaling business easier.",
-    "topics": [
-      "12factor",
-      "docker",
-      "full-stack",
-      "golang",
-      "graphql",
-      "mailer",
-      "prerender",
-      "sveltekit",
-      "worker"
-    ],
-    "owner": {
-      "name": "appist",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9263202?v=4"
-    },
-    "stars": 132,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 14,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2024-03-07T17:15:23.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/appist/appy",
-    "goImportedBy": 0,
-    "createdAt": "2019-05-27T04:48:59.000Z",
-    "updatedAt": "2024-10-19T07:14:22.000Z"
   },
   {
     "id": "appleboy/drone-jenkins",
@@ -17231,6 +17016,43 @@
     "updatedAt": "2024-10-19T07:12:54.000Z"
   },
   {
+    "id": "claceio/clace",
+    "name": "claceio/clace",
+    "description": "Webapp management for internal tools, app server for containerized apps",
+    "topics": [
+      "application-server",
+      "appserver",
+      "containers",
+      "devops-tools",
+      "docker",
+      "golang",
+      "htmx",
+      "internal-applications",
+      "internal-tools",
+      "low-code-platform",
+      "self-hosted",
+      "starlark",
+      "webapp"
+    ],
+    "owner": {
+      "name": "claceio",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/130697263?v=4"
+    },
+    "stars": 485,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 9,
+    "primaryLanguage": "Python",
+    "pushedAt": "2024-11-26T21:05:02.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-04-13T18:29:51.000Z",
+    "updatedAt": "2024-11-27T15:25:03.000Z"
+  },
+  {
     "id": "claygod/Bxog",
     "name": "claygod/Bxog",
     "description": "Bxog is a simple and fast HTTP router for Go (HTTP request multiplexer).",
@@ -21740,38 +21562,6 @@
     "updatedAt": "2024-10-19T07:13:55.000Z"
   },
   {
-    "id": "dinever/golf",
-    "name": "dinever/golf",
-    "description": ":golf: The Golf web framework",
-    "topics": [
-      "framework",
-      "go",
-      "golf",
-      "middleware",
-      "router",
-      "server",
-      "web",
-      "webframework"
-    ],
-    "owner": {
-      "name": "dinever",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1311594?v=4"
-    },
-    "stars": 269,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 30,
-    "primaryLanguage": "Go",
-    "pushedAt": "2021-08-27T22:20:34.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2015-11-18T15:10:14.000Z",
-    "updatedAt": "2024-10-19T07:14:24.000Z"
-  },
-  {
     "id": "dinopuguh/gosentiwordnet",
     "name": "dinopuguh/gosentiwordnet",
     "description": "💬 Sentiment analyzer library using SentiWordnet in Go",
@@ -26261,29 +26051,6 @@
     "updatedAt": "2024-10-19T07:13:30.000Z"
   },
   {
-    "id": "fulldump/golax",
-    "name": "fulldump/golax",
-    "description": "Golax, a go implementation for the Lax framework.",
-    "topics": [],
-    "owner": {
-      "name": "fulldump",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2371070?v=4"
-    },
-    "stars": 75,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 7,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2023-01-11T00:34:09.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/fulldump/golax",
-    "goImportedBy": 6,
-    "createdAt": "2016-01-30T19:11:39.000Z",
-    "updatedAt": "2024-10-19T07:14:25.000Z"
-  },
-  {
     "id": "furdarius/rabbitroutine",
     "name": "furdarius/rabbitroutine",
     "description": "Lightweight library that handles RabbitMQ auto-reconnect and publishing retry routine for you.",
@@ -27215,34 +26982,6 @@
     "goImportedBy": 0,
     "createdAt": "2016-01-30T23:23:10.000Z",
     "updatedAt": "2024-10-19T07:14:30.000Z"
-  },
-  {
-    "id": "gernest/utron",
-    "name": "gernest/utron",
-    "description": "A lightweight MVC framework for Go(Golang)",
-    "topics": [
-      "golang",
-      "lightweight-mvc-framework",
-      "mvc",
-      "utron"
-    ],
-    "owner": {
-      "name": "gernest",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6039952?v=4"
-    },
-    "stars": 2217,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 149,
-    "primaryLanguage": "Smarty",
-    "pushedAt": "2018-10-28T20:04:59.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/gernest/utron",
-    "goImportedBy": 27,
-    "createdAt": "2015-09-16T07:55:54.000Z",
-    "updatedAt": "2024-10-19T07:14:27.000Z"
   },
   {
     "id": "get-woke/woke",
@@ -28703,34 +28442,6 @@
     "updatedAt": "2024-10-19T07:13:50.000Z"
   },
   {
-    "id": "go-macaron/macaron",
-    "name": "go-macaron/macaron",
-    "description": "Package macaron is a high productive and modular web framework in Go.",
-    "topics": [
-      "go",
-      "lsif-enabled",
-      "macaron",
-      "web-framework"
-    ],
-    "owner": {
-      "name": "go-macaron",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11359481?v=4"
-    },
-    "stars": 3510,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 284,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2024-10-08T03:03:25.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "gopkg.in/macaron.v1",
-    "goImportedBy": 3273,
-    "createdAt": "2014-07-10T03:13:30.000Z",
-    "updatedAt": "2024-10-19T07:14:26.000Z"
-  },
-  {
     "id": "go-nunu/nunu",
     "name": "go-nunu/nunu",
     "description": "A CLI tool for building Go applications.",
@@ -29649,29 +29360,6 @@
     "updatedAt": "2024-10-19T07:13:35.000Z"
   },
   {
-    "id": "go-the-way/anoweb",
-    "name": "go-the-way/anoweb",
-    "description": "The lightweight and powerful web framework using the new way for Go.Another go the way.",
-    "topics": [],
-    "owner": {
-      "name": "go-the-way",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/96610258?v=4"
-    },
-    "stars": 5,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 0,
-    "primaryLanguage": "Go",
-    "pushedAt": "2022-07-18T05:36:40.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/go-the-way/anoweb",
-    "goImportedBy": 0,
-    "createdAt": "2022-03-03T01:29:30.000Z",
-    "updatedAt": "2024-10-19T07:14:22.000Z"
-  },
-  {
     "id": "go-the-way/exl",
     "name": "go-the-way/exl",
     "description": "Excel binding to struct written in Go.(Only supports Go1.18+)",
@@ -29850,34 +29538,6 @@
     "updatedAt": "2024-10-19T07:13:06.000Z"
   },
   {
-    "id": "goa-go/goa",
-    "name": "goa-go/goa",
-    "description": "Goa is a  web framework based on middleware, like koa.js.",
-    "topics": [
-      "framework",
-      "goa",
-      "golang",
-      "middleware"
-    ],
-    "owner": {
-      "name": "goa-go",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/53331437?v=4"
-    },
-    "stars": 49,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 5,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2019-12-06T10:29:45.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/goa-go/goa",
-    "goImportedBy": 3,
-    "createdAt": "2019-07-26T07:12:23.000Z",
-    "updatedAt": "2024-10-19T07:14:24.000Z"
-  },
-  {
     "id": "goadesign/goa",
     "name": "goadesign/goa",
     "description": "🌟 Goa: Elevate Go API development! 🚀 Streamlined design, automatic code generation, and seamless HTTP/gRPC support. ✨",
@@ -29909,38 +29569,6 @@
     "goImportedBy": 0,
     "createdAt": "2014-12-05T07:17:53.000Z",
     "updatedAt": "2024-10-19T07:14:24.000Z"
-  },
-  {
-    "id": "goanywhere/rex",
-    "name": "goanywhere/rex",
-    "description": "Pleasures for Web in Golang",
-    "topics": [
-      "benchmark",
-      "go",
-      "golang",
-      "middleware",
-      "modular",
-      "rex",
-      "scale",
-      "stdlib"
-    ],
-    "owner": {
-      "name": "goanywhere",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9260808?v=4"
-    },
-    "stars": 33,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 3,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2017-12-22T03:25:41.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2014-10-16T02:26:18.000Z",
-    "updatedAt": "2024-10-19T07:14:26.000Z"
   },
   {
     "id": "goava/di",
@@ -32454,35 +32082,6 @@
     "updatedAt": "2024-10-19T06:57:47.000Z"
   },
   {
-    "id": "gopulse/pulse",
-    "name": "gopulse/pulse",
-    "description": "Pulse: A Golang framework for web development",
-    "topics": [
-      "go",
-      "golang",
-      "golang-framework",
-      "gopulse",
-      "web"
-    ],
-    "owner": {
-      "name": "gopulse",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/129461281?v=4"
-    },
-    "stars": 37,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 5,
-    "primaryLanguage": "Go",
-    "pushedAt": "2023-04-26T22:51:17.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/gopulse/pulse",
-    "goImportedBy": 1,
-    "createdAt": "2023-03-31T00:49:48.000Z",
-    "updatedAt": "2024-10-19T07:14:26.000Z"
-  },
-  {
     "id": "goradd/got",
     "name": "goradd/got",
     "description": "GoT is a template engine that turns templates into Go code to compile into your app.",
@@ -33095,36 +32694,6 @@
     "goImportedBy": 0,
     "createdAt": "2015-08-13T13:09:46.000Z",
     "updatedAt": "2024-10-19T06:57:53.000Z"
-  },
-  {
-    "id": "gotuna/gotuna",
-    "name": "gotuna/gotuna",
-    "description": "GoTuna a lightweight web framework for Go with mux router, middlewares, user sessions, templates, embedded views, and static file server.",
-    "topics": [
-      "framework",
-      "go",
-      "golang",
-      "router",
-      "web",
-      "webapp"
-    ],
-    "owner": {
-      "name": "gotuna",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/82163094?v=4"
-    },
-    "stars": 48,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 22,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2023-08-31T09:50:12.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/gotuna/gotuna",
-    "goImportedBy": 6,
-    "createdAt": "2021-04-08T14:08:08.000Z",
-    "updatedAt": "2024-10-19T07:14:25.000Z"
   },
   {
     "id": "govalues/decimal",
@@ -37579,34 +37148,6 @@
     "goImportedBy": 0,
     "createdAt": "2015-07-22T00:15:04.000Z",
     "updatedAt": "2024-10-19T06:57:50.000Z"
-  },
-  {
-    "id": "ivpusic/neo",
-    "name": "ivpusic/neo",
-    "description": "Go Web Framework",
-    "topics": [
-      "framework",
-      "go",
-      "golang",
-      "neo"
-    ],
-    "owner": {
-      "name": "ivpusic",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/450140?v=4"
-    },
-    "stars": 419,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 43,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2022-11-19T20:12:13.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2015-02-04T19:16:06.000Z",
-    "updatedAt": "2024-10-19T07:14:26.000Z"
   },
   {
     "id": "ivpusic/rerun",
@@ -44400,33 +43941,6 @@
     "updatedAt": "2024-10-19T07:13:11.000Z"
   },
   {
-    "id": "lunny/tango",
-    "name": "lunny/tango",
-    "description": "This is only a mirror and Moved to https://gitea.com/lunny/tango",
-    "topics": [
-      "golang",
-      "middleware",
-      "webframework"
-    ],
-    "owner": {
-      "name": "lunny",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81045?v=4"
-    },
-    "stars": 832,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 109,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2019-05-17T03:31:14.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/lunny/tango",
-    "goImportedBy": 100,
-    "createdAt": "2014-12-17T03:07:09.000Z",
-    "updatedAt": "2024-10-19T07:14:27.000Z"
-  },
-  {
     "id": "luno/workflow",
     "name": "luno/workflow",
     "description": "A tech stack agnostic Event Driven Workflow framework, written in Go, that supports durable, robust, and idempotent state changes with timeouts, callbacks, scheduled triggers, and await calls. Compatible with Kafka and Reflex out of the box.",
@@ -49626,35 +49140,6 @@
     "updatedAt": "2024-10-19T06:57:53.000Z"
   },
   {
-    "id": "mustafaakin/gongular",
-    "name": "mustafaakin/gongular",
-    "description": "A different approach to Go web frameworks",
-    "topics": [
-      "dependency-injection",
-      "framework",
-      "go",
-      "middleware",
-      "web"
-    ],
-    "owner": {
-      "name": "mustafaakin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/803763?v=4"
-    },
-    "stars": 500,
-    "starsDetail": null,
-    "license": "Other",
-    "forks": 19,
-    "primaryLanguage": "Go",
-    "pushedAt": "2020-07-05T14:40:50.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/mustafaakin/gongular",
-    "goImportedBy": 4,
-    "createdAt": "2016-06-22T11:52:42.000Z",
-    "updatedAt": "2024-10-19T07:14:25.000Z"
-  },
-  {
     "id": "mustafaturan/bus",
     "name": "mustafaturan/bus",
     "description": "🔊Minimalist message bus implementation for internal communication with zero-allocation magic on Emit",
@@ -52034,29 +51519,6 @@
     "goImportedBy": 2236,
     "createdAt": "2012-01-12T21:03:03.000Z",
     "updatedAt": "2024-10-19T06:56:41.000Z"
-  },
-  {
-    "id": "nsheremet/banjo",
-    "name": "nsheremet/banjo",
-    "description": "BANjO is a simple web framework written in Go (golang)",
-    "topics": [],
-    "owner": {
-      "name": "gdwrd",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4730717?v=4"
-    },
-    "stars": 24,
-    "starsDetail": null,
-    "license": "Mozilla Public License 2.0",
-    "forks": 7,
-    "primaryLanguage": "Go",
-    "pushedAt": "2018-01-31T16:42:14.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2017-12-09T13:35:31.000Z",
-    "updatedAt": "2024-10-19T07:14:23.000Z"
   },
   {
     "id": "nsqio/go-nsq",
@@ -54579,29 +54041,6 @@
     "goImportedBy": 27,
     "createdAt": "2017-12-09T15:10:06.000Z",
     "updatedAt": "2024-10-19T06:58:14.000Z"
-  },
-  {
-    "id": "paulbellamy/mango",
-    "name": "paulbellamy/mango",
-    "description": "Mango is a modular web-application framework for Go, inspired by Rack, and PEP333.",
-    "topics": [],
-    "owner": {
-      "name": "paulbellamy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/250199?v=4"
-    },
-    "stars": 372,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 38,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2017-10-17T08:18:44.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2011-05-25T07:26:46.000Z",
-    "updatedAt": "2024-10-19T07:14:26.000Z"
   },
   {
     "id": "paulmach/orb",
@@ -57625,29 +57064,6 @@
     "updatedAt": "2024-10-19T06:56:43.000Z"
   },
   {
-    "id": "rainycape/gondola",
-    "name": "rainycape/gondola",
-    "description": "The web framework for writing faster sites, faster",
-    "topics": [],
-    "owner": {
-      "name": "rainycape",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5213142?v=4"
-    },
-    "stars": 312,
-    "starsDetail": null,
-    "license": "Mozilla Public License 2.0",
-    "forks": 26,
-    "primaryLanguage": "C",
-    "pushedAt": "2019-02-19T00:41:28.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2014-07-25T21:28:55.000Z",
-    "updatedAt": "2024-10-19T07:14:24.000Z"
-  },
-  {
     "id": "raja/argon2pw",
     "name": "raja/argon2pw",
     "description": "Argon2 password hashing package for go with constant time hash comparison",
@@ -58017,29 +57433,6 @@
     "updatedAt": "2024-10-19T07:13:50.000Z"
   },
   {
-    "id": "rcrowley/go-tigertonic",
-    "name": "rcrowley/go-tigertonic",
-    "description": "A Go framework for building JSON web services inspired by Dropwizard",
-    "topics": [],
-    "owner": {
-      "name": "rcrowley",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11151?v=4"
-    },
-    "stars": 996,
-    "starsDetail": null,
-    "license": "Other",
-    "forks": 79,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2018-07-24T09:26:32.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2013-02-09T21:16:13.000Z",
-    "updatedAt": "2024-10-19T07:14:27.000Z"
-  },
-  {
     "id": "rdrdr/hamcrest",
     "name": "rdrdr/hamcrest",
     "description": "Hamcrest matchers for the Go programming language",
@@ -58388,29 +57781,6 @@
     "goImportedBy": 22,
     "createdAt": "2022-03-06T23:09:02.000Z",
     "updatedAt": "2024-10-19T06:57:41.000Z"
-  },
-  {
-    "id": "resoursea/api",
-    "name": "resoursea/api",
-    "description": "A REST framework for quickly writing resource based services in Golang.",
-    "topics": [],
-    "owner": {
-      "name": "resoursea",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8771104?v=4"
-    },
-    "stars": 35,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 4,
-    "primaryLanguage": "Go",
-    "pushedAt": "2015-02-01T22:58:21.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2015-01-24T18:45:30.000Z",
-    "updatedAt": "2024-10-19T07:14:26.000Z"
   },
   {
     "id": "restic/restic",
@@ -59777,40 +59147,6 @@
     "goImportedBy": 0,
     "createdAt": "2015-03-19T23:52:28.000Z",
     "updatedAt": "2024-10-19T07:14:28.000Z"
-  },
-  {
-    "id": "rs/rest-layer",
-    "name": "rs/rest-layer",
-    "description": "REST Layer, Go (golang) REST API framework",
-    "topics": [
-      "api",
-      "api-documentation",
-      "api-server",
-      "framework",
-      "go",
-      "graphql",
-      "json-schema",
-      "rest-api",
-      "schema-fields",
-      "storage-backend"
-    ],
-    "owner": {
-      "name": "rs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/68232?v=4"
-    },
-    "stars": 1255,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 114,
-    "primaryLanguage": "Go",
-    "pushedAt": "2021-10-01T07:21:48.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/rs/rest-layer",
-    "goImportedBy": 0,
-    "createdAt": "2015-07-29T19:16:20.000Z",
-    "updatedAt": "2024-10-19T07:14:26.000Z"
   },
   {
     "id": "rs/xid",
@@ -68384,34 +67720,6 @@
     "updatedAt": "2024-10-19T07:14:18.000Z"
   },
   {
-    "id": "twharmon/goweb",
-    "name": "twharmon/goweb",
-    "description": "Lightweight web framework based on net/http.",
-    "topics": [
-      "api",
-      "go",
-      "web",
-      "web-framework"
-    ],
-    "owner": {
-      "name": "twharmon",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16892444?v=4"
-    },
-    "stars": 36,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 5,
-    "primaryLanguage": "Go",
-    "pushedAt": "2022-08-30T15:51:01.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/twharmon/goweb",
-    "goImportedBy": 0,
-    "createdAt": "2019-05-07T21:04:43.000Z",
-    "updatedAt": "2024-10-19T07:14:25.000Z"
-  },
-  {
     "id": "twharmon/slices",
     "name": "twharmon/slices",
     "description": "Pure functions for slices.",
@@ -69162,29 +68470,6 @@
     "goImportedBy": 90,
     "createdAt": "2014-02-28T13:49:31.000Z",
     "updatedAt": "2024-10-19T07:14:03.000Z"
-  },
-  {
-    "id": "ungerik/go-rest",
-    "name": "ungerik/go-rest",
-    "description": "A small and evil REST framework for Go",
-    "topics": [],
-    "owner": {
-      "name": "ungerik",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/617459?v=4"
-    },
-    "stars": 128,
-    "starsDetail": null,
-    "license": null,
-    "forks": 16,
-    "primaryLanguage": "Go",
-    "pushedAt": "2017-01-20T13:26:12.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2012-07-13T10:02:15.000Z",
-    "updatedAt": "2024-10-19T07:14:24.000Z"
   },
   {
     "id": "ungerik/go3d",
@@ -73340,37 +72625,6 @@
     "updatedAt": "2024-10-19T06:56:37.000Z"
   },
   {
-    "id": "yarf-framework/yarf",
-    "name": "yarf-framework/yarf",
-    "description": "Yet Another REST Framework",
-    "topics": [
-      "api",
-      "framework",
-      "go",
-      "golang",
-      "micro-framework",
-      "rest",
-      "yarf"
-    ],
-    "owner": {
-      "name": "yarf-framework",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14116700?v=4"
-    },
-    "stars": 67,
-    "starsDetail": null,
-    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 8,
-    "primaryLanguage": "Go",
-    "pushedAt": "2019-03-07T20:28:46.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2015-09-02T13:56:47.000Z",
-    "updatedAt": "2024-10-19T07:14:27.000Z"
-  },
-  {
     "id": "yaronsumel/filler",
     "name": "yaronsumel/filler",
     "description": "fill struct data easily with fill tags",
@@ -75002,36 +74256,6 @@
     "goImportedBy": 13,
     "createdAt": "2017-08-25T09:21:30.000Z",
     "updatedAt": "2024-10-19T06:57:00.000Z"
-  },
-  {
-    "id": "zpatrick/fireball",
-    "name": "zpatrick/fireball",
-    "description": "Go web framework with a natural feel",
-    "topics": [
-      "awesome-go",
-      "fireball",
-      "go",
-      "golang",
-      "handler",
-      "web"
-    ],
-    "owner": {
-      "name": "ridgelines",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/117859457?v=4"
-    },
-    "stars": 60,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 6,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2018-10-03T21:26:08.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2016-07-20T05:04:54.000Z",
-    "updatedAt": "2024-10-19T07:14:24.000Z"
   },
   {
     "id": "zpatrick/rclient",

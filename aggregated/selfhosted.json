@@ -14156,29 +14156,6 @@
     "updatedAt": "2024-11-26T02:52:40.000Z"
   },
   {
-    "id": "gobby/gobby",
-    "name": "gobby/gobby",
-    "description": "Gobby collaborative editor",
-    "topics": [],
-    "owner": {
-      "name": "gobby",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4432070?v=4"
-    },
-    "stars": 572,
-    "starsDetail": null,
-    "license": "ISC License",
-    "forks": 59,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2023-11-25T18:10:39.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2013-05-14T22:06:12.000Z",
-    "updatedAt": "2024-11-26T02:56:09.000Z"
-  },
-  {
     "id": "gogs/gogs",
     "name": "gogs/gogs",
     "description": "Gogs is a painless self-hosted Git service",
@@ -27092,6 +27069,39 @@
     "goImportedBy": null,
     "createdAt": "2008-03-10T14:45:35.000Z",
     "updatedAt": "2024-11-19T12:37:42.000Z"
+  },
+  {
+    "id": "sqlpage/SQLPage",
+    "name": "sqlpage/SQLPage",
+    "description": "Fast SQL-only data application builder. Automatically build a UI on top of SQL queries. ",
+    "topics": [
+      "database",
+      "framework",
+      "mysql",
+      "postgresql",
+      "server",
+      "serverless",
+      "sql",
+      "sqlite",
+      "web"
+    ],
+    "owner": {
+      "name": "sqlpage",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/184309384?v=4"
+    },
+    "stars": 1648,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 98,
+    "primaryLanguage": "PLpgSQL",
+    "pushedAt": "2024-11-25T23:23:30.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-07-31T23:50:19.000Z",
+    "updatedAt": "2024-11-26T02:57:11.000Z"
   },
   {
     "id": "sshuair/awesome-gis",
