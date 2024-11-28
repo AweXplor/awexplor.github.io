@@ -2713,34 +2713,6 @@
     "updatedAt": "2024-10-19T06:55:10.000Z"
   },
   {
-    "id": "MarcoIeni/release-plz",
-    "name": "MarcoIeni/release-plz",
-    "description": "Publish Rust crates from CI with a Release PR.",
-    "topics": [
-      "ci",
-      "hacktoberfest",
-      "release",
-      "rust"
-    ],
-    "owner": {
-      "name": "MarcoIeni",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11428655?v=4"
-    },
-    "stars": 808,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 78,
-    "primaryLanguage": "MDX",
-    "pushedAt": "2024-10-18T20:25:34.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2021-12-19T18:46:33.000Z",
-    "updatedAt": "2024-10-19T06:55:17.000Z"
-  },
-  {
     "id": "Martin1887/oxigen",
     "name": "Martin1887/oxigen",
     "description": "Fast, parallel, extensible and adaptable genetic algorithms framework written in Rust",
@@ -8390,6 +8362,67 @@
     "updatedAt": "2024-10-19T06:54:31.000Z"
   },
   {
+    "id": "cchexcode/complate",
+    "name": "cchexcode/complate",
+    "description": "A powerful text templating tool.",
+    "topics": [
+      "cli",
+      "commit",
+      "git",
+      "handlebars",
+      "rust",
+      "rust-lang",
+      "standard",
+      "template"
+    ],
+    "owner": {
+      "name": "cchexcode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23293562?v=4"
+    },
+    "stars": 39,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 7,
+    "primaryLanguage": "Rust",
+    "pushedAt": "2024-11-26T23:20:49.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-01-27T17:25:45.000Z",
+    "updatedAt": "2024-11-28T23:07:07.000Z"
+  },
+  {
+    "id": "cchexcode/wavefront_rs",
+    "name": "cchexcode/wavefront_rs",
+    "description": "An alternative, typed and simple wavefront format parser and writer.",
+    "topics": [
+      "obj",
+      "parser",
+      "rust",
+      "wavefront",
+      "writer"
+    ],
+    "owner": {
+      "name": "cchexcode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23293562?v=4"
+    },
+    "stars": 4,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 3,
+    "primaryLanguage": "Earthly",
+    "pushedAt": "2023-04-06T00:35:45.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-04-26T11:22:37.000Z",
+    "updatedAt": "2024-11-28T20:04:46.000Z"
+  },
+  {
     "id": "cds-astro/aladin-lite",
     "name": "cds-astro/aladin-lite",
     "description": "An astronomical HiPS visualizer in the browser",
@@ -13045,7 +13078,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T10:37:00.000Z",
-    "updatedAt": "2024-11-28T10:47:11.000Z"
+    "updatedAt": "2024-11-28T23:11:42.000Z"
   },
   {
     "id": "flxzt/rnote",
@@ -25130,65 +25163,32 @@
     "updatedAt": "2024-10-19T06:55:36.000Z"
   },
   {
-    "id": "replicadse/complate",
-    "name": "replicadse/complate",
-    "description": "A powerful text templating tool.",
+    "id": "release-plz/release-plz",
+    "name": "release-plz/release-plz",
+    "description": "Publish Rust crates from CI with a Release PR.",
     "topics": [
-      "cli",
-      "commit",
-      "git",
-      "handlebars",
-      "rust",
-      "rust-lang",
-      "standard",
-      "template"
+      "ci",
+      "hacktoberfest",
+      "release",
+      "rust"
     ],
     "owner": {
-      "name": "replicadse",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23293562?v=4"
+      "name": "release-plz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/188756284?v=4"
     },
-    "stars": 37,
+    "stars": 853,
     "starsDetail": null,
-    "license": "MIT License",
-    "forks": 7,
-    "primaryLanguage": "Rust",
-    "pushedAt": "2024-10-09T17:36:11.000Z",
+    "license": "Apache License 2.0",
+    "forks": 90,
+    "primaryLanguage": "MDX",
+    "pushedAt": "2024-11-28T14:08:30.000Z",
     "archived": false,
-    "npmPackage": "",
+    "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
-    "createdAt": "2020-01-27T17:25:45.000Z",
-    "updatedAt": "2024-10-19T06:55:05.000Z"
-  },
-  {
-    "id": "replicadse/wavefront_rs",
-    "name": "replicadse/wavefront_rs",
-    "description": "An alternative, typed and simple wavefront format parser and writer.",
-    "topics": [
-      "obj",
-      "parser",
-      "rust",
-      "wavefront",
-      "writer"
-    ],
-    "owner": {
-      "name": "replicadse",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23293562?v=4"
-    },
-    "stars": 4,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 3,
-    "primaryLanguage": "Earthly",
-    "pushedAt": "2023-04-06T00:35:45.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-04-26T11:22:37.000Z",
-    "updatedAt": "2024-10-19T06:56:13.000Z"
+    "createdAt": "2021-12-19T18:46:33.000Z",
+    "updatedAt": "2024-11-28T20:04:46.000Z"
   },
   {
     "id": "replydev/cotp",
@@ -31631,6 +31631,29 @@
     "goImportedBy": null,
     "createdAt": "2020-12-24T23:55:21.000Z",
     "updatedAt": "2024-10-19T06:55:16.000Z"
+  },
+  {
+    "id": "trailbaseio/trailbase",
+    "name": "trailbaseio/trailbase",
+    "description": "A blazingly fast, single-file, open-source application server with type-safe APIs, Auth, and Admin UI built on Rust+SQLite. ",
+    "topics": [],
+    "owner": {
+      "name": "trailbaseio",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/176172021?v=4"
+    },
+    "stars": 145,
+    "starsDetail": null,
+    "license": "Open Software License 3.0",
+    "forks": 5,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-11-28T14:59:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-10-29T09:39:33.000Z",
+    "updatedAt": "2024-11-28T20:04:45.000Z"
   },
   {
     "id": "tramhao/termusic",

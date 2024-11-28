@@ -24715,7 +24715,7 @@
       "name": "quasarframework",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23064371?v=4"
     },
-    "stars": 26010,
+    "stars": 26012,
     "starsDetail": {
       "total": 25874,
       "week": 36,
@@ -24724,16 +24724,16 @@
       "updatedAt": 1729322126
     },
     "license": "MIT License",
-    "forks": 3538,
+    "forks": 3539,
     "primaryLanguage": "Stylus",
-    "pushedAt": "2024-11-27T13:54:09.000Z",
+    "pushedAt": "2024-11-28T15:18:20.000Z",
     "archived": false,
     "npmPackage": "quasar",
     "npmLastMonthDownloads": 668052,
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2015-10-05T15:45:36.000Z",
-    "updatedAt": "2024-11-28T10:47:15.000Z"
+    "updatedAt": "2024-11-28T23:11:46.000Z"
   },
   {
     "id": "0hq/WebGPT",
@@ -37166,6 +37166,36 @@
     "updatedAt": "2024-10-19T06:37:21.000Z"
   },
   {
+    "id": "ShareDropio/sharedrop",
+    "name": "ShareDropio/sharedrop",
+    "description": "Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop",
+    "topics": [
+      "ember",
+      "ember-cli",
+      "file-sharing",
+      "javascript",
+      "peer-to-peer",
+      "webrtc"
+    ],
+    "owner": {
+      "name": "ShareDropio",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/187187751?v=4"
+    },
+    "stars": 10276,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 751,
+    "primaryLanguage": "Procfile",
+    "pushedAt": "2024-11-08T10:38:56.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-03-20T11:29:45.000Z",
+    "updatedAt": "2024-11-28T16:56:17.000Z"
+  },
+  {
     "id": "SheetJS/sheetjs",
     "name": "SheetJS/sheetjs",
     "description": "📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs",
@@ -38545,6 +38575,39 @@
     "goImportedBy": 0,
     "createdAt": "2012-01-20T18:18:21.000Z",
     "updatedAt": "2024-10-19T07:21:33.000Z"
+  },
+  {
+    "id": "aws/aws-sdk-js-v3",
+    "name": "aws/aws-sdk-js-v3",
+    "description": "Modularized AWS SDK for JavaScript.",
+    "topics": [
+      "aws-sdk",
+      "aws-sdk-js",
+      "dynamodb",
+      "javascript",
+      "lambda",
+      "nodejs",
+      "s3",
+      "sns",
+      "typescript"
+    ],
+    "owner": {
+      "name": "aws",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2232217?v=4"
+    },
+    "stars": 3132,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 580,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-11-27T19:59:59.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-04-04T19:44:22.000Z",
+    "updatedAt": "2024-11-28T16:56:18.000Z"
   },
   {
     "id": "axios/axios",
