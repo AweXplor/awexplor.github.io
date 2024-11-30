@@ -34007,6 +34007,29 @@
     "updatedAt": "2024-10-19T07:15:05.000Z"
   },
   {
+    "id": "hashicorp/cli",
+    "name": "hashicorp/cli",
+    "description": "A Go library for implementing command-line interfaces.",
+    "topics": [],
+    "owner": {
+      "name": "hashicorp",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/761456?v=4"
+    },
+    "stars": 14,
+    "starsDetail": null,
+    "license": "Mozilla Public License 2.0",
+    "forks": 4,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-11-25T16:42:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-11-20T20:41:45.000Z",
+    "updatedAt": "2024-11-30T22:04:51.000Z"
+  },
+  {
     "id": "hashicorp/go-cleanhttp",
     "name": "hashicorp/go-cleanhttp",
     "description": "",
@@ -47493,29 +47516,6 @@
     "goImportedBy": 0,
     "createdAt": "2015-05-25T04:53:32.000Z",
     "updatedAt": "2024-10-19T06:58:06.000Z"
-  },
-  {
-    "id": "mitchellh/cli",
-    "name": "mitchellh/cli",
-    "description": "A Go library for implementing command-line interfaces.",
-    "topics": [],
-    "owner": {
-      "name": "mitchellh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1299?v=4"
-    },
-    "stars": 1730,
-    "starsDetail": null,
-    "license": "Mozilla Public License 2.0",
-    "forks": 122,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2024-07-22T20:43:09.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/mitchellh/cli",
-    "goImportedBy": 6108,
-    "createdAt": "2013-11-03T06:47:54.000Z",
-    "updatedAt": "2024-10-19T06:56:45.000Z"
   },
   {
     "id": "mitchellh/go-server-timing",
