@@ -3756,6 +3756,33 @@
     "updatedAt": "2024-11-20T03:35:33.000Z"
   },
   {
+    "id": "Valian/live_vue",
+    "name": "Valian/live_vue",
+    "description": "End-to-end reactivity for Phoenix LiveView and Vue",
+    "topics": [
+      "elixir",
+      "elixir-phoenix",
+      "vue"
+    ],
+    "owner": {
+      "name": "Valian",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3935986?v=4"
+    },
+    "stars": 250,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 16,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2024-11-27T00:18:29.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-05-07T14:47:56.000Z",
+    "updatedAt": "2024-11-30T09:26:58.000Z"
+  },
+  {
     "id": "WTTJ/algoliax",
     "name": "WTTJ/algoliax",
     "description": "Algolia integration to elixir application",
@@ -27867,7 +27894,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-02-15T07:17:40.000Z",
-    "updatedAt": "2024-11-26T12:13:20.000Z"
+    "updatedAt": "2024-11-30T09:26:57.000Z"
   },
   {
     "id": "synrc/kvs",

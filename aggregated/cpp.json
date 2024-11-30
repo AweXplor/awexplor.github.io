@@ -1580,10 +1580,10 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 339779,
+    "stars": 340575,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 61813,
+    "forks": 61880,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-11-20T16:18:47.000Z",
     "archived": false,
@@ -1592,7 +1592,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-11-26T12:08:32.000Z"
+    "updatedAt": "2024-11-30T09:22:20.000Z"
   },
   {
     "id": "Embarcadero/Dev-Cpp",
@@ -2796,6 +2796,37 @@
     "goImportedBy": null,
     "createdAt": "2013-02-12T16:40:25.000Z",
     "updatedAt": "2024-11-19T12:25:13.000Z"
+  },
+  {
+    "id": "PragmaTwice/protopuf",
+    "name": "PragmaTwice/protopuf",
+    "description": "Protocol Puffers: A little, highly templated, and protobuf-compatible serialization/deserialization header-only library written in C++20",
+    "topics": [
+      "cpp",
+      "header-only",
+      "library",
+      "metaprogramming",
+      "protobuf",
+      "serialization",
+      "template"
+    ],
+    "owner": {
+      "name": "PragmaTwice",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20042607?v=4"
+    },
+    "stars": 156,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 15,
+    "primaryLanguage": "CMake",
+    "pushedAt": "2024-11-27T14:11:56.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-10-21T03:19:26.000Z",
+    "updatedAt": "2024-11-30T09:22:11.000Z"
   },
   {
     "id": "Qihoo360/evpp",
@@ -5219,19 +5250,19 @@
       "name": "auto-differentiation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/134167429?v=4"
     },
-    "stars": 291,
+    "stars": 317,
     "starsDetail": null,
     "license": "GNU Affero General Public License v3.0",
-    "forks": 37,
+    "forks": 38,
     "primaryLanguage": "CMake",
-    "pushedAt": "2024-11-25T08:28:17.000Z",
+    "pushedAt": "2024-11-30T00:17:22.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-07T14:00:21.000Z",
-    "updatedAt": "2024-11-26T02:50:47.000Z"
+    "updatedAt": "2024-11-30T09:31:03.000Z"
   },
   {
     "id": "autodiff/autodiff",
@@ -9607,7 +9638,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T18:28:47.000Z",
-    "updatedAt": "2024-11-26T12:08:10.000Z"
+    "updatedAt": "2024-11-30T09:21:58.000Z"
   },
   {
     "id": "flavio/qjson",
@@ -15375,19 +15406,19 @@
       "name": "microsoft",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
-    "stars": 164704,
+    "stars": 164862,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 29451,
+    "forks": 29511,
     "primaryLanguage": "Hack",
-    "pushedAt": "2024-11-26T02:40:06.000Z",
+    "pushedAt": "2024-11-29T17:27:02.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-03T20:23:38.000Z",
-    "updatedAt": "2024-11-26T02:49:57.000Z"
+    "updatedAt": "2024-11-30T09:30:01.000Z"
   },
   {
     "id": "mikke89/RmlUi",
@@ -21255,7 +21286,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2024-11-30T06:02:02.000Z"
+    "updatedAt": "2024-11-30T09:14:28.000Z"
   },
   {
     "id": "uncrustify/uncrustify",
@@ -22312,7 +22343,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2024-11-30T06:01:44.000Z"
+    "updatedAt": "2024-11-30T09:13:35.000Z"
   },
   {
     "id": "yhirose/cpp-httplib",
@@ -22535,7 +22566,7 @@
       "name": "zlib-ng",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45075615?v=4"
     },
-    "stars": 1244,
+    "stars": 1245,
     "starsDetail": null,
     "license": "Other",
     "forks": 434,
@@ -22547,7 +22578,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-01-21T19:17:23.000Z",
-    "updatedAt": "2024-11-26T12:07:48.000Z"
+    "updatedAt": "2024-11-30T09:21:28.000Z"
   },
   {
     "id": "zlib-ng/zlib-ng",

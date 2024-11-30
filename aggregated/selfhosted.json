@@ -133,7 +133,7 @@
       "name": "cryptpad",
       "avatarUrl": "https://avatars.githubusercontent.com/u/76949612?v=4"
     },
-    "stars": 5684,
+    "stars": 5689,
     "starsDetail": {
       "total": 5605,
       "week": 28,
@@ -142,16 +142,16 @@
       "updatedAt": 1729322595
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 657,
+    "forks": 656,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-11-22T14:57:44.000Z",
+    "pushedAt": "2024-11-29T16:36:19.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-31T15:46:17.000Z",
-    "updatedAt": "2024-11-26T02:57:53.000Z"
+    "updatedAt": "2024-11-30T09:39:02.000Z"
   },
   {
     "id": "Jermolene/TiddlyWiki5",
@@ -3510,6 +3510,48 @@
     "updatedAt": "2024-11-26T02:56:21.000Z"
   },
   {
+    "id": "Litlyx/litlyx",
+    "name": "Litlyx/litlyx",
+    "description": "All-in-one Analytics Solution. Setup in 30 seconds. Display all your data on an AI-powered dashboard. Fully self-hostable and GDPR compliant.",
+    "topics": [
+      "ai",
+      "analytics",
+      "angular",
+      "charts",
+      "data",
+      "data-analysis",
+      "data-visualization",
+      "javascript",
+      "metrics",
+      "nextjs",
+      "nodejs",
+      "nuxt",
+      "open-source",
+      "react",
+      "statistics",
+      "typescript",
+      "vue",
+      "website"
+    ],
+    "owner": {
+      "name": "Litlyx",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/171151316?v=4"
+    },
+    "stars": 778,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 39,
+    "primaryLanguage": "SCSS",
+    "pushedAt": "2024-11-21T14:39:15.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-05-29T13:21:06.000Z",
+    "updatedAt": "2024-11-30T09:32:48.000Z"
+  },
+  {
     "id": "LiveHelperChat/livehelperchat",
     "name": "LiveHelperChat/livehelperchat",
     "description": "Live Helper Chat - live support for your website. Featuring web and mobile apps, Voice & Video & ScreenShare. Supports Telegram, Twilio (whatsapp), Facebook messenger including building a bot.",
@@ -5322,6 +5364,29 @@
     "goImportedBy": null,
     "createdAt": "2024-05-21T22:43:38.000Z",
     "updatedAt": "2024-11-26T02:52:18.000Z"
+  },
+  {
+    "id": "TheWicklowWolf/LidaTube",
+    "name": "TheWicklowWolf/LidaTube",
+    "description": "Find and download missing Lidarr albums via yt-dlp.",
+    "topics": [],
+    "owner": {
+      "name": "TheWicklowWolf",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/111055425?v=4"
+    },
+    "stars": 110,
+    "starsDetail": null,
+    "license": "GNU General Public License v3.0",
+    "forks": 10,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2024-11-18T23:10:21.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-10-03T18:18:39.000Z",
+    "updatedAt": "2024-11-30T09:32:50.000Z"
   },
   {
     "id": "Tiledesk/tiledesk",
@@ -7142,19 +7207,19 @@
       "name": "apache",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47359?v=4"
     },
-    "stars": 62949,
+    "stars": 63038,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 13924,
+    "forks": 13962,
     "primaryLanguage": "Mako",
-    "pushedAt": "2024-11-26T02:38:12.000Z",
+    "pushedAt": "2024-11-29T20:32:14.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-21T18:55:34.000Z",
-    "updatedAt": "2024-11-26T02:51:28.000Z"
+    "updatedAt": "2024-11-30T09:31:55.000Z"
   },
   {
     "id": "apankrat/nullboard",
@@ -15136,10 +15201,10 @@
       "name": "huginn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23225142?v=4"
     },
-    "stars": 43726,
+    "stars": 43783,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 3790,
+    "forks": 3792,
     "primaryLanguage": "Makefile",
     "pushedAt": "2024-11-25T21:24:50.000Z",
     "archived": false,
@@ -15148,7 +15213,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-10T06:00:31.000Z",
-    "updatedAt": "2024-11-26T12:10:01.000Z"
+    "updatedAt": "2024-11-30T09:23:47.000Z"
   },
   {
     "id": "humhub/humhub",
@@ -17459,7 +17524,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-06T12:13:19.000Z",
-    "updatedAt": "2024-11-30T02:56:29.000Z"
+    "updatedAt": "2024-11-30T09:29:08.000Z"
   },
   {
     "id": "kovidgoyal/calibre",
@@ -23794,7 +23859,7 @@
       "name": "postalserver",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58169103?v=4"
     },
-    "stars": 14954,
+    "stars": 14966,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 1065,
@@ -23806,7 +23871,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-19T12:04:57.000Z",
-    "updatedAt": "2024-11-26T12:10:35.000Z"
+    "updatedAt": "2024-11-30T09:24:19.000Z"
   },
   {
     "id": "prasathmani/tinyfilemanager",
@@ -26671,6 +26736,49 @@
     "updatedAt": "2024-11-26T02:57:12.000Z"
   },
   {
+    "id": "siyuan-note/siyuan",
+    "name": "siyuan-note/siyuan",
+    "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+    "topics": [
+      "anki",
+      "chatgpt",
+      "electron",
+      "evernote",
+      "knowledge-base",
+      "local-first",
+      "markdown",
+      "note-taking",
+      "notebook",
+      "notes-app",
+      "notion",
+      "obsidian",
+      "ocr",
+      "openai",
+      "pdf",
+      "pkm",
+      "s3",
+      "self-hosted",
+      "webdav"
+    ],
+    "owner": {
+      "name": "siyuan-note",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70468694?v=4"
+    },
+    "stars": 23184,
+    "starsDetail": null,
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 1636,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-11-29T03:58:04.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-08-30T09:21:35.000Z",
+    "updatedAt": "2024-11-30T09:33:07.000Z"
+  },
+  {
     "id": "sj26/mailcatcher",
     "name": "sj26/mailcatcher",
     "description": "Catches mail and serves it through a dream.",
@@ -27452,19 +27560,19 @@
       "name": "stringer-rss",
       "avatarUrl": "https://avatars.githubusercontent.com/u/96632003?v=4"
     },
-    "stars": 3946,
+    "stars": 3948,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 396,
     "primaryLanguage": "Procfile",
-    "pushedAt": "2024-11-25T06:26:45.000Z",
+    "pushedAt": "2024-11-29T21:06:40.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-06T04:51:27.000Z",
-    "updatedAt": "2024-11-26T12:11:17.000Z"
+    "updatedAt": "2024-11-30T09:24:59.000Z"
   },
   {
     "id": "stumpapp/stump",
@@ -30203,7 +30311,7 @@
       "name": "zincsearch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/129023705?v=4"
     },
-    "stars": 17036,
+    "stars": 17051,
     "starsDetail": null,
     "license": "Other",
     "forks": 742,
@@ -30215,7 +30323,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-12-02T12:49:41.000Z",
-    "updatedAt": "2024-11-26T02:56:52.000Z"
+    "updatedAt": "2024-11-30T09:33:20.000Z"
   },
   {
     "id": "znc/znc",

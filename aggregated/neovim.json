@@ -505,7 +505,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-22T05:32:15.000Z",
-    "updatedAt": "2024-11-26T12:12:07.000Z"
+    "updatedAt": "2024-11-30T09:25:48.000Z"
   },
   {
     "id": "Abstract-IDE/Abstract-cs",
@@ -4668,6 +4668,34 @@
     "goImportedBy": null,
     "createdAt": "2023-10-13T07:36:33.000Z",
     "updatedAt": "2024-11-20T03:26:43.000Z"
+  },
+  {
+    "id": "TaDaa/vimade",
+    "name": "TaDaa/vimade",
+    "description": "Vimade let's you dim, fade, tint, animate, and customize colors in your windows and buffers for (Neo)vim",
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "plugin",
+      "vim-plugin"
+    ],
+    "owner": {
+      "name": "TaDaa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/657951?v=4"
+    },
+    "stars": 556,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 10,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-11-30T02:53:44.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-01-07T17:47:35.000Z",
+    "updatedAt": "2024-11-30T09:25:41.000Z"
   },
   {
     "id": "Th3Whit3Wolf/one-nvim",
@@ -8855,6 +8883,37 @@
     "updatedAt": "2024-11-20T03:22:24.000Z"
   },
   {
+    "id": "claydugo/browsher.nvim",
+    "name": "claydugo/browsher.nvim",
+    "description": "🌐 Create commit pinned links to git(hub | lab) hosted files/lines directly from Neovim",
+    "topics": [
+      "git",
+      "github",
+      "gitlab",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ],
+    "owner": {
+      "name": "claydugo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14915070?v=4"
+    },
+    "stars": 5,
+    "starsDetail": null,
+    "license": null,
+    "forks": 1,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2024-11-27T21:25:11.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-10-09T01:47:44.000Z",
+    "updatedAt": "2024-11-30T09:25:44.000Z"
+  },
+  {
     "id": "clojure-vim/jazz.nvim",
     "name": "clojure-vim/jazz.nvim",
     "description": "Acid + Impromptu = Jazz",
@@ -12495,6 +12554,32 @@
     "goImportedBy": null,
     "createdAt": "2024-01-02T15:51:34.000Z",
     "updatedAt": "2024-11-20T03:27:21.000Z"
+  },
+  {
+    "id": "gregorias/coop.nvim",
+    "name": "gregorias/coop.nvim",
+    "description": "A Neovim plugin for readable concurrency with coroutines.",
+    "topics": [
+      "coroutines",
+      "neovim-plugin"
+    ],
+    "owner": {
+      "name": "gregorias",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/722385?v=4"
+    },
+    "stars": 50,
+    "starsDetail": null,
+    "license": "GNU General Public License v3.0",
+    "forks": 1,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-11-28T06:21:41.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-10-27T10:47:42.000Z",
+    "updatedAt": "2024-11-30T09:25:43.000Z"
   },
   {
     "id": "gsuuon/model.nvim",
@@ -20880,6 +20965,29 @@
     "goImportedBy": null,
     "createdAt": "2021-02-20T13:44:49.000Z",
     "updatedAt": "2024-11-20T03:28:09.000Z"
+  },
+  {
+    "id": "paul-louyot/toggle-quotes.nvim",
+    "name": "paul-louyot/toggle-quotes.nvim",
+    "description": "",
+    "topics": [],
+    "owner": {
+      "name": "paul-louyot",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/44401972?v=4"
+    },
+    "stars": 4,
+    "starsDetail": null,
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 0,
+    "primaryLanguage": "Vim Script",
+    "pushedAt": "2024-11-29T10:53:08.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-03-05T10:38:20.000Z",
+    "updatedAt": "2024-11-30T09:25:45.000Z"
   },
   {
     "id": "petertriho/nvim-scrollbar",

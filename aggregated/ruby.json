@@ -1320,7 +1320,7 @@
       "name": "Retrospring",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12010949?v=4"
     },
-    "stars": 264,
+    "stars": 265,
     "starsDetail": null,
     "license": "GNU Affero General Public License v3.0",
     "forks": 37,
@@ -1332,7 +1332,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-06T15:34:36.000Z",
-    "updatedAt": "2024-11-26T02:53:26.000Z"
+    "updatedAt": "2024-11-30T09:32:58.000Z"
   },
   {
     "id": "RubyMoney/eu_central_bank",
@@ -6114,6 +6114,34 @@
     "goImportedBy": null,
     "createdAt": "2010-10-16T01:39:59.000Z",
     "updatedAt": "2024-11-19T12:37:41.000Z"
+  },
+  {
+    "id": "drwl/annotaterb",
+    "name": "drwl/annotaterb",
+    "description": "A Ruby Gem that adds annotations to your Rails models and route files.",
+    "topics": [
+      "activerecord",
+      "annotations",
+      "rails",
+      "ruby"
+    ],
+    "owner": {
+      "name": "drwl",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1362443?v=4"
+    },
+    "stars": 204,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 19,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2024-10-21T02:01:46.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-06-15T03:50:52.000Z",
+    "updatedAt": "2024-11-30T09:24:16.000Z"
   },
   {
     "id": "dry-rb/dry-cli",
@@ -14516,6 +14544,29 @@
     "goImportedBy": null,
     "createdAt": "2014-01-11T08:49:09.000Z",
     "updatedAt": "2024-11-19T12:37:38.000Z"
+  },
+  {
+    "id": "rspec/rspec",
+    "name": "rspec/rspec",
+    "description": "The RSpec monorepo",
+    "topics": [],
+    "owner": {
+      "name": "rspec",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22388?v=4"
+    },
+    "stars": 8,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-11-29T22:15:19.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-11-27T01:05:29.000Z",
+    "updatedAt": "2024-11-30T09:25:09.000Z"
   },
   {
     "id": "rtomayko/posix-spawn",

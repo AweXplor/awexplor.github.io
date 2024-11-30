@@ -1169,7 +1169,7 @@
       "name": "CommunityToolkit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41346473?v=4"
     },
-    "stars": 5896,
+    "stars": 5900,
     "starsDetail": null,
     "license": "Other",
     "forks": 1374,
@@ -1181,7 +1181,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-17T21:29:46.000Z",
-    "updatedAt": "2024-11-26T12:09:18.000Z"
+    "updatedAt": "2024-11-30T09:23:05.000Z"
   },
   {
     "id": "CommunityToolkit/dotnet",
@@ -2868,6 +2868,49 @@
     "updatedAt": "2024-11-19T12:32:51.000Z"
   },
   {
+    "id": "Kaliumhexacyanoferrat/GenHTTP",
+    "name": "Kaliumhexacyanoferrat/GenHTTP",
+    "description": "Lightweight web server written in pure C# with few dependencies to 3rd-party libraries.",
+    "topics": [
+      "c-sharp",
+      "csharp",
+      "dotnet",
+      "dotnet8",
+      "dotnet9",
+      "embedded",
+      "embedded-server",
+      "http",
+      "http-rest-api",
+      "http-server",
+      "net8",
+      "net9",
+      "nuget",
+      "openapi",
+      "server",
+      "web-server",
+      "webserver",
+      "webservices",
+      "websockets"
+    ],
+    "owner": {
+      "name": "Kaliumhexacyanoferrat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4992119?v=4"
+    },
+    "stars": 197,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 32,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-11-29T13:39:35.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-03-15T17:06:18.000Z",
+    "updatedAt": "2024-11-30T09:23:35.000Z"
+  },
+  {
     "id": "KirillOsenkov/SourceBrowser",
     "name": "KirillOsenkov/SourceBrowser",
     "description": "Source browser website generator that powers http://referencesource.microsoft.com and http://sourceroslyn.io",
@@ -4156,7 +4199,7 @@
       "name": "PrismLibrary",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10503161?v=4"
     },
-    "stars": 6366,
+    "stars": 6367,
     "starsDetail": null,
     "license": "Other",
     "forks": 1643,
@@ -4168,7 +4211,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-25T20:54:32.000Z",
-    "updatedAt": "2024-11-30T05:59:10.000Z"
+    "updatedAt": "2024-11-30T09:05:30.000Z"
   },
   {
     "id": "Prolucid/FsShelter",
@@ -10103,6 +10146,38 @@
     "updatedAt": "2024-11-19T12:34:59.000Z"
   },
   {
+    "id": "dotnetcore/AgileConfig",
+    "name": "dotnetcore/AgileConfig",
+    "description": "基于.NET Core开发的轻量级分布式配置中心 / .NET  Core lightweight configuration server",
+    "topics": [
+      "agileconfig",
+      "configuration",
+      "configuration-center",
+      "configuration-management",
+      "configuration-server",
+      "dotnet-core",
+      "microservice",
+      "websocket"
+    ],
+    "owner": {
+      "name": "dotnetcore",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19404084?v=4"
+    },
+    "stars": 1511,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 301,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-11-02T17:37:07.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-02-05T14:51:57.000Z",
+    "updatedAt": "2024-11-30T09:22:55.000Z"
+  },
+  {
     "id": "dotnetcore/AspectCore-Framework",
     "name": "dotnetcore/AspectCore-Framework",
     "description": "AspectCore is an AOP-based cross platform framework for .NET Standard.",
@@ -13741,7 +13816,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-08-09T15:39:52.000Z",
-    "updatedAt": "2024-11-26T12:08:58.000Z"
+    "updatedAt": "2024-11-30T09:22:46.000Z"
   },
   {
     "id": "linq2db/linq2db",
@@ -16520,7 +16595,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-12-02T05:15:37.000Z",
-    "updatedAt": "2024-11-30T05:59:09.000Z"
+    "updatedAt": "2024-11-30T09:05:29.000Z"
   },
   {
     "id": "reactiveui/refit",
