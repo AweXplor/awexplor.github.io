@@ -24878,38 +24878,6 @@
     "updatedAt": "2024-10-19T07:13:09.000Z"
   },
   {
-    "id": "faiface/pixel",
-    "name": "faiface/pixel",
-    "description": "A hand-crafted 2D game library in Go",
-    "topics": [
-      "game-engine",
-      "gamedev",
-      "gamedev-library",
-      "go",
-      "golang",
-      "graphics",
-      "library",
-      "window"
-    ],
-    "owner": {
-      "name": "faiface",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3924105?v=4"
-    },
-    "stars": 4458,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 246,
-    "primaryLanguage": "Go",
-    "pushedAt": "2024-05-23T19:26:29.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/faiface/pixel",
-    "goImportedBy": 1117,
-    "createdAt": "2016-11-19T11:15:34.000Z",
-    "updatedAt": "2024-10-19T06:57:44.000Z"
-  },
-  {
     "id": "failsafe-go/failsafe-go",
     "name": "failsafe-go/failsafe-go",
     "description": "Fault tolerance and resilience patterns for Go",
@@ -50448,35 +50416,6 @@
     "goImportedBy": 24,
     "createdAt": "2021-08-22T08:31:40.000Z",
     "updatedAt": "2024-10-19T07:14:32.000Z"
-  },
-  {
-    "id": "ngs/go-amazon-product-advertising-api",
-    "name": "ngs/go-amazon-product-advertising-api",
-    "description": "Go Client Library for Amazon Product Advertising API",
-    "topics": [
-      "amazon",
-      "amazon-product-advertising",
-      "api-client",
-      "go",
-      "golang"
-    ],
-    "owner": {
-      "name": "ngs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18631?v=4"
-    },
-    "stars": 57,
-    "starsDetail": null,
-    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 14,
-    "primaryLanguage": "Go",
-    "pushedAt": "2018-04-05T22:06:29.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2016-11-15T15:37:32.000Z",
-    "updatedAt": "2024-10-19T07:13:46.000Z"
   },
   {
     "id": "ngs/go-google-email-audit-api",
