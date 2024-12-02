@@ -13630,6 +13630,32 @@
     "updatedAt": "2024-10-19T07:14:42.000Z"
   },
   {
+    "id": "bitfield/qrand",
+    "name": "bitfield/qrand",
+    "description": "Quantum randomness source using the ANU hardware QRNG",
+    "topics": [
+      "quantum-mechanics",
+      "random-number-generators"
+    ],
+    "owner": {
+      "name": "bitfield",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/142262?v=4"
+    },
+    "stars": 15,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 1,
+    "primaryLanguage": "Go",
+    "pushedAt": "2024-02-08T11:03:46.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-11-30T14:35:52.000Z",
+    "updatedAt": "2024-12-02T00:25:45.000Z"
+  },
+  {
     "id": "bitfield/script",
     "name": "bitfield/script",
     "description": "Making it easy to write shell-like scripts in Go",
@@ -16039,6 +16065,37 @@
     "goImportedBy": 0,
     "createdAt": "2018-12-04T00:38:23.000Z",
     "updatedAt": "2024-10-19T07:15:01.000Z"
+  },
+  {
+    "id": "chainifynet/aws-encryption-sdk-go",
+    "name": "chainifynet/aws-encryption-sdk-go",
+    "description": "AWS Encryption SDK for Go",
+    "topics": [
+      "aws",
+      "aws-encryption-sdk",
+      "aws-kms",
+      "aws-sdk-go",
+      "encryption",
+      "go",
+      "kms"
+    ],
+    "owner": {
+      "name": "chainifynet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87544697?v=4"
+    },
+    "stars": 20,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 2,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-11-29T22:56:12.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-10-17T14:14:44.000Z",
+    "updatedAt": "2024-12-02T00:25:46.000Z"
   },
   {
     "id": "chanced/caps",
@@ -32048,6 +32105,29 @@
     "goImportedBy": 2,
     "createdAt": "2022-03-25T15:38:59.000Z",
     "updatedAt": "2024-10-19T06:57:47.000Z"
+  },
+  {
+    "id": "gopxl/pixel",
+    "name": "gopxl/pixel",
+    "description": "A hand-crafted 2D game library in Go.",
+    "topics": [],
+    "owner": {
+      "name": "gopxl",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/147197133?v=4"
+    },
+    "stars": 251,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 10,
+    "primaryLanguage": "Go",
+    "pushedAt": "2024-11-17T02:50:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-10-06T18:50:53.000Z",
+    "updatedAt": "2024-12-02T00:25:45.000Z"
   },
   {
     "id": "goradd/got",
@@ -63293,6 +63373,31 @@
     "goImportedBy": 0,
     "createdAt": "2013-06-02T02:36:18.000Z",
     "updatedAt": "2024-10-19T07:14:19.000Z"
+  },
+  {
+    "id": "sourcegraph/zoekt",
+    "name": "sourcegraph/zoekt",
+    "description": "Fast trigram based code search  ",
+    "topics": [
+      "repo-type-backend"
+    ],
+    "owner": {
+      "name": "sourcegraph",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3979584?v=4"
+    },
+    "stars": 751,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 86,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-11-28T13:54:51.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-10-01T20:58:06.000Z",
+    "updatedAt": "2024-12-02T00:25:45.000Z"
   },
   {
     "id": "soypat/godesim",
