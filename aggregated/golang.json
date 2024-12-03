@@ -13650,8 +13650,8 @@
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
+    "goPackage": "github.com/bitfield/qrand",
+    "goImportedBy": 0,
     "createdAt": "2019-11-30T14:35:52.000Z",
     "updatedAt": "2024-12-02T00:25:45.000Z"
   },
@@ -16092,8 +16092,8 @@
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
+    "goPackage": "github.com/chainifynet/aws-encryption-sdk-go",
+    "goImportedBy": 0,
     "createdAt": "2023-10-17T14:14:44.000Z",
     "updatedAt": "2024-12-02T00:25:46.000Z"
   },
@@ -32124,8 +32124,8 @@
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
+    "goPackage": "github.com/gopxl/pixel/v2",
+    "goImportedBy": 72,
     "createdAt": "2023-10-06T18:50:53.000Z",
     "updatedAt": "2024-12-02T00:25:45.000Z"
   },
@@ -58965,7 +58965,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2012-09-29T16:06:58.000Z",
-    "updatedAt": "2024-12-01T12:00:29.000Z"
+    "updatedAt": "2024-12-03T04:47:53.000Z"
   },
   {
     "id": "root-gg/plik",
@@ -63394,8 +63394,8 @@
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
+    "goPackage": "github.com/sourcegraph/zoekt",
+    "goImportedBy": 23,
     "createdAt": "2018-10-01T20:58:06.000Z",
     "updatedAt": "2024-12-02T00:25:45.000Z"
   },
