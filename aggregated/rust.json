@@ -212,6 +212,36 @@
     "updatedAt": "2024-10-19T06:54:53.000Z"
   },
   {
+    "id": "0xlane/pe-sign",
+    "name": "0xlane/pe-sign",
+    "description": "A cross-platform rust no-std library for verifying and extracting signature information from PE files.",
+    "topics": [
+      "blue-team",
+      "certificate",
+      "openssl",
+      "portable-executable",
+      "rust",
+      "signature"
+    ],
+    "owner": {
+      "name": "0xlane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22788893?v=4"
+    },
+    "stars": 30,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 11,
+    "primaryLanguage": "Rust",
+    "pushedAt": "2024-12-02T03:47:24.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-08-27T11:35:48.000Z",
+    "updatedAt": "2024-12-04T02:50:18.000Z"
+  },
+  {
     "id": "1History/1History",
     "name": "1History/1History",
     "description": "All your history in one file.",
@@ -13121,7 +13151,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T10:37:00.000Z",
-    "updatedAt": "2024-12-03T23:49:04.000Z"
+    "updatedAt": "2024-12-04T02:53:47.000Z"
   },
   {
     "id": "flxzt/rnote",
@@ -25593,6 +25623,44 @@
     "goImportedBy": null,
     "createdAt": "2023-08-03T05:47:54.000Z",
     "updatedAt": "2024-10-19T06:54:52.000Z"
+  },
+  {
+    "id": "rochacbruno/marmite",
+    "name": "rochacbruno/marmite",
+    "description": "Markdown makes sites - A Static Site Generator for Blogs",
+    "topics": [
+      "blog",
+      "blog-engine",
+      "cms",
+      "hacktoberfest",
+      "hacktoberfest-accepted",
+      "markdown",
+      "rust",
+      "rustlang",
+      "site",
+      "ssg",
+      "static",
+      "static-blog-generator",
+      "static-site",
+      "static-site-generator"
+    ],
+    "owner": {
+      "name": "rochacbruno",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/458654?v=4"
+    },
+    "stars": 456,
+    "starsDetail": null,
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 21,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-12-02T22:05:25.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-10-14T17:31:42.000Z",
+    "updatedAt": "2024-12-04T02:50:18.000Z"
   },
   {
     "id": "rodrigorc/papercraft",
