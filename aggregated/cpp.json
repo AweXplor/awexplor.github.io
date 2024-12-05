@@ -1580,10 +1580,10 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 340779,
+    "stars": 340913,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 61893,
+    "forks": 61901,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-12-02T17:20:46.000Z",
     "archived": false,
@@ -1592,7 +1592,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-03T14:30:39.000Z"
+    "updatedAt": "2024-12-05T16:06:43.000Z"
   },
   {
     "id": "Embarcadero/Dev-Cpp",
@@ -3921,6 +3921,34 @@
     "updatedAt": "2024-11-19T12:24:15.000Z"
   },
   {
+    "id": "VectorCamp/vectorscan",
+    "name": "VectorCamp/vectorscan",
+    "description": "A portable fork of the high-performance regular expression matching library",
+    "topics": [
+      "hyperscan",
+      "regex",
+      "simd",
+      "vectorscan"
+    ],
+    "owner": {
+      "name": "VectorCamp",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/60884978?v=4"
+    },
+    "stars": 514,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 55,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-11-13T08:43:23.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-09-04T11:48:34.000Z",
+    "updatedAt": "2024-12-05T06:37:18.000Z"
+  },
+  {
     "id": "VerbalExpressions/CppVerbalExpressions",
     "name": "VerbalExpressions/CppVerbalExpressions",
     "description": "C++ regular expressions made easy",
@@ -5250,19 +5278,19 @@
       "name": "auto-differentiation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/134167429?v=4"
     },
-    "stars": 323,
+    "stars": 326,
     "starsDetail": null,
     "license": "GNU Affero General Public License v3.0",
-    "forks": 40,
+    "forks": 41,
     "primaryLanguage": "CMake",
-    "pushedAt": "2024-11-30T22:19:52.000Z",
+    "pushedAt": "2024-12-05T12:58:17.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-07T14:00:21.000Z",
-    "updatedAt": "2024-12-03T11:17:57.000Z"
+    "updatedAt": "2024-12-05T16:15:05.000Z"
   },
   {
     "id": "autodiff/autodiff",
@@ -8976,6 +9004,36 @@
     "updatedAt": "2024-11-19T12:22:22.000Z"
   },
   {
+    "id": "erayzesen/QuarkPhysics",
+    "name": "erayzesen/QuarkPhysics",
+    "description": "A 2D Soft Body and Rigid Body Physics Engine.",
+    "topics": [
+      "2d-physics-engine",
+      "game-development",
+      "physics-engine",
+      "physics-simulation",
+      "rigid-bodies",
+      "soft-bodies"
+    ],
+    "owner": {
+      "name": "erayzesen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65820625?v=4"
+    },
+    "stars": 196,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 8,
+    "primaryLanguage": "CMake",
+    "pushedAt": "2024-12-03T08:56:45.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-04-30T23:12:52.000Z",
+    "updatedAt": "2024-12-05T06:37:17.000Z"
+  },
+  {
     "id": "erikerlandson/st_tree",
     "name": "erikerlandson/st_tree",
     "description": "A fast and flexible c++ template class for tree data structures",
@@ -9626,7 +9684,7 @@
       "name": "flashlight",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67613832?v=4"
     },
-    "stars": 5294,
+    "stars": 5295,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 497,
@@ -9638,7 +9696,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T18:28:47.000Z",
-    "updatedAt": "2024-12-03T14:30:19.000Z"
+    "updatedAt": "2024-12-05T16:06:24.000Z"
   },
   {
     "id": "flavio/qjson",
@@ -15406,19 +15464,19 @@
       "name": "microsoft",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
-    "stars": 164946,
+    "stars": 165015,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 29526,
+    "forks": 29549,
     "primaryLanguage": "Hack",
-    "pushedAt": "2024-12-03T13:32:32.000Z",
+    "pushedAt": "2024-12-05T16:14:00.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-03T20:23:38.000Z",
-    "updatedAt": "2024-12-03T14:37:35.000Z"
+    "updatedAt": "2024-12-05T16:14:03.000Z"
   },
   {
     "id": "mikke89/RmlUi",
@@ -21286,7 +21344,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2024-12-04T18:21:21.000Z"
+    "updatedAt": "2024-12-05T16:03:36.000Z"
   },
   {
     "id": "uncrustify/uncrustify",
@@ -22334,7 +22392,7 @@
     "stars": 25483,
     "starsDetail": null,
     "license": "GNU General Public License v3.0",
-    "forks": 2809,
+    "forks": 2808,
     "primaryLanguage": "Makefile",
     "pushedAt": "2024-11-25T09:12:28.000Z",
     "archived": false,
@@ -22343,7 +22401,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2024-12-04T18:21:03.000Z"
+    "updatedAt": "2024-12-05T16:03:18.000Z"
   },
   {
     "id": "yhirose/cpp-httplib",
@@ -22569,7 +22627,7 @@
     "stars": 1245,
     "starsDetail": null,
     "license": "Other",
-    "forks": 434,
+    "forks": 435,
     "primaryLanguage": "CMake",
     "pushedAt": "2024-12-03T00:11:15.000Z",
     "archived": false,
@@ -22578,7 +22636,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-01-21T19:17:23.000Z",
-    "updatedAt": "2024-12-03T14:30:00.000Z"
+    "updatedAt": "2024-12-05T16:06:04.000Z"
   },
   {
     "id": "zlib-ng/zlib-ng",

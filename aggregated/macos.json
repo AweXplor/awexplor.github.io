@@ -1145,6 +1145,29 @@
     "updatedAt": "2024-11-20T03:52:56.000Z"
   },
   {
+    "id": "BigBerny/magicquit",
+    "name": "BigBerny/magicquit",
+    "description": "",
+    "topics": [],
+    "owner": {
+      "name": "BigBerny",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1528504?v=4"
+    },
+    "stars": 204,
+    "starsDetail": null,
+    "license": "GNU General Public License v3.0",
+    "forks": 7,
+    "primaryLanguage": "Swift",
+    "pushedAt": "2023-12-21T22:36:08.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-07-15T22:59:46.000Z",
+    "updatedAt": "2024-12-05T16:14:39.000Z"
+  },
+  {
     "id": "BonzaiThePenguin/Loading",
     "name": "BonzaiThePenguin/Loading",
     "description": "Simple network activity monitor for macOS",
@@ -1196,7 +1219,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-06T17:06:07.000Z",
-    "updatedAt": "2024-12-03T11:16:59.000Z"
+    "updatedAt": "2024-12-05T16:14:02.000Z"
   },
   {
     "id": "BubuAnabelas/awesome-markdown",
@@ -1926,7 +1949,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-09T10:57:33.000Z",
-    "updatedAt": "2024-12-04T18:18:50.000Z"
+    "updatedAt": "2024-12-05T16:01:27.000Z"
   },
   {
     "id": "Eugeny/tabby",
@@ -1943,10 +1966,10 @@
       "name": "Eugeny",
       "avatarUrl": "https://avatars.githubusercontent.com/u/161476?v=4"
     },
-    "stars": 59818,
+    "stars": 59881,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 3406,
+    "forks": 3410,
     "primaryLanguage": "NSIS",
     "pushedAt": "2024-11-07T15:58:06.000Z",
     "archived": false,
@@ -1955,7 +1978,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-12-23T09:06:10.000Z",
-    "updatedAt": "2024-12-03T11:17:10.000Z"
+    "updatedAt": "2024-12-05T16:14:14.000Z"
   },
   {
     "id": "Eun/DisableMonitor",
@@ -2548,19 +2571,19 @@
       "name": "Homebrew",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1503512?v=4"
     },
-    "stars": 20971,
+    "stars": 20976,
     "starsDetail": null,
     "license": "BSD 2-Clause \"Simplified\" License",
     "forks": 10753,
     "primaryLanguage": "Python",
-    "pushedAt": "2024-12-03T13:14:45.000Z",
+    "pushedAt": "2024-12-05T16:07:45.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-03-05T02:05:17.000Z",
-    "updatedAt": "2024-12-03T14:32:55.000Z"
+    "updatedAt": "2024-12-05T16:09:10.000Z"
   },
   {
     "id": "ImageOptim/ImageOptim",
@@ -3032,19 +3055,19 @@
       "name": "Kong",
       "avatarUrl": "https://avatars.githubusercontent.com/u/962416?v=4"
     },
-    "stars": 35043,
+    "stars": 35071,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 1988,
+    "forks": 1991,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-12-03T09:56:41.000Z",
+    "pushedAt": "2024-12-05T08:55:01.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-23T03:54:26.000Z",
-    "updatedAt": "2024-12-03T11:17:04.000Z"
+    "updatedAt": "2024-12-05T16:14:07.000Z"
   },
   {
     "id": "KrauseFx/overkill-for-mac",
@@ -3348,7 +3371,7 @@
       "name": "MacPass",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9559866?v=4"
     },
-    "stars": 6760,
+    "stars": 6763,
     "starsDetail": null,
     "license": "Other",
     "forks": 466,
@@ -3360,7 +3383,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-07-21T00:48:01.000Z",
-    "updatedAt": "2024-12-03T11:17:33.000Z"
+    "updatedAt": "2024-12-05T16:14:38.000Z"
   },
   {
     "id": "MaddTheSane/Simple-Comic",
@@ -4141,14 +4164,14 @@
     "license": "Other",
     "forks": 24,
     "primaryLanguage": "Shell",
-    "pushedAt": "2024-12-02T21:56:34.000Z",
+    "pushedAt": "2024-12-04T17:37:48.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-01-30T23:55:53.000Z",
-    "updatedAt": "2024-12-03T11:17:28.000Z"
+    "updatedAt": "2024-12-05T16:14:33.000Z"
   },
   {
     "id": "ParetoSecurity/pareto-mac",
@@ -4177,7 +4200,47 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-14T09:54:07.000Z",
-    "updatedAt": "2024-12-03T14:37:39.000Z"
+    "updatedAt": "2024-12-05T16:13:34.000Z"
+  },
+  {
+    "id": "PasteBar/PasteBarApp",
+    "name": "PasteBar/PasteBarApp",
+    "description": "PasteBar - Limitless, Free Clipboard Manager for Mac and Windows",
+    "topics": [
+      "clipboard",
+      "clipboard-copy",
+      "clipboard-history",
+      "clipboard-manager",
+      "clips",
+      "copy-paste",
+      "mac",
+      "menubar",
+      "menubar-app",
+      "react",
+      "rust",
+      "tailwind",
+      "taskbar",
+      "taskbar-application",
+      "tauri",
+      "windows"
+    ],
+    "owner": {
+      "name": "PasteBar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/148391726?v=4"
+    },
+    "stars": 1148,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 37,
+    "primaryLanguage": "C",
+    "pushedAt": "2024-09-04T04:22:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-04-10T13:19:35.000Z",
+    "updatedAt": "2024-12-05T16:14:30.000Z"
   },
   {
     "id": "Paxa/postbird",
@@ -4469,19 +4532,19 @@
       "name": "Ranchero-Software",
       "avatarUrl": "https://avatars.githubusercontent.com/u/59430456?v=4"
     },
-    "stars": 8457,
+    "stars": 8458,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 536,
     "primaryLanguage": "C",
-    "pushedAt": "2024-12-03T06:19:39.000Z",
+    "pushedAt": "2024-12-05T04:36:41.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-21T17:59:23.000Z",
-    "updatedAt": "2024-12-03T11:17:01.000Z"
+    "updatedAt": "2024-12-05T16:14:04.000Z"
   },
   {
     "id": "RocketChat/Rocket.Chat.Electron",
@@ -5004,7 +5067,7 @@
       "name": "TermiT",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87338?v=4"
     },
-    "stars": 2495,
+    "stars": 2498,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 207,
@@ -5016,7 +5079,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-03-20T07:17:31.000Z",
-    "updatedAt": "2024-12-03T14:37:44.000Z"
+    "updatedAt": "2024-12-05T16:13:37.000Z"
   },
   {
     "id": "ThatGuySam/doesitarm",
@@ -5839,10 +5902,10 @@
       "name": "alacritty",
       "avatarUrl": "https://avatars.githubusercontent.com/u/29714349?v=4"
     },
-    "stars": 56704,
+    "stars": 56751,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 3029,
+    "forks": 3031,
     "primaryLanguage": "Makefile",
     "pushedAt": "2024-11-28T15:41:23.000Z",
     "archived": false,
@@ -5851,7 +5914,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-18T05:02:30.000Z",
-    "updatedAt": "2024-12-03T11:17:05.000Z"
+    "updatedAt": "2024-12-05T16:14:09.000Z"
   },
   {
     "id": "alberti42/iTunes-Volume-Control",
@@ -6106,7 +6169,7 @@
       "name": "alin23",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3819725?v=4"
     },
-    "stars": 4734,
+    "stars": 4740,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 106,
@@ -6118,7 +6181,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-03T17:23:54.000Z",
-    "updatedAt": "2024-12-03T11:16:41.000Z"
+    "updatedAt": "2024-12-05T16:13:43.000Z"
   },
   {
     "id": "alvesjtiago/airpass",
@@ -10865,7 +10928,7 @@
       "name": "hatashiro",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1013641?v=4"
     },
-    "stars": 1425,
+    "stars": 1426,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 99,
@@ -10877,7 +10940,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-26T16:20:12.000Z",
-    "updatedAt": "2024-12-03T11:17:23.000Z"
+    "updatedAt": "2024-12-05T16:14:27.000Z"
   },
   {
     "id": "haystackeditor/haystack-editor",
@@ -11425,7 +11488,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-05-31T16:51:06.000Z",
-    "updatedAt": "2024-12-03T11:17:26.000Z"
+    "updatedAt": "2024-12-05T16:14:31.000Z"
   },
   {
     "id": "igorkulman/iOSLocalizationEditor",
@@ -11560,7 +11623,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-17T16:32:10.000Z",
-    "updatedAt": "2024-12-03T11:17:23.000Z"
+    "updatedAt": "2024-12-05T16:14:27.000Z"
   },
   {
     "id": "imanel/deezplayer",
@@ -13690,7 +13753,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-12-12T22:56:25.000Z",
-    "updatedAt": "2024-12-03T11:17:17.000Z"
+    "updatedAt": "2024-12-05T16:14:21.000Z"
   },
   {
     "id": "kovidgoyal/calibre",
@@ -14193,6 +14256,29 @@
     "goImportedBy": null,
     "createdAt": "2024-04-21T13:45:19.000Z",
     "updatedAt": "2024-11-20T03:53:32.000Z"
+  },
+  {
+    "id": "lihaoyun6/Topit",
+    "name": "lihaoyun6/Topit",
+    "description": "Pin any window to the top of your screen / 在Mac上将你的任何窗口强制置顶",
+    "topics": [],
+    "owner": {
+      "name": "lihaoyun6",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16348097?v=4"
+    },
+    "stars": 420,
+    "starsDetail": null,
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 16,
+    "primaryLanguage": "Rich Text Format",
+    "pushedAt": "2024-12-01T15:28:05.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-11-20T01:39:15.000Z",
+    "updatedAt": "2024-12-05T16:14:38.000Z"
   },
   {
     "id": "lima-vm/lima",
@@ -18578,7 +18664,7 @@
       "name": "ramboxapp",
       "avatarUrl": "https://avatars.githubusercontent.com/u/30912243?v=4"
     },
-    "stars": 6359,
+    "stars": 6358,
     "starsDetail": null,
     "license": "GNU General Public License v3.0",
     "forks": 793,
@@ -18590,7 +18676,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-12T18:27:27.000Z",
-    "updatedAt": "2024-12-03T11:17:18.000Z"
+    "updatedAt": "2024-12-05T16:14:22.000Z"
   },
   {
     "id": "ramnes/awesome-mongodb",
@@ -19378,7 +19464,7 @@
       "name": "sfsam",
       "avatarUrl": "https://avatars.githubusercontent.com/u/118104?v=4"
     },
-    "stars": 3373,
+    "stars": 3374,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 234,
@@ -19390,7 +19476,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-27T17:33:22.000Z",
-    "updatedAt": "2024-12-03T11:17:27.000Z"
+    "updatedAt": "2024-12-05T16:14:31.000Z"
   },
   {
     "id": "shadowsocks/ShadowsocksX-NG",
@@ -19408,10 +19494,10 @@
       "name": "shadowsocks",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3006190?v=4"
     },
-    "stars": 32483,
+    "stars": 32494,
     "starsDetail": null,
     "license": "GNU General Public License v3.0",
-    "forks": 7946,
+    "forks": 7945,
     "primaryLanguage": "C",
     "pushedAt": "2024-10-29T12:19:30.000Z",
     "archived": false,
@@ -19420,7 +19506,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-10T11:49:00.000Z",
-    "updatedAt": "2024-12-03T11:17:26.000Z"
+    "updatedAt": "2024-12-05T16:14:30.000Z"
   },
   {
     "id": "shadowsocks/shadowsocks",
@@ -19539,7 +19625,7 @@
       "name": "shgodoroja",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2619031?v=4"
     },
-    "stars": 315,
+    "stars": 316,
     "starsDetail": null,
     "license": "Other",
     "forks": 24,
@@ -19551,7 +19637,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-09-17T20:24:11.000Z",
-    "updatedAt": "2024-12-03T11:17:16.000Z"
+    "updatedAt": "2024-12-05T16:14:21.000Z"
   },
   {
     "id": "shincurry/Maria",
@@ -19832,7 +19918,7 @@
       "name": "sindresorhus",
       "avatarUrl": "https://avatars.githubusercontent.com/u/170270?v=4"
     },
-    "stars": 7824,
+    "stars": 7827,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 293,
@@ -19844,7 +19930,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-01T10:45:23.000Z",
-    "updatedAt": "2024-12-03T11:17:20.000Z"
+    "updatedAt": "2024-12-05T16:14:24.000Z"
   },
   {
     "id": "sindresorhus/Pasteboard-Viewer",
@@ -22164,10 +22250,10 @@
       "name": "vercel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4"
     },
-    "stars": 43463,
+    "stars": 43475,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 3525,
+    "forks": 3523,
     "primaryLanguage": "Batchfile",
     "pushedAt": "2024-08-14T03:32:57.000Z",
     "archived": false,
@@ -22176,7 +22262,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-07-01T06:01:21.000Z",
-    "updatedAt": "2024-12-03T11:17:09.000Z"
+    "updatedAt": "2024-12-05T16:14:12.000Z"
   },
   {
     "id": "vgorloff/AUHost",
@@ -24050,7 +24136,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-08T06:30:42.000Z",
-    "updatedAt": "2024-12-03T11:17:32.000Z"
+    "updatedAt": "2024-12-05T16:14:37.000Z"
   },
   {
     "id": "zotero/zotero",

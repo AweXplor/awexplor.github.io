@@ -57589,6 +57589,40 @@
     "updatedAt": "2024-10-19T06:57:44.000Z"
   },
   {
+    "id": "reeflective/console",
+    "name": "reeflective/console",
+    "description": "Closed-loop application library for Cobra commands  (powerful, ready-to-run and easy to use)",
+    "topics": [
+      "cli",
+      "cobra",
+      "command-line",
+      "console",
+      "console-application",
+      "go",
+      "golang",
+      "history",
+      "menus",
+      "oh-my-posh"
+    ],
+    "owner": {
+      "name": "reeflective",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/99735406?v=4"
+    },
+    "stars": 76,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 6,
+    "primaryLanguage": "Go",
+    "pushedAt": "2024-11-16T16:54:09.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": "github.com/reeflective/console",
+    "goImportedBy": 14,
+    "createdAt": "2021-04-03T23:52:58.000Z",
+    "updatedAt": "2024-12-05T06:30:54.000Z"
+  },
+  {
     "id": "reeflective/readline",
     "name": "reeflective/readline",
     "description": "Shell library with powerful and modern UI, large feature set, and `.inputrc` support",
@@ -58942,7 +58976,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2012-09-29T16:06:58.000Z",
-    "updatedAt": "2024-12-03T11:17:59.000Z"
+    "updatedAt": "2024-12-05T16:15:07.000Z"
   },
   {
     "id": "root-gg/plik",
