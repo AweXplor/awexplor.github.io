@@ -50367,29 +50367,6 @@
     "updatedAt": "2024-10-19T07:13:26.000Z"
   },
   {
-    "id": "neotoolkit/faker",
-    "name": "neotoolkit/faker",
-    "description": "Fake data generator",
-    "topics": [],
-    "owner": {
-      "name": "neotoolkit",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/94162314?v=4"
-    },
-    "stars": 10,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 1,
-    "primaryLanguage": "Go",
-    "pushedAt": "2022-07-21T15:36:15.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/neotoolkit/faker",
-    "goImportedBy": 0,
-    "createdAt": "2022-01-23T09:50:26.000Z",
-    "updatedAt": "2024-10-19T07:12:49.000Z"
-  },
-  {
     "id": "neotoolkit/openapi",
     "name": "neotoolkit/openapi",
     "description": "OpenAPI 3.x parser",
