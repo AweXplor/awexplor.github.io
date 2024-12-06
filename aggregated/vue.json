@@ -1854,7 +1854,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-04-01T09:24:55.000Z",
-    "updatedAt": "2024-12-05T16:14:58.000Z"
+    "updatedAt": "2024-12-06T07:50:03.000Z"
   },
   {
     "id": "MartinMalinda/vue-concurrency",
@@ -5387,7 +5387,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-17T09:55:24.000Z",
-    "updatedAt": "2024-12-06T04:35:53.000Z"
+    "updatedAt": "2024-12-06T07:41:07.000Z"
   },
   {
     "id": "ecosia/vue-safe-html",
@@ -6836,19 +6836,19 @@
       "name": "ionic-team",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3171503?v=4"
     },
-    "stars": 51150,
+    "stars": 51151,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 13500,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-12-05T16:11:10.000Z",
+    "pushedAt": "2024-12-05T20:22:09.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-08-20T23:06:02.000Z",
-    "updatedAt": "2024-12-05T16:14:15.000Z"
+    "updatedAt": "2024-12-06T07:49:27.000Z"
   },
   {
     "id": "itsalb3rt/afterman",
@@ -9150,7 +9150,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-17T23:49:17.000Z",
-    "updatedAt": "2024-12-06T04:35:31.000Z"
+    "updatedAt": "2024-12-06T07:40:43.000Z"
   },
   {
     "id": "naver/egjs-flicking",
@@ -11285,19 +11285,19 @@
       "name": "tailwindlabs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
     },
-    "stars": 83708,
+    "stars": 83729,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 4239,
     "primaryLanguage": "HTML",
-    "pushedAt": "2024-12-05T15:18:09.000Z",
+    "pushedAt": "2024-12-05T17:55:09.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-06T14:59:14.000Z",
-    "updatedAt": "2024-12-05T16:10:10.000Z"
+    "updatedAt": "2024-12-06T07:45:42.000Z"
   },
   {
     "id": "tangbc/vue-virtual-scroll-list",
@@ -11402,6 +11402,38 @@
     "goImportedBy": null,
     "createdAt": "2017-09-02T02:38:19.000Z",
     "updatedAt": "2024-11-19T11:37:17.000Z"
+  },
+  {
+    "id": "themesberg/flowbite-vue",
+    "name": "themesberg/flowbite-vue",
+    "description": "Official Vue 3 components built for Flowbite and Tailwind CSS",
+    "topics": [
+      "components",
+      "css",
+      "flowbite",
+      "tailwindcss",
+      "vue",
+      "vue-3",
+      "vue-components",
+      "vue-js"
+    ],
+    "owner": {
+      "name": "themesberg",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/52166837?v=4"
+    },
+    "stars": 787,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 123,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-12-02T12:25:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-06-02T08:04:40.000Z",
+    "updatedAt": "2024-12-06T07:40:54.000Z"
   },
   {
     "id": "themeselection/materio-vuetify-vuejs-admin-template-free",
