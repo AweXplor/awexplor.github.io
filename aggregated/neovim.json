@@ -505,7 +505,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-22T05:32:15.000Z",
-    "updatedAt": "2024-12-07T06:14:09.000Z"
+    "updatedAt": "2024-12-07T12:29:16.000Z"
   },
   {
     "id": "Abstract-IDE/Abstract-cs",
@@ -14354,6 +14354,34 @@
     "updatedAt": "2024-11-20T03:21:39.000Z"
   },
   {
+    "id": "juselara1/tmutils.nvim",
+    "name": "juselara1/tmutils.nvim",
+    "description": "Tmux utilities that enable sending lines, capturing content, creating terminals, and managing REPLs within Neovim.",
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "tmux"
+    ],
+    "owner": {
+      "name": "juselara1",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26848726?v=4"
+    },
+    "stars": 2,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2024-11-30T03:34:02.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-11-24T23:16:29.000Z",
+    "updatedAt": "2024-12-07T12:29:12.000Z"
+  },
+  {
     "id": "jvgrootveld/telescope-zoxide",
     "name": "jvgrootveld/telescope-zoxide",
     "description": "An extension for telescope.nvim that allows you operate zoxide within Neovim.",
@@ -26257,6 +26285,29 @@
     "goImportedBy": null,
     "createdAt": "2009-03-06T00:35:15.000Z",
     "updatedAt": "2024-11-20T03:27:34.000Z"
+  },
+  {
+    "id": "trevorhauter/gitportal.nvim",
+    "name": "trevorhauter/gitportal.nvim",
+    "description": "Easily generate or ingest shareable permalinks to get to the files you want. Fast.",
+    "topics": [],
+    "owner": {
+      "name": "trevorhauter",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/74263491?v=4"
+    },
+    "stars": 38,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 2,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2024-11-27T19:49:55.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-09-11T00:23:26.000Z",
+    "updatedAt": "2024-12-07T12:29:12.000Z"
   },
   {
     "id": "tris203/hawtkeys.nvim",
