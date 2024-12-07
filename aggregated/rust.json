@@ -4670,7 +4670,7 @@
       "name": "Tencent",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18461506?v=4"
     },
-    "stars": 1141,
+    "stars": 1142,
     "starsDetail": null,
     "license": "Other",
     "forks": 94,
@@ -4682,7 +4682,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-10-26T03:47:17.000Z",
-    "updatedAt": "2024-12-06T20:40:59.000Z"
+    "updatedAt": "2024-12-07T06:11:00.000Z"
   },
   {
     "id": "TheWaWaR/simple-http-server",
@@ -5351,29 +5351,6 @@
     "goImportedBy": null,
     "createdAt": "2015-07-18T13:07:15.000Z",
     "updatedAt": "2024-10-19T06:55:53.000Z"
-  },
-  {
-    "id": "alexcrichton/bzip2-rs",
-    "name": "alexcrichton/bzip2-rs",
-    "description": "libbz2 (bzip2 compression) bindings for Rust",
-    "topics": [],
-    "owner": {
-      "name": "alexcrichton",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/64996?v=4"
-    },
-    "stars": 98,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 60,
-    "primaryLanguage": "Perl",
-    "pushedAt": "2024-03-26T15:35:13.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-09-23T03:54:37.000Z",
-    "updatedAt": "2024-10-19T06:55:37.000Z"
   },
   {
     "id": "alexcrichton/curl-rust",
@@ -7810,7 +7787,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-30T18:57:01.000Z",
-    "updatedAt": "2024-12-06T20:46:10.000Z"
+    "updatedAt": "2024-12-07T06:16:01.000Z"
   },
   {
     "id": "buster/rrun",
@@ -9234,19 +9211,19 @@
       "name": "confluentinc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9439498?v=4"
     },
-    "stars": 321,
+    "stars": 322,
     "starsDetail": null,
     "license": "Other",
     "forks": 3157,
     "primaryLanguage": "GDB",
-    "pushedAt": "2024-12-06T02:58:55.000Z",
+    "pushedAt": "2024-12-07T03:11:47.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-09-19T10:14:00.000Z",
-    "updatedAt": "2024-12-06T20:40:58.000Z"
+    "updatedAt": "2024-12-07T06:11:00.000Z"
   },
   {
     "id": "conradkleinespel/rooster",
@@ -13151,7 +13128,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T10:37:00.000Z",
-    "updatedAt": "2024-12-06T20:39:00.000Z"
+    "updatedAt": "2024-12-07T06:09:07.000Z"
   },
   {
     "id": "flxzt/rnote",
@@ -15870,6 +15847,29 @@
     "goImportedBy": null,
     "createdAt": "2019-10-22T19:39:48.000Z",
     "updatedAt": "2024-10-19T06:55:14.000Z"
+  },
+  {
+    "id": "igorlira/dirplayer-rs",
+    "name": "igorlira/dirplayer-rs",
+    "description": "A web-compatible Shockwave Player emulator written in Rust",
+    "topics": [],
+    "owner": {
+      "name": "igorlira",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4934870?v=4"
+    },
+    "stars": 53,
+    "starsDetail": null,
+    "license": "GNU General Public License v3.0",
+    "forks": 10,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-10-12T03:36:21.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-04-19T01:14:19.000Z",
+    "updatedAt": "2024-12-07T06:05:46.000Z"
   },
   {
     "id": "igumnoff/gabriel2",
@@ -26905,7 +26905,7 @@
       "name": "rusterlium",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47984965?v=4"
     },
-    "stars": 4386,
+    "stars": 4387,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 225,
@@ -26917,7 +26917,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-08-18T16:25:26.000Z",
-    "updatedAt": "2024-12-06T20:45:50.000Z"
+    "updatedAt": "2024-12-07T06:15:42.000Z"
   },
   {
     "id": "rustic-rs/rustic",
@@ -31776,6 +31776,29 @@
     "goImportedBy": null,
     "createdAt": "2013-11-06T06:16:00.000Z",
     "updatedAt": "2024-10-19T06:56:14.000Z"
+  },
+  {
+    "id": "trifectatechfoundation/bzip2-rs",
+    "name": "trifectatechfoundation/bzip2-rs",
+    "description": "libbz2 (bzip2 compression) bindings for Rust",
+    "topics": [],
+    "owner": {
+      "name": "trifectatechfoundation",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/172280662?v=4"
+    },
+    "stars": 98,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 60,
+    "primaryLanguage": "Perl",
+    "pushedAt": "2024-12-05T16:05:59.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-09-23T03:54:37.000Z",
+    "updatedAt": "2024-12-07T06:05:46.000Z"
   },
   {
     "id": "trynova/nova",
