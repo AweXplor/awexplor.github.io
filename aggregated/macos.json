@@ -1219,7 +1219,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-06T17:06:07.000Z",
-    "updatedAt": "2024-12-08T07:14:57.000Z"
+    "updatedAt": "2024-12-08T10:34:42.000Z"
   },
   {
     "id": "BubuAnabelas/awesome-markdown",
@@ -1949,7 +1949,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-09T10:57:33.000Z",
-    "updatedAt": "2024-12-08T07:19:06.000Z"
+    "updatedAt": "2024-12-08T10:22:39.000Z"
   },
   {
     "id": "Eugeny/tabby",
@@ -1966,7 +1966,7 @@
       "name": "Eugeny",
       "avatarUrl": "https://avatars.githubusercontent.com/u/161476?v=4"
     },
-    "stars": 59937,
+    "stars": 59938,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 3412,
@@ -1978,7 +1978,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-12-23T09:06:10.000Z",
-    "updatedAt": "2024-12-08T07:15:08.000Z"
+    "updatedAt": "2024-12-08T10:34:53.000Z"
   },
   {
     "id": "Eun/DisableMonitor",
@@ -2094,6 +2094,38 @@
     "goImportedBy": null,
     "createdAt": "2017-10-27T06:50:49.000Z",
     "updatedAt": "2024-11-20T03:46:27.000Z"
+  },
+  {
+    "id": "FelixKratz/JankyBorders",
+    "name": "FelixKratz/JankyBorders",
+    "description": "A lightweight window border system for macOS",
+    "topics": [
+      "border",
+      "customization",
+      "fast",
+      "lightweight",
+      "macos",
+      "tiling-window-manager",
+      "window-border",
+      "yabai"
+    ],
+    "owner": {
+      "name": "FelixKratz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22680421?v=4"
+    },
+    "stars": 1488,
+    "starsDetail": null,
+    "license": "GNU General Public License v3.0",
+    "forks": 22,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-12-06T10:51:11.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-11-02T16:14:50.000Z",
+    "updatedAt": "2024-12-08T10:35:15.000Z"
   },
   {
     "id": "FelixKratz/SketchyBar",
@@ -2576,14 +2608,14 @@
     "license": "BSD 2-Clause \"Simplified\" License",
     "forks": 10756,
     "primaryLanguage": "Python",
-    "pushedAt": "2024-12-08T06:59:32.000Z",
+    "pushedAt": "2024-12-08T09:54:17.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-03-05T02:05:17.000Z",
-    "updatedAt": "2024-12-08T07:10:34.000Z"
+    "updatedAt": "2024-12-08T10:30:04.000Z"
   },
   {
     "id": "ImageOptim/ImageOptim",
@@ -3055,7 +3087,7 @@
       "name": "Kong",
       "avatarUrl": "https://avatars.githubusercontent.com/u/962416?v=4"
     },
-    "stars": 35085,
+    "stars": 35087,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 1991,
@@ -3067,7 +3099,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-23T03:54:26.000Z",
-    "updatedAt": "2024-12-08T07:15:02.000Z"
+    "updatedAt": "2024-12-08T10:34:47.000Z"
   },
   {
     "id": "KrauseFx/overkill-for-mac",
@@ -3383,7 +3415,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-07-21T00:48:01.000Z",
-    "updatedAt": "2024-12-08T07:15:29.000Z"
+    "updatedAt": "2024-12-08T10:35:16.000Z"
   },
   {
     "id": "MaddTheSane/Simple-Comic",
@@ -4171,7 +4203,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-01-30T23:55:53.000Z",
-    "updatedAt": "2024-12-08T07:15:25.000Z"
+    "updatedAt": "2024-12-08T10:35:11.000Z"
   },
   {
     "id": "ParetoSecurity/pareto-mac",
@@ -4200,7 +4232,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-14T09:54:07.000Z",
-    "updatedAt": "2024-12-08T07:14:32.000Z"
+    "updatedAt": "2024-12-08T10:34:14.000Z"
   },
   {
     "id": "PasteBar/PasteBarApp",
@@ -4544,7 +4576,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-21T17:59:23.000Z",
-    "updatedAt": "2024-12-08T07:14:59.000Z"
+    "updatedAt": "2024-12-08T10:34:44.000Z"
   },
   {
     "id": "RocketChat/Rocket.Chat.Electron",
@@ -5079,7 +5111,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-03-20T07:17:31.000Z",
-    "updatedAt": "2024-12-08T07:14:35.000Z"
+    "updatedAt": "2024-12-08T10:34:18.000Z"
   },
   {
     "id": "ThatGuySam/doesitarm",
@@ -5902,7 +5934,7 @@
       "name": "alacritty",
       "avatarUrl": "https://avatars.githubusercontent.com/u/29714349?v=4"
     },
-    "stars": 56774,
+    "stars": 56776,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 3035,
@@ -5914,7 +5946,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-18T05:02:30.000Z",
-    "updatedAt": "2024-12-08T07:15:03.000Z"
+    "updatedAt": "2024-12-08T10:34:48.000Z"
   },
   {
     "id": "alberti42/iTunes-Volume-Control",
@@ -6181,7 +6213,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-03T17:23:54.000Z",
-    "updatedAt": "2024-12-08T07:14:40.000Z"
+    "updatedAt": "2024-12-08T10:34:23.000Z"
   },
   {
     "id": "alvesjtiago/airpass",
@@ -10940,7 +10972,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-26T16:20:12.000Z",
-    "updatedAt": "2024-12-08T07:15:20.000Z"
+    "updatedAt": "2024-12-08T10:35:06.000Z"
   },
   {
     "id": "haystackeditor/haystack-editor",
@@ -11488,7 +11520,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-05-31T16:51:06.000Z",
-    "updatedAt": "2024-12-08T07:15:23.000Z"
+    "updatedAt": "2024-12-08T10:35:09.000Z"
   },
   {
     "id": "igorkulman/iOSLocalizationEditor",
@@ -11623,7 +11655,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-17T16:32:10.000Z",
-    "updatedAt": "2024-12-08T07:15:20.000Z"
+    "updatedAt": "2024-12-08T10:35:06.000Z"
   },
   {
     "id": "imanel/deezplayer",
@@ -13753,7 +13785,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-12-12T22:56:25.000Z",
-    "updatedAt": "2024-12-08T07:15:14.000Z"
+    "updatedAt": "2024-12-08T10:34:59.000Z"
   },
   {
     "id": "kovidgoyal/calibre",
@@ -18707,7 +18739,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-12T18:27:27.000Z",
-    "updatedAt": "2024-12-08T07:15:15.000Z"
+    "updatedAt": "2024-12-08T10:35:01.000Z"
   },
   {
     "id": "ramnes/awesome-mongodb",
@@ -19495,7 +19527,7 @@
       "name": "sfsam",
       "avatarUrl": "https://avatars.githubusercontent.com/u/118104?v=4"
     },
-    "stars": 3380,
+    "stars": 3381,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 234,
@@ -19507,7 +19539,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-27T17:33:22.000Z",
-    "updatedAt": "2024-12-08T07:15:23.000Z"
+    "updatedAt": "2024-12-08T10:35:10.000Z"
   },
   {
     "id": "shadowsocks/ShadowsocksX-NG",
@@ -19537,7 +19569,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-10T11:49:00.000Z",
-    "updatedAt": "2024-12-08T07:15:23.000Z"
+    "updatedAt": "2024-12-08T10:35:09.000Z"
   },
   {
     "id": "shadowsocks/shadowsocks",
@@ -19668,7 +19700,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-09-17T20:24:11.000Z",
-    "updatedAt": "2024-12-08T07:15:14.000Z"
+    "updatedAt": "2024-12-08T10:34:59.000Z"
   },
   {
     "id": "shincurry/Maria",
@@ -19961,7 +19993,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-01T10:45:23.000Z",
-    "updatedAt": "2024-12-08T07:15:17.000Z"
+    "updatedAt": "2024-12-08T10:35:03.000Z"
   },
   {
     "id": "sindresorhus/Pasteboard-Viewer",
@@ -22316,7 +22348,7 @@
       "name": "vercel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4"
     },
-    "stars": 43480,
+    "stars": 43481,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 3525,
@@ -22328,7 +22360,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-07-01T06:01:21.000Z",
-    "updatedAt": "2024-12-08T07:15:06.000Z"
+    "updatedAt": "2024-12-08T10:34:52.000Z"
   },
   {
     "id": "vgorloff/AUHost",
@@ -24202,7 +24234,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-08T06:30:42.000Z",
-    "updatedAt": "2024-12-08T07:15:28.000Z"
+    "updatedAt": "2024-12-08T10:35:15.000Z"
   },
   {
     "id": "zotero/zotero",

@@ -505,7 +505,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-22T05:32:15.000Z",
-    "updatedAt": "2024-12-08T07:11:23.000Z"
+    "updatedAt": "2024-12-08T10:30:56.000Z"
   },
   {
     "id": "Abstract-IDE/Abstract-cs",
@@ -7970,6 +7970,33 @@
     "goImportedBy": null,
     "createdAt": "2022-07-17T11:09:45.000Z",
     "updatedAt": "2024-11-20T03:23:26.000Z"
+  },
+  {
+    "id": "brianaung/compl.nvim",
+    "name": "brianaung/compl.nvim",
+    "description": "Async code auto-completion for Neovim.",
+    "topics": [
+      "autocompletion",
+      "neovim",
+      "neovim-plugin"
+    ],
+    "owner": {
+      "name": "brianaung",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/76241135?v=4"
+    },
+    "stars": 21,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 2,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-12-07T07:24:58.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-06-01T10:52:25.000Z",
+    "updatedAt": "2024-12-08T10:30:49.000Z"
   },
   {
     "id": "calind/selenized.nvim",
