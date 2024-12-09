@@ -11898,6 +11898,36 @@
     "updatedAt": "2024-10-19T07:15:03.000Z"
   },
   {
+    "id": "ashwingopalsamy/uuidcheck",
+    "name": "ashwingopalsamy/uuidcheck",
+    "description": "A tiny, zero-dependency Go library that validates UUIDs against standard RFC 4122 formatting, converts UUIDv7() into timestamps by ensuring accuracy and light compute.",
+    "topics": [
+      "go",
+      "good-first-issue",
+      "good-first-project",
+      "open-source",
+      "timestamp",
+      "uuid"
+    ],
+    "owner": {
+      "name": "ashwingopalsamy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/47941624?v=4"
+    },
+    "stars": 2,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 1,
+    "primaryLanguage": "Go",
+    "pushedAt": "2024-12-08T04:28:39.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-12-06T11:55:02.000Z",
+    "updatedAt": "2024-12-09T08:30:08.000Z"
+  },
+  {
     "id": "askeladdk/prattle",
     "name": "askeladdk/prattle",
     "description": "Scan and parse LL(1) grammars simply and efficiently.",
@@ -56705,6 +56735,33 @@
     "goImportedBy": 3412,
     "createdAt": "2021-06-09T11:03:48.000Z",
     "updatedAt": "2024-10-19T06:58:17.000Z"
+  },
+  {
+    "id": "raeperd/kickstart.go",
+    "name": "raeperd/kickstart.go",
+    "description": "Minimalistic HTTP server template in Go",
+    "topics": [
+      "go",
+      "http",
+      "template"
+    ],
+    "owner": {
+      "name": "raeperd",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/41039751?v=4"
+    },
+    "stars": 74,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 4,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-12-09T03:30:31.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-12-27T17:45:15.000Z",
+    "updatedAt": "2024-12-09T08:30:08.000Z"
   },
   {
     "id": "rafael-santiago/cherry",
