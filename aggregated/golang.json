@@ -30594,34 +30594,6 @@
     "updatedAt": "2024-10-19T07:12:46.000Z"
   },
   {
-    "id": "golang/dep",
-    "name": "golang/dep",
-    "description": "Go dependency management tool experiment (deprecated)",
-    "topics": [
-      "dependency-manager",
-      "golang",
-      "package-manager",
-      "toolchain"
-    ],
-    "owner": {
-      "name": "golang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4314092?v=4"
-    },
-    "stars": 12847,
-    "starsDetail": null,
-    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 1047,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2020-09-05T13:47:25.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2016-10-07T00:04:51.000Z",
-    "updatedAt": "2024-10-19T07:13:10.000Z"
-  },
-  {
     "id": "golang/geo",
     "name": "golang/geo",
     "description": "S2 geometry library in Go",
