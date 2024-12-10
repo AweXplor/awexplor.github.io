@@ -133,7 +133,7 @@
       "name": "cryptpad",
       "avatarUrl": "https://avatars.githubusercontent.com/u/76949612?v=4"
     },
-    "stars": 5707,
+    "stars": 5718,
     "starsDetail": {
       "total": 5605,
       "week": 28,
@@ -144,14 +144,14 @@
     "license": "GNU Affero General Public License v3.0",
     "forks": 656,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-12-06T19:06:57.000Z",
+    "pushedAt": "2024-12-09T17:18:01.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-31T15:46:17.000Z",
-    "updatedAt": "2024-12-08T10:37:53.000Z"
+    "updatedAt": "2024-12-10T03:21:16.000Z"
   },
   {
     "id": "Jermolene/TiddlyWiki5",
@@ -2893,6 +2893,29 @@
     "updatedAt": "2024-11-26T02:54:04.000Z"
   },
   {
+    "id": "JMBeresford/retrom",
+    "name": "JMBeresford/retrom",
+    "description": "A centralized game library/collection management service with a focus on emulation",
+    "topics": [],
+    "owner": {
+      "name": "JMBeresford",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1373954?v=4"
+    },
+    "stars": 754,
+    "starsDetail": null,
+    "license": "GNU General Public License v3.0",
+    "forks": 12,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-12-09T01:43:31.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-04-19T00:05:31.000Z",
+    "updatedAt": "2024-12-10T03:20:44.000Z"
+  },
+  {
     "id": "JVT038/MetaTube",
     "name": "JVT038/MetaTube",
     "description": "Python web ui to download videos from YouTube and add metadata on top of it",
@@ -4461,6 +4484,38 @@
     "goImportedBy": null,
     "createdAt": "2015-07-25T11:32:24.000Z",
     "updatedAt": "2024-11-26T02:56:30.000Z"
+  },
+  {
+    "id": "PlexRipper/PlexRipper",
+    "name": "PlexRipper/PlexRipper",
+    "description": "A cross-platform media downloader for Plex, designed to seamlessly add content to your own Plex server!",
+    "topics": [
+      "downloader",
+      "downloadmanager",
+      "hacktoberfest",
+      "nuxt",
+      "plex",
+      "plex-media",
+      "ripper",
+      "vue"
+    ],
+    "owner": {
+      "name": "PlexRipper",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/63810118?v=4"
+    },
+    "stars": 292,
+    "starsDetail": null,
+    "license": "GNU General Public License v3.0",
+    "forks": 37,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-12-08T09:48:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-04-16T17:42:26.000Z",
+    "updatedAt": "2024-12-10T03:20:28.000Z"
   },
   {
     "id": "PrestaShop/PrestaShop",
@@ -7207,19 +7262,19 @@
       "name": "apache",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47359?v=4"
     },
-    "stars": 63222,
+    "stars": 63246,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 14012,
+    "forks": 14021,
     "primaryLanguage": "Mako",
-    "pushedAt": "2024-12-07T20:58:23.000Z",
+    "pushedAt": "2024-12-10T01:59:56.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-21T18:55:34.000Z",
-    "updatedAt": "2024-12-08T10:36:27.000Z"
+    "updatedAt": "2024-12-10T03:19:38.000Z"
   },
   {
     "id": "apankrat/nullboard",
@@ -11412,6 +11467,39 @@
     "updatedAt": "2024-11-26T02:53:00.000Z"
   },
   {
+    "id": "docmost/docmost",
+    "name": "docmost/docmost",
+    "description": "Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.",
+    "topics": [
+      "confluence",
+      "documentation",
+      "knowledge-base",
+      "notion",
+      "notion-alternative",
+      "open-source",
+      "opensource",
+      "realtime-collaboration",
+      "wiki"
+    ],
+    "owner": {
+      "name": "docmost",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/150462874?v=4"
+    },
+    "stars": 6992,
+    "starsDetail": null,
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 301,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-12-09T21:56:51.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-08-03T15:35:48.000Z",
+    "updatedAt": "2024-12-10T03:21:04.000Z"
+  },
+  {
     "id": "documize/community",
     "name": "documize/community",
     "description": "Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS",
@@ -15201,7 +15289,7 @@
       "name": "huginn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23225142?v=4"
     },
-    "stars": 43893,
+    "stars": 43899,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 3804,
@@ -15213,7 +15301,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-10T06:00:31.000Z",
-    "updatedAt": "2024-12-09T14:44:36.000Z"
+    "updatedAt": "2024-12-10T03:12:09.000Z"
   },
   {
     "id": "humhub/humhub",
@@ -17512,19 +17600,19 @@
       "name": "koel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20983373?v=4"
     },
-    "stars": 16099,
+    "stars": 16100,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 1978,
+    "forks": 1979,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-11-26T13:29:44.000Z",
+    "pushedAt": "2024-12-10T00:57:57.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-06T12:13:19.000Z",
-    "updatedAt": "2024-12-09T14:41:03.000Z"
+    "updatedAt": "2024-12-10T03:17:07.000Z"
   },
   {
     "id": "kovidgoyal/calibre",
@@ -20681,6 +20769,34 @@
     "goImportedBy": null,
     "createdAt": "2015-06-03T21:16:46.000Z",
     "updatedAt": "2024-11-26T02:52:36.000Z"
+  },
+  {
+    "id": "mrmn2/PdfDing",
+    "name": "mrmn2/PdfDing",
+    "description": "Selfhosted PDF manager and viewer offering a seamless user experience on multiple devices.",
+    "topics": [
+      "document-management",
+      "lightweight",
+      "pdf",
+      "self-hosted"
+    ],
+    "owner": {
+      "name": "mrmn2",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/188248364?v=4"
+    },
+    "stars": 53,
+    "starsDetail": null,
+    "license": "GNU General Public License v3.0",
+    "forks": 1,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-12-07T09:21:35.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-11-27T07:29:55.000Z",
+    "updatedAt": "2024-12-10T03:20:38.000Z"
   },
   {
     "id": "msgbyte/tailchat",
@@ -23859,10 +23975,10 @@
       "name": "postalserver",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58169103?v=4"
     },
-    "stars": 14995,
+    "stars": 14998,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 1069,
+    "forks": 1070,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-12-02T22:42:50.000Z",
     "archived": false,
@@ -23871,7 +23987,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-19T12:04:57.000Z",
-    "updatedAt": "2024-12-09T14:45:07.000Z"
+    "updatedAt": "2024-12-10T03:12:39.000Z"
   },
   {
     "id": "prasathmani/tinyfilemanager",
@@ -27565,14 +27681,14 @@
     "license": "MIT License",
     "forks": 396,
     "primaryLanguage": "Procfile",
-    "pushedAt": "2024-12-09T06:27:11.000Z",
+    "pushedAt": "2024-12-09T22:30:11.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-06T04:51:27.000Z",
-    "updatedAt": "2024-12-09T14:45:44.000Z"
+    "updatedAt": "2024-12-10T03:13:16.000Z"
   },
   {
     "id": "stumpapp/stump",
@@ -27825,6 +27941,33 @@
     "goImportedBy": null,
     "createdAt": "2013-11-26T09:48:21.000Z",
     "updatedAt": "2024-11-26T02:54:23.000Z"
+  },
+  {
+    "id": "sysadminsmedia/homebox",
+    "name": "sysadminsmedia/homebox",
+    "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
+    "topics": [
+      "hacktoberfest",
+      "inventory",
+      "selfhosted"
+    ],
+    "owner": {
+      "name": "sysadminsmedia",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/151488376?v=4"
+    },
+    "stars": 1329,
+    "starsDetail": null,
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 69,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2024-12-08T23:11:42.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-06-17T18:07:09.000Z",
+    "updatedAt": "2024-12-10T03:20:46.000Z"
   },
   {
     "id": "tagspaces/tagspaces",
@@ -30311,7 +30454,7 @@
       "name": "zincsearch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/129023705?v=4"
     },
-    "stars": 17070,
+    "stars": 17076,
     "starsDetail": null,
     "license": "Other",
     "forks": 745,
@@ -30323,7 +30466,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-12-02T12:49:41.000Z",
-    "updatedAt": "2024-12-08T10:37:42.000Z"
+    "updatedAt": "2024-12-10T03:20:57.000Z"
   },
   {
     "id": "znc/znc",
