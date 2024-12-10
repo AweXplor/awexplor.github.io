@@ -505,7 +505,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-22T05:32:15.000Z",
-    "updatedAt": "2024-12-10T09:33:41.000Z"
+    "updatedAt": "2024-12-10T15:55:11.000Z"
   },
   {
     "id": "Abstract-IDE/Abstract-cs",
@@ -25290,6 +25290,31 @@
     "goImportedBy": null,
     "createdAt": "2020-10-04T04:09:30.000Z",
     "updatedAt": "2024-11-20T03:25:34.000Z"
+  },
+  {
+    "id": "supermaven-inc/supermaven-nvim",
+    "name": "supermaven-inc/supermaven-nvim",
+    "description": "The official Neovim plugin for Supermaven",
+    "topics": [
+      "neovim-plugin"
+    ],
+    "owner": {
+      "name": "supermaven-inc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/127350487?v=4"
+    },
+    "stars": 777,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 37,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2024-10-07T15:28:50.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-05-08T17:37:53.000Z",
+    "updatedAt": "2024-12-10T15:55:04.000Z"
   },
   {
     "id": "svermeulen/nvim-lusc",
