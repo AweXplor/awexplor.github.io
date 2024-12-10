@@ -1882,7 +1882,7 @@
       "name": "http-party",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10845406?v=4"
     },
-    "stars": 13616,
+    "stars": 13685,
     "starsDetail": {
       "total": 13616,
       "week": 14,
@@ -1891,16 +1891,16 @@
       "updatedAt": 1729329178
     },
     "license": "MIT License",
-    "forks": 1496,
+    "forks": 1500,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-10-17T18:17:37.000Z",
+    "pushedAt": "2024-11-05T17:25:50.000Z",
     "archived": false,
     "npmPackage": "http-server",
-    "npmLastMonthDownloads": 10470319,
+    "npmLastMonthDownloads": 11321596,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-06-16T23:54:57.000Z",
-    "updatedAt": "2024-10-19T06:36:11.000Z"
+    "updatedAt": "2024-12-10T09:43:54.000Z"
   },
   {
     "id": "drizzle-team/drizzle-orm",
@@ -8394,7 +8394,7 @@
       "name": "tapio",
       "avatarUrl": "https://avatars.githubusercontent.com/u/83229?v=4"
     },
-    "stars": 4427,
+    "stars": 4440,
     "starsDetail": {
       "total": 4427,
       "week": 7,
@@ -8403,16 +8403,16 @@
       "updatedAt": 1729329174
     },
     "license": null,
-    "forks": 484,
+    "forks": 485,
     "primaryLanguage": "CSS",
     "pushedAt": "2024-04-28T23:27:22.000Z",
     "archived": false,
     "npmPackage": "live-server",
-    "npmLastMonthDownloads": 368631,
+    "npmLastMonthDownloads": 422517,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-12-14T14:14:12.000Z",
-    "updatedAt": "2024-10-19T06:36:10.000Z"
+    "updatedAt": "2024-12-10T09:43:52.000Z"
   },
   {
     "id": "ai/nanoid",
@@ -14019,7 +14019,7 @@
       "name": "kessler",
       "avatarUrl": "https://avatars.githubusercontent.com/u/147367?v=4"
     },
-    "stars": 340,
+    "stars": 341,
     "starsDetail": {
       "total": 340
     },
@@ -14029,11 +14029,11 @@
     "pushedAt": "2022-10-13T17:31:40.000Z",
     "archived": false,
     "npmPackage": "bcat",
-    "npmLastMonthDownloads": 62,
+    "npmLastMonthDownloads": 28,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-01-18T09:16:53.000Z",
-    "updatedAt": "2024-10-19T06:36:11.000Z"
+    "updatedAt": "2024-12-10T09:43:55.000Z"
   },
   {
     "id": "khaosdoctor/gotql",
@@ -16088,7 +16088,7 @@
       "name": "sindresorhus",
       "avatarUrl": "https://avatars.githubusercontent.com/u/170270?v=4"
     },
-    "stars": 387,
+    "stars": 388,
     "starsDetail": {
       "total": 387
     },
@@ -16102,7 +16102,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-08-23T21:02:05.000Z",
-    "updatedAt": "2024-10-19T06:36:11.000Z"
+    "updatedAt": "2024-12-10T09:43:56.000Z"
   },
   {
     "id": "sindresorhus/load-json-file",
