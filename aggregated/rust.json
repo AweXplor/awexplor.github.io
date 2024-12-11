@@ -806,6 +806,29 @@
     "updatedAt": "2024-10-19T06:56:20.000Z"
   },
   {
+    "id": "BurntSushi/jiff",
+    "name": "BurntSushi/jiff",
+    "description": "A date-time library for Rust that encourages you to jump into the pit of success.",
+    "topics": [],
+    "owner": {
+      "name": "BurntSushi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/456674?v=4"
+    },
+    "stars": 1797,
+    "starsDetail": null,
+    "license": "The Unlicense",
+    "forks": 36,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-12-10T03:03:43.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-02-17T18:31:06.000Z",
+    "updatedAt": "2024-12-11T14:19:30.000Z"
+  },
+  {
     "id": "BurntSushi/rust-csv",
     "name": "BurntSushi/rust-csv",
     "description": "A CSV parser for Rust, with Serde support.",
