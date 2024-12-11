@@ -29,7 +29,7 @@
       "name": "cossacklabs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11052315?v=4"
     },
-    "stars": 1858,
+    "stars": 1878,
     "starsDetail": {
       "total": 1858,
       "week": 0,
@@ -38,7 +38,7 @@
       "updatedAt": 1729334058
     },
     "license": "Apache License 2.0",
-    "forks": 143,
+    "forks": 144,
     "primaryLanguage": "NSIS",
     "pushedAt": "2024-09-12T00:14:46.000Z",
     "archived": false,
@@ -47,7 +47,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2015-05-06T13:25:25.000Z",
-    "updatedAt": "2024-10-19T06:36:46.000Z"
+    "updatedAt": "2024-12-11T01:33:31.000Z"
   },
   {
     "id": "svaarala/duktape",
@@ -99,7 +99,7 @@
       "name": "uNetworking",
       "avatarUrl": "https://avatars.githubusercontent.com/u/28876608?v=4"
     },
-    "stars": 17345,
+    "stars": 17506,
     "starsDetail": {
       "total": 17345,
       "week": 48,
@@ -108,16 +108,16 @@
       "updatedAt": 1729329211
     },
     "license": "Apache License 2.0",
-    "forks": 1755,
+    "forks": 1761,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-10-18T15:58:45.000Z",
+    "pushedAt": "2024-12-04T02:59:55.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-21T04:39:40.000Z",
-    "updatedAt": "2024-10-19T06:36:33.000Z"
+    "updatedAt": "2024-12-11T01:32:21.000Z"
   },
   {
     "id": "3Hren/blackhole",
@@ -428,7 +428,7 @@
       "name": "BayesWitnesses",
       "avatarUrl": "https://avatars.githubusercontent.com/u/46638712?v=4"
     },
-    "stars": 2809,
+    "stars": 2825,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 241,
@@ -440,7 +440,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2019-01-13T02:32:55.000Z",
-    "updatedAt": "2024-10-19T06:37:26.000Z"
+    "updatedAt": "2024-12-11T01:37:00.000Z"
   },
   {
     "id": "Bhupesh-V/30-seconds-of-cpp",
@@ -1580,19 +1580,19 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 341148,
+    "stars": 341165,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 61935,
+    "forks": 61940,
     "primaryLanguage": "HTML",
-    "pushedAt": "2024-12-06T15:02:18.000Z",
+    "pushedAt": "2024-12-10T21:58:53.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-10T15:51:59.000Z"
+    "updatedAt": "2024-12-11T01:20:59.000Z"
   },
   {
     "id": "Embarcadero/Dev-Cpp",
@@ -5290,7 +5290,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-07T14:00:21.000Z",
-    "updatedAt": "2024-12-10T16:01:03.000Z"
+    "updatedAt": "2024-12-11T01:28:34.000Z"
   },
   {
     "id": "autodiff/autodiff",
@@ -5560,10 +5560,10 @@
       "name": "bayandin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/864213?v=4"
     },
-    "stars": 31745,
+    "stars": 32157,
     "starsDetail": null,
     "license": null,
-    "forks": 3546,
+    "forks": 3559,
     "primaryLanguage": "Ruby",
     "pushedAt": "2024-06-02T22:46:41.000Z",
     "archived": false,
@@ -5572,7 +5572,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-07-08T05:44:19.000Z",
-    "updatedAt": "2024-10-19T06:54:29.000Z"
+    "updatedAt": "2024-12-11T01:39:21.000Z"
   },
   {
     "id": "beached/daw_json_link",
@@ -9696,7 +9696,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T18:28:47.000Z",
-    "updatedAt": "2024-12-10T15:51:41.000Z"
+    "updatedAt": "2024-12-11T01:20:41.000Z"
   },
   {
     "id": "flavio/qjson",
@@ -12377,10 +12377,10 @@
       "name": "jnv",
       "avatarUrl": "https://avatars.githubusercontent.com/u/616767?v=4"
     },
-    "stars": 9952,
+    "stars": 10054,
     "starsDetail": null,
     "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 699,
+    "forks": 703,
     "primaryLanguage": "",
     "pushedAt": "2024-09-30T06:08:51.000Z",
     "archived": false,
@@ -12389,7 +12389,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-11-14T22:25:24.000Z",
-    "updatedAt": "2024-10-19T06:54:29.000Z"
+    "updatedAt": "2024-12-11T01:39:20.000Z"
   },
   {
     "id": "joboccara/pipes",
@@ -15464,19 +15464,19 @@
       "name": "microsoft",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
-    "stars": 165164,
+    "stars": 165177,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 29616,
+    "forks": 29619,
     "primaryLanguage": "Hack",
-    "pushedAt": "2024-12-10T15:52:08.000Z",
+    "pushedAt": "2024-12-11T00:30:32.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-03T20:23:38.000Z",
-    "updatedAt": "2024-12-10T16:00:07.000Z"
+    "updatedAt": "2024-12-11T01:27:39.000Z"
   },
   {
     "id": "mikke89/RmlUi",
@@ -21344,7 +21344,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2024-12-10T22:12:58.000Z"
+    "updatedAt": "2024-12-11T01:18:07.000Z"
   },
   {
     "id": "uncrustify/uncrustify",
@@ -22394,14 +22394,14 @@
     "license": "GNU General Public License v3.0",
     "forks": 2808,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-12-10T08:44:06.000Z",
+    "pushedAt": "2024-12-11T00:38:23.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2024-12-10T22:12:40.000Z"
+    "updatedAt": "2024-12-11T01:17:51.000Z"
   },
   {
     "id": "yhirose/cpp-httplib",
@@ -22624,7 +22624,7 @@
       "name": "zlib-ng",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45075615?v=4"
     },
-    "stars": 1248,
+    "stars": 1249,
     "starsDetail": null,
     "license": "Other",
     "forks": 435,
@@ -22636,7 +22636,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-01-21T19:17:23.000Z",
-    "updatedAt": "2024-12-10T15:51:21.000Z"
+    "updatedAt": "2024-12-11T01:20:23.000Z"
   },
   {
     "id": "zlib-ng/zlib-ng",

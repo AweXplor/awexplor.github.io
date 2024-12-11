@@ -29,7 +29,7 @@
       "name": "cossacklabs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11052315?v=4"
     },
-    "stars": 1858,
+    "stars": 1878,
     "starsDetail": {
       "total": 1858,
       "week": 0,
@@ -38,7 +38,7 @@
       "updatedAt": 1729334058
     },
     "license": "Apache License 2.0",
-    "forks": 143,
+    "forks": 144,
     "primaryLanguage": "NSIS",
     "pushedAt": "2024-09-12T00:14:46.000Z",
     "archived": false,
@@ -47,7 +47,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2015-05-06T13:25:25.000Z",
-    "updatedAt": "2024-10-19T06:36:46.000Z"
+    "updatedAt": "2024-12-11T01:33:31.000Z"
   },
   {
     "id": "bleenco/abstruse",
@@ -69,7 +69,7 @@
       "name": "bleenco",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26046537?v=4"
     },
-    "stars": 936,
+    "stars": 939,
     "starsDetail": {
       "total": 936,
       "week": 0,
@@ -83,11 +83,11 @@
     "pushedAt": "2024-01-31T17:06:40.000Z",
     "archived": false,
     "npmPackage": "abstruse",
-    "npmLastMonthDownloads": 57,
+    "npmLastMonthDownloads": 176,
     "goPackage": "github.com/bleenco/abstruse",
     "goImportedBy": 0,
     "createdAt": "2017-03-13T22:31:58.000Z",
-    "updatedAt": "2024-10-19T06:36:46.000Z"
+    "updatedAt": "2024-12-11T01:33:27.000Z"
   },
   {
     "id": "hapijs/joi",
@@ -103,7 +103,7 @@
       "name": "hapijs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3774533?v=4"
     },
-    "stars": 20908,
+    "stars": 20968,
     "starsDetail": {
       "total": 20908,
       "week": 10,
@@ -112,16 +112,16 @@
       "updatedAt": 1729322151
     },
     "license": "Other",
-    "forks": 1506,
+    "forks": 1510,
     "primaryLanguage": "TypeScript",
     "pushedAt": "2024-08-28T16:08:36.000Z",
     "archived": false,
     "npmPackage": "joi",
-    "npmLastMonthDownloads": 45519561,
+    "npmLastMonthDownloads": 45349111,
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2012-09-16T16:38:06.000Z",
-    "updatedAt": "2024-10-19T07:15:51.000Z"
+    "updatedAt": "2024-12-11T01:32:50.000Z"
   },
   {
     "id": "yaronn/blessed-contrib",
@@ -797,7 +797,7 @@
       "name": "BayesWitnesses",
       "avatarUrl": "https://avatars.githubusercontent.com/u/46638712?v=4"
     },
-    "stars": 2809,
+    "stars": 2825,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 241,
@@ -809,7 +809,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2019-01-13T02:32:55.000Z",
-    "updatedAt": "2024-10-19T06:37:26.000Z"
+    "updatedAt": "2024-12-11T01:37:00.000Z"
   },
   {
     "id": "Bilibili/discovery",
@@ -13058,10 +13058,10 @@
       "name": "bayandin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/864213?v=4"
     },
-    "stars": 31745,
+    "stars": 32157,
     "starsDetail": null,
     "license": null,
-    "forks": 3546,
+    "forks": 3559,
     "primaryLanguage": "Ruby",
     "pushedAt": "2024-06-02T22:46:41.000Z",
     "archived": false,
@@ -13070,7 +13070,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-07-08T05:44:19.000Z",
-    "updatedAt": "2024-10-19T06:54:29.000Z"
+    "updatedAt": "2024-12-11T01:39:21.000Z"
   },
   {
     "id": "bcicen/ctop",
@@ -18039,21 +18039,21 @@
       "name": "colinhacks",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3084745?v=4"
     },
-    "stars": 33554,
+    "stars": 34425,
     "starsDetail": {
       "total": 33554
     },
     "license": "MIT License",
-    "forks": 1161,
+    "forks": 1209,
     "primaryLanguage": "Shell",
-    "pushedAt": "2024-10-18T21:34:18.000Z",
+    "pushedAt": "2024-12-10T22:58:13.000Z",
     "archived": false,
     "npmPackage": "zod",
-    "npmLastMonthDownloads": 55014652,
+    "npmLastMonthDownloads": 58829141,
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2020-03-07T20:59:08.000Z",
-    "updatedAt": "2024-10-19T06:36:38.000Z"
+    "updatedAt": "2024-12-11T01:32:46.000Z"
   },
   {
     "id": "cometbft/cometbft",
@@ -58881,7 +58881,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2012-09-29T16:06:58.000Z",
-    "updatedAt": "2024-12-10T16:01:05.000Z"
+    "updatedAt": "2024-12-11T01:28:36.000Z"
   },
   {
     "id": "root-gg/plik",
