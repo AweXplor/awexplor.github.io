@@ -151,7 +151,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-31T15:46:17.000Z",
-    "updatedAt": "2024-12-11T04:56:41.000Z"
+    "updatedAt": "2024-12-11T08:13:30.000Z"
   },
   {
     "id": "Jermolene/TiddlyWiki5",
@@ -414,11 +414,11 @@
     "pushedAt": "2024-12-10T18:05:06.000Z",
     "archived": false,
     "npmPackage": "apostrophe",
-    "npmLastMonthDownloads": 11100,
+    "npmLastMonthDownloads": 11254,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-02-08T20:04:02.000Z",
-    "updatedAt": "2024-12-11T01:35:20.000Z"
+    "updatedAt": "2024-12-11T08:14:11.000Z"
   },
   {
     "id": "HabitRPG/habitica",
@@ -5697,21 +5697,21 @@
       "name": "TryGhost",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2178663?v=4"
     },
-    "stars": 47712,
+    "stars": 47714,
     "starsDetail": {
       "total": 47223
     },
     "license": "MIT License",
-    "forks": 10422,
+    "forks": 10421,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-12-10T22:18:53.000Z",
+    "pushedAt": "2024-12-11T07:50:28.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2013-05-04T11:09:13.000Z",
-    "updatedAt": "2024-12-11T01:35:14.000Z"
+    "updatedAt": "2024-12-11T08:14:09.000Z"
   },
   {
     "id": "TwiN/gatus",
@@ -7262,19 +7262,19 @@
       "name": "apache",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47359?v=4"
     },
-    "stars": 63270,
+    "stars": 63274,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 14035,
+    "forks": 14040,
     "primaryLanguage": "Mako",
-    "pushedAt": "2024-12-11T02:57:51.000Z",
+    "pushedAt": "2024-12-11T07:05:46.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-21T18:55:34.000Z",
-    "updatedAt": "2024-12-11T04:55:14.000Z"
+    "updatedAt": "2024-12-11T08:12:05.000Z"
   },
   {
     "id": "apankrat/nullboard",
@@ -15289,7 +15289,7 @@
       "name": "huginn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23225142?v=4"
     },
-    "stars": 43913,
+    "stars": 43914,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 3804,
@@ -15301,7 +15301,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-10T06:00:31.000Z",
-    "updatedAt": "2024-12-11T04:47:56.000Z"
+    "updatedAt": "2024-12-11T08:04:50.000Z"
   },
   {
     "id": "humhub/humhub",
@@ -17600,10 +17600,10 @@
       "name": "koel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20983373?v=4"
     },
-    "stars": 16105,
+    "stars": 16107,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 1979,
+    "forks": 1980,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-12-10T00:57:57.000Z",
     "archived": false,
@@ -17612,7 +17612,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-06T12:13:19.000Z",
-    "updatedAt": "2024-12-11T04:52:48.000Z"
+    "updatedAt": "2024-12-11T11:17:41.000Z"
   },
   {
     "id": "kovidgoyal/calibre",
@@ -21794,19 +21794,19 @@
       "name": "novuhq",
       "avatarUrl": "https://avatars.githubusercontent.com/u/77433905?v=4"
     },
-    "stars": 35547,
+    "stars": 35549,
     "starsDetail": null,
     "license": "Other",
     "forks": 3917,
     "primaryLanguage": "EJS",
-    "pushedAt": "2024-12-10T22:37:20.000Z",
+    "pushedAt": "2024-12-11T08:11:42.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-08-26T15:22:44.000Z",
-    "updatedAt": "2024-12-11T01:37:36.000Z"
+    "updatedAt": "2024-12-11T08:14:51.000Z"
   },
   {
     "id": "nskondratev/socks5-proxy-server",
@@ -23975,7 +23975,7 @@
       "name": "postalserver",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58169103?v=4"
     },
-    "stars": 14999,
+    "stars": 15000,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 1069,
@@ -23987,7 +23987,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-19T12:04:57.000Z",
-    "updatedAt": "2024-12-11T04:48:26.000Z"
+    "updatedAt": "2024-12-11T08:05:19.000Z"
   },
   {
     "id": "prasathmani/tinyfilemanager",
@@ -27688,7 +27688,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-06T04:51:27.000Z",
-    "updatedAt": "2024-12-11T04:49:02.000Z"
+    "updatedAt": "2024-12-11T08:05:56.000Z"
   },
   {
     "id": "stumpapp/stump",
@@ -30466,7 +30466,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-12-02T12:49:41.000Z",
-    "updatedAt": "2024-12-11T04:56:30.000Z"
+    "updatedAt": "2024-12-11T08:13:20.000Z"
   },
   {
     "id": "znc/znc",

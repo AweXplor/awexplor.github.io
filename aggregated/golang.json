@@ -103,7 +103,7 @@
       "name": "hapijs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3774533?v=4"
     },
-    "stars": 20968,
+    "stars": 20970,
     "starsDetail": {
       "total": 20908,
       "week": 10,
@@ -117,11 +117,11 @@
     "pushedAt": "2024-08-28T16:08:36.000Z",
     "archived": false,
     "npmPackage": "joi",
-    "npmLastMonthDownloads": 45349111,
+    "npmLastMonthDownloads": 47024621,
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2012-09-16T16:38:06.000Z",
-    "updatedAt": "2024-12-11T01:32:50.000Z"
+    "updatedAt": "2024-12-11T08:13:45.000Z"
   },
   {
     "id": "yaronn/blessed-contrib",
@@ -9467,35 +9467,6 @@
     "updatedAt": "2024-10-19T07:12:51.000Z"
   },
   {
-    "id": "alxrm/ugo",
-    "name": "alxrm/ugo",
-    "description": "Simple and expressive toolbox written in Go",
-    "topics": [
-      "collections",
-      "fluent-interface",
-      "functional",
-      "slice",
-      "underscore"
-    ],
-    "owner": {
-      "name": "alxrm",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3979916?v=4"
-    },
-    "stars": 27,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 4,
-    "primaryLanguage": "Go",
-    "pushedAt": "2016-06-30T19:18:16.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2016-02-17T19:41:57.000Z",
-    "updatedAt": "2024-10-19T07:14:15.000Z"
-  },
-  {
     "id": "amacneil/dbmate",
     "name": "amacneil/dbmate",
     "description": "🚀 A lightweight, framework-agnostic database migration tool.",
@@ -18274,32 +18245,6 @@
     "goImportedBy": 88,
     "createdAt": "2019-04-11T06:49:34.000Z",
     "updatedAt": "2024-10-19T07:12:52.000Z"
-  },
-  {
-    "id": "contextplus/contextplus",
-    "name": "contextplus/contextplus",
-    "description": "Package contextplus provide more easy to use functions for contexts.",
-    "topics": [
-      "context",
-      "golang"
-    ],
-    "owner": {
-      "name": "contextplus",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/114203300?v=4"
-    },
-    "stars": 16,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 0,
-    "primaryLanguage": "Go",
-    "pushedAt": "2023-03-20T02:47:26.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/contextplus/contextplus",
-    "goImportedBy": 0,
-    "createdAt": "2022-09-23T02:38:15.000Z",
-    "updatedAt": "2024-10-19T07:13:59.000Z"
   },
   {
     "id": "corazawaf/coraza",
@@ -58881,7 +58826,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2012-09-29T16:06:58.000Z",
-    "updatedAt": "2024-12-11T04:54:30.000Z"
+    "updatedAt": "2024-12-11T08:11:20.000Z"
   },
   {
     "id": "root-gg/plik",
