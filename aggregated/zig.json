@@ -1405,6 +1405,37 @@
     "updatedAt": "2024-11-20T03:55:28.000Z"
   },
   {
+    "id": "by-nir/aws-lambda-zig",
+    "name": "by-nir/aws-lambda-zig",
+    "description": "🟠 Write AWS Lambda functions in Zig programming language",
+    "topics": [
+      "aws",
+      "cloud",
+      "lambda",
+      "server",
+      "serverless",
+      "zig",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "by-nir",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/109542784?v=4"
+    },
+    "stars": 3,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 2,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2024-12-11T04:37:14.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-02-26T22:31:14.000Z",
+    "updatedAt": "2024-12-12T09:04:52.000Z"
+  },
+  {
     "id": "capy-ui/capy",
     "name": "capy-ui/capy",
     "description": "💻Build one codebase and get native UI on Windows, Linux and Web",
