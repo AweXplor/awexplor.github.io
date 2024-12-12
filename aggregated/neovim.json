@@ -505,7 +505,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-22T05:32:15.000Z",
-    "updatedAt": "2024-12-12T12:14:50.000Z"
+    "updatedAt": "2024-12-12T21:37:53.000Z"
   },
   {
     "id": "Abstract-IDE/Abstract-cs",
@@ -1495,6 +1495,32 @@
     "goImportedBy": null,
     "createdAt": "2024-10-03T09:50:30.000Z",
     "updatedAt": "2024-11-26T02:46:28.000Z"
+  },
+  {
+    "id": "DanilaMihailov/beacon.nvim",
+    "name": "DanilaMihailov/beacon.nvim",
+    "description": "Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is",
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ],
+    "owner": {
+      "name": "DanilaMihailov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1163040?v=4"
+    },
+    "stars": 386,
+    "starsDetail": null,
+    "license": null,
+    "forks": 10,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2024-06-25T06:03:46.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-06-23T14:15:07.000Z",
+    "updatedAt": "2024-12-12T21:37:48.000Z"
   },
   {
     "id": "Darazaki/indent-o-matic",
@@ -9437,6 +9463,34 @@
     "goImportedBy": null,
     "createdAt": "2023-04-17T08:28:43.000Z",
     "updatedAt": "2024-11-20T03:24:15.000Z"
+  },
+  {
+    "id": "csessh/aoc.nvim",
+    "name": "csessh/aoc.nvim",
+    "description": "Neovim's Christmas Elf who fetches puzzle input",
+    "topics": [
+      "advent-of-code",
+      "adventofcode",
+      "lua",
+      "neovim-plugin"
+    ],
+    "owner": {
+      "name": "csessh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5171823?v=4"
+    },
+    "stars": 3,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-12-12T09:51:05.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-12-05T12:27:56.000Z",
+    "updatedAt": "2024-12-12T21:37:50.000Z"
   },
   {
     "id": "csessh/stopinsert.nvim",
