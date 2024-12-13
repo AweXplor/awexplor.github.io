@@ -4122,6 +4122,29 @@
     "updatedAt": "2024-10-19T06:56:35.000Z"
   },
   {
+    "id": "NicoNex/jet",
+    "name": "NicoNex/jet",
+    "description": "Just Edit Text",
+    "topics": [],
+    "owner": {
+      "name": "NicoNex",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24292288?v=4"
+    },
+    "stars": 6,
+    "starsDetail": null,
+    "license": "GNU General Public License v3.0",
+    "forks": 0,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-12-12T17:36:18.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": "github.com/NicoNex/jet",
+    "goImportedBy": 0,
+    "createdAt": "2023-07-28T16:35:45.000Z",
+    "updatedAt": "2024-12-13T10:26:49.000Z"
+  },
+  {
     "id": "OGFris/GoStats",
     "name": "OGFris/GoStats",
     "description": "GoStats is a go library for math statistics mostly used in ML domains, it covers most of the statistical measures functions.",
@@ -7961,29 +7984,6 @@
     "goImportedBy": 38,
     "createdAt": "2014-07-26T02:56:21.000Z",
     "updatedAt": "2024-10-19T06:57:18.000Z"
-  },
-  {
-    "id": "afex/hystrix-go",
-    "name": "afex/hystrix-go",
-    "description": "Netflix's Hystrix latency and fault tolerance library, for Go ",
-    "topics": [],
-    "owner": {
-      "name": "afex",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17371?v=4"
-    },
-    "stars": 4235,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 477,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2024-02-24T18:44:10.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2013-12-15T08:51:23.000Z",
-    "updatedAt": "2024-10-19T07:14:07.000Z"
   },
   {
     "id": "afjoseph/RAKE.Go",
@@ -46233,29 +46233,6 @@
     "updatedAt": "2024-10-19T06:56:31.000Z"
   },
   {
-    "id": "mengzhuo/intrinsic",
-    "name": "mengzhuo/intrinsic",
-    "description": "Provide Golang native SIMD intrinsics on x86/amd64 platform",
-    "topics": [],
-    "owner": {
-      "name": "mengzhuo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/885662?v=4"
-    },
-    "stars": 47,
-    "starsDetail": null,
-    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 2,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2017-06-23T01:17:03.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2017-06-13T09:26:34.000Z",
-    "updatedAt": "2024-10-19T07:14:07.000Z"
-  },
-  {
     "id": "mennanov/limiters",
     "name": "mennanov/limiters",
     "description": "Golang rate limiters for distributed applications",
@@ -58826,7 +58803,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2012-09-29T16:06:58.000Z",
-    "updatedAt": "2024-12-13T07:05:59.000Z"
+    "updatedAt": "2024-12-13T10:24:36.000Z"
   },
   {
     "id": "root-gg/plik",
