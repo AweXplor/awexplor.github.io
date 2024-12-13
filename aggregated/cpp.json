@@ -1580,10 +1580,10 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 341306,
+    "stars": 341315,
     "starsDetail": null,
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 61951,
+    "forks": 61952,
     "primaryLanguage": "HTML",
     "pushedAt": "2024-12-10T21:58:53.000Z",
     "archived": false,
@@ -1592,7 +1592,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2024-12-13T13:30:54.000Z"
+    "updatedAt": "2024-12-13T19:56:26.000Z"
   },
   {
     "id": "Embarcadero/Dev-Cpp",
@@ -3212,6 +3212,37 @@
     "goImportedBy": null,
     "createdAt": "2011-10-12T19:07:26.000Z",
     "updatedAt": "2024-11-19T12:26:19.000Z"
+  },
+  {
+    "id": "Sedeniono/tiny-optional",
+    "name": "Sedeniono/tiny-optional",
+    "description": "Replacement for std::optional that does not waste memory unnecessarily",
+    "topics": [
+      "c-plus-plus",
+      "c-plus-plus-17",
+      "cache-friendly",
+      "cpp",
+      "header-only",
+      "memory-efficiency",
+      "optional"
+    ],
+    "owner": {
+      "name": "Sedeniono",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/39583823?v=4"
+    },
+    "stars": 107,
+    "starsDetail": null,
+    "license": "Boost Software License 1.0",
+    "forks": 5,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-12-12T21:57:57.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-04-02T16:11:36.000Z",
+    "updatedAt": "2024-12-13T19:56:22.000Z"
   },
   {
     "id": "SergiusTheBest/plog",
@@ -5290,7 +5321,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-07T14:00:21.000Z",
-    "updatedAt": "2024-12-13T13:39:17.000Z"
+    "updatedAt": "2024-12-13T20:03:53.000Z"
   },
   {
     "id": "autodiff/autodiff",
@@ -9696,7 +9727,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T18:28:47.000Z",
-    "updatedAt": "2024-12-13T13:30:36.000Z"
+    "updatedAt": "2024-12-13T19:56:08.000Z"
   },
   {
     "id": "flavio/qjson",
@@ -15464,19 +15495,19 @@
       "name": "microsoft",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
-    "stars": 165258,
+    "stars": 165272,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 29651,
+    "forks": 29658,
     "primaryLanguage": "Hack",
-    "pushedAt": "2024-12-13T13:37:04.000Z",
+    "pushedAt": "2024-12-13T19:57:23.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-03T20:23:38.000Z",
-    "updatedAt": "2024-12-13T13:38:11.000Z"
+    "updatedAt": "2024-12-13T20:03:00.000Z"
   },
   {
     "id": "mikke89/RmlUi",
@@ -21344,7 +21375,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-02-27T20:00:51.000Z",
-    "updatedAt": "2024-12-13T16:48:53.000Z"
+    "updatedAt": "2024-12-13T19:53:36.000Z"
   },
   {
     "id": "uncrustify/uncrustify",
@@ -22394,14 +22425,14 @@
     "license": "GNU General Public License v3.0",
     "forks": 2808,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-12-12T18:27:05.000Z",
+    "pushedAt": "2024-12-13T19:07:48.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T03:12:14.000Z",
-    "updatedAt": "2024-12-13T16:48:36.000Z"
+    "updatedAt": "2024-12-13T19:53:19.000Z"
   },
   {
     "id": "yhirose/cpp-httplib",
@@ -22636,7 +22667,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-01-21T19:17:23.000Z",
-    "updatedAt": "2024-12-13T13:30:17.000Z"
+    "updatedAt": "2024-12-13T19:55:50.000Z"
   },
   {
     "id": "zlib-ng/zlib-ng",
