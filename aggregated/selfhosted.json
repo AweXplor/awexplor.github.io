@@ -133,7 +133,7 @@
       "name": "cryptpad",
       "avatarUrl": "https://avatars.githubusercontent.com/u/76949612?v=4"
     },
-    "stars": 5728,
+    "stars": 5729,
     "starsDetail": {
       "total": 5605,
       "week": 28,
@@ -151,7 +151,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-31T15:46:17.000Z",
-    "updatedAt": "2024-12-13T20:06:01.000Z"
+    "updatedAt": "2024-12-14T05:44:53.000Z"
   },
   {
     "id": "Jermolene/TiddlyWiki5",
@@ -7262,19 +7262,19 @@
       "name": "apache",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47359?v=4"
     },
-    "stars": 63322,
+    "stars": 63325,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 14063,
+    "forks": 14064,
     "primaryLanguage": "Mako",
-    "pushedAt": "2024-12-13T18:48:49.000Z",
+    "pushedAt": "2024-12-14T05:17:52.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-21T18:55:34.000Z",
-    "updatedAt": "2024-12-13T20:04:37.000Z"
+    "updatedAt": "2024-12-14T05:43:35.000Z"
   },
   {
     "id": "apankrat/nullboard",
@@ -15289,7 +15289,7 @@
       "name": "huginn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23225142?v=4"
     },
-    "stars": 43939,
+    "stars": 43938,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 3808,
@@ -15301,7 +15301,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-10T06:00:31.000Z",
-    "updatedAt": "2024-12-14T02:24:53.000Z"
+    "updatedAt": "2024-12-14T05:37:00.000Z"
   },
   {
     "id": "humhub/humhub",
@@ -16962,6 +16962,32 @@
     "updatedAt": "2024-11-26T02:56:07.000Z"
   },
   {
+    "id": "jsuto/piler",
+    "name": "jsuto/piler",
+    "description": "Email archiving application",
+    "topics": [
+      "archiving",
+      "email"
+    ],
+    "owner": {
+      "name": "jsuto",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5683354?v=4"
+    },
+    "stars": 87,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 10,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-11-30T06:33:21.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-04-07T14:52:32.000Z",
+    "updatedAt": "2024-12-14T05:44:23.000Z"
+  },
+  {
     "id": "jsxc/jsxc",
     "name": "jsxc/jsxc",
     "description": ":speech_balloon: Real-time xmpp chat application with video calls, file transfer and encrypted communication.",
@@ -17612,7 +17638,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-06T12:13:19.000Z",
-    "updatedAt": "2024-12-14T02:21:41.000Z"
+    "updatedAt": "2024-12-14T05:41:23.000Z"
   },
   {
     "id": "kovidgoyal/calibre",
@@ -23975,7 +24001,7 @@
       "name": "postalserver",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58169103?v=4"
     },
-    "stars": 15008,
+    "stars": 15009,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 1069,
@@ -23987,7 +24013,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-19T12:04:57.000Z",
-    "updatedAt": "2024-12-14T02:25:22.000Z"
+    "updatedAt": "2024-12-14T05:37:27.000Z"
   },
   {
     "id": "prasathmani/tinyfilemanager",
@@ -27688,7 +27714,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-06T04:51:27.000Z",
-    "updatedAt": "2024-12-14T02:25:56.000Z"
+    "updatedAt": "2024-12-14T05:37:59.000Z"
   },
   {
     "id": "stumpapp/stump",
@@ -30454,7 +30480,7 @@
       "name": "zincsearch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/129023705?v=4"
     },
-    "stars": 17086,
+    "stars": 17085,
     "starsDetail": null,
     "license": "Other",
     "forks": 747,
@@ -30466,7 +30492,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-12-02T12:49:41.000Z",
-    "updatedAt": "2024-12-13T20:05:50.000Z"
+    "updatedAt": "2024-12-14T05:44:43.000Z"
   },
   {
     "id": "znc/znc",
