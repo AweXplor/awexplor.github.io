@@ -4845,7 +4845,7 @@
       "name": "vercel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4"
     },
-    "stars": 5169,
+    "stars": 5172,
     "starsDetail": {
       "total": 5137,
       "week": 7,
@@ -4859,11 +4859,11 @@
     "pushedAt": "2024-08-29T22:24:11.000Z",
     "archived": false,
     "npmPackage": "ms",
-    "npmLastMonthDownloads": 1146804752,
+    "npmLastMonthDownloads": 1098653461,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-03-08T02:10:13.000Z",
-    "updatedAt": "2024-12-13T07:08:56.000Z"
+    "updatedAt": "2024-12-15T04:13:13.000Z"
   },
   {
     "id": "yargs/yargs",
@@ -8705,7 +8705,7 @@
       "name": "apostrophecms",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12648958?v=4"
     },
-    "stars": 4371,
+    "stars": 4372,
     "starsDetail": {
       "total": 4349,
       "week": 5,
@@ -8716,14 +8716,14 @@
     "license": "Other",
     "forks": 591,
     "primaryLanguage": "CSS",
-    "pushedAt": "2024-12-12T20:17:08.000Z",
+    "pushedAt": "2024-12-13T15:37:34.000Z",
     "archived": false,
     "npmPackage": "apostrophe",
-    "npmLastMonthDownloads": 11276,
+    "npmLastMonthDownloads": 10210,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-02-08T20:04:02.000Z",
-    "updatedAt": "2024-12-13T07:08:41.000Z"
+    "updatedAt": "2024-12-15T04:12:58.000Z"
   },
   {
     "id": "cheeriojs/cheerio",
@@ -12380,21 +12380,21 @@
       "name": "TryGhost",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2178663?v=4"
     },
-    "stars": 47727,
+    "stars": 47741,
     "starsDetail": {
       "total": 47223
     },
     "license": "MIT License",
-    "forks": 10426,
+    "forks": 10428,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-12-13T06:14:46.000Z",
+    "pushedAt": "2024-12-13T15:09:01.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2013-05-04T11:09:13.000Z",
-    "updatedAt": "2024-12-13T07:08:39.000Z"
+    "updatedAt": "2024-12-15T04:12:55.000Z"
   },
   {
     "id": "Unitech/pm2",
@@ -13698,7 +13698,7 @@
       "name": "immutable-js",
       "avatarUrl": "https://avatars.githubusercontent.com/u/46405934?v=4"
     },
-    "stars": 32976,
+    "stars": 32984,
     "starsDetail": {
       "total": 32940
     },
@@ -13708,11 +13708,11 @@
     "pushedAt": "2024-11-19T21:29:05.000Z",
     "archived": false,
     "npmPackage": "immutable",
-    "npmLastMonthDownloads": 88730211,
+    "npmLastMonthDownloads": 85212275,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-07-02T06:02:29.000Z",
-    "updatedAt": "2024-12-13T07:08:53.000Z"
+    "updatedAt": "2024-12-15T04:13:10.000Z"
   },
   {
     "id": "infusion/GPS.js",
@@ -15208,21 +15208,21 @@
       "name": "puppeteer",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6906516?v=4"
     },
-    "stars": 89080,
+    "stars": 89086,
     "starsDetail": {
       "total": 88528
     },
     "license": "Apache License 2.0",
-    "forks": 9102,
+    "forks": 9100,
     "primaryLanguage": "Shell",
-    "pushedAt": "2024-12-12T21:35:52.000Z",
+    "pushedAt": "2024-12-15T03:36:48.000Z",
     "archived": false,
     "npmPackage": "puppeteer",
-    "npmLastMonthDownloads": 17658435,
+    "npmLastMonthDownloads": 17110189,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-09T22:16:13.000Z",
-    "updatedAt": "2024-12-13T07:08:34.000Z"
+    "updatedAt": "2024-12-15T04:12:51.000Z"
   },
   {
     "id": "reactivex/rxjs",
