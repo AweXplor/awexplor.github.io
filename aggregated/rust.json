@@ -4705,7 +4705,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-10-26T03:47:17.000Z",
-    "updatedAt": "2024-12-17T15:29:49.000Z"
+    "updatedAt": "2024-12-17T21:46:26.000Z"
   },
   {
     "id": "TheWaWaR/simple-http-server",
@@ -5338,10 +5338,10 @@
       "name": "alacritty",
       "avatarUrl": "https://avatars.githubusercontent.com/u/29714349?v=4"
     },
-    "stars": 56950,
+    "stars": 56955,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 3038,
+    "forks": 3039,
     "primaryLanguage": "Makefile",
     "pushedAt": "2024-12-16T16:53:05.000Z",
     "archived": false,
@@ -5350,7 +5350,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-18T05:02:30.000Z",
-    "updatedAt": "2024-12-17T12:19:17.000Z"
+    "updatedAt": "2024-12-17T21:53:47.000Z"
   },
   {
     "id": "alex/rust-asn1",
@@ -7803,14 +7803,14 @@
     "license": "Apache License 2.0",
     "forks": 563,
     "primaryLanguage": "RenderScript",
-    "pushedAt": "2024-12-17T15:35:24.000Z",
+    "pushedAt": "2024-12-17T19:28:07.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-30T18:57:01.000Z",
-    "updatedAt": "2024-12-17T15:35:37.000Z"
+    "updatedAt": "2024-12-17T21:51:51.000Z"
   },
   {
     "id": "buster/rrun",
@@ -9239,14 +9239,14 @@
     "license": "Other",
     "forks": 3163,
     "primaryLanguage": "GDB",
-    "pushedAt": "2024-12-17T05:51:40.000Z",
+    "pushedAt": "2024-12-17T17:19:27.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-09-19T10:14:00.000Z",
-    "updatedAt": "2024-12-17T15:29:48.000Z"
+    "updatedAt": "2024-12-17T21:46:25.000Z"
   },
   {
     "id": "conradkleinespel/rooster",
@@ -13145,7 +13145,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T10:37:00.000Z",
-    "updatedAt": "2024-12-17T18:38:14.000Z"
+    "updatedAt": "2024-12-17T21:44:23.000Z"
   },
   {
     "id": "flxzt/rnote",
@@ -19579,7 +19579,7 @@
       "name": "lsd-rs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/77716111?v=4"
     },
-    "stars": 13709,
+    "stars": 13710,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 437,
@@ -19591,7 +19591,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-24T11:04:12.000Z",
-    "updatedAt": "2024-12-17T12:19:02.000Z"
+    "updatedAt": "2024-12-17T21:53:31.000Z"
   },
   {
     "id": "lucid-kv/lucid",
@@ -25537,6 +25537,35 @@
     "updatedAt": "2024-10-19T06:56:23.000Z"
   },
   {
+    "id": "rinja-rs/askama",
+    "name": "rinja-rs/askama",
+    "description": "Type-safe, compiled Jinja-like templates for Rust",
+    "topics": [
+      "custom-derive",
+      "jinja2",
+      "rust",
+      "rust-library",
+      "templating"
+    ],
+    "owner": {
+      "name": "rinja-rs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/173069272?v=4"
+    },
+    "stars": 3525,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 224,
+    "primaryLanguage": "Jinja",
+    "pushedAt": "2024-11-29T08:47:31.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-12-22T12:50:45.000Z",
+    "updatedAt": "2024-12-17T21:40:16.000Z"
+  },
+  {
     "id": "rise-ui/rise",
     "name": "rise-ui/rise",
     "description": "Toy toolkit, toy language, with moral support @rustlang_ru community",
@@ -26995,7 +27024,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-08-18T16:25:26.000Z",
-    "updatedAt": "2024-12-17T15:35:16.000Z"
+    "updatedAt": "2024-12-17T21:51:31.000Z"
   },
   {
     "id": "rustic-rs/rustic",
@@ -32403,6 +32432,37 @@
     "goImportedBy": null,
     "createdAt": "2016-11-23T13:36:22.000Z",
     "updatedAt": "2024-10-19T06:56:26.000Z"
+  },
+  {
+    "id": "vinc/moros",
+    "name": "vinc/moros",
+    "description": "MOROS: Obscure Rust Operating System 🦉",
+    "topics": [
+      "hobby-os",
+      "operating-system",
+      "os",
+      "osdev",
+      "rust",
+      "toy-os",
+      "x86-64"
+    ],
+    "owner": {
+      "name": "vinc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/305625?v=4"
+    },
+    "stars": 929,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 33,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2024-12-16T14:17:36.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-12-28T22:28:45.000Z",
+    "updatedAt": "2024-12-17T21:40:30.000Z"
   },
   {
     "id": "vincent-herlemont/native_db",
