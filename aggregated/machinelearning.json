@@ -4254,7 +4254,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-07-31T19:36:58.000Z",
-    "updatedAt": "2024-12-17T09:03:07.000Z"
+    "updatedAt": "2024-12-17T12:08:50.000Z"
   },
   {
     "id": "Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics",
@@ -7254,19 +7254,19 @@
       "name": "comet-ml",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31487821?v=4"
     },
-    "stars": 2588,
+    "stars": 2591,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 158,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-12-16T18:13:49.000Z",
+    "pushedAt": "2024-12-17T12:06:11.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-10T12:57:13.000Z",
-    "updatedAt": "2024-12-16T23:33:21.000Z"
+    "updatedAt": "2024-12-17T12:20:38.000Z"
   },
   {
     "id": "compressed/BackpropNeuralNet.jl",
@@ -7884,6 +7884,37 @@
     "goImportedBy": null,
     "createdAt": "2008-12-11T20:48:40.000Z",
     "updatedAt": "2024-11-20T04:01:36.000Z"
+  },
+  {
+    "id": "delta-rs/delta",
+    "name": "delta-rs/delta",
+    "description": "An Open-Source Machine Learning Framework in Rust Δ",
+    "topics": [
+      "deep-learning",
+      "delta",
+      "delta-rs",
+      "machine-learning",
+      "ml",
+      "neural-network",
+      "rust"
+    ],
+    "owner": {
+      "name": "delta-rs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/189621827?v=4"
+    },
+    "stars": 198,
+    "starsDetail": null,
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 6,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-12-17T10:42:07.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-11-25T12:39:43.000Z",
+    "updatedAt": "2024-12-17T12:21:11.000Z"
   },
   {
     "id": "denissimon/prediction-builder",
@@ -12284,6 +12315,39 @@
     "updatedAt": "2024-11-20T03:58:29.000Z"
   },
   {
+    "id": "linkedin/isolation-forest",
+    "name": "linkedin/isolation-forest",
+    "description": "A distributed Spark/Scala implementation of the isolation forest algorithm for unsupervised outlier detection, featuring support for scalable training and ONNX export for easy cross-platform inference.",
+    "topics": [
+      "anomaly-detection",
+      "isolation-forest",
+      "linkedin",
+      "machine-learning",
+      "onnx",
+      "outlier-detection",
+      "scala",
+      "spark",
+      "unsupervised-learning"
+    ],
+    "owner": {
+      "name": "linkedin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/357098?v=4"
+    },
+    "stars": 231,
+    "starsDetail": null,
+    "license": "Other",
+    "forks": 48,
+    "primaryLanguage": "Python",
+    "pushedAt": "2024-12-17T09:30:12.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-07-26T20:02:09.000Z",
+    "updatedAt": "2024-12-17T12:21:14.000Z"
+  },
+  {
     "id": "lisa-lab/pylearn2",
     "name": "lisa-lab/pylearn2",
     "description": "Warning: This project does not have any current developer. See bellow.",
@@ -15012,19 +15076,19 @@
       "name": "opencv",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5009934?v=4"
     },
-    "stars": 79659,
+    "stars": 79671,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 55878,
+    "forks": 55879,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-12-16T14:00:04.000Z",
+    "pushedAt": "2024-12-17T12:10:04.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-07-19T09:40:17.000Z",
-    "updatedAt": "2024-12-17T02:47:59.000Z"
+    "updatedAt": "2024-12-17T12:11:47.000Z"
   },
   {
     "id": "opendilab/DI-engine",
@@ -15872,7 +15936,7 @@
       "name": "pymc-devs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/81121?v=4"
     },
-    "stars": 8785,
+    "stars": 8786,
     "starsDetail": null,
     "license": "Other",
     "forks": 2033,
@@ -15884,7 +15948,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-05-05T09:43:50.000Z",
-    "updatedAt": "2024-12-17T09:03:14.000Z"
+    "updatedAt": "2024-12-17T12:08:58.000Z"
   },
   {
     "id": "pyqtgraph/pyqtgraph",

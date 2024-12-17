@@ -133,7 +133,7 @@
       "name": "cryptpad",
       "avatarUrl": "https://avatars.githubusercontent.com/u/76949612?v=4"
     },
-    "stars": 5731,
+    "stars": 5732,
     "starsDetail": {
       "total": 5605,
       "week": 28,
@@ -142,16 +142,16 @@
       "updatedAt": 1729322595
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 657,
+    "forks": 658,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-12-13T13:28:09.000Z",
+    "pushedAt": "2024-12-17T11:09:21.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-31T15:46:17.000Z",
-    "updatedAt": "2024-12-16T14:18:43.000Z"
+    "updatedAt": "2024-12-17T12:22:30.000Z"
   },
   {
     "id": "Jermolene/TiddlyWiki5",
@@ -7221,19 +7221,19 @@
       "name": "apache",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47359?v=4"
     },
-    "stars": 63367,
+    "stars": 63379,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 14069,
+    "forks": 14071,
     "primaryLanguage": "Mako",
-    "pushedAt": "2024-12-16T23:31:50.000Z",
+    "pushedAt": "2024-12-17T08:47:08.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-21T18:55:34.000Z",
-    "updatedAt": "2024-12-16T23:33:39.000Z"
+    "updatedAt": "2024-12-17T12:20:58.000Z"
   },
   {
     "id": "apankrat/nullboard",
@@ -12157,6 +12157,41 @@
     "updatedAt": "2024-11-26T02:56:23.000Z"
   },
   {
+    "id": "engity-com/bifroest",
+    "name": "engity-com/bifroest",
+    "description": "Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user's session.",
+    "topics": [
+      "bastion",
+      "container",
+      "docker",
+      "jumphost",
+      "kubernetes",
+      "oidc",
+      "openid-connect",
+      "ssh",
+      "ssh-server",
+      "sshd",
+      "sso"
+    ],
+    "owner": {
+      "name": "engity-com",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/95974183?v=4"
+    },
+    "stars": 19,
+    "starsDetail": null,
+    "license": "Apache License 2.0",
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2024-12-14T12:30:21.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-07-01T06:34:10.000Z",
+    "updatedAt": "2024-12-17T12:22:17.000Z"
+  },
+  {
     "id": "ente-io/ente",
     "name": "ente-io/ente",
     "description": "Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos",
@@ -15248,10 +15283,10 @@
       "name": "huginn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23225142?v=4"
     },
-    "stars": 43957,
+    "stars": 43960,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 3808,
+    "forks": 3809,
     "primaryLanguage": "Makefile",
     "pushedAt": "2024-12-16T21:11:47.000Z",
     "archived": false,
@@ -15260,7 +15295,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-10T06:00:31.000Z",
-    "updatedAt": "2024-12-17T02:49:31.000Z"
+    "updatedAt": "2024-12-17T12:13:25.000Z"
   },
   {
     "id": "humhub/humhub",
@@ -17597,7 +17632,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-06T12:13:19.000Z",
-    "updatedAt": "2024-12-17T09:04:09.000Z"
+    "updatedAt": "2024-12-17T12:18:26.000Z"
   },
   {
     "id": "kovidgoyal/calibre",
@@ -23960,7 +23995,7 @@
       "name": "postalserver",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58169103?v=4"
     },
-    "stars": 15019,
+    "stars": 15021,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 1071,
@@ -23972,7 +24007,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-19T12:04:57.000Z",
-    "updatedAt": "2024-12-17T02:50:00.000Z"
+    "updatedAt": "2024-12-17T12:13:56.000Z"
   },
   {
     "id": "prasathmani/tinyfilemanager",
@@ -27673,7 +27708,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-06T04:51:27.000Z",
-    "updatedAt": "2024-12-17T02:50:35.000Z"
+    "updatedAt": "2024-12-17T12:14:33.000Z"
   },
   {
     "id": "stumpapp/stump",
@@ -30439,7 +30474,7 @@
       "name": "zincsearch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/129023705?v=4"
     },
-    "stars": 17089,
+    "stars": 17090,
     "starsDetail": null,
     "license": "Other",
     "forks": 747,
@@ -30451,7 +30486,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-12-02T12:49:41.000Z",
-    "updatedAt": "2024-12-16T23:34:51.000Z"
+    "updatedAt": "2024-12-17T12:22:19.000Z"
   },
   {
     "id": "znc/znc",
