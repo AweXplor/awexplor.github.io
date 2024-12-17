@@ -266,47 +266,6 @@
     "updatedAt": "2024-10-19T07:15:58.000Z"
   },
   {
-    "id": "padloc/padloc",
-    "name": "padloc/padloc",
-    "description": "A modern, open source password manager for individuals and teams.",
-    "topics": [
-      "cryptography",
-      "end-to-end-encryption",
-      "javascript",
-      "lit-element",
-      "lit-html",
-      "password-generator",
-      "password-manager",
-      "progressive-web-app",
-      "pwa",
-      "tauri",
-      "typescript"
-    ],
-    "owner": {
-      "name": "padloc",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/38265889?v=4"
-    },
-    "stars": 2701,
-    "starsDetail": {
-      "total": 2659,
-      "week": 7,
-      "month": 18,
-      "year": 323,
-      "updatedAt": 1729329167
-    },
-    "license": "GNU Affero General Public License v3.0",
-    "forks": 251,
-    "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-08-05T18:03:08.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2013-11-10T21:06:35.000Z",
-    "updatedAt": "2024-12-06T14:29:16.000Z"
-  },
-  {
     "id": "webtorrent/instant.io",
     "name": "webtorrent/instant.io",
     "description": "🚀 Streaming file transfer over WebTorrent (torrents on the web)",
@@ -7262,19 +7221,19 @@
       "name": "apache",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47359?v=4"
     },
-    "stars": 63366,
+    "stars": 63367,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 14068,
+    "forks": 14069,
     "primaryLanguage": "Mako",
-    "pushedAt": "2024-12-16T07:17:51.000Z",
+    "pushedAt": "2024-12-16T23:31:50.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-21T18:55:34.000Z",
-    "updatedAt": "2024-12-16T14:17:14.000Z"
+    "updatedAt": "2024-12-16T23:33:39.000Z"
   },
   {
     "id": "apankrat/nullboard",
@@ -15289,19 +15248,19 @@
       "name": "huginn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23225142?v=4"
     },
-    "stars": 43951,
+    "stars": 43957,
     "starsDetail": null,
     "license": "MIT License",
     "forks": 3808,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-12-13T21:44:44.000Z",
+    "pushedAt": "2024-12-16T21:11:47.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-10T06:00:31.000Z",
-    "updatedAt": "2024-12-16T14:09:46.000Z"
+    "updatedAt": "2024-12-17T02:49:31.000Z"
   },
   {
     "id": "humhub/humhub",
@@ -17626,10 +17585,10 @@
       "name": "koel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20983373?v=4"
     },
-    "stars": 16112,
+    "stars": 16113,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 1982,
+    "forks": 1983,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-12-15T19:02:04.000Z",
     "archived": false,
@@ -17638,7 +17597,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-06T12:13:19.000Z",
-    "updatedAt": "2024-12-16T20:25:41.000Z"
+    "updatedAt": "2024-12-16T23:30:26.000Z"
   },
   {
     "id": "kovidgoyal/calibre",
@@ -24001,10 +23960,10 @@
       "name": "postalserver",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58169103?v=4"
     },
-    "stars": 15016,
+    "stars": 15019,
     "starsDetail": null,
     "license": "MIT License",
-    "forks": 1070,
+    "forks": 1071,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-12-02T22:42:50.000Z",
     "archived": false,
@@ -24013,7 +23972,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-19T12:04:57.000Z",
-    "updatedAt": "2024-12-16T14:10:16.000Z"
+    "updatedAt": "2024-12-17T02:50:00.000Z"
   },
   {
     "id": "prasathmani/tinyfilemanager",
@@ -27714,7 +27673,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-06T04:51:27.000Z",
-    "updatedAt": "2024-12-16T14:10:53.000Z"
+    "updatedAt": "2024-12-17T02:50:35.000Z"
   },
   {
     "id": "stumpapp/stump",
@@ -30480,7 +30439,7 @@
       "name": "zincsearch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/129023705?v=4"
     },
-    "stars": 17088,
+    "stars": 17089,
     "starsDetail": null,
     "license": "Other",
     "forks": 747,
@@ -30492,7 +30451,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-12-02T12:49:41.000Z",
-    "updatedAt": "2024-12-16T14:18:32.000Z"
+    "updatedAt": "2024-12-16T23:34:51.000Z"
   },
   {
     "id": "znc/znc",
