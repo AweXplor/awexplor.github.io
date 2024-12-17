@@ -27671,6 +27671,41 @@
     "updatedAt": "2024-10-19T07:14:36.000Z"
   },
   {
+    "id": "go-eagle/eagle",
+    "name": "go-eagle/eagle",
+    "description": "🦅 A Go framework for the API or Microservice",
+    "topics": [
+      "cloud-native",
+      "eagle",
+      "framework",
+      "gin",
+      "go",
+      "golang",
+      "gorm",
+      "grpc",
+      "http",
+      "microservice",
+      "restful"
+    ],
+    "owner": {
+      "name": "go-eagle",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/88695982?v=4"
+    },
+    "stars": 2197,
+    "starsDetail": null,
+    "license": "MIT License",
+    "forks": 239,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-12-12T03:07:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-07-05T15:18:41.000Z",
+    "updatedAt": "2024-12-17T18:37:36.000Z"
+  },
+  {
     "id": "go-ego/gse",
     "name": "go-ego/gse",
     "description": "Go efficient multilingual NLP and text segmentation; support English, Chinese, Japanese and others.",

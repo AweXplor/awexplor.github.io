@@ -11049,35 +11049,6 @@
     "updatedAt": "2024-10-19T06:56:03.000Z"
   },
   {
-    "id": "djc/askama",
-    "name": "djc/askama",
-    "description": "Type-safe, compiled Jinja-like templates for Rust",
-    "topics": [
-      "custom-derive",
-      "jinja2",
-      "rust",
-      "rust-library",
-      "templating"
-    ],
-    "owner": {
-      "name": "djc",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/158471?v=4"
-    },
-    "stars": 3447,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 218,
-    "primaryLanguage": "Jinja",
-    "pushedAt": "2024-10-09T15:01:43.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-12-22T12:50:45.000Z",
-    "updatedAt": "2024-10-19T06:56:17.000Z"
-  },
-  {
     "id": "djduque/pgfplots",
     "name": "djduque/pgfplots",
     "description": "PGFPlots code generator",
@@ -13174,7 +13145,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-11T10:37:00.000Z",
-    "updatedAt": "2024-12-17T15:27:39.000Z"
+    "updatedAt": "2024-12-17T18:38:14.000Z"
   },
   {
     "id": "flxzt/rnote",
