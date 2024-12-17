@@ -25293,29 +25293,6 @@
     "updatedAt": "2024-10-19T07:12:45.000Z"
   },
   {
-    "id": "firstrow/go-outdated",
-    "name": "firstrow/go-outdated",
-    "description": "Find outdated golang packages",
-    "topics": [],
-    "owner": {
-      "name": "firstrow",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/66944?v=4"
-    },
-    "stars": 43,
-    "starsDetail": null,
-    "license": null,
-    "forks": 2,
-    "primaryLanguage": "Go",
-    "pushedAt": "2019-01-15T09:49:38.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2015-06-29T06:10:39.000Z",
-    "updatedAt": "2024-10-19T07:14:36.000Z"
-  },
-  {
     "id": "firstrow/logvoyage",
     "name": "firstrow/logvoyage",
     "description": "LogVoyage - logging SaaS written in GoLang",
@@ -28851,29 +28828,6 @@
     "goImportedBy": 20,
     "createdAt": "2016-09-23T19:57:58.000Z",
     "updatedAt": "2024-10-19T07:14:33.000Z"
-  },
-  {
-    "id": "go-playground/statics",
-    "name": "go-playground/statics",
-    "description": ":file_folder: Embeds static resources into go files for single binary compilation + works with http.FileSystem + symlinks",
-    "topics": [],
-    "owner": {
-      "name": "go-playground",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14768796?v=4"
-    },
-    "stars": 67,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 7,
-    "primaryLanguage": "Go",
-    "pushedAt": "2016-10-05T01:27:05.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2015-10-07T11:49:52.000Z",
-    "updatedAt": "2024-10-19T07:13:15.000Z"
   },
   {
     "id": "go-playground/stats",
@@ -42100,29 +42054,6 @@
     "updatedAt": "2024-10-19T07:12:45.000Z"
   },
   {
-    "id": "laher/goxc",
-    "name": "laher/goxc",
-    "description": "a build tool for Go, with a focus on cross-compiling, packaging and deployment",
-    "topics": [],
-    "owner": {
-      "name": "laher",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/125845?v=4"
-    },
-    "stars": 1677,
-    "starsDetail": null,
-    "license": null,
-    "forks": 79,
-    "primaryLanguage": "Smarty",
-    "pushedAt": "2019-09-30T08:22:07.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2013-02-11T08:49:53.000Z",
-    "updatedAt": "2024-10-19T07:14:47.000Z"
-  },
-  {
     "id": "lajosbencz/glo",
     "name": "lajosbencz/glo",
     "description": "Logging library for Golang",
@@ -47489,29 +47420,6 @@
     "goImportedBy": 0,
     "createdAt": "2013-03-23T05:43:03.000Z",
     "updatedAt": "2024-10-19T07:14:51.000Z"
-  },
-  {
-    "id": "mjibson/esc",
-    "name": "mjibson/esc",
-    "description": "A simple file embedder for Go",
-    "topics": [],
-    "owner": {
-      "name": "maddyblue",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/41181?v=4"
-    },
-    "stars": 637,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 73,
-    "primaryLanguage": "Go",
-    "pushedAt": "2023-10-19T05:01:50.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2014-01-26T05:08:04.000Z",
-    "updatedAt": "2024-10-19T07:13:15.000Z"
   },
   {
     "id": "mjibson/go-dsp",
