@@ -4254,7 +4254,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-07-31T19:36:58.000Z",
-    "updatedAt": "2024-12-19T01:55:59.000Z"
+    "updatedAt": "2024-12-19T05:13:15.000Z"
   },
   {
     "id": "Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics",
@@ -7254,7 +7254,7 @@
       "name": "comet-ml",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31487821?v=4"
     },
-    "stars": 2656,
+    "stars": 2670,
     "starsDetail": null,
     "license": "Apache License 2.0",
     "forks": 166,
@@ -7266,7 +7266,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-10T12:57:13.000Z",
-    "updatedAt": "2024-12-19T01:59:27.000Z"
+    "updatedAt": "2024-12-19T05:23:50.000Z"
   },
   {
     "id": "compressed/BackpropNeuralNet.jl",
@@ -15076,19 +15076,19 @@
       "name": "opencv",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5009934?v=4"
     },
-    "stars": 79691,
+    "stars": 79694,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 55882,
+    "forks": 55881,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-12-18T19:20:03.000Z",
+    "pushedAt": "2024-12-19T05:15:03.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-07-19T09:40:17.000Z",
-    "updatedAt": "2024-12-19T02:02:42.000Z"
+    "updatedAt": "2024-12-19T05:15:08.000Z"
   },
   {
     "id": "opendilab/DI-engine",
@@ -15936,7 +15936,7 @@
       "name": "pymc-devs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/81121?v=4"
     },
-    "stars": 8791,
+    "stars": 8792,
     "starsDetail": null,
     "license": "Other",
     "forks": 2033,
@@ -15948,7 +15948,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-05-05T09:43:50.000Z",
-    "updatedAt": "2024-12-19T01:56:07.000Z"
+    "updatedAt": "2024-12-19T05:13:23.000Z"
   },
   {
     "id": "pyqtgraph/pyqtgraph",
@@ -16015,7 +16015,7 @@
   {
     "id": "qdrant/qdrant",
     "name": "qdrant/qdrant",
-    "description": "Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
     "topics": [
       "approximate-nearest-neighbor-search",
       "embeddings-similarity",
@@ -16042,19 +16042,19 @@
       "name": "qdrant",
       "avatarUrl": "https://avatars.githubusercontent.com/u/73504361?v=4"
     },
-    "stars": 20183,
+    "stars": 21023,
     "starsDetail": null,
     "license": "Apache License 2.0",
-    "forks": 1367,
+    "forks": 1443,
     "primaryLanguage": "Mermaid",
-    "pushedAt": "2024-10-18T15:07:59.000Z",
+    "pushedAt": "2024-12-18T21:50:40.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-05-30T21:37:01.000Z",
-    "updatedAt": "2024-10-19T06:54:44.000Z"
+    "updatedAt": "2024-12-19T05:29:08.000Z"
   },
   {
     "id": "quantopian/zipline",
