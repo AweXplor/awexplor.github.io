@@ -1705,16 +1705,16 @@
       "updatedAt": 1736033708
     },
     "license": "MIT License",
-    "forks": 288,
+    "forks": 289,
     "primaryLanguage": "C#",
-    "pushedAt": "2025-01-20T12:34:28.000Z",
+    "pushedAt": "2025-01-21T08:14:02.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-12-02T05:15:37.000Z",
-    "updatedAt": "2025-01-20T20:15:30.000Z"
+    "updatedAt": "2025-01-21T22:46:56.000Z"
   },
   {
     "id": "realm/realm-dotnet",
@@ -4278,7 +4278,7 @@
       "name": "PrismLibrary",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10503161?v=4"
     },
-    "stars": 6430,
+    "stars": 6433,
     "starsDetail": {
       "total": 6405,
       "week": 9,
@@ -4296,7 +4296,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-25T20:54:32.000Z",
-    "updatedAt": "2025-01-20T20:15:31.000Z"
+    "updatedAt": "2025-01-21T22:46:58.000Z"
   },
   {
     "id": "belav/csharpier",
@@ -8664,7 +8664,7 @@
       "updatedAt": 1736059317
     },
     "license": "Other",
-    "forks": 1374,
+    "forks": 1375,
     "primaryLanguage": "Batchfile",
     "pushedAt": "2024-10-31T15:52:52.000Z",
     "archived": false,
@@ -8673,7 +8673,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-17T21:29:46.000Z",
-    "updatedAt": "2025-01-20T20:21:14.000Z"
+    "updatedAt": "2025-01-21T22:52:59.000Z"
   },
   {
     "id": "grpc/grpc-dotnet",
@@ -13602,7 +13602,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-08-09T15:39:52.000Z",
-    "updatedAt": "2025-01-20T20:20:58.000Z"
+    "updatedAt": "2025-01-21T22:52:43.000Z"
   },
   {
     "id": "milkshakesoftware/PreMailer.Net",
@@ -14896,6 +14896,31 @@
     "goImportedBy": null,
     "createdAt": "2014-02-17T06:40:48.000Z",
     "updatedAt": "2025-01-21T12:46:39.000Z"
+  },
+  {
+    "id": "Authentic199/Population.NET",
+    "name": "Authentic199/Population.NET",
+    "description": "",
+    "topics": [],
+    "owner": {
+      "name": "Authentic199",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/168731304?v=4"
+    },
+    "stars": 29,
+    "starsDetail": {
+      "total": 29
+    },
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "C#",
+    "pushedAt": "2024-12-25T07:25:14.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-12-16T08:35:01.000Z",
+    "updatedAt": "2025-01-21T22:52:42.000Z"
   },
   {
     "id": "BrightstarDB/BrightstarDB",
@@ -20189,6 +20214,37 @@
     "goImportedBy": null,
     "createdAt": "2021-01-13T05:59:49.000Z",
     "updatedAt": "2025-01-21T12:46:16.000Z"
+  },
+  {
+    "id": "lofcz/FastCloner",
+    "name": "lofcz/FastCloner",
+    "description": "Fast deep cloning library for .NET 8+. Zero-config, works out of the box.",
+    "topics": [
+      "deep-clone",
+      "deep-copy",
+      "deepclone",
+      "deepcopy",
+      "duplication"
+    ],
+    "owner": {
+      "name": "lofcz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10260230?v=4"
+    },
+    "stars": 31,
+    "starsDetail": {
+      "total": 31
+    },
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "C#",
+    "pushedAt": "2025-01-21T19:19:13.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2025-01-07T12:46:49.000Z",
+    "updatedAt": "2025-01-21T22:53:24.000Z"
   },
   {
     "id": "m31coding/M31.FluentAPI",
