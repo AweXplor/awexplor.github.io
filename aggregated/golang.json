@@ -2244,43 +2244,6 @@
     "updatedAt": "2025-01-22T02:09:31.000Z"
   },
   {
-    "id": "AlecAivazis/survey",
-    "name": "AlecAivazis/survey",
-    "description": "A golang library for building interactive and accessible prompts with full support for windows and posix terminals.",
-    "topics": [
-      "cli",
-      "command-line",
-      "golang",
-      "interactive",
-      "prompt",
-      "unix",
-      "windows"
-    ],
-    "owner": {
-      "name": "AlecAivazis",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/916317?v=4"
-    },
-    "stars": 4103,
-    "starsDetail": {
-      "total": 4100,
-      "week": 0,
-      "month": 8,
-      "year": 154,
-      "updatedAt": 1736087182
-    },
-    "license": "MIT License",
-    "forks": 357,
-    "primaryLanguage": "Go",
-    "pushedAt": "2024-04-07T12:46:27.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-10-30T17:03:15.000Z",
-    "updatedAt": "2025-01-22T11:15:58.000Z"
-  },
-  {
     "id": "DarthPestilane/easytcp",
     "name": "DarthPestilane/easytcp",
     "description": ":sparkles: :rocket: EasyTCP is a light-weight TCP framework written in Go (Golang), built with message router. EasyTCP helps you build a TCP server easily fast and less painful.",
@@ -4758,50 +4721,6 @@
     "updatedAt": "2025-01-22T11:20:32.000Z"
   },
   {
-    "id": "olivia-ai/olivia",
-    "name": "olivia-ai/olivia",
-    "description": "💁‍♀️Your new best friend powered by an artificial neural network",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "assistant",
-      "backend",
-      "chatbot",
-      "deep-learning",
-      "go",
-      "golang",
-      "machine-learning",
-      "natural-language-processing",
-      "neural-network",
-      "olivia",
-      "translations",
-      "voice-assistant"
-    ],
-    "owner": {
-      "name": "olivia-ai",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/40570637?v=4"
-    },
-    "stars": 3687,
-    "starsDetail": {
-      "total": 3686,
-      "week": 1,
-      "month": 7,
-      "year": 92,
-      "updatedAt": 1736032531
-    },
-    "license": "MIT License",
-    "forks": 354,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2023-12-06T09:17:46.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/olivia-ai/olivia",
-    "goImportedBy": 0,
-    "createdAt": "2018-06-05T18:19:31.000Z",
-    "updatedAt": "2025-01-22T02:09:37.000Z"
-  },
-  {
     "id": "openflagr/flagr",
     "name": "openflagr/flagr",
     "description": "Flagr is a feature flagging, A/B testing and dynamic configuration microservice",
@@ -5994,7 +5913,7 @@
       "name": "bogdanfinn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17678241?v=4"
     },
-    "stars": 928,
+    "stars": 929,
     "starsDetail": {
       "total": 923,
       "week": 28,
@@ -6012,7 +5931,36 @@
     "goPackage": "github.com/bogdanfinn/tls-client",
     "goImportedBy": 132,
     "createdAt": "2022-07-09T20:21:20.000Z",
-    "updatedAt": "2025-01-21T23:03:50.000Z"
+    "updatedAt": "2025-01-23T01:37:59.000Z"
+  },
+  {
+    "id": "elazarl/goproxy",
+    "name": "elazarl/goproxy",
+    "description": "An HTTP proxy library for Go",
+    "topics": [],
+    "owner": {
+      "name": "elazarl",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/260258?v=4"
+    },
+    "stars": 6137,
+    "starsDetail": {
+      "total": 6137,
+      "week": 11,
+      "month": 64,
+      "year": 526,
+      "updatedAt": 1737596295
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 1118,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-01-22T15:16:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2012-03-22T22:05:00.000Z",
+    "updatedAt": "2025-01-23T01:20:37.000Z"
   },
   {
     "id": "Masterminds/squirrel",
@@ -9853,14 +9801,14 @@
     "license": "MIT License",
     "forks": 103,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-21T08:31:13.000Z",
+    "pushedAt": "2025-01-22T14:04:05.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-05-28T09:13:03.000Z",
-    "updatedAt": "2025-01-21T22:58:18.000Z"
+    "updatedAt": "2025-01-23T01:32:09.000Z"
   },
   {
     "id": "go-playground/webhooks",
@@ -10122,56 +10070,6 @@
     "updatedAt": "2025-01-22T11:24:54.000Z"
   },
   {
-    "id": "miguelmota/ethereum-development-with-go-book",
-    "name": "miguelmota/ethereum-development-with-go-book",
-    "description": "📖 A little guide book on Ethereum Development with Go (golang)",
-    "topics": [
-      "blockchain",
-      "book",
-      "development",
-      "dlt",
-      "ebook",
-      "epub",
-      "ethereum",
-      "examples",
-      "free",
-      "gitbook",
-      "go",
-      "go-ethereum",
-      "golang",
-      "guide",
-      "mobi",
-      "open-source",
-      "pdf",
-      "smart-contracts",
-      "solidity",
-      "tutorial"
-    ],
-    "owner": {
-      "name": "miguelmota",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/168240?v=4"
-    },
-    "stars": 1749,
-    "starsDetail": {
-      "total": 1747,
-      "week": 0,
-      "month": 5,
-      "year": 110,
-      "updatedAt": 1736033645
-    },
-    "license": "Other",
-    "forks": 425,
-    "primaryLanguage": "Dockerfile",
-    "pushedAt": "2022-11-19T05:55:48.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2018-05-16T09:22:56.000Z",
-    "updatedAt": "2025-01-22T11:29:44.000Z"
-  },
-  {
     "id": "mikespook/gorbac",
     "name": "mikespook/gorbac",
     "description": "goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang.",
@@ -10403,42 +10301,6 @@
     "goImportedBy": null,
     "createdAt": "2017-03-27T08:46:38.000Z",
     "updatedAt": "2025-01-22T11:26:18.000Z"
-  },
-  {
-    "id": "rakyll/statik",
-    "name": "rakyll/statik",
-    "description": "Embed files into a Go executable",
-    "topics": [
-      "files",
-      "go",
-      "golang",
-      "http",
-      "http-server",
-      "static"
-    ],
-    "owner": {
-      "name": "rakyll",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/108380?v=4"
-    },
-    "stars": 3778,
-    "starsDetail": {
-      "total": 3770,
-      "week": 1,
-      "month": 5,
-      "year": 110,
-      "updatedAt": 1736033212
-    },
-    "license": "Apache License 2.0",
-    "forks": 224,
-    "primaryLanguage": "Go",
-    "pushedAt": "2023-10-18T01:18:28.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/rakyll/statik",
-    "goImportedBy": 13,
-    "createdAt": "2014-02-04T14:54:51.000Z",
-    "updatedAt": "2025-01-22T11:22:58.000Z"
   },
   {
     "id": "shaj13/go-guardian",
@@ -12046,35 +11908,6 @@
     "updatedAt": "2025-01-22T11:19:35.000Z"
   },
   {
-    "id": "GeertJohan/go.rice",
-    "name": "GeertJohan/go.rice",
-    "description": "go.rice is a Go package that makes working with resources such as html,js,css,images,templates, etc very easy.",
-    "topics": [],
-    "owner": {
-      "name": "GeertJohan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/564501?v=4"
-    },
-    "stars": 2427,
-    "starsDetail": {
-      "total": 2423,
-      "week": 1,
-      "month": 4,
-      "year": 56,
-      "updatedAt": 1736033211
-    },
-    "license": "BSD 2-Clause \"Simplified\" License",
-    "forks": 177,
-    "primaryLanguage": "Go",
-    "pushedAt": "2022-11-16T19:08:28.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/GeertJohan/go.rice",
-    "goImportedBy": 1397,
-    "createdAt": "2013-10-23T21:29:34.000Z",
-    "updatedAt": "2025-01-22T11:22:55.000Z"
-  },
-  {
     "id": "asdine/storm",
     "name": "asdine/storm",
     "description": "Simple and powerful toolkit for BoltDB",
@@ -13040,53 +12873,6 @@
     "updatedAt": "2025-01-22T02:10:46.000Z"
   },
   {
-    "id": "stellar-deprecated/kelp",
-    "name": "stellar-deprecated/kelp",
-    "description": "Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges",
-    "topics": [
-      "blockchain",
-      "ccxt-rest",
-      "cryptocurrency",
-      "ethereum",
-      "liquidity",
-      "market-maker",
-      "market-making",
-      "stellar",
-      "stellar-lumens",
-      "stellar-network",
-      "trading",
-      "trading-algorithms",
-      "trading-api",
-      "trading-bot",
-      "trading-platform",
-      "trading-strategies",
-      "xlm"
-    ],
-    "owner": {
-      "name": "stellar-deprecated",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/55216895?v=4"
-    },
-    "stars": 1109,
-    "starsDetail": {
-      "total": 1108,
-      "week": 1,
-      "month": 4,
-      "year": 79,
-      "updatedAt": 1736087167
-    },
-    "license": "Other",
-    "forks": 263,
-    "primaryLanguage": "Batchfile",
-    "pushedAt": "2023-11-03T05:46:15.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-08-08T23:31:18.000Z",
-    "updatedAt": "2025-01-22T11:15:54.000Z"
-  },
-  {
     "id": "tmrts/boilr",
     "name": "tmrts/boilr",
     "description": ":zap: boilerplate template manager that generates files or directories from template repositories",
@@ -13821,7 +13607,7 @@
       "name": "neilotoole",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6013203?v=4"
     },
-    "stars": 2199,
+    "stars": 2201,
     "starsDetail": {
       "total": 2189,
       "week": 4,
@@ -13839,7 +13625,7 @@
     "goPackage": "github.com/neilotoole/sq",
     "goImportedBy": 0,
     "createdAt": "2016-02-16T02:01:18.000Z",
-    "updatedAt": "2025-01-21T23:03:53.000Z"
+    "updatedAt": "2025-01-23T01:38:02.000Z"
   },
   {
     "id": "stephenafamo/bob",
@@ -16049,35 +15835,6 @@
     "updatedAt": "2025-01-22T11:17:24.000Z"
   },
   {
-    "id": "dghubble/go-twitter",
-    "name": "dghubble/go-twitter",
-    "description": "Go Twitter REST and Streaming API v1.1",
-    "topics": [],
-    "owner": {
-      "name": "dghubble",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2253428?v=4"
-    },
-    "stars": 1588,
-    "starsDetail": {
-      "total": 1588,
-      "week": 1,
-      "month": 3,
-      "year": 22,
-      "updatedAt": 1736033349
-    },
-    "license": "MIT License",
-    "forks": 316,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2022-11-04T22:44:02.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/dghubble/go-twitter",
-    "goImportedBy": 0,
-    "createdAt": "2015-04-11T23:26:07.000Z",
-    "updatedAt": "2025-01-22T11:25:15.000Z"
-  },
-  {
     "id": "dghubble/sling",
     "name": "dghubble/sling",
     "description": "A Go HTTP client library for creating and sending API requests",
@@ -16229,35 +15986,6 @@
     "goImportedBy": 17,
     "createdAt": "2017-05-23T13:27:39.000Z",
     "updatedAt": "2025-01-22T11:20:21.000Z"
-  },
-  {
-    "id": "go-chat-bot/bot",
-    "name": "go-chat-bot/bot",
-    "description": "IRC, Slack, Telegram and RocketChat bot written in go",
-    "topics": [],
-    "owner": {
-      "name": "go-chat-bot",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14790853?v=4"
-    },
-    "stars": 833,
-    "starsDetail": {
-      "total": 828,
-      "week": 0,
-      "month": 3,
-      "year": 30,
-      "updatedAt": 1736032528
-    },
-    "license": "MIT License",
-    "forks": 197,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2024-03-11T17:26:22.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/go-chat-bot/bot",
-    "goImportedBy": 238,
-    "createdAt": "2015-09-22T16:41:13.000Z",
-    "updatedAt": "2025-01-22T02:09:33.000Z"
   },
   {
     "id": "go-reform/reform",
@@ -16950,7 +16678,7 @@
       "name": "FiloSottile",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1225294?v=4"
     },
-    "stars": 17954,
+    "stars": 17971,
     "starsDetail": {
       "total": 17803,
       "week": 76,
@@ -16968,7 +16696,7 @@
     "goPackage": "filippo.io/age",
     "goImportedBy": 271,
     "createdAt": "2019-05-18T20:44:54.000Z",
-    "updatedAt": "2025-01-21T22:59:12.000Z"
+    "updatedAt": "2025-01-23T01:33:08.000Z"
   },
   {
     "id": "go-task/task",
@@ -21202,35 +20930,6 @@
     "updatedAt": "2025-01-22T02:10:58.000Z"
   },
   {
-    "id": "golang/mock",
-    "name": "golang/mock",
-    "description": "GoMock is a mocking framework for the Go programming language.",
-    "topics": [],
-    "owner": {
-      "name": "golang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4314092?v=4"
-    },
-    "stars": 9342,
-    "starsDetail": {
-      "total": 9337,
-      "week": 4,
-      "month": 20,
-      "year": 281,
-      "updatedAt": 1736033297
-    },
-    "license": "Apache License 2.0",
-    "forks": 606,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2024-01-08T08:00:38.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/golang/mock",
-    "goImportedBy": 0,
-    "createdAt": "2015-06-12T17:15:11.000Z",
-    "updatedAt": "2025-01-22T11:24:23.000Z"
-  },
-  {
     "id": "guptarohit/asciigraph",
     "name": "guptarohit/asciigraph",
     "description": "Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.",
@@ -22875,48 +22574,6 @@
     "goImportedBy": null,
     "createdAt": "2016-09-10T20:20:42.000Z",
     "updatedAt": "2025-01-22T11:29:10.000Z"
-  },
-  {
-    "id": "ortuman/jackal",
-    "name": "ortuman/jackal",
-    "description": "💬 Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP).",
-    "topics": [
-      "chat",
-      "go",
-      "golang",
-      "golang-server",
-      "iot",
-      "jabber",
-      "jabber-server",
-      "jackal",
-      "jackal-community",
-      "messaging",
-      "xmpp",
-      "xmpp-server"
-    ],
-    "owner": {
-      "name": "ortuman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/888899?v=4"
-    },
-    "stars": 1435,
-    "starsDetail": {
-      "total": 1436,
-      "week": 1,
-      "month": 2,
-      "year": 21,
-      "updatedAt": 1736033255
-    },
-    "license": "Apache License 2.0",
-    "forks": 129,
-    "primaryLanguage": "Dockerfile",
-    "pushedAt": "2023-07-19T09:53:21.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/ortuman/jackal",
-    "goImportedBy": 0,
-    "createdAt": "2017-11-13T18:17:48.000Z",
-    "updatedAt": "2025-01-22T11:23:42.000Z"
   },
   {
     "id": "paypal/gatt",
@@ -26487,14 +26144,14 @@
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "forks": 27,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-19T13:43:58.000Z",
+    "pushedAt": "2025-01-22T20:33:15.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/chapar-rest/chapar",
     "goImportedBy": 0,
     "createdAt": "2024-01-12T22:52:45.000Z",
-    "updatedAt": "2025-01-21T23:03:47.000Z"
+    "updatedAt": "2025-01-23T01:37:56.000Z"
   },
   {
     "id": "egonelbre/gophers",
@@ -26693,35 +26350,6 @@
     "goImportedBy": 0,
     "createdAt": "2015-01-16T22:35:14.000Z",
     "updatedAt": "2025-01-22T11:17:07.000Z"
-  },
-  {
-    "id": "n0madic/twitter-scraper",
-    "name": "n0madic/twitter-scraper",
-    "description": "Scrape the Twitter frontend API without authentication with Golang.",
-    "topics": [],
-    "owner": {
-      "name": "n0madic",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/800462?v=4"
-    },
-    "stars": 946,
-    "starsDetail": {
-      "total": 918,
-      "week": 4,
-      "month": 15,
-      "year": 120,
-      "updatedAt": 1736033355
-    },
-    "license": "MIT License",
-    "forks": 207,
-    "primaryLanguage": "Go",
-    "pushedAt": "2023-11-04T22:39:41.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/n0madic/twitter-scraper",
-    "goImportedBy": 63,
-    "createdAt": "2018-11-29T15:31:50.000Z",
-    "updatedAt": "2025-01-22T11:25:37.000Z"
   },
   {
     "id": "naughtygopher/goapp",
@@ -31328,6 +30956,35 @@
     "updatedAt": "2025-01-22T11:17:46.000Z"
   },
   {
+    "id": "uber-go/mock",
+    "name": "uber-go/mock",
+    "description": "GoMock is a mocking framework for the Go programming language.",
+    "topics": [],
+    "owner": {
+      "name": "uber-go",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19262598?v=4"
+    },
+    "stars": 2490,
+    "starsDetail": {
+      "total": 2490,
+      "week": 18,
+      "month": 105,
+      "year": 1275,
+      "updatedAt": 1737596294
+    },
+    "license": "Apache License 2.0",
+    "forks": 131,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-11-25T23:45:08.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-05-03T21:47:38.000Z",
+    "updatedAt": "2025-01-23T01:20:37.000Z"
+  },
+  {
     "id": "anchore/syft",
     "name": "anchore/syft",
     "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
@@ -32171,35 +31828,6 @@
     "updatedAt": "2025-01-22T11:27:58.000Z"
   },
   {
-    "id": "mitchellh/gox",
-    "name": "mitchellh/gox",
-    "description": "A dead simple, no frills Go cross compile tool",
-    "topics": [],
-    "owner": {
-      "name": "mitchellh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1299?v=4"
-    },
-    "stars": 4608,
-    "starsDetail": {
-      "total": 4605,
-      "week": 4,
-      "month": 10,
-      "year": 59,
-      "updatedAt": 1736033529
-    },
-    "license": "Mozilla Public License 2.0",
-    "forks": 357,
-    "primaryLanguage": "Go",
-    "pushedAt": "2023-05-02T06:26:10.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/mitchellh/gox",
-    "goImportedBy": 0,
-    "createdAt": "2013-11-17T03:11:35.000Z",
-    "updatedAt": "2025-01-22T11:28:39.000Z"
-  },
-  {
     "id": "msoap/shell2http",
     "name": "msoap/shell2http",
     "description": "Executing shell commands via HTTP server",
@@ -32421,47 +32049,6 @@
     "goImportedBy": 0,
     "createdAt": "2018-04-11T09:52:58.000Z",
     "updatedAt": "2025-01-22T02:11:20.000Z"
-  },
-  {
-    "id": "UnnoTed/fileb0x",
-    "name": "UnnoTed/fileb0x",
-    "description": "a better customizable tool to embed files in go; also update embedded files remotely without restarting the server",
-    "topics": [
-      "embed",
-      "embed-files",
-      "embedded-files",
-      "filebox",
-      "files",
-      "go",
-      "go-bindata",
-      "http",
-      "http-filesystem",
-      "update",
-      "virtual-file-system"
-    ],
-    "owner": {
-      "name": "UnnoTed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9157736?v=4"
-    },
-    "stars": 635,
-    "starsDetail": {
-      "total": 635,
-      "week": 0,
-      "month": 1,
-      "year": 7,
-      "updatedAt": 1736033209
-    },
-    "license": "MIT License",
-    "forks": 53,
-    "primaryLanguage": "CSS",
-    "pushedAt": "2023-03-07T00:10:45.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/UnnoTed/fileb0x",
-    "goImportedBy": 0,
-    "createdAt": "2016-01-23T20:19:33.000Z",
-    "updatedAt": "2025-01-22T11:22:54.000Z"
   },
   {
     "id": "apex/log",
@@ -34321,42 +33908,6 @@
     "updatedAt": "2025-01-22T11:27:48.000Z"
   },
   {
-    "id": "xyproto/permissions2",
-    "name": "xyproto/permissions2",
-    "description": "  :closed_lock_with_key: Middleware for keeping track of users, login states and permissions",
-    "topics": [
-      "bcrypt",
-      "middleware",
-      "permissions",
-      "redis",
-      "sessions",
-      "user-auth"
-    ],
-    "owner": {
-      "name": "xyproto",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/52813?v=4"
-    },
-    "stars": 512,
-    "starsDetail": {
-      "total": 511,
-      "week": 1,
-      "month": 1,
-      "year": 18,
-      "updatedAt": 1736032513
-    },
-    "license": "MIT License",
-    "forks": 38,
-    "primaryLanguage": "Go",
-    "pushedAt": "2024-10-16T11:25:29.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2014-11-19T12:23:37.000Z",
-    "updatedAt": "2025-01-22T02:09:26.000Z"
-  },
-  {
     "id": "z7zmey/php-parser",
     "name": "z7zmey/php-parser",
     "description": "PHP parser written in Go",
@@ -34630,35 +34181,6 @@
     "updatedAt": "2025-01-22T11:20:00.000Z"
   },
   {
-    "id": "davecheney/gcvis",
-    "name": "davecheney/gcvis",
-    "description": "Visualise Go program GC trace data in real time",
-    "topics": [],
-    "owner": {
-      "name": "davecheney",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7171?v=4"
-    },
-    "stars": 1102,
-    "starsDetail": {
-      "total": 1102,
-      "week": 0,
-      "month": 0,
-      "year": 15,
-      "updatedAt": 1736033484
-    },
-    "license": "BSD 2-Clause \"Simplified\" License",
-    "forks": 69,
-    "primaryLanguage": "Go",
-    "pushedAt": "2019-03-13T01:20:26.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2014-07-10T12:34:07.000Z",
-    "updatedAt": "2025-01-22T11:27:58.000Z"
-  },
-  {
     "id": "deckarep/gosx-notifier",
     "name": "deckarep/gosx-notifier",
     "description": "gosx-notifier is a Go framework for sending desktop notifications to OSX 10.8 or higher",
@@ -34750,39 +34272,6 @@
     "goImportedBy": 0,
     "createdAt": "2014-04-13T14:54:01.000Z",
     "updatedAt": "2025-01-22T11:22:01.000Z"
-  },
-  {
-    "id": "gobuffalo/packr",
-    "name": "gobuffalo/packr",
-    "description": "The simple and easy way to embed static files into Go binaries.",
-    "topics": [
-      "build",
-      "gobuffalo",
-      "packr"
-    ],
-    "owner": {
-      "name": "gobuffalo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/24794651?v=4"
-    },
-    "stars": 3410,
-    "starsDetail": {
-      "total": 3409,
-      "week": 0,
-      "month": 0,
-      "year": 18,
-      "updatedAt": 1736033215
-    },
-    "license": "MIT License",
-    "forks": 194,
-    "primaryLanguage": "CSS",
-    "pushedAt": "2021-12-04T19:53:01.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/gobuffalo/packr/v2",
-    "goImportedBy": 1299,
-    "createdAt": "2017-03-15T22:24:53.000Z",
-    "updatedAt": "2025-01-22T11:22:58.000Z"
   },
   {
     "id": "goji/goji",
@@ -34963,46 +34452,6 @@
     "updatedAt": "2025-01-22T02:10:09.000Z"
   },
   {
-    "id": "joefitzgerald/go-plus",
-    "name": "joefitzgerald/go-plus",
-    "description": "An Enhanced Go Experience For The Atom Editor",
-    "topics": [
-      "atom",
-      "autocomplete",
-      "build",
-      "editor",
-      "format",
-      "go",
-      "golang",
-      "ide",
-      "lint",
-      "test"
-    ],
-    "owner": {
-      "name": "joefitzgerald",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/744740?v=4"
-    },
-    "stars": 1508,
-    "starsDetail": {
-      "total": 1508,
-      "week": 0,
-      "month": 0,
-      "year": 9,
-      "updatedAt": 1736033500
-    },
-    "license": "Other",
-    "forks": 128,
-    "primaryLanguage": "Go",
-    "pushedAt": "2021-05-04T12:16:23.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2014-03-13T19:19:18.000Z",
-    "updatedAt": "2025-01-22T11:28:10.000Z"
-  },
-  {
     "id": "kardianos/govendor",
     "name": "kardianos/govendor",
     "description": "Use Go Modules.",
@@ -35110,37 +34559,6 @@
     "goImportedBy": 19,
     "createdAt": "2019-01-18T17:03:03.000Z",
     "updatedAt": "2025-01-22T02:10:31.000Z"
-  },
-  {
-    "id": "mkaz/working-with-go",
-    "name": "mkaz/working-with-go",
-    "description": "A set of example golang code to start learning Go",
-    "topics": [
-      "golang"
-    ],
-    "owner": {
-      "name": "mkaz",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/45363?v=4"
-    },
-    "stars": 1150,
-    "starsDetail": {
-      "total": 1150,
-      "week": 0,
-      "month": 0,
-      "year": 3,
-      "updatedAt": 1736033661
-    },
-    "license": null,
-    "forks": 171,
-    "primaryLanguage": "",
-    "pushedAt": "2020-02-03T19:45:18.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2014-05-04T21:29:05.000Z",
-    "updatedAt": "2025-01-22T11:29:50.000Z"
   },
   {
     "id": "mkideal/cli",
@@ -37674,36 +37092,6 @@
     "updatedAt": "2025-01-22T11:25:30.000Z"
   },
   {
-    "id": "InVisionApp/conjungo",
-    "name": "InVisionApp/conjungo",
-    "description": "A small flexible merge library in go",
-    "topics": [
-      "go",
-      "golang",
-      "library",
-      "merge"
-    ],
-    "owner": {
-      "name": "InVisionApp",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1536893?v=4"
-    },
-    "stars": 128,
-    "starsDetail": {
-      "total": 128
-    },
-    "license": "MIT License",
-    "forks": 18,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2024-12-23T17:51:55.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2016-12-29T23:50:38.000Z",
-    "updatedAt": "2025-01-22T02:10:51.000Z"
-  },
-  {
     "id": "InVisionApp/rye",
     "name": "InVisionApp/rye",
     "description": "A tiny http middleware for Golang with added handlers for common needs.",
@@ -37739,37 +37127,6 @@
     "updatedAt": "2025-01-22T11:27:36.000Z"
   },
   {
-    "id": "InVisionApp/tabular",
-    "name": "InVisionApp/tabular",
-    "description": "Tabular simplifies printing ASCII tables from command line utilities",
-    "topics": [
-      "cli",
-      "go",
-      "golang",
-      "opensource",
-      "tables"
-    ],
-    "owner": {
-      "name": "InVisionApp",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1536893?v=4"
-    },
-    "stars": 79,
-    "starsDetail": {
-      "total": 79
-    },
-    "license": "MIT License",
-    "forks": 7,
-    "primaryLanguage": "Go",
-    "pushedAt": "2024-12-23T17:58:35.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2018-04-23T21:17:03.000Z",
-    "updatedAt": "2025-01-22T02:09:56.000Z"
-  },
-  {
     "id": "Jacobbrewer1/patcher",
     "name": "Jacobbrewer1/patcher",
     "description": "Powerful SQL Query builder that automatically generates SQL queries from structs",
@@ -37792,14 +37149,14 @@
     "license": "Apache License 2.0",
     "forks": 1,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-01-20T08:15:40.000Z",
+    "pushedAt": "2025-01-22T14:15:29.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-04T07:30:16.000Z",
-    "updatedAt": "2025-01-21T22:58:18.000Z"
+    "updatedAt": "2025-01-23T01:32:08.000Z"
   },
   {
     "id": "Jagerente/gocfg",
@@ -38165,31 +37522,6 @@
     "updatedAt": "2025-01-22T02:09:30.000Z"
   },
   {
-    "id": "Logicalis/asn1",
-    "name": "Logicalis/asn1",
-    "description": "Asn.1 BER and DER encoding library for golang.",
-    "topics": [],
-    "owner": {
-      "name": "Logicalis",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17335256?v=4"
-    },
-    "stars": 55,
-    "starsDetail": {
-      "total": 55
-    },
-    "license": "MIT License",
-    "forks": 28,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2019-03-12T17:35:41.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-02-29T13:00:25.000Z",
-    "updatedAt": "2025-01-22T11:23:34.000Z"
-  },
-  {
     "id": "MarvinJWendt/testza",
     "name": "MarvinJWendt/testza",
     "description": "Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕",
@@ -38532,7 +37864,7 @@
     "goPackage": "github.com/Noooste/azuretls-client",
     "goImportedBy": 24,
     "createdAt": "2023-05-15T09:41:47.000Z",
-    "updatedAt": "2025-01-21T23:03:50.000Z"
+    "updatedAt": "2025-01-23T01:37:59.000Z"
   },
   {
     "id": "OGFris/GoStats",
@@ -38625,31 +37957,6 @@
     "goImportedBy": 0,
     "createdAt": "2021-01-01T01:28:04.000Z",
     "updatedAt": "2025-01-22T02:10:43.000Z"
-  },
-  {
-    "id": "Omie/rrdaclient",
-    "name": "Omie/rrdaclient",
-    "description": "Go bindings for RRDA https://github.com/fcambus/rrda",
-    "topics": [],
-    "owner": {
-      "name": "Omie",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/451546?v=4"
-    },
-    "stars": 10,
-    "starsDetail": {
-      "total": 10
-    },
-    "license": "MIT License",
-    "forks": 0,
-    "primaryLanguage": "Go",
-    "pushedAt": "2014-09-19T16:36:10.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2014-09-15T21:06:16.000Z",
-    "updatedAt": "2025-01-22T11:25:31.000Z"
   },
   {
     "id": "One-com/gone",
@@ -39951,31 +39258,6 @@
     "updatedAt": "2025-01-22T11:18:04.000Z"
   },
   {
-    "id": "TreyBastian/colourize",
-    "name": "TreyBastian/colourize",
-    "description": "An ANSI colour terminal package for Go",
-    "topics": [],
-    "owner": {
-      "name": "TreyBastian",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2991824?v=4"
-    },
-    "stars": 28,
-    "starsDetail": {
-      "total": 28
-    },
-    "license": "MIT License",
-    "forks": 3,
-    "primaryLanguage": "Go",
-    "pushedAt": "2022-07-18T09:10:59.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2015-05-11T11:49:39.000Z",
-    "updatedAt": "2025-01-22T02:09:48.000Z"
-  },
-  {
     "id": "VinGarcia/ksql",
     "name": "VinGarcia/ksql",
     "description": "A Simple and Powerful Golang SQL Library",
@@ -40049,31 +39331,6 @@
     "goImportedBy": 49,
     "createdAt": "2013-08-01T17:16:30.000Z",
     "updatedAt": "2025-01-22T11:26:05.000Z"
-  },
-  {
-    "id": "VividCortex/gohistogram",
-    "name": "VividCortex/gohistogram",
-    "description": "Streaming approximate histograms in Go",
-    "topics": [],
-    "owner": {
-      "name": "VividCortex",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2809667?v=4"
-    },
-    "stars": 175,
-    "starsDetail": {
-      "total": 175
-    },
-    "license": "MIT License",
-    "forks": 31,
-    "primaryLanguage": "Go",
-    "pushedAt": "2020-12-15T17:33:31.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2013-07-02T12:53:22.000Z",
-    "updatedAt": "2025-01-22T11:23:06.000Z"
   },
   {
     "id": "VividCortex/johnny-deps",
@@ -40922,7 +40179,7 @@
     "goPackage": "github.com/adelowo/gulter",
     "goImportedBy": 2,
     "createdAt": "2024-02-13T23:17:20.000Z",
-    "updatedAt": "2025-01-21T23:03:45.000Z"
+    "updatedAt": "2025-01-23T01:37:55.000Z"
   },
   {
     "id": "adelowo/onecache",
@@ -42620,7 +41877,7 @@
     "goPackage": "github.com/andreimerlescu/entpassgen",
     "goImportedBy": 0,
     "createdAt": "2024-07-30T14:55:15.000Z",
-    "updatedAt": "2025-01-21T23:03:51.000Z"
+    "updatedAt": "2025-01-23T01:38:00.000Z"
   },
   {
     "id": "andrewstuart/goq",
@@ -43052,36 +42309,37 @@
     "updatedAt": "2025-01-22T11:21:06.000Z"
   },
   {
-    "id": "antchfx/xquery",
-    "name": "antchfx/xquery",
-    "description": "Extract data or evaluate value from HTML/XML documents using XPath",
+    "id": "antchfx/xmlquery",
+    "name": "antchfx/xmlquery",
+    "description": "xmlquery is Golang XPath package for XML query.",
     "topics": [
-      "extracting",
+      "go",
       "golang",
-      "html",
-      "scraping",
       "xml",
+      "xml-parser",
+      "xml-queries",
+      "xml-xpath",
       "xpath"
     ],
     "owner": {
       "name": "antchfx",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20632257?v=4"
     },
-    "stars": 158,
+    "stars": 454,
     "starsDetail": {
-      "total": 158
+      "total": 454
     },
     "license": "MIT License",
-    "forks": 27,
+    "forks": 91,
     "primaryLanguage": "Go",
-    "pushedAt": "2018-05-15T05:19:11.000Z",
-    "archived": true,
-    "npmPackage": "",
+    "pushedAt": "2025-01-17T06:21:32.000Z",
+    "archived": false,
+    "npmPackage": null,
     "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2016-10-09T05:54:10.000Z",
-    "updatedAt": "2025-01-22T11:27:53.000Z"
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-12-05T01:08:54.000Z",
+    "updatedAt": "2025-01-23T01:20:38.000Z"
   },
   {
     "id": "antham/chyle",
@@ -44496,9 +43754,9 @@
       "name": "axzilla",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26936893?v=4"
     },
-    "stars": 276,
+    "stars": 278,
     "starsDetail": {
-      "total": 276
+      "total": 278
     },
     "license": "MIT License",
     "forks": 10,
@@ -44510,7 +43768,7 @@
     "goPackage": "github.com/axzilla/templui",
     "goImportedBy": 0,
     "createdAt": "2024-10-01T14:40:11.000Z",
-    "updatedAt": "2025-01-21T23:03:46.000Z"
+    "updatedAt": "2025-01-23T01:37:55.000Z"
   },
   {
     "id": "aybabtme/portproxy",
@@ -45113,35 +44371,6 @@
     "goImportedBy": 11,
     "createdAt": "2018-05-02T00:33:15.000Z",
     "updatedAt": "2025-01-22T11:22:50.000Z"
-  },
-  {
-    "id": "bit4bit/gami",
-    "name": "bit4bit/gami",
-    "description": "GO - Asterisk AMI Interface",
-    "topics": [
-      "asterisk-ami",
-      "go",
-      "interface"
-    ],
-    "owner": {
-      "name": "bit4bit",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1474826?v=4"
-    },
-    "stars": 33,
-    "starsDetail": {
-      "total": 33
-    },
-    "license": "MIT License",
-    "forks": 30,
-    "primaryLanguage": "Go",
-    "pushedAt": "2018-06-26T10:42:14.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2014-05-14T16:11:37.000Z",
-    "updatedAt": "2025-01-22T11:25:06.000Z"
   },
   {
     "id": "biter777/countries",
@@ -49075,31 +48304,6 @@
     "updatedAt": "2025-01-22T11:20:14.000Z"
   },
   {
-    "id": "dannyvankooten/extemplate",
-    "name": "dannyvankooten/extemplate",
-    "description": "Wrapper package for Go's template/html to allow for easy file-based template inheritance.",
-    "topics": [],
-    "owner": {
-      "name": "dannyvankooten",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/885856?v=4"
-    },
-    "stars": 58,
-    "starsDetail": {
-      "total": 58
-    },
-    "license": "MIT License",
-    "forks": 15,
-    "primaryLanguage": "Go",
-    "pushedAt": "2022-12-06T12:37:35.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/dannyvankooten/extemplate",
-    "goImportedBy": 4,
-    "createdAt": "2018-08-10T20:34:19.000Z",
-    "updatedAt": "2025-01-22T11:23:50.000Z"
-  },
-  {
     "id": "dannyvankooten/vat",
     "name": "dannyvankooten/vat",
     "description": "Go package for dealing with EU VAT. Does VAT number validation & rates retrieval.",
@@ -50197,31 +49401,6 @@
     "goImportedBy": 39,
     "createdAt": "2016-03-08T23:04:43.000Z",
     "updatedAt": "2025-01-22T11:21:18.000Z"
-  },
-  {
-    "id": "dimiro1/ipe",
-    "name": "dimiro1/ipe",
-    "description": "An open source Pusher server implementation compatible with Pusher client libraries written in GO",
-    "topics": [],
-    "owner": {
-      "name": "dimiro1",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16993?v=4"
-    },
-    "stars": 365,
-    "starsDetail": {
-      "total": 365
-    },
-    "license": "MIT License",
-    "forks": 84,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2021-03-28T13:07:21.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2015-01-13T11:49:19.000Z",
-    "updatedAt": "2025-01-22T11:29:11.000Z"
   },
   {
     "id": "dimuska139/go-email-normalizer",
@@ -53067,56 +52246,6 @@
     "updatedAt": "2025-01-22T11:20:55.000Z"
   },
   {
-    "id": "firstrow/logvoyage",
-    "name": "firstrow/logvoyage",
-    "description": "LogVoyage - logging SaaS written in GoLang",
-    "topics": [],
-    "owner": {
-      "name": "firstrow",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/66944?v=4"
-    },
-    "stars": 94,
-    "starsDetail": {
-      "total": 94
-    },
-    "license": "MIT License",
-    "forks": 12,
-    "primaryLanguage": "CSS",
-    "pushedAt": "2017-05-24T19:48:17.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2015-03-29T11:05:09.000Z",
-    "updatedAt": "2025-01-22T11:19:52.000Z"
-  },
-  {
-    "id": "firstrow/tcp_server",
-    "name": "firstrow/tcp_server",
-    "description": "golang tcp server",
-    "topics": [],
-    "owner": {
-      "name": "firstrow",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/66944?v=4"
-    },
-    "stars": 425,
-    "starsDetail": {
-      "total": 425
-    },
-    "license": "MIT License",
-    "forks": 142,
-    "primaryLanguage": "Go",
-    "pushedAt": "2021-11-10T09:30:31.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/firstrow/tcp_server",
-    "goImportedBy": 19,
-    "createdAt": "2014-10-13T20:38:42.000Z",
-    "updatedAt": "2025-01-22T11:22:11.000Z"
-  },
-  {
     "id": "fish-tennis/gnet",
     "name": "fish-tennis/gnet",
     "description": "high performance net library for game server",
@@ -55855,36 +54984,6 @@
     "goImportedBy": 0,
     "createdAt": "2017-09-26T08:19:41.000Z",
     "updatedAt": "2025-01-22T11:21:57.000Z"
-  },
-  {
-    "id": "google/hilbert",
-    "name": "google/hilbert",
-    "description": "Go package for mapping values to and from space-filling curves, such as Hilbert and Peano curves.",
-    "topics": [
-      "go",
-      "hilbert",
-      "peano",
-      "space-filling-curves"
-    ],
-    "owner": {
-      "name": "google",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1342004?v=4"
-    },
-    "stars": 280,
-    "starsDetail": {
-      "total": 280
-    },
-    "license": "Apache License 2.0",
-    "forks": 41,
-    "primaryLanguage": "Go",
-    "pushedAt": "2022-09-21T12:58:36.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2015-08-06T15:50:00.000Z",
-    "updatedAt": "2025-01-22T02:10:55.000Z"
   },
   {
     "id": "google/leveldb",
@@ -59071,31 +58170,6 @@
     "updatedAt": "2025-01-22T11:27:54.000Z"
   },
   {
-    "id": "inancgumus/myhttp",
-    "name": "inancgumus/myhttp",
-    "description": "Simplest HTTP GET requester for Go with timeout support",
-    "topics": [],
-    "owner": {
-      "name": "inancgumus",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/621232?v=4"
-    },
-    "stars": 34,
-    "starsDetail": {
-      "total": 34
-    },
-    "license": "MIT License",
-    "forks": 14,
-    "primaryLanguage": "Go",
-    "pushedAt": "2018-05-06T18:25:10.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2017-09-13T15:48:47.000Z",
-    "updatedAt": "2025-01-22T11:26:22.000Z"
-  },
-  {
     "id": "inconshreveable/gonative",
     "name": "inconshreveable/gonative",
     "description": "Build Go Toolchains /w native libs for cross-compilation",
@@ -60344,8 +59418,16 @@
   {
     "id": "jon-codes/getopt",
     "name": "jon-codes/getopt",
-    "description": "",
-    "topics": [],
+    "description": "Zero-dependency Go implementation of the Unix getopt function, tested against GNU libc.",
+    "topics": [
+      "cli",
+      "getopt",
+      "gnu",
+      "go",
+      "options",
+      "parsing",
+      "unix"
+    ],
     "owner": {
       "name": "jon-codes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/68488224?v=4"
@@ -60357,14 +59439,14 @@
     "license": "Other",
     "forks": 0,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2024-12-23T14:18:18.000Z",
+    "pushedAt": "2025-01-22T18:44:43.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/jon-codes/getopt",
     "goImportedBy": 0,
     "createdAt": "2024-09-21T19:14:27.000Z",
-    "updatedAt": "2025-01-21T23:03:45.000Z"
+    "updatedAt": "2025-01-23T01:37:54.000Z"
   },
   {
     "id": "jonchun/pathtype",
@@ -64636,29 +63718,32 @@
     "updatedAt": "2025-01-22T11:20:32.000Z"
   },
   {
-    "id": "maxcnunes/gaper",
-    "name": "maxcnunes/gaper",
+    "id": "maxclaus/gaper",
+    "name": "maxclaus/gaper",
     "description": "Builds and restarts a Go project when it crashes or some watched file changes",
-    "topics": [],
+    "topics": [
+      "livereload",
+      "restart-server"
+    ],
     "owner": {
-      "name": "maxcnunes",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/194633458?v=4"
+      "name": "maxclaus",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/680356?v=4"
     },
-    "stars": 0,
+    "stars": 81,
     "starsDetail": {
-      "total": 0
+      "total": 81
     },
     "license": "MIT License",
-    "forks": 0,
+    "forks": 7,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-01-11T19:13:38.000Z",
-    "archived": true,
-    "npmPackage": "",
+    "pushedAt": "2023-08-08T12:25:52.000Z",
+    "archived": false,
+    "npmPackage": null,
     "npmLastMonthDownloads": null,
-    "goPackage": "github.com/maxcnunes/gaper",
-    "goImportedBy": 1,
-    "createdAt": "2025-01-11T19:07:12.000Z",
-    "updatedAt": "2025-01-22T02:09:42.000Z"
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-06-16T02:46:38.000Z",
+    "updatedAt": "2025-01-23T01:20:36.000Z"
   },
   {
     "id": "mbndr/logo",
@@ -65232,9 +64317,9 @@
       "name": "mholt",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1128849?v=4"
     },
-    "stars": 127,
+    "stars": 128,
     "starsDetail": {
-      "total": 127
+      "total": 128
     },
     "license": "MIT License",
     "forks": 6,
@@ -65246,7 +64331,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-18T18:09:50.000Z",
-    "updatedAt": "2025-01-21T22:58:16.000Z"
+    "updatedAt": "2025-01-23T01:32:06.000Z"
   },
   {
     "id": "mibk/dupl",
@@ -65800,7 +64885,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-02-04T20:52:13.000Z",
-    "updatedAt": "2025-01-21T22:58:19.000Z"
+    "updatedAt": "2025-01-23T01:32:09.000Z"
   },
   {
     "id": "mlimaloureiro/golog",
@@ -66972,31 +66057,6 @@
     "updatedAt": "2025-01-22T11:25:30.000Z"
   },
   {
-    "id": "n0madic/google-play-scraper",
-    "name": "n0madic/google-play-scraper",
-    "description": "Golang scraper to get data from Google Play Store",
-    "topics": [],
-    "owner": {
-      "name": "n0madic",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/800462?v=4"
-    },
-    "stars": 83,
-    "starsDetail": {
-      "total": 83
-    },
-    "license": "GNU Lesser General Public License v3.0",
-    "forks": 22,
-    "primaryLanguage": "Go",
-    "pushedAt": "2023-10-14T12:28:08.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/n0madic/google-play-scraper",
-    "goImportedBy": 0,
-    "createdAt": "2019-09-20T14:03:01.000Z",
-    "updatedAt": "2025-01-22T11:25:21.000Z"
-  },
-  {
     "id": "n10v/id3v2",
     "name": "n10v/id3v2",
     "description": "🎵 ID3 decoding and encoding library for Go",
@@ -67553,38 +66613,6 @@
     "updatedAt": "2025-01-22T11:19:37.000Z"
   },
   {
-    "id": "neotoolkit/dummy",
-    "name": "neotoolkit/dummy",
-    "description": "Run mock server based off an API contract with one command",
-    "topics": [
-      "api",
-      "dummy",
-      "faker",
-      "golang",
-      "mocking",
-      "openapi3"
-    ],
-    "owner": {
-      "name": "neotoolkit",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/94162314?v=4"
-    },
-    "stars": 178,
-    "starsDetail": {
-      "total": 178
-    },
-    "license": "MIT License",
-    "forks": 9,
-    "primaryLanguage": "Dockerfile",
-    "pushedAt": "2023-03-01T15:04:52.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/neotoolkit/dummy",
-    "goImportedBy": 0,
-    "createdAt": "2021-11-12T06:54:04.000Z",
-    "updatedAt": "2025-01-22T11:23:39.000Z"
-  },
-  {
     "id": "neotoolkit/openapi",
     "name": "neotoolkit/openapi",
     "description": "OpenAPI 3.x parser",
@@ -67699,31 +66727,6 @@
     "goImportedBy": 24,
     "createdAt": "2021-08-22T08:31:40.000Z",
     "updatedAt": "2025-01-22T11:27:44.000Z"
-  },
-  {
-    "id": "ngs-archives/go-google-email-audit-api",
-    "name": "ngs-archives/go-google-email-audit-api",
-    "description": "Go Client Library for G Suite Email Audit API",
-    "topics": [],
-    "owner": {
-      "name": "ngs-archives",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/139853700?v=4"
-    },
-    "stars": 8,
-    "starsDetail": {
-      "total": 8
-    },
-    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 4,
-    "primaryLanguage": "Go",
-    "pushedAt": "2016-10-26T12:55:17.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-10-24T02:34:29.000Z",
-    "updatedAt": "2025-01-22T11:25:26.000Z"
   },
   {
     "id": "nicklaw5/go-respond",
@@ -68023,7 +67026,7 @@
     "goPackage": "github.com/nikolaydubina/go-enum-encoding",
     "goImportedBy": 0,
     "createdAt": "2024-03-20T02:47:21.000Z",
-    "updatedAt": "2025-01-21T23:03:46.000Z"
+    "updatedAt": "2025-01-23T01:37:55.000Z"
   },
   {
     "id": "nikolaydubina/go-featureprocessing",
@@ -68875,31 +67878,6 @@
     "updatedAt": "2025-01-22T11:23:20.000Z"
   },
   {
-    "id": "nuveo/translate",
-    "name": "nuveo/translate",
-    "description": "Go online translation package",
-    "topics": [],
-    "owner": {
-      "name": "nuveo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16190545?v=4"
-    },
-    "stars": 33,
-    "starsDetail": {
-      "total": 33
-    },
-    "license": "MIT License",
-    "forks": 6,
-    "primaryLanguage": "Go",
-    "pushedAt": "2016-02-28T15:13:19.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-07-13T15:42:13.000Z",
-    "updatedAt": "2025-01-22T11:25:46.000Z"
-  },
-  {
     "id": "nwillc/genfuncs",
     "name": "nwillc/genfuncs",
     "description": "Go 1.18+ polymorphic generic containers and functions.",
@@ -69214,31 +68192,6 @@
     "goImportedBy": null,
     "createdAt": "2023-06-26T19:39:32.000Z",
     "updatedAt": "2025-01-22T11:15:51.000Z"
-  },
-  {
-    "id": "omeid/go-resources",
-    "name": "omeid/go-resources",
-    "description": "Unfancy resources embedding for Go with out of box http.FileSystem support.",
-    "topics": [],
-    "owner": {
-      "name": "omeid",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1453118?v=4"
-    },
-    "stars": 177,
-    "starsDetail": {
-      "total": 177
-    },
-    "license": "MIT License",
-    "forks": 16,
-    "primaryLanguage": "Go",
-    "pushedAt": "2022-10-19T08:15:30.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/omeid/go-resources",
-    "goImportedBy": 2,
-    "createdAt": "2015-02-21T15:40:17.000Z",
-    "updatedAt": "2025-01-22T11:22:55.000Z"
   },
   {
     "id": "omeid/uconfig",
@@ -72999,21 +71952,21 @@
       "name": "rezmoss",
       "avatarUrl": "https://avatars.githubusercontent.com/u/178949074?v=4"
     },
-    "stars": 11,
+    "stars": 10,
     "starsDetail": {
-      "total": 11
+      "total": 10
     },
     "license": "Apache License 2.0",
-    "forks": 7,
+    "forks": 8,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-01-21T22:33:56.000Z",
+    "pushedAt": "2025-01-22T00:13:34.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-08-31T13:24:08.000Z",
-    "updatedAt": "2025-01-21T22:58:20.000Z"
+    "updatedAt": "2025-01-23T01:32:10.000Z"
   },
   {
     "id": "rhnvrm/simples3",
@@ -74899,37 +73852,6 @@
     "updatedAt": "2025-01-22T11:25:35.000Z"
   },
   {
-    "id": "servusdei2018/protoncheck",
-    "name": "servusdei2018/protoncheck",
-    "description": "@ProtonMail module for waybar/polybar/yabar/i3blocks",
-    "topics": [
-      "i3blocks-modules",
-      "polybar-module",
-      "protonmail",
-      "waybar",
-      "yabar"
-    ],
-    "owner": {
-      "name": "servusdei2018",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/37554478?v=4"
-    },
-    "stars": 6,
-    "starsDetail": {
-      "total": 6
-    },
-    "license": "MIT License",
-    "forks": 1,
-    "primaryLanguage": "Go",
-    "pushedAt": "2022-02-13T16:00:10.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/servusdei2018/protoncheck",
-    "goImportedBy": 0,
-    "createdAt": "2021-12-26T02:22:47.000Z",
-    "updatedAt": "2025-01-22T11:29:17.000Z"
-  },
-  {
     "id": "sgreben/flagvar",
     "name": "sgreben/flagvar",
     "description": "A collection of CLI argument types for the Go `flag` package.",
@@ -76503,31 +75425,6 @@
     "updatedAt": "2025-01-22T02:10:49.000Z"
   },
   {
-    "id": "srfrog/slices",
-    "name": "srfrog/slices",
-    "description": "Functions that operate on slices. Similar to functions from package strings or package bytes that have been adapted to work with slices.",
-    "topics": [],
-    "owner": {
-      "name": "srfrog",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8219721?v=4"
-    },
-    "stars": 17,
-    "starsDetail": {
-      "total": 17
-    },
-    "license": "MIT License",
-    "forks": 3,
-    "primaryLanguage": "Go",
-    "pushedAt": "2020-11-09T08:18:51.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/srfrog/slices",
-    "goImportedBy": 1,
-    "createdAt": "2020-07-02T23:17:34.000Z",
-    "updatedAt": "2025-01-22T02:10:56.000Z"
-  },
-  {
     "id": "ssgreg/journald",
     "name": "ssgreg/journald",
     "description": "Go implementation of systemd Journal's native API for logging",
@@ -78046,36 +76943,6 @@
     "goImportedBy": 0,
     "createdAt": "2018-09-02T05:36:10.000Z",
     "updatedAt": "2025-01-22T11:29:34.000Z"
-  },
-  {
-    "id": "theia-ide/go-language-server",
-    "name": "theia-ide/go-language-server",
-    "description": "A Go language server.",
-    "topics": [
-      "go",
-      "language-server",
-      "language-server-protocol",
-      "lsp"
-    ],
-    "owner": {
-      "name": "theia-ide",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28530323?v=4"
-    },
-    "stars": 32,
-    "starsDetail": {
-      "total": 32
-    },
-    "license": "Other",
-    "forks": 12,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2019-03-25T14:30:07.000Z",
-    "archived": true,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2017-11-21T13:10:33.000Z",
-    "updatedAt": "2025-01-22T11:28:09.000Z"
   },
   {
     "id": "thestrukture/IDE",
@@ -79839,7 +78706,7 @@
     "goPackage": "github.com/vadiminshakov/committer",
     "goImportedBy": 0,
     "createdAt": "2020-08-02T09:50:12.000Z",
-    "updatedAt": "2025-01-21T23:03:56.000Z"
+    "updatedAt": "2025-01-23T01:38:05.000Z"
   },
   {
     "id": "vaelen/iot",
@@ -80954,7 +79821,7 @@
     "goPackage": "github.com/webhookx-io/webhookx",
     "goImportedBy": 0,
     "createdAt": "2024-07-16T16:29:33.000Z",
-    "updatedAt": "2025-01-21T23:03:47.000Z"
+    "updatedAt": "2025-01-23T01:37:56.000Z"
   },
   {
     "id": "wellington/go-libsass",
@@ -81209,60 +80076,6 @@
     "goImportedBy": 5,
     "createdAt": "2015-11-04T14:19:27.000Z",
     "updatedAt": "2025-01-22T11:16:41.000Z"
-  },
-  {
-    "id": "wlbr/mule",
-    "name": "wlbr/mule",
-    "description": "mule is a tool to be used with 'go generate' to embed external resources files into Go code.",
-    "topics": [],
-    "owner": {
-      "name": "wlbr",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/741171?v=4"
-    },
-    "stars": 15,
-    "starsDetail": {
-      "total": 15
-    },
-    "license": "MIT License",
-    "forks": 4,
-    "primaryLanguage": "Smarty",
-    "pushedAt": "2021-08-16T20:23:29.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/wlbr/mule",
-    "goImportedBy": 0,
-    "createdAt": "2020-01-17T10:56:00.000Z",
-    "updatedAt": "2025-01-22T11:22:56.000Z"
-  },
-  {
-    "id": "wlbr/templify",
-    "name": "wlbr/templify",
-    "description": "A tool to be used with 'go generate' to embed external template files into Go code.",
-    "topics": [
-      "code-generation",
-      "go-generate",
-      "go-template"
-    ],
-    "owner": {
-      "name": "wlbr",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/741171?v=4"
-    },
-    "stars": 30,
-    "starsDetail": {
-      "total": 30
-    },
-    "license": "MIT License",
-    "forks": 6,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2021-08-16T20:22:50.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "",
-    "goImportedBy": 0,
-    "createdAt": "2016-05-22T16:42:47.000Z",
-    "updatedAt": "2025-01-22T11:22:58.000Z"
   },
   {
     "id": "wlevene/ini",
@@ -82295,6 +81108,38 @@
     "updatedAt": "2025-01-22T11:20:07.000Z"
   },
   {
+    "id": "xyproto/permissions",
+    "name": "xyproto/permissions",
+    "description": "  :closed_lock_with_key: Middleware for keeping track of users, login states and permissions",
+    "topics": [
+      "bcrypt",
+      "middleware",
+      "permissions",
+      "redis",
+      "sessions",
+      "user-auth"
+    ],
+    "owner": {
+      "name": "xyproto",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/52813?v=4"
+    },
+    "stars": 6,
+    "starsDetail": {
+      "total": 6
+    },
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Go",
+    "pushedAt": "2024-12-01T16:14:21.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-10-16T10:41:18.000Z",
+    "updatedAt": "2025-01-23T01:20:36.000Z"
+  },
+  {
     "id": "yaa110/go-persian-calendar",
     "name": "yaa110/go-persian-calendar",
     "description": "The implementation of Persian (Solar Hijri) Calendar in Go",
@@ -82885,7 +81730,7 @@
     "goPackage": "github.com/yuseferi/envyaml",
     "goImportedBy": 0,
     "createdAt": "2024-09-18T14:36:39.000Z",
-    "updatedAt": "2025-01-21T23:03:49.000Z"
+    "updatedAt": "2025-01-23T01:37:58.000Z"
   },
   {
     "id": "yuseferi/gocache",

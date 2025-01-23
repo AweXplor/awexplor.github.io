@@ -1696,7 +1696,7 @@
       "name": "reactiveui",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2327577?v=4"
     },
-    "stars": 2465,
+    "stars": 2466,
     "starsDetail": {
       "total": 2464,
       "week": 0,
@@ -1707,14 +1707,14 @@
     "license": "MIT License",
     "forks": 289,
     "primaryLanguage": "C#",
-    "pushedAt": "2025-01-21T08:14:02.000Z",
+    "pushedAt": "2025-01-22T10:38:09.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-12-02T05:15:37.000Z",
-    "updatedAt": "2025-01-21T22:46:56.000Z"
+    "updatedAt": "2025-01-23T01:20:41.000Z"
   },
   {
     "id": "realm/realm-dotnet",
@@ -4287,7 +4287,7 @@
       "updatedAt": 1736033731
     },
     "license": "Other",
-    "forks": 1647,
+    "forks": 1646,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-12-15T16:18:52.000Z",
     "archived": false,
@@ -4296,7 +4296,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-25T20:54:32.000Z",
-    "updatedAt": "2025-01-21T22:46:58.000Z"
+    "updatedAt": "2025-01-23T01:20:42.000Z"
   },
   {
     "id": "belav/csharpier",
@@ -8655,7 +8655,7 @@
       "name": "CommunityToolkit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41346473?v=4"
     },
-    "stars": 5923,
+    "stars": 5922,
     "starsDetail": {
       "total": 5919,
       "week": 6,
@@ -8673,7 +8673,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-17T21:29:46.000Z",
-    "updatedAt": "2025-01-21T22:52:59.000Z"
+    "updatedAt": "2025-01-23T01:26:39.000Z"
   },
   {
     "id": "grpc/grpc-dotnet",
@@ -13602,7 +13602,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-08-09T15:39:52.000Z",
-    "updatedAt": "2025-01-21T22:52:43.000Z"
+    "updatedAt": "2025-01-23T01:26:23.000Z"
   },
   {
     "id": "milkshakesoftware/PreMailer.Net",
@@ -14920,7 +14920,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-16T08:35:01.000Z",
-    "updatedAt": "2025-01-21T22:52:42.000Z"
+    "updatedAt": "2025-01-23T01:32:06.000Z"
   },
   {
     "id": "BrightstarDB/BrightstarDB",
@@ -20230,9 +20230,9 @@
       "name": "lofcz",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10260230?v=4"
     },
-    "stars": 31,
+    "stars": 32,
     "starsDetail": {
-      "total": 31
+      "total": 32
     },
     "license": "MIT License",
     "forks": 0,
@@ -20244,7 +20244,52 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2025-01-07T12:46:49.000Z",
-    "updatedAt": "2025-01-21T22:53:24.000Z"
+    "updatedAt": "2025-01-23T01:32:06.000Z"
+  },
+  {
+    "id": "lofcz/LlmTornado",
+    "name": "lofcz/LlmTornado",
+    "description": "One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.",
+    "topics": [
+      "aiapi",
+      "anthropic-ai",
+      "chatbot",
+      "cohere",
+      "command-r-plus",
+      "gemini",
+      "gpt4o",
+      "groq",
+      "inference-api",
+      "koboldcpp",
+      "llama3",
+      "llm-inference",
+      "o1",
+      "o3",
+      "ollama",
+      "openai",
+      "sdk",
+      "sonnet",
+      "sonnet3-5"
+    ],
+    "owner": {
+      "name": "lofcz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10260230?v=4"
+    },
+    "stars": 45,
+    "starsDetail": {
+      "total": 45
+    },
+    "license": "MIT License",
+    "forks": 16,
+    "primaryLanguage": "C#",
+    "pushedAt": "2025-01-22T10:17:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-10-08T14:09:43.000Z",
+    "updatedAt": "2025-01-23T01:26:24.000Z"
   },
   {
     "id": "m31coding/M31.FluentAPI",
@@ -21749,6 +21794,37 @@
     "goImportedBy": null,
     "createdAt": "2010-12-07T02:25:38.000Z",
     "updatedAt": "2025-01-22T15:21:35.000Z"
+  },
+  {
+    "id": "stbychkov/AutoLoggerMessage",
+    "name": "stbychkov/AutoLoggerMessage",
+    "description": "A source generator that automatically migrates your logging calls to the LoggerMessage version",
+    "topics": [
+      "csharp",
+      "dotnet",
+      "logging",
+      "roslyn",
+      "source-generator"
+    ],
+    "owner": {
+      "name": "stbychkov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23489269?v=4"
+    },
+    "stars": 33,
+    "starsDetail": {
+      "total": 33
+    },
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "C#",
+    "pushedAt": "2025-01-22T13:19:57.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-11-27T14:03:01.000Z",
+    "updatedAt": "2025-01-23T01:26:45.000Z"
   },
   {
     "id": "stirno/FluentAutomation",
