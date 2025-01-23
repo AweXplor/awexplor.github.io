@@ -240,7 +240,7 @@
       "updatedAt": 1736032443
     },
     "license": "MIT License",
-    "forks": 88,
+    "forks": 89,
     "primaryLanguage": "Rust",
     "pushedAt": "2025-01-02T11:03:45.000Z",
     "archived": false,
@@ -249,7 +249,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-29T13:52:55.000Z",
-    "updatedAt": "2025-01-22T02:08:51.000Z"
+    "updatedAt": "2025-01-23T04:43:32.000Z"
   },
   {
     "id": "tokio-rs/axum",
@@ -614,7 +614,7 @@
       "name": "cognitive-engineering-lab",
       "avatarUrl": "https://avatars.githubusercontent.com/u/123017608?v=4"
     },
-    "stars": 2186,
+    "stars": 2188,
     "starsDetail": {
       "total": 2152,
       "week": 63,
@@ -632,7 +632,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-09-15T21:53:40.000Z",
-    "updatedAt": "2025-01-22T02:09:06.000Z"
+    "updatedAt": "2025-01-23T04:43:49.000Z"
   },
   {
     "id": "dtolnay/cxx",
@@ -759,7 +759,7 @@
       "name": "mre",
       "avatarUrl": "https://avatars.githubusercontent.com/u/175809?v=4"
     },
-    "stars": 6774,
+    "stars": 6778,
     "starsDetail": {
       "total": 6740,
       "week": 22,
@@ -777,7 +777,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-03T10:21:10.000Z",
-    "updatedAt": "2025-01-22T02:09:06.000Z"
+    "updatedAt": "2025-01-23T04:43:49.000Z"
   },
   {
     "id": "crossbeam-rs/crossbeam",
@@ -1287,7 +1287,7 @@
       "name": "alexpasmantier",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47638216?v=4"
     },
-    "stars": 1903,
+    "stars": 1948,
     "starsDetail": {
       "total": 1227,
       "week": 433,
@@ -1296,7 +1296,7 @@
       "updatedAt": 1736545929
     },
     "license": "MIT License",
-    "forks": 36,
+    "forks": 37,
     "primaryLanguage": "Python",
     "pushedAt": "2025-01-20T19:44:25.000Z",
     "archived": false,
@@ -1305,7 +1305,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-15T22:16:18.000Z",
-    "updatedAt": "2025-01-22T02:08:36.000Z"
+    "updatedAt": "2025-01-23T04:43:15.000Z"
   },
   {
     "id": "cksac/fake-rs",
@@ -2296,7 +2296,7 @@
       "name": "vi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/173219?v=4"
     },
-    "stars": 7344,
+    "stars": 7348,
     "starsDetail": {
       "total": 7275,
       "week": 15,
@@ -2314,7 +2314,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-11-23T13:36:22.000Z",
-    "updatedAt": "2025-01-22T02:09:03.000Z"
+    "updatedAt": "2025-01-23T04:43:46.000Z"
   },
   {
     "id": "libp2p/rust-libp2p",
@@ -2403,7 +2403,7 @@
       "name": "serenity-rs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32077193?v=4"
     },
-    "stars": 4917,
+    "stars": 4918,
     "starsDetail": {
       "total": 4886,
       "week": 14,
@@ -2414,14 +2414,14 @@
     "license": "ISC License",
     "forks": 596,
     "primaryLanguage": "Rust",
-    "pushedAt": "2025-01-19T14:06:31.000Z",
+    "pushedAt": "2025-01-22T20:55:52.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-11-06T18:59:56.000Z",
-    "updatedAt": "2025-01-22T02:08:53.000Z"
+    "updatedAt": "2025-01-23T04:43:35.000Z"
   },
   {
     "id": "LaurentMazare/tch-rs",
@@ -2724,7 +2724,7 @@
       "name": "tursodatabase",
       "avatarUrl": "https://avatars.githubusercontent.com/u/139391156?v=4"
     },
-    "stars": 8755,
+    "stars": 8793,
     "starsDetail": {
       "total": 8319,
       "week": 315,
@@ -2733,7 +2733,7 @@
       "updatedAt": 1736087158
     },
     "license": "MIT License",
-    "forks": 297,
+    "forks": 302,
     "primaryLanguage": "RenderScript",
     "pushedAt": "2025-01-21T09:33:32.000Z",
     "archived": false,
@@ -2742,7 +2742,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-08-26T09:21:36.000Z",
-    "updatedAt": "2025-01-22T02:08:42.000Z"
+    "updatedAt": "2025-01-23T04:43:22.000Z"
   },
   {
     "id": "tensorzero/tensorzero",
@@ -3328,7 +3328,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-08-28T23:29:01.000Z",
-    "updatedAt": "2025-01-22T02:09:01.000Z"
+    "updatedAt": "2025-01-23T04:43:43.000Z"
   },
   {
     "id": "libbpf/libbpf-rs",
@@ -3883,7 +3883,7 @@
       "name": "sger",
       "avatarUrl": "https://avatars.githubusercontent.com/u/118588?v=4"
     },
-    "stars": 4736,
+    "stars": 4738,
     "starsDetail": {
       "total": 4594,
       "week": 23,
@@ -3901,7 +3901,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-07-31T06:11:11.000Z",
-    "updatedAt": "2025-01-22T02:09:09.000Z"
+    "updatedAt": "2025-01-23T04:43:53.000Z"
   },
   {
     "id": "RustAudio/cpal",
@@ -3953,7 +3953,7 @@
       "name": "ctjhoa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1716173?v=4"
     },
-    "stars": 11670,
+    "stars": 11674,
     "starsDetail": {
       "total": 11638,
       "week": 10,
@@ -3962,7 +3962,7 @@
       "updatedAt": 1736032474
     },
     "license": null,
-    "forks": 787,
+    "forks": 789,
     "primaryLanguage": "",
     "pushedAt": "2024-10-24T18:33:46.000Z",
     "archived": false,
@@ -3971,7 +3971,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-07T09:10:36.000Z",
-    "updatedAt": "2025-01-22T02:09:07.000Z"
+    "updatedAt": "2025-01-23T04:43:51.000Z"
   },
   {
     "id": "salvo-rs/salvo",
@@ -4135,7 +4135,7 @@
       "name": "teloxide",
       "avatarUrl": "https://avatars.githubusercontent.com/u/54775375?v=4"
     },
-    "stars": 3317,
+    "stars": 3318,
     "starsDetail": {
       "total": 3277,
       "week": 9,
@@ -4146,14 +4146,14 @@
     "license": "MIT License",
     "forks": 243,
     "primaryLanguage": "Procfile",
-    "pushedAt": "2025-01-21T23:52:29.000Z",
+    "pushedAt": "2025-01-23T04:42:23.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-09-01T16:46:32.000Z",
-    "updatedAt": "2025-01-22T02:08:56.000Z"
+    "updatedAt": "2025-01-23T04:43:38.000Z"
   },
   {
     "id": "chaosprint/glicol",
@@ -4445,7 +4445,7 @@
       "name": "rust-unofficial",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20820960?v=4"
     },
-    "stars": 8235,
+    "stars": 8238,
     "starsDetail": {
       "total": 8210,
       "week": 17,
@@ -4463,7 +4463,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-15T02:10:14.000Z",
-    "updatedAt": "2025-01-22T02:09:10.000Z"
+    "updatedAt": "2025-01-23T04:43:53.000Z"
   },
   {
     "id": "qarmin/czkawka",
@@ -7036,7 +7036,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-27T08:14:40.000Z",
-    "updatedAt": "2025-01-22T02:09:05.000Z"
+    "updatedAt": "2025-01-23T04:43:48.000Z"
   },
   {
     "id": "japaric/rust-cross",
@@ -8304,14 +8304,14 @@
     "license": "MIT License",
     "forks": 175,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-01-21T19:13:42.000Z",
+    "pushedAt": "2025-01-23T02:31:13.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-02-25T13:49:38.000Z",
-    "updatedAt": "2025-01-22T02:08:54.000Z"
+    "updatedAt": "2025-01-23T04:43:36.000Z"
   },
   {
     "id": "zino-rs/zino",
@@ -8979,7 +8979,7 @@
       "name": "sozu-proxy",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25197590?v=4"
     },
-    "stars": 3207,
+    "stars": 3208,
     "starsDetail": {
       "total": 3163,
       "week": 7,
@@ -8997,7 +8997,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-01-18T10:44:25.000Z",
-    "updatedAt": "2025-01-22T02:09:00.000Z"
+    "updatedAt": "2025-01-23T04:43:42.000Z"
   },
   {
     "id": "FGRibreau/spinners",
@@ -10045,7 +10045,7 @@
       "name": "sigoden",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4012553?v=4"
     },
-    "stars": 5153,
+    "stars": 5168,
     "starsDetail": {
       "total": 4928,
       "week": 147,
@@ -10056,14 +10056,14 @@
     "license": "Apache License 2.0",
     "forks": 346,
     "primaryLanguage": "Nushell",
-    "pushedAt": "2025-01-21T13:54:14.000Z",
+    "pushedAt": "2025-01-23T01:46:27.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-03T00:29:39.000Z",
-    "updatedAt": "2025-01-22T02:08:41.000Z"
+    "updatedAt": "2025-01-23T04:43:20.000Z"
   },
   {
     "id": "gyscos/cursive",
@@ -10238,7 +10238,7 @@
       "name": "RibirX",
       "avatarUrl": "https://avatars.githubusercontent.com/u/119477499?v=4"
     },
-    "stars": 967,
+    "stars": 969,
     "starsDetail": {
       "total": 957,
       "week": 7,
@@ -10249,14 +10249,14 @@
     "license": "MIT License",
     "forks": 24,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-01-22T00:51:37.000Z",
+    "pushedAt": "2025-01-22T12:30:30.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-08T15:36:57.000Z",
-    "updatedAt": "2025-01-22T02:08:38.000Z"
+    "updatedAt": "2025-01-23T04:43:18.000Z"
   },
   {
     "id": "TheWaWaR/simple-http-server",
@@ -10798,7 +10798,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-03-17T15:38:17.000Z",
-    "updatedAt": "2025-01-22T02:09:04.000Z"
+    "updatedAt": "2025-01-23T04:43:47.000Z"
   },
   {
     "id": "zhiburt/tabled",
@@ -11414,7 +11414,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-07-11T05:54:06.000Z",
-    "updatedAt": "2025-01-22T02:09:05.000Z"
+    "updatedAt": "2025-01-23T04:43:48.000Z"
   },
   {
     "id": "briansmith/ring",
@@ -12117,7 +12117,7 @@
       "name": "rust-scraper",
       "avatarUrl": "https://avatars.githubusercontent.com/u/177793424?v=4"
     },
-    "stars": 2004,
+    "stars": 2006,
     "starsDetail": {
       "total": 1979,
       "week": 5,
@@ -12126,7 +12126,7 @@
       "updatedAt": 1736032445
     },
     "license": "ISC License",
-    "forks": 114,
+    "forks": 113,
     "primaryLanguage": "Roff",
     "pushedAt": "2025-01-20T06:29:21.000Z",
     "archived": false,
@@ -12135,7 +12135,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-01T21:45:09.000Z",
-    "updatedAt": "2025-01-22T02:08:54.000Z"
+    "updatedAt": "2025-01-23T04:43:35.000Z"
   },
   {
     "id": "sfackler/rust-postgres",
@@ -15528,7 +15528,7 @@
       "name": "getzola",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43047029?v=4"
     },
-    "stars": 14576,
+    "stars": 14582,
     "starsDetail": {
       "total": 14468,
       "week": 49,
@@ -15537,7 +15537,7 @@
       "updatedAt": 1736032458
     },
     "license": "MIT License",
-    "forks": 991,
+    "forks": 992,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2025-01-21T13:17:59.000Z",
     "archived": false,
@@ -15546,7 +15546,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-12-06T02:57:25.000Z",
-    "updatedAt": "2025-01-22T02:09:00.000Z"
+    "updatedAt": "2025-01-23T04:43:43.000Z"
   },
   {
     "id": "cloudflare/quiche",
@@ -15747,7 +15747,7 @@
       "name": "cobalt-org",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9417410?v=4"
     },
-    "stars": 1419,
+    "stars": 1420,
     "starsDetail": {
       "total": 1412,
       "week": 4,
@@ -15765,7 +15765,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-28T16:04:40.000Z",
-    "updatedAt": "2025-01-22T02:09:00.000Z"
+    "updatedAt": "2025-01-23T04:43:43.000Z"
   },
   {
     "id": "fschutt/azul",
@@ -16123,7 +16123,7 @@
       "name": "bytedance",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4158466?v=4"
     },
-    "stars": 507,
+    "stars": 508,
     "starsDetail": {
       "total": 500,
       "week": 4,
@@ -16134,14 +16134,14 @@
     "license": "Apache License 2.0",
     "forks": 40,
     "primaryLanguage": "Just",
-    "pushedAt": "2025-01-21T07:29:43.000Z",
+    "pushedAt": "2025-01-22T06:13:12.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-04-11T06:46:53.000Z",
-    "updatedAt": "2025-01-22T02:08:37.000Z"
+    "updatedAt": "2025-01-23T04:43:16.000Z"
   },
   {
     "id": "citybound/citybound",
@@ -16223,7 +16223,7 @@
       "name": "verus-lang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/107117217?v=4"
     },
-    "stars": 1284,
+    "stars": 1287,
     "starsDetail": {
       "total": 1275,
       "week": 5,
@@ -16234,14 +16234,14 @@
     "license": "MIT License",
     "forks": 79,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-01-22T00:56:05.000Z",
+    "pushedAt": "2025-01-23T01:19:11.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-10-19T17:34:14.000Z",
-    "updatedAt": "2025-01-22T02:08:43.000Z"
+    "updatedAt": "2025-01-23T04:43:23.000Z"
   },
   {
     "id": "RustScan/RustScan",
@@ -16765,7 +16765,7 @@
       "name": "brson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/147214?v=4"
     },
-    "stars": 2036,
+    "stars": 2037,
     "starsDetail": {
       "total": 2026,
       "week": 1,
@@ -16783,7 +16783,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-04T19:19:22.000Z",
-    "updatedAt": "2025-01-22T02:09:09.000Z"
+    "updatedAt": "2025-01-23T04:43:53.000Z"
   },
   {
     "id": "calebwin/emu",
@@ -17088,7 +17088,7 @@
       "name": "utkarshkukreti",
       "avatarUrl": "https://avatars.githubusercontent.com/u/217126?v=4"
     },
-    "stars": 976,
+    "stars": 977,
     "starsDetail": {
       "total": 973,
       "week": 0,
@@ -17106,7 +17106,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-15T14:01:00.000Z",
-    "updatedAt": "2025-01-22T02:08:55.000Z"
+    "updatedAt": "2025-01-23T04:43:36.000Z"
   },
   {
     "id": "zboxfs/zbox",
@@ -18454,7 +18454,7 @@
       "name": "jondot",
       "avatarUrl": "https://avatars.githubusercontent.com/u/83390?v=4"
     },
-    "stars": 1096,
+    "stars": 1097,
     "starsDetail": {
       "total": 1095,
       "week": 3,
@@ -18472,7 +18472,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-04-05T12:07:52.000Z",
-    "updatedAt": "2025-01-22T02:09:07.000Z"
+    "updatedAt": "2025-01-23T04:43:50.000Z"
   },
   {
     "id": "osa1/tiny",
@@ -18738,7 +18738,7 @@
       "name": "lsd-rs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/77716111?v=4"
     },
-    "stars": 13865,
+    "stars": 13873,
     "starsDetail": {
       "total": 13794,
       "week": 42,
@@ -18756,7 +18756,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-24T11:04:12.000Z",
-    "updatedAt": "2025-01-22T02:05:27.000Z"
+    "updatedAt": "2025-01-23T04:39:47.000Z"
   },
   {
     "id": "ClementTsang/bottom",
@@ -19608,7 +19608,7 @@
       "name": "tarkah",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10239377?v=4"
     },
-    "stars": 1252,
+    "stars": 1253,
     "starsDetail": {
       "total": 1245,
       "week": 3,
@@ -19626,7 +19626,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-02-20T00:37:35.000Z",
-    "updatedAt": "2025-01-22T02:08:40.000Z"
+    "updatedAt": "2025-01-23T04:43:19.000Z"
   },
   {
     "id": "seanmonstar/reqwest",
@@ -19938,7 +19938,7 @@
       "name": "ad-si",
       "avatarUrl": "https://avatars.githubusercontent.com/u/36796532?v=4"
     },
-    "stars": 567,
+    "stars": 568,
     "starsDetail": {
       "total": 562,
       "week": 3,
@@ -19956,7 +19956,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-03-03T10:58:05.000Z",
-    "updatedAt": "2025-01-22T02:09:08.000Z"
+    "updatedAt": "2025-01-23T04:43:51.000Z"
   },
   {
     "id": "amethyst/bracket-lib",
@@ -20216,7 +20216,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-10-05T20:46:19.000Z",
-    "updatedAt": "2025-01-22T02:09:11.000Z"
+    "updatedAt": "2025-01-23T04:43:55.000Z"
   },
   {
     "id": "symisc/unqlite",
@@ -20318,7 +20318,7 @@
       "name": "juhaku",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26358664?v=4"
     },
-    "stars": 2726,
+    "stars": 2728,
     "starsDetail": {
       "total": 2641,
       "week": 26,
@@ -20336,7 +20336,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-09-30T22:00:31.000Z",
-    "updatedAt": "2025-01-22T02:08:54.000Z"
+    "updatedAt": "2025-01-23T04:43:36.000Z"
   },
   {
     "id": "shshemi/tabiew",
@@ -22751,7 +22751,7 @@
       "name": "warycat",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1858099?v=4"
     },
-    "stars": 911,
+    "stars": 912,
     "starsDetail": {
       "total": 907,
       "week": 4,
@@ -22769,7 +22769,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-26T04:14:32.000Z",
-    "updatedAt": "2025-01-22T02:09:08.000Z"
+    "updatedAt": "2025-01-23T04:43:51.000Z"
   },
   {
     "id": "ducaale/xh",
@@ -23007,7 +23007,7 @@
       "name": "AbdesamedBendjeddou",
       "avatarUrl": "https://avatars.githubusercontent.com/u/51114014?v=4"
     },
-    "stars": 921,
+    "stars": 922,
     "starsDetail": {
       "total": 915,
       "week": 1,
@@ -23025,7 +23025,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-03-28T22:20:04.000Z",
-    "updatedAt": "2025-01-22T02:09:08.000Z"
+    "updatedAt": "2025-01-23T04:43:52.000Z"
   },
   {
     "id": "Rustixir/darkbird",
@@ -23202,7 +23202,7 @@
       "name": "cuppar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32436456?v=4"
     },
-    "stars": 538,
+    "stars": 537,
     "starsDetail": {
       "total": 531,
       "week": 3,
@@ -23220,7 +23220,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-07-24T11:02:05.000Z",
-    "updatedAt": "2025-01-22T02:09:06.000Z"
+    "updatedAt": "2025-01-23T04:43:50.000Z"
   },
   {
     "id": "dbalsom/martypc",
@@ -23456,7 +23456,7 @@
       "name": "websockets-rs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/40836418?v=4"
     },
-    "stars": 1562,
+    "stars": 1563,
     "starsDetail": {
       "total": 1559,
       "week": 3,
@@ -23474,7 +23474,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-11-27T06:49:59.000Z",
-    "updatedAt": "2025-01-22T02:09:02.000Z"
+    "updatedAt": "2025-01-23T04:43:45.000Z"
   },
   {
     "id": "brocode/fw",
@@ -24336,7 +24336,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-11-28T04:41:03.000Z",
-    "updatedAt": "2025-01-22T02:08:40.000Z"
+    "updatedAt": "2025-01-23T04:43:20.000Z"
   },
   {
     "id": "0xdea/rhabdomancer",
@@ -24353,9 +24353,9 @@
       "name": "0xdea",
       "avatarUrl": "https://avatars.githubusercontent.com/u/30093440?v=4"
     },
-    "stars": 14,
+    "stars": 15,
     "starsDetail": {
-      "total": 14
+      "total": 15
     },
     "license": "MIT License",
     "forks": 4,
@@ -24367,7 +24367,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-20T19:48:22.000Z",
-    "updatedAt": "2025-01-22T02:08:45.000Z"
+    "updatedAt": "2025-01-23T04:43:25.000Z"
   },
   {
     "id": "0xlane/pe-sign",
@@ -25223,7 +25223,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-05T08:45:27.000Z",
-    "updatedAt": "2025-01-22T02:08:59.000Z"
+    "updatedAt": "2025-01-23T04:43:41.000Z"
   },
   {
     "id": "Geal/rust_on_mobile",
@@ -25587,9 +25587,9 @@
       "name": "LiveDuo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/370612?v=4"
     },
-    "stars": 58,
+    "stars": 59,
     "starsDetail": {
-      "total": 58
+      "total": 59
     },
     "license": null,
     "forks": 2,
@@ -25601,7 +25601,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-13T09:57:54.000Z",
-    "updatedAt": "2025-01-22T02:08:34.000Z"
+    "updatedAt": "2025-01-23T04:43:13.000Z"
   },
   {
     "id": "Lucretiel/joinery",
@@ -25961,9 +25961,9 @@
       "name": "ProbablyClem",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45786362?v=4"
     },
-    "stars": 140,
+    "stars": 141,
     "starsDetail": {
-      "total": 140
+      "total": 141
     },
     "license": "Apache License 2.0",
     "forks": 10,
@@ -25975,7 +25975,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-11-27T13:32:10.000Z",
-    "updatedAt": "2025-01-22T02:08:57.000Z"
+    "updatedAt": "2025-01-23T04:43:39.000Z"
   },
   {
     "id": "Qrlew/qrlew",
@@ -26648,7 +26648,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-01-10T16:27:19.000Z",
-    "updatedAt": "2025-01-22T02:09:02.000Z"
+    "updatedAt": "2025-01-23T04:43:45.000Z"
   },
   {
     "id": "TeaEntityLab/fpRust",
@@ -27014,9 +27014,9 @@
       "name": "alacritty",
       "avatarUrl": "https://avatars.githubusercontent.com/u/29714349?v=4"
     },
-    "stars": 57434,
+    "stars": 57439,
     "starsDetail": {
-      "total": 57434
+      "total": 57439
     },
     "license": "Apache License 2.0",
     "forks": 3062,
@@ -27028,7 +27028,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-18T05:02:30.000Z",
-    "updatedAt": "2025-01-22T02:05:54.000Z"
+    "updatedAt": "2025-01-23T04:40:18.000Z"
   },
   {
     "id": "alex/rust-asn1",
@@ -27318,7 +27318,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-01-12T04:16:22.000Z",
-    "updatedAt": "2025-01-22T02:08:37.000Z"
+    "updatedAt": "2025-01-23T04:43:17.000Z"
   },
   {
     "id": "ardaku/whoami",
@@ -27744,9 +27744,9 @@
       "name": "bedrock-crustaceans",
       "avatarUrl": "https://avatars.githubusercontent.com/u/177853159?v=4"
     },
-    "stars": 104,
+    "stars": 105,
     "starsDetail": {
-      "total": 104
+      "total": 105
     },
     "license": "Apache License 2.0",
     "forks": 15,
@@ -27758,7 +27758,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-08T12:00:02.000Z",
-    "updatedAt": "2025-01-22T02:08:46.000Z"
+    "updatedAt": "2025-01-23T04:43:26.000Z"
   },
   {
     "id": "benanders/rjni",
@@ -27941,14 +27941,14 @@
     "license": "MIT License",
     "forks": 0,
     "primaryLanguage": "Rust",
-    "pushedAt": "2024-12-31T18:45:37.000Z",
+    "pushedAt": "2025-01-22T17:15:06.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-08-03T17:26:51.000Z",
-    "updatedAt": "2025-01-22T02:08:45.000Z"
+    "updatedAt": "2025-01-23T04:43:26.000Z"
   },
   {
     "id": "blackbeam/mysql_async",
@@ -28042,7 +28042,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-16T11:09:06.000Z",
-    "updatedAt": "2025-01-22T02:08:32.000Z"
+    "updatedAt": "2025-01-23T04:43:10.000Z"
   },
   {
     "id": "blas-lapack-rs/lapack",
@@ -28468,7 +28468,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-04-18T18:32:08.000Z",
-    "updatedAt": "2025-01-22T02:09:03.000Z"
+    "updatedAt": "2025-01-23T04:43:46.000Z"
   },
   {
     "id": "calder/rust-goldenfile",
@@ -29325,9 +29325,9 @@
       "name": "dagrs-dev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/168612481?v=4"
     },
-    "stars": 330,
+    "stars": 332,
     "starsDetail": {
-      "total": 330
+      "total": 332
     },
     "license": "Apache License 2.0",
     "forks": 28,
@@ -29339,7 +29339,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-06-17T02:35:18.000Z",
-    "updatedAt": "2025-01-22T02:08:31.000Z"
+    "updatedAt": "2025-01-23T04:43:10.000Z"
   },
   {
     "id": "dalance/ptags",
@@ -30191,14 +30191,14 @@
     "license": "Apache License 2.0",
     "forks": 2,
     "primaryLanguage": "Python",
-    "pushedAt": "2025-01-20T21:15:30.000Z",
+    "pushedAt": "2025-01-22T21:48:27.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-04-07T06:30:04.000Z",
-    "updatedAt": "2025-01-22T02:08:44.000Z"
+    "updatedAt": "2025-01-23T04:43:24.000Z"
   },
   {
     "id": "eclipse-corrosion/corrosion",
@@ -31170,12 +31170,12 @@
       "name": "google",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1342004?v=4"
     },
-    "stars": 36976,
+    "stars": 36984,
     "starsDetail": {
-      "total": 36976
+      "total": 36984
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 7917,
+    "forks": 7921,
     "primaryLanguage": "CMake",
     "pushedAt": "2025-01-02T19:02:29.000Z",
     "archived": false,
@@ -31184,7 +31184,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-08-27T21:17:52.000Z",
-    "updatedAt": "2025-01-22T02:11:16.000Z"
+    "updatedAt": "2025-01-23T04:46:17.000Z"
   },
   {
     "id": "gopher64/gopher64",
@@ -31265,7 +31265,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-10-11T20:02:05.000Z",
-    "updatedAt": "2025-01-22T02:08:58.000Z"
+    "updatedAt": "2025-01-23T04:43:40.000Z"
   },
   {
     "id": "gsquire/sendgrid-rs",
@@ -31885,7 +31885,7 @@
       "total": 51
     },
     "license": "MIT License",
-    "forks": 14,
+    "forks": 15,
     "primaryLanguage": "Rust",
     "pushedAt": "2024-05-14T17:37:09.000Z",
     "archived": false,
@@ -31894,7 +31894,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-07-04T11:06:45.000Z",
-    "updatedAt": "2025-01-22T02:09:01.000Z"
+    "updatedAt": "2025-01-23T04:43:44.000Z"
   },
   {
     "id": "idletea/tokio-socketcan",
@@ -32173,7 +32173,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-01T11:22:41.000Z",
-    "updatedAt": "2025-01-22T02:08:48.000Z"
+    "updatedAt": "2025-01-23T04:43:29.000Z"
   },
   {
     "id": "infincia/bip39-rs",
@@ -33571,7 +33571,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-18T17:37:17.000Z",
-    "updatedAt": "2025-01-22T02:09:02.000Z"
+    "updatedAt": "2025-01-23T04:43:44.000Z"
   },
   {
     "id": "libOctavo/octavo",
@@ -35359,7 +35359,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-26T11:21:52.000Z",
-    "updatedAt": "2025-01-22T02:08:31.000Z"
+    "updatedAt": "2025-01-23T04:43:09.000Z"
   },
   {
     "id": "ocornut/imgui",
@@ -35790,7 +35790,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-08-07T21:24:56.000Z",
-    "updatedAt": "2025-01-22T02:08:45.000Z"
+    "updatedAt": "2025-01-23T04:43:25.000Z"
   },
   {
     "id": "plabayo/venndb",
@@ -35825,7 +35825,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-24T13:55:31.000Z",
-    "updatedAt": "2025-01-22T02:08:47.000Z"
+    "updatedAt": "2025-01-23T04:43:27.000Z"
   },
   {
     "id": "pola-rs/polars",
@@ -36626,12 +36626,12 @@
       "name": "rust-lang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5430905?v=4"
     },
-    "stars": 55865,
+    "stars": 55898,
     "starsDetail": {
-      "total": 55865
+      "total": 55898
     },
     "license": "MIT License",
-    "forks": 10365,
+    "forks": 10367,
     "primaryLanguage": "Shell",
     "pushedAt": "2025-01-16T09:41:50.000Z",
     "archived": false,
@@ -36640,7 +36640,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-15T02:25:18.000Z",
-    "updatedAt": "2025-01-22T02:09:08.000Z"
+    "updatedAt": "2025-01-23T04:43:52.000Z"
   },
   {
     "id": "rustache/rustache",
@@ -37743,7 +37743,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-01-16T19:57:46.000Z",
-    "updatedAt": "2025-01-22T02:08:49.000Z"
+    "updatedAt": "2025-01-23T04:43:30.000Z"
   },
   {
     "id": "sorairolake/abcrypt",
@@ -38334,7 +38334,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-11-23T11:58:02.000Z",
-    "updatedAt": "2025-01-22T02:09:04.000Z"
+    "updatedAt": "2025-01-23T04:43:47.000Z"
   },
   {
     "id": "swimos/swim-rust",
@@ -38678,7 +38678,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-09-26T23:55:43.000Z",
-    "updatedAt": "2025-01-22T02:08:50.000Z"
+    "updatedAt": "2025-01-23T04:43:31.000Z"
   },
   {
     "id": "tickbh/td_rlua",
@@ -38878,7 +38878,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-08-18T09:20:44.000Z",
-    "updatedAt": "2025-01-22T02:08:56.000Z"
+    "updatedAt": "2025-01-23T04:43:38.000Z"
   },
   {
     "id": "tversteeg/emplace",
@@ -39286,7 +39286,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-08-27T21:16:34.000Z",
-    "updatedAt": "2025-01-22T02:09:05.000Z"
+    "updatedAt": "2025-01-23T04:43:47.000Z"
   },
   {
     "id": "web3infra-foundation/mega",
@@ -39315,14 +39315,14 @@
     "license": "Apache License 2.0",
     "forks": 33,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-21T23:48:35.000Z",
+    "pushedAt": "2025-01-23T04:01:58.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-01T23:26:30.000Z",
-    "updatedAt": "2025-01-22T02:08:31.000Z"
+    "updatedAt": "2025-01-23T04:43:09.000Z"
   },
   {
     "id": "webdesus/fs_extra",
