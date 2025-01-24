@@ -79,7 +79,7 @@
       "name": "davidmerfield",
       "avatarUrl": "https://avatars.githubusercontent.com/u/747928?v=4"
     },
-    "stars": 6096,
+    "stars": 6097,
     "starsDetail": {
       "total": 6099,
       "week": 2,
@@ -97,7 +97,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-04-08T20:25:02.000Z",
-    "updatedAt": "2025-01-22T22:16:39.000Z"
+    "updatedAt": "2025-01-24T00:50:04.000Z"
   },
   {
     "id": "molefrog/wouter",
@@ -205,7 +205,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-09-30T06:00:50.000Z",
-    "updatedAt": "2025-01-22T22:16:22.000Z"
+    "updatedAt": "2025-01-24T00:49:47.000Z"
   },
   {
     "id": "Glench/fuzzyset.js",
@@ -271,16 +271,20 @@
     "description": "Faster and smaller alternative to Ramda",
     "topics": [
       "fp",
+      "functional",
       "functional-programming",
+      "functions",
       "lodash",
       "ramda",
+      "typescript",
+      "utility",
       "utils"
     ],
     "owner": {
       "name": "selfrefactor",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2149294?v=4"
     },
-    "stars": 1674,
+    "stars": 1675,
     "starsDetail": {
       "total": 1670,
       "week": 2,
@@ -291,14 +295,14 @@
     "license": "MIT License",
     "forks": 89,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-01-22T15:23:51.000Z",
+    "pushedAt": "2025-01-23T22:10:10.000Z",
     "archived": false,
     "npmPackage": "rambda",
     "npmLastMonthDownloads": 5933557,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-01-15T13:50:45.000Z",
-    "updatedAt": "2025-01-22T22:16:22.000Z"
+    "updatedAt": "2025-01-24T00:49:47.000Z"
   },
   {
     "id": "bvaughn/js-search",
@@ -446,7 +450,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-21T08:16:56.000Z",
-    "updatedAt": "2025-01-22T22:16:44.000Z"
+    "updatedAt": "2025-01-24T00:50:09.000Z"
   },
   {
     "id": "olivernn/lunr.js",
@@ -499,7 +503,7 @@
       "name": "ianstormtaylor",
       "avatarUrl": "https://avatars.githubusercontent.com/u/311752?v=4"
     },
-    "stars": 7064,
+    "stars": 7065,
     "starsDetail": {
       "total": 7004,
       "week": 8,
@@ -517,7 +521,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-11-23T03:03:25.000Z",
-    "updatedAt": "2025-01-22T22:14:32.000Z"
+    "updatedAt": "2025-01-24T00:47:56.000Z"
   },
   {
     "id": "jashkenas/underscore",
@@ -743,7 +747,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-09-13T18:27:25.000Z",
-    "updatedAt": "2025-01-22T22:16:50.000Z"
+    "updatedAt": "2025-01-24T00:50:15.000Z"
   },
   {
     "id": "angus-c/just",
@@ -1044,7 +1048,7 @@
       "name": "NaturalNode",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1005344?v=4"
     },
-    "stars": 10688,
+    "stars": 10689,
     "starsDetail": {
       "total": 10597,
       "week": 8,
@@ -1062,7 +1066,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-05-07T02:35:16.000Z",
-    "updatedAt": "2025-01-22T22:15:11.000Z"
+    "updatedAt": "2025-01-24T00:48:36.000Z"
   },
   {
     "id": "AlloyTeam/AlloyFinger",
@@ -1405,7 +1409,7 @@
       "name": "hustcc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7856674?v=4"
     },
-    "stars": 5348,
+    "stars": 5349,
     "starsDetail": {
       "total": 5342,
       "week": 4,
@@ -1423,7 +1427,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-23T02:06:23.000Z",
-    "updatedAt": "2025-01-22T22:16:28.000Z"
+    "updatedAt": "2025-01-24T00:49:53.000Z"
   },
   {
     "id": "lingui/js-lingui",
@@ -1870,9 +1874,9 @@
       "name": "date-fns",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14921202?v=4"
     },
-    "stars": 35195,
+    "stars": 35200,
     "starsDetail": {
-      "total": 35195
+      "total": 35200
     },
     "license": "MIT License",
     "forks": 1803,
@@ -1884,7 +1888,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-06T10:24:22.000Z",
-    "updatedAt": "2025-01-22T22:16:24.000Z"
+    "updatedAt": "2025-01-24T00:49:49.000Z"
   },
   {
     "id": "elbywan/hyperactiv",
@@ -2055,16 +2059,16 @@
       "total": 47336
     },
     "license": "MIT License",
-    "forks": 2323,
+    "forks": 2324,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-01-20T11:24:42.000Z",
+    "pushedAt": "2025-01-23T15:35:15.000Z",
     "archived": false,
     "npmPackage": "dayjs",
     "npmLastMonthDownloads": 91999829,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-10T09:26:44.000Z",
-    "updatedAt": "2025-01-22T22:16:23.000Z"
+    "updatedAt": "2025-01-24T00:49:48.000Z"
   },
   {
     "id": "ibitcy/eo-locale",
