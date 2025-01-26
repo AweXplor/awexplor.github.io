@@ -1231,7 +1231,7 @@
       "name": "ecomfe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2268460?v=4"
     },
-    "stars": 9898,
+    "stars": 9900,
     "starsDetail": {
       "total": 9852,
       "week": 14,
@@ -1240,7 +1240,7 @@
       "updatedAt": 1736035800
     },
     "license": "MIT License",
-    "forks": 1495,
+    "forks": 1496,
     "primaryLanguage": "CSS",
     "pushedAt": "2024-08-19T15:41:55.000Z",
     "archived": false,
@@ -1249,7 +1249,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-17T09:55:24.000Z",
-    "updatedAt": "2025-01-25T06:28:02.000Z"
+    "updatedAt": "2025-01-26T08:47:18.000Z"
   },
   {
     "id": "JetBrains/intellij-plugins",
@@ -2410,6 +2410,56 @@
     "updatedAt": "2025-01-25T09:46:43.000Z"
   },
   {
+    "id": "jason5ng32/MyIP",
+    "name": "jason5ng32/MyIP",
+    "description": "The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。",
+    "topics": [
+      "awesome",
+      "censorship",
+      "chatgpt",
+      "dns",
+      "ip",
+      "ipinfo",
+      "leaks",
+      "myip",
+      "network",
+      "pingchecker",
+      "proxy",
+      "security",
+      "security-tools",
+      "speedtest",
+      "vercel",
+      "webrtc",
+      "whatismyip",
+      "whatismyipaddress",
+      "whois",
+      "whois-lookup"
+    ],
+    "owner": {
+      "name": "jason5ng32",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1546290?v=4"
+    },
+    "stars": 7166,
+    "starsDetail": {
+      "total": 6962,
+      "week": 120,
+      "month": 416,
+      "year": 5131,
+      "updatedAt": 1736086628
+    },
+    "license": "MIT License",
+    "forks": 830,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2025-01-25T08:15:07.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-11-22T14:46:07.000Z",
+    "updatedAt": "2025-01-26T05:32:53.000Z"
+  },
+  {
     "id": "FortAwesome/vue-fontawesome",
     "name": "FortAwesome/vue-fontawesome",
     "description": "Font Awesome Vue component",
@@ -3560,7 +3610,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-25T18:00:18.000Z",
-    "updatedAt": "2025-01-25T06:41:41.000Z"
+    "updatedAt": "2025-01-26T09:00:47.000Z"
   },
   {
     "id": "vuejs/vitepress",
@@ -4414,7 +4464,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-17T23:49:17.000Z",
-    "updatedAt": "2025-01-25T06:27:39.000Z"
+    "updatedAt": "2025-01-26T08:46:54.000Z"
   },
   {
     "id": "graphieros/vue-data-ui",
@@ -8742,6 +8792,40 @@
     "updatedAt": "2025-01-25T22:39:12.000Z"
   },
   {
+    "id": "Xeyos88/HyVueGantt",
+    "name": "Xeyos88/HyVueGantt",
+    "description": "Evolution and updating of vue-ganttastic",
+    "topics": [
+      "gantt",
+      "gantt-chart",
+      "javascript",
+      "task-management",
+      "typescript",
+      "vue",
+      "vue3",
+      "vuejs"
+    ],
+    "owner": {
+      "name": "Xeyos88",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16436299?v=4"
+    },
+    "stars": 4,
+    "starsDetail": {
+      "total": 4
+    },
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2025-01-25T22:30:23.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-12-03T20:41:03.000Z",
+    "updatedAt": "2025-01-26T08:47:11.000Z"
+  },
+  {
     "id": "aaronlamz/navpress",
     "name": "aaronlamz/navpress",
     "description": "Easy navigation generator ",
@@ -10344,6 +10428,38 @@
     "updatedAt": "2025-01-25T22:33:17.000Z"
   },
   {
+    "id": "ferreira-tb/tauri-store",
+    "name": "ferreira-tb/tauri-store",
+    "description": "Persistent stores for Tauri",
+    "topics": [
+      "nuxt",
+      "pinia",
+      "react",
+      "svelte",
+      "tauri",
+      "vue"
+    ],
+    "owner": {
+      "name": "ferreira-tb",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/109777783?v=4"
+    },
+    "stars": 26,
+    "starsDetail": {
+      "total": 26
+    },
+    "license": "MIT License",
+    "forks": 1,
+    "primaryLanguage": "PowerShell",
+    "pushedAt": "2025-01-19T13:32:20.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-07-05T00:17:44.000Z",
+    "updatedAt": "2025-01-26T08:47:45.000Z"
+  },
+  {
     "id": "frederikbache/vue-vroom",
     "name": "frederikbache/vue-vroom",
     "description": "Type safe stores and mock API with minimal config",
@@ -10702,6 +10818,31 @@
     "goImportedBy": null,
     "createdAt": "2024-06-07T14:19:11.000Z",
     "updatedAt": "2025-01-25T22:37:40.000Z"
+  },
+  {
+    "id": "imrofayel/fylepad",
+    "name": "imrofayel/fylepad",
+    "description": "a notepad with powerful rich-text editing, built with Vue & Tauri (Rust).",
+    "topics": [],
+    "owner": {
+      "name": "imrofayel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/134688534?v=4"
+    },
+    "stars": 90,
+    "starsDetail": {
+      "total": 90
+    },
+    "license": "MIT License",
+    "forks": 7,
+    "primaryLanguage": "Rust",
+    "pushedAt": "2025-01-26T03:28:44.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-09-12T12:55:17.000Z",
+    "updatedAt": "2025-01-26T08:46:59.000Z"
   },
   {
     "id": "ionic-team/ionic-framework",
@@ -13674,6 +13815,38 @@
     "updatedAt": "2025-01-25T22:40:19.000Z"
   },
   {
+    "id": "siaikin/vue-to-counter",
+    "name": "siaikin/vue-to-counter",
+    "description": "Scroll strings, numbers, dates like a slot machine",
+    "topics": [
+      "animation",
+      "counter",
+      "motion",
+      "roller",
+      "vue",
+      "vue3"
+    ],
+    "owner": {
+      "name": "siaikin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24749324?v=4"
+    },
+    "stars": 0,
+    "starsDetail": {
+      "total": 0
+    },
+    "license": "MIT License",
+    "forks": 1,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-01-10T04:49:41.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-12-08T10:40:58.000Z",
+    "updatedAt": "2025-01-26T08:47:37.000Z"
+  },
+  {
     "id": "siaikin/vue-to-print",
     "name": "siaikin/vue-to-print",
     "description": "Print Vue components in the browser. Supports Chrome, Safari, Firefox and EDGE",
@@ -14050,21 +14223,21 @@
       "name": "tailwindlabs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
     },
-    "stars": 84921,
+    "stars": 84979,
     "starsDetail": {
-      "total": 84921
+      "total": 84979
     },
     "license": "MIT License",
-    "forks": 4309,
+    "forks": 4310,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-01-23T15:15:18.000Z",
+    "pushedAt": "2025-01-25T17:04:55.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-06T14:59:14.000Z",
-    "updatedAt": "2025-01-25T06:32:45.000Z"
+    "updatedAt": "2025-01-26T08:51:47.000Z"
   },
   {
     "id": "technowledgy/vue-postgrest",
