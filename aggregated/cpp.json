@@ -913,7 +913,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-24T23:29:39.000Z",
-    "updatedAt": "2025-01-25T09:46:52.000Z"
+    "updatedAt": "2025-01-26T12:06:02.000Z"
   },
   {
     "id": "mtcp-stack/mtcp",
@@ -20754,7 +20754,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-08-18T18:41:01.000Z",
-    "updatedAt": "2025-01-25T09:46:46.000Z"
+    "updatedAt": "2025-01-26T12:05:56.000Z"
   },
   {
     "id": "PragmaTwice/protopuf",
@@ -21774,7 +21774,7 @@
       "total": 352
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 42,
+    "forks": 41,
     "primaryLanguage": "CMake",
     "pushedAt": "2024-12-05T12:58:17.000Z",
     "archived": false,
@@ -21783,7 +21783,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-07T14:00:21.000Z",
-    "updatedAt": "2025-01-25T09:44:58.000Z"
+    "updatedAt": "2025-01-26T12:04:04.000Z"
   },
   {
     "id": "avati/libevil",
@@ -23108,7 +23108,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-12-29T02:43:18.000Z",
-    "updatedAt": "2025-01-25T09:46:34.000Z"
+    "updatedAt": "2025-01-26T12:05:43.000Z"
   },
   {
     "id": "d-SEAMS/seams-core",
@@ -23245,7 +23245,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2025-01-02T22:07:26.000Z",
-    "updatedAt": "2025-01-25T09:46:49.000Z"
+    "updatedAt": "2025-01-26T12:05:59.000Z"
   },
   {
     "id": "deplinenoise/ig-debugheap",
@@ -23536,14 +23536,14 @@
     "license": "MIT License",
     "forks": 7,
     "primaryLanguage": "Batchfile",
-    "pushedAt": "2025-01-25T04:32:05.000Z",
+    "pushedAt": "2025-01-26T07:11:44.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-08-05T19:06:46.000Z",
-    "updatedAt": "2025-01-25T09:46:50.000Z"
+    "updatedAt": "2025-01-26T12:06:00.000Z"
   },
   {
     "id": "flanglet/kanzi-cpp",
@@ -23726,12 +23726,12 @@
       "name": "google",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1342004?v=4"
     },
-    "stars": 36986,
+    "stars": 36993,
     "starsDetail": {
-      "total": 36986
+      "total": 36993
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 7922,
+    "forks": 7921,
     "primaryLanguage": "CMake",
     "pushedAt": "2025-01-24T21:05:36.000Z",
     "archived": false,
@@ -23740,7 +23740,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-08-27T21:17:52.000Z",
-    "updatedAt": "2025-01-25T09:49:09.000Z"
+    "updatedAt": "2025-01-26T12:08:25.000Z"
   },
   {
     "id": "google/styleguide",
@@ -25528,21 +25528,21 @@
       "name": "microsoft",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
-    "stars": 166575,
+    "stars": 166600,
     "starsDetail": {
-      "total": 166575
+      "total": 166600
     },
     "license": "MIT License",
-    "forks": 30174,
+    "forks": 30184,
     "primaryLanguage": "Hack",
-    "pushedAt": "2025-01-25T07:10:33.000Z",
+    "pushedAt": "2025-01-26T09:29:53.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-03T20:23:38.000Z",
-    "updatedAt": "2025-01-25T09:43:41.000Z"
+    "updatedAt": "2025-01-26T12:02:45.000Z"
   },
   {
     "id": "mongodb/libbson",
@@ -25927,9 +25927,9 @@
       "name": "pantoniou",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2122970?v=4"
     },
-    "stars": 258,
+    "stars": 259,
     "starsDetail": {
-      "total": 258
+      "total": 259
     },
     "license": "MIT License",
     "forks": 72,
@@ -25941,7 +25941,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-09-16T11:13:33.000Z",
-    "updatedAt": "2025-01-25T09:46:51.000Z"
+    "updatedAt": "2025-01-26T12:06:01.000Z"
   },
   {
     "id": "papers-we-love/papers-we-love",
@@ -26915,7 +26915,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-03-04T11:58:09.000Z",
-    "updatedAt": "2025-01-25T09:46:51.000Z"
+    "updatedAt": "2025-01-26T12:06:01.000Z"
   },
   {
     "id": "tomolt/libschrift",
