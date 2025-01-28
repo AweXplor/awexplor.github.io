@@ -8281,7 +8281,7 @@
   {
     "id": "comet-ml/opik",
     "name": "comet-ml/opik",
-    "description": "From RAG chatbots to code assistants to complex agentic pipelines and beyond, build LLM systems that run better, faster, and cheaper with tracing, evaluations, and dashboards.",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
     "topics": [
       "langchain",
       "llama-index",
@@ -8298,7 +8298,7 @@
       "name": "comet-ml",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31487821?v=4"
     },
-    "stars": 4669,
+    "stars": 4692,
     "starsDetail": {
       "total": 4013,
       "week": 203,
@@ -8307,16 +8307,16 @@
       "updatedAt": 1736085221
     },
     "license": "Apache License 2.0",
-    "forks": 299,
+    "forks": 305,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-01-27T14:23:30.000Z",
+    "pushedAt": "2025-01-28T15:37:11.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-10T12:57:13.000Z",
-    "updatedAt": "2025-01-27T14:25:43.000Z"
+    "updatedAt": "2025-01-28T16:54:28.000Z"
   },
   {
     "id": "CamDavidsonPilon/lifelines",
@@ -19000,21 +19000,21 @@
       "name": "milvus-io",
       "avatarUrl": "https://avatars.githubusercontent.com/u/51735404?v=4"
     },
-    "stars": 32040,
+    "stars": 32049,
     "starsDetail": {
-      "total": 32040
+      "total": 32049
     },
     "license": "Apache License 2.0",
     "forks": 3009,
     "primaryLanguage": "Assembly",
-    "pushedAt": "2025-01-27T02:51:07.000Z",
+    "pushedAt": "2025-01-27T15:06:45.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/milvus-io/milvus",
     "goImportedBy": 0,
     "createdAt": "2019-09-16T06:43:43.000Z",
-    "updatedAt": "2025-01-27T14:29:51.000Z"
+    "updatedAt": "2025-01-28T16:59:24.000Z"
   },
   {
     "id": "mindsdb/lightwood",
