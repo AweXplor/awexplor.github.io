@@ -1714,7 +1714,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-12-02T05:15:37.000Z",
-    "updatedAt": "2025-01-27T11:04:36.000Z"
+    "updatedAt": "2025-01-28T13:32:56.000Z"
   },
   {
     "id": "realm/realm-dotnet",
@@ -4012,6 +4012,44 @@
     "updatedAt": "2025-01-28T03:37:51.000Z"
   },
   {
+    "id": "ZGGSONG/STranslate",
+    "name": "ZGGSONG/STranslate",
+    "description": "A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具",
+    "topics": [
+      "ocr",
+      "openai",
+      "paddleocr",
+      "stranslate",
+      "wecharocr",
+      "wpf",
+      "writing",
+      "zggsong"
+    ],
+    "owner": {
+      "name": "ZGGSONG",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/49741009?v=4"
+    },
+    "stars": 2797,
+    "starsDetail": {
+      "total": 2797,
+      "week": 35,
+      "month": 451,
+      "year": 2349,
+      "updatedAt": 1738072281
+    },
+    "license": "MIT License",
+    "forks": 154,
+    "primaryLanguage": "Batchfile",
+    "pushedAt": "2025-01-24T00:49:44.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-12-17T13:40:24.000Z",
+    "updatedAt": "2025-01-28T13:39:47.000Z"
+  },
+  {
     "id": "Azure/azure-powershell",
     "name": "Azure/azure-powershell",
     "description": "Microsoft Azure PowerShell",
@@ -4278,7 +4316,7 @@
       "name": "PrismLibrary",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10503161?v=4"
     },
-    "stars": 6431,
+    "stars": 6433,
     "starsDetail": {
       "total": 6405,
       "week": 9,
@@ -4289,14 +4327,14 @@
     "license": "Other",
     "forks": 1646,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-01-26T20:57:42.000Z",
+    "pushedAt": "2025-01-27T22:20:55.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-25T20:54:32.000Z",
-    "updatedAt": "2025-01-27T11:04:37.000Z"
+    "updatedAt": "2025-01-28T13:32:57.000Z"
   },
   {
     "id": "belav/csharpier",
@@ -4365,6 +4403,56 @@
     "goImportedBy": null,
     "createdAt": "2016-01-12T22:31:19.000Z",
     "updatedAt": "2025-01-28T03:35:35.000Z"
+  },
+  {
+    "id": "Taiizor/Sucrose",
+    "name": "Taiizor/Sucrose",
+    "description": "Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.",
+    "topics": [
+      "desktop",
+      "desktop-wallpaper",
+      "dynamic-wallpaper",
+      "engine",
+      "fluent",
+      "fluentui",
+      "live-wallpaper",
+      "wallpaper",
+      "wallpaper-app",
+      "wallpaper-application",
+      "wallpaper-changer",
+      "wallpaper-engine",
+      "wallpaper-engine-free",
+      "wallpaperengine",
+      "wallpapers",
+      "widgets",
+      "windows",
+      "windows-app",
+      "winui",
+      "wpf"
+    ],
+    "owner": {
+      "name": "Taiizor",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/41683699?v=4"
+    },
+    "stars": 603,
+    "starsDetail": {
+      "total": 603,
+      "week": 16,
+      "month": 41,
+      "year": 540,
+      "updatedAt": 1738072279
+    },
+    "license": "GNU General Public License v3.0",
+    "forks": 24,
+    "primaryLanguage": "Batchfile",
+    "pushedAt": "2025-01-27T23:45:36.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-06-21T23:46:15.000Z",
+    "updatedAt": "2025-01-28T13:39:15.000Z"
   },
   {
     "id": "dotnet/reactive",
@@ -8655,7 +8743,7 @@
       "name": "CommunityToolkit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41346473?v=4"
     },
-    "stars": 5922,
+    "stars": 5923,
     "starsDetail": {
       "total": 5919,
       "week": 6,
@@ -8673,7 +8761,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-17T21:29:46.000Z",
-    "updatedAt": "2025-01-27T11:10:49.000Z"
+    "updatedAt": "2025-01-28T13:39:21.000Z"
   },
   {
     "id": "grpc/grpc-dotnet",
@@ -13637,7 +13725,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-08-09T15:39:52.000Z",
-    "updatedAt": "2025-01-27T11:10:32.000Z"
+    "updatedAt": "2025-01-28T13:39:04.000Z"
   },
   {
     "id": "milkshakesoftware/PreMailer.Net",
@@ -14955,7 +15043,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-16T08:35:01.000Z",
-    "updatedAt": "2025-01-27T11:16:17.000Z"
+    "updatedAt": "2025-01-28T13:45:03.000Z"
   },
   {
     "id": "BrightstarDB/BrightstarDB",
@@ -20249,7 +20337,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2025-01-07T12:46:49.000Z",
-    "updatedAt": "2025-01-27T11:16:19.000Z"
+    "updatedAt": "2025-01-28T13:45:05.000Z"
   },
   {
     "id": "lofcz/LlmTornado",
@@ -20287,14 +20375,14 @@
     "license": "MIT License",
     "forks": 16,
     "primaryLanguage": "C#",
-    "pushedAt": "2025-01-27T08:16:21.000Z",
+    "pushedAt": "2025-01-27T13:52:36.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-10-08T14:09:43.000Z",
-    "updatedAt": "2025-01-27T11:16:16.000Z"
+    "updatedAt": "2025-01-28T13:45:02.000Z"
   },
   {
     "id": "m31coding/M31.FluentAPI",
@@ -21815,9 +21903,9 @@
       "name": "stbychkov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23489269?v=4"
     },
-    "stars": 36,
+    "stars": 37,
     "starsDetail": {
-      "total": 36
+      "total": 37
     },
     "license": "MIT License",
     "forks": 0,
@@ -21829,7 +21917,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-27T14:03:01.000Z",
-    "updatedAt": "2025-01-27T11:16:17.000Z"
+    "updatedAt": "2025-01-28T13:45:03.000Z"
   },
   {
     "id": "stirno/FluentAutomation",
