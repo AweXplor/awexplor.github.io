@@ -520,7 +520,7 @@
       "name": "unum-cloud",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56397513?v=4"
     },
-    "stars": 2423,
+    "stars": 2426,
     "starsDetail": {
       "total": 2375,
       "week": 20,
@@ -529,7 +529,7 @@
       "updatedAt": 1736031653
     },
     "license": "Apache License 2.0",
-    "forks": 160,
+    "forks": 161,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2025-01-23T09:38:27.000Z",
     "archived": false,
@@ -538,7 +538,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-02-22T09:20:20.000Z",
-    "updatedAt": "2025-01-28T10:31:21.000Z"
+    "updatedAt": "2025-01-29T13:00:16.000Z"
   },
   {
     "id": "apache/brpc",
@@ -4174,7 +4174,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2015-05-06T13:25:25.000Z",
-    "updatedAt": "2025-01-28T10:27:07.000Z"
+    "updatedAt": "2025-01-29T12:55:52.000Z"
   },
   {
     "id": "cpputest/cpputest",
@@ -4684,7 +4684,7 @@
       "updatedAt": 1736031501
     },
     "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 713,
+    "forks": 712,
     "primaryLanguage": "",
     "pushedAt": "2025-01-20T21:43:01.000Z",
     "archived": false,
@@ -4693,7 +4693,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-11-14T22:25:24.000Z",
-    "updatedAt": "2025-01-28T10:30:21.000Z"
+    "updatedAt": "2025-01-29T12:59:13.000Z"
   },
   {
     "id": "mlpack/mlpack",
@@ -7391,7 +7391,7 @@
       "name": "fastfloat",
       "avatarUrl": "https://avatars.githubusercontent.com/u/74873565?v=4"
     },
-    "stars": 1686,
+    "stars": 1687,
     "starsDetail": {
       "total": 1665,
       "week": 7,
@@ -7409,7 +7409,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-10-19T16:00:53.000Z",
-    "updatedAt": "2025-01-28T10:18:03.000Z"
+    "updatedAt": "2025-01-29T12:46:25.000Z"
   },
   {
     "id": "ggerganov/imtui",
@@ -14528,7 +14528,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-09-04T11:48:34.000Z",
-    "updatedAt": "2025-01-28T10:25:02.000Z"
+    "updatedAt": "2025-01-29T12:53:43.000Z"
   },
   {
     "id": "ZigRazor/CXXGraph",
@@ -17194,7 +17194,7 @@
       "name": "BayesWitnesses",
       "avatarUrl": "https://avatars.githubusercontent.com/u/46638712?v=4"
     },
-    "stars": 2841,
+    "stars": 2842,
     "starsDetail": {
       "total": 2833,
       "week": 1,
@@ -17212,7 +17212,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2019-01-13T02:32:55.000Z",
-    "updatedAt": "2025-01-28T10:29:08.000Z"
+    "updatedAt": "2025-01-29T12:57:58.000Z"
   },
   {
     "id": "KratosMultiphysics/Kratos",
@@ -17762,7 +17762,7 @@
       "name": "uNetworking",
       "avatarUrl": "https://avatars.githubusercontent.com/u/28876608?v=4"
     },
-    "stars": 17624,
+    "stars": 17631,
     "starsDetail": {
       "total": 17345,
       "week": 48,
@@ -17771,16 +17771,16 @@
       "updatedAt": 1729329211
     },
     "license": "Apache License 2.0",
-    "forks": 1774,
+    "forks": 1775,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-01-27T19:26:27.000Z",
+    "pushedAt": "2025-01-28T15:06:37.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-21T04:39:40.000Z",
-    "updatedAt": "2025-01-28T10:26:25.000Z"
+    "updatedAt": "2025-01-29T12:55:09.000Z"
   },
   {
     "id": "catchorg/Catch2",
@@ -20787,7 +20787,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-10-21T03:19:26.000Z",
-    "updatedAt": "2025-01-28T10:23:21.000Z"
+    "updatedAt": "2025-01-29T12:51:58.000Z"
   },
   {
     "id": "Privatehive/libONVIF",
@@ -21014,7 +21014,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-04-02T16:11:36.000Z",
-    "updatedAt": "2025-01-28T10:30:51.000Z"
+    "updatedAt": "2025-01-29T12:59:44.000Z"
   },
   {
     "id": "Tencent/BqLog",
@@ -21997,9 +21997,9 @@
       "name": "bayandin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/864213?v=4"
     },
-    "stars": 32309,
+    "stars": 32313,
     "starsDetail": {
-      "total": 32309
+      "total": 32313
     },
     "license": null,
     "forks": 3569,
@@ -22011,7 +22011,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-07-08T05:44:19.000Z",
-    "updatedAt": "2025-01-28T10:30:21.000Z"
+    "updatedAt": "2025-01-29T12:59:13.000Z"
   },
   {
     "id": "beached/daw_json_link",
@@ -23386,7 +23386,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-04-30T23:12:52.000Z",
-    "updatedAt": "2025-01-28T10:25:01.000Z"
+    "updatedAt": "2025-01-29T12:53:42.000Z"
   },
   {
     "id": "erikerlandson/st_tree",
