@@ -6176,43 +6176,6 @@
     "updatedAt": "2025-01-30T05:01:43.000Z"
   },
   {
-    "id": "wxxsw/SwiftTheme",
-    "name": "wxxsw/SwiftTheme",
-    "description": "🎨 Powerful theme/skin manager for iOS 9+ 主题/换肤, 暗色模式",
-    "topics": [
-      "dark-mode",
-      "ios",
-      "night-mode",
-      "skin",
-      "swift",
-      "theme",
-      "ui"
-    ],
-    "owner": {
-      "name": "wxxsw",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/921863?v=4"
-    },
-    "stars": 2529,
-    "starsDetail": {
-      "total": 2529,
-      "week": 0,
-      "month": 5,
-      "year": 70,
-      "updatedAt": 1736034317
-    },
-    "license": "MIT License",
-    "forks": 305,
-    "primaryLanguage": "C",
-    "pushedAt": "2022-12-16T03:44:13.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-03-15T05:44:49.000Z",
-    "updatedAt": "2025-01-30T05:02:01.000Z"
-  },
-  {
     "id": "yannickl/DynamicColor",
     "name": "yannickl/DynamicColor",
     "description": "Yet another extension to manipulate colors easily in Swift and SwiftUI",
@@ -6384,7 +6347,7 @@
       "updatedAt": 1736034091
     },
     "license": "MIT License",
-    "forks": 165,
+    "forks": 167,
     "primaryLanguage": "Ruby",
     "pushedAt": "2025-01-23T20:49:19.000Z",
     "archived": false,
@@ -6393,7 +6356,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-05-23T07:29:19.000Z",
-    "updatedAt": "2025-01-29T16:08:14.000Z"
+    "updatedAt": "2025-01-30T18:39:15.000Z"
   },
   {
     "id": "0xced/XCDYouTubeKit",
@@ -7573,39 +7536,6 @@
     "updatedAt": "2025-01-30T05:07:19.000Z"
   },
   {
-    "id": "nicklockwood/iCarousel",
-    "name": "nicklockwood/iCarousel",
-    "description": "A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS",
-    "topics": [],
-    "owner": {
-      "name": "nicklockwood",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/546885?v=4"
-    },
-    "stars": 11997,
-    "starsDetail": {
-      "total": 12002,
-      "week": [
-        121,
-        120,
-        1735429502
-      ],
-      "month": 4,
-      "year": 86,
-      "updatedAt": 1736034307
-    },
-    "license": "Other",
-    "forks": 2577,
-    "primaryLanguage": "Objective-C",
-    "pushedAt": "2024-06-27T05:43:24.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2011-04-06T23:23:43.000Z",
-    "updatedAt": "2025-01-30T05:01:50.000Z"
-  },
-  {
     "id": "nicklockwood/layout",
     "name": "nicklockwood/layout",
     "description": "A declarative UI framework for iOS",
@@ -8286,7 +8216,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-02-10T22:48:37.000Z",
-    "updatedAt": "2025-01-29T16:08:29.000Z"
+    "updatedAt": "2025-01-30T18:39:29.000Z"
   },
   {
     "id": "krzysztofzablocki/Sourcery",
@@ -8770,45 +8700,6 @@
     "updatedAt": "2025-01-30T05:04:12.000Z"
   },
   {
-    "id": "aheze/Popovers",
-    "name": "aheze/Popovers",
-    "description": "A library to present popovers. Simple, modern, and highly customizable. Not boring!",
-    "topics": [
-      "alert",
-      "ios",
-      "notification",
-      "popover",
-      "popup",
-      "snackbar",
-      "swift",
-      "swiftui",
-      "uiwindow"
-    ],
-    "owner": {
-      "name": "aheze",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/49819455?v=4"
-    },
-    "stars": 2024,
-    "starsDetail": {
-      "total": 2013,
-      "week": 4,
-      "month": 30,
-      "year": 361,
-      "updatedAt": 1736034335
-    },
-    "license": "MIT License",
-    "forks": 118,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2024-06-26T04:57:10.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2021-12-22T23:02:04.000Z",
-    "updatedAt": "2025-01-30T05:02:23.000Z"
-  },
-  {
     "id": "500px/greedo-layout-for-ios",
     "name": "500px/greedo-layout-for-ios",
     "description": "Full aspect ratio grid layout for iOS",
@@ -9221,7 +9112,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-08T14:57:55.000Z",
-    "updatedAt": "2025-01-29T16:08:19.000Z"
+    "updatedAt": "2025-01-30T18:39:19.000Z"
   },
   {
     "id": "Ramotion/circle-menu",
@@ -9923,48 +9814,6 @@
     "goImportedBy": null,
     "createdAt": "2017-03-31T22:09:07.000Z",
     "updatedAt": "2025-01-30T05:02:11.000Z"
-  },
-  {
-    "id": "efremidze/Magnetic",
-    "name": "efremidze/Magnetic",
-    "description": "SpriteKit Floating Bubble Picker (inspired by Apple Music) 🧲",
-    "topics": [
-      "animation",
-      "apple",
-      "apple-music",
-      "bubble",
-      "carthage",
-      "cocoapods",
-      "floating",
-      "ios",
-      "music",
-      "picker",
-      "spritekit",
-      "swift"
-    ],
-    "owner": {
-      "name": "efremidze",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2286277?v=4"
-    },
-    "stars": 1565,
-    "starsDetail": {
-      "total": 1561,
-      "week": 1,
-      "month": 3,
-      "year": 73,
-      "updatedAt": 1736034326
-    },
-    "license": "MIT License",
-    "forks": 137,
-    "primaryLanguage": "Objective-C",
-    "pushedAt": "2024-09-05T07:36:22.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-03-09T02:15:43.000Z",
-    "updatedAt": "2025-01-30T05:02:10.000Z"
   },
   {
     "id": "envoy/Embassy",
@@ -17323,44 +17172,6 @@
     "updatedAt": "2025-01-30T05:04:02.000Z"
   },
   {
-    "id": "efremidze/VisualEffectView",
-    "name": "efremidze/VisualEffectView",
-    "description": "Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱",
-    "topics": [
-      "apple",
-      "blur",
-      "effects",
-      "ios",
-      "swift",
-      "tint",
-      "uiblureffect",
-      "uivisualeffectview"
-    ],
-    "owner": {
-      "name": "efremidze",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2286277?v=4"
-    },
-    "stars": 1185,
-    "starsDetail": {
-      "total": 1163,
-      "week": 1,
-      "month": 17,
-      "year": 112,
-      "updatedAt": 1736034313
-    },
-    "license": "MIT License",
-    "forks": 84,
-    "primaryLanguage": "Objective-C",
-    "pushedAt": "2024-10-18T02:41:24.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-05-26T18:24:29.000Z",
-    "updatedAt": "2025-01-30T05:01:59.000Z"
-  },
-  {
     "id": "exyte/ActivityIndicatorView",
     "name": "exyte/ActivityIndicatorView",
     "description": "A number of preset loading indicators created with SwiftUI",
@@ -18500,41 +18311,6 @@
     "updatedAt": "2025-01-30T05:03:36.000Z"
   },
   {
-    "id": "TextureGroup/Texture",
-    "name": "TextureGroup/Texture",
-    "description": "Smooth asynchronous user interfaces for iOS apps.",
-    "topics": [
-      "asyncdisplaykit",
-      "pinterest",
-      "rendering",
-      "texture",
-      "uikit"
-    ],
-    "owner": {
-      "name": "TextureGroup",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/25676156?v=4"
-    },
-    "stars": 8043,
-    "starsDetail": {
-      "total": 8042,
-      "week": 4,
-      "month": 13,
-      "year": 223,
-      "updatedAt": 1736034305
-    },
-    "license": "Other",
-    "forks": 1297,
-    "primaryLanguage": "C++",
-    "pushedAt": "2025-01-29T19:33:56.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-02-10T01:44:38.000Z",
-    "updatedAt": "2025-01-30T05:01:50.000Z"
-  },
-  {
     "id": "ZipArchive/ZipArchive",
     "name": "ZipArchive/ZipArchive",
     "description": "ZipArchive is a simple utility class for zipping and unzipping files on iOS, macOS and tvOS.",
@@ -19311,7 +19087,7 @@
       "name": "Orderella",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20091236?v=4"
     },
-    "stars": 3973,
+    "stars": 3974,
     "starsDetail": {
       "total": 3969,
       "week": 4,
@@ -19329,7 +19105,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-22T18:56:17.000Z",
-    "updatedAt": "2025-01-29T16:08:29.000Z"
+    "updatedAt": "2025-01-30T18:39:28.000Z"
   },
   {
     "id": "SVGKit/SVGKit",
@@ -20752,39 +20528,6 @@
     "updatedAt": "2025-01-30T05:07:32.000Z"
   },
   {
-    "id": "DroidsOnRoids/MPParallaxView",
-    "name": "DroidsOnRoids/MPParallaxView",
-    "description": "Apple TV Parallax effect in Swift.",
-    "topics": [
-      "ios",
-      "parallax",
-      "swift"
-    ],
-    "owner": {
-      "name": "DroidsOnRoids",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2815187?v=4"
-    },
-    "stars": 1740,
-    "starsDetail": {
-      "total": 1741,
-      "week": 1,
-      "month": 1,
-      "year": 9,
-      "updatedAt": 1736034307
-    },
-    "license": "MIT License",
-    "forks": 97,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2018-06-14T12:29:08.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-11-08T13:38:28.000Z",
-    "updatedAt": "2025-01-30T05:01:52.000Z"
-  },
-  {
     "id": "EndouMari/TabPageViewController",
     "name": "EndouMari/TabPageViewController",
     "description": "Paging view controller and scroll tab view",
@@ -21425,41 +21168,6 @@
     "updatedAt": "2025-01-30T05:01:47.000Z"
   },
   {
-    "id": "OfficeDev/ui-fabric-ios",
-    "name": "OfficeDev/ui-fabric-ios",
-    "description": "DEPRECATED Please use the new repo",
-    "topics": [
-      "archived",
-      "deprecated",
-      "deprecated-repo",
-      "deprecated-repository",
-      "depreciated-not-in-use"
-    ],
-    "owner": {
-      "name": "OfficeDev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6789362?v=4"
-    },
-    "stars": 573,
-    "starsDetail": {
-      "total": 574,
-      "week": 0,
-      "month": 1,
-      "year": 5,
-      "updatedAt": 1736034333
-    },
-    "license": "MIT License",
-    "forks": 30,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2020-05-11T21:05:38.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2019-03-06T23:23:09.000Z",
-    "updatedAt": "2025-01-30T05:02:22.000Z"
-  },
-  {
     "id": "Overcoat/Overcoat",
     "name": "Overcoat/Overcoat",
     "description": "The perfect accessory for Mantle and AFNetworking.",
@@ -21727,40 +21435,6 @@
     "goImportedBy": null,
     "createdAt": "2017-10-20T11:46:58.000Z",
     "updatedAt": "2025-01-30T05:05:18.000Z"
-  },
-  {
-    "id": "Ramotion/navigation-stack",
-    "name": "Ramotion/navigation-stack",
-    "description": ":octocat: NavigationStack is a stack-modeled UI navigation controller. Swift UI library made by @Ramotion",
-    "topics": [
-      "component",
-      "ios",
-      "library",
-      "swift"
-    ],
-    "owner": {
-      "name": "Ramotion",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6028820?v=4"
-    },
-    "stars": 2304,
-    "starsDetail": {
-      "total": 2302,
-      "week": 0,
-      "month": 1,
-      "year": 9,
-      "updatedAt": 1736034312
-    },
-    "license": "MIT License",
-    "forks": 172,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2020-04-06T06:57:43.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-02-25T15:15:21.000Z",
-    "updatedAt": "2025-01-30T05:01:56.000Z"
   },
   {
     "id": "RestKit/RestKit",
@@ -25798,35 +25472,6 @@
     "updatedAt": "2025-01-30T05:03:42.000Z"
   },
   {
-    "id": "seedco/StackViewController",
-    "name": "seedco/StackViewController",
-    "description": "A controller that uses a UIStackView and view controller composition to display content in a list",
-    "topics": [],
-    "owner": {
-      "name": "seedco",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8824986?v=4"
-    },
-    "stars": 866,
-    "starsDetail": {
-      "total": 868,
-      "week": 0,
-      "month": 1,
-      "year": 7,
-      "updatedAt": 1736034330
-    },
-    "license": "MIT License",
-    "forks": 59,
-    "primaryLanguage": "Objective-C",
-    "pushedAt": "2021-10-06T15:35:38.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-04-11T20:05:56.000Z",
-    "updatedAt": "2025-01-30T05:02:19.000Z"
-  },
-  {
     "id": "shu223/Pulsator",
     "name": "shu223/Pulsator",
     "description": "Pulse animation for iOS",
@@ -25862,7 +25507,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-11T20:52:23.000Z",
-    "updatedAt": "2025-01-29T16:08:13.000Z"
+    "updatedAt": "2025-01-30T18:39:14.000Z"
   },
   {
     "id": "shu223/PulsingHalo",
@@ -26455,38 +26100,6 @@
     "goImportedBy": null,
     "createdAt": "2014-06-02T23:42:15.000Z",
     "updatedAt": "2025-01-30T04:56:13.000Z"
-  },
-  {
-    "id": "uber/UberSignature",
-    "name": "uber/UberSignature",
-    "description": "Provides an iOS view controller allowing a user to draw their signature with their finger in a realistic style.",
-    "topics": [
-      "ios",
-      "ios-app"
-    ],
-    "owner": {
-      "name": "uber",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/538264?v=4"
-    },
-    "stars": 1290,
-    "starsDetail": {
-      "total": 1289,
-      "week": 1,
-      "month": 1,
-      "year": 14,
-      "updatedAt": 1736034331
-    },
-    "license": "MIT License",
-    "forks": 175,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2020-09-16T07:09:41.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-05-13T02:14:29.000Z",
-    "updatedAt": "2025-01-30T05:02:19.000Z"
   },
   {
     "id": "uber/ios-snapshot-test-case",
@@ -29310,41 +28923,6 @@
     "goImportedBy": null,
     "createdAt": "2017-12-07T19:02:16.000Z",
     "updatedAt": "2025-01-30T05:03:38.000Z"
-  },
-  {
-    "id": "MarioIannotta/PullUpController",
-    "name": "MarioIannotta/PullUpController",
-    "description": "Pull up controller with multiple sticky points like in iOS Maps",
-    "topics": [
-      "modal-panel",
-      "sliding-menu",
-      "swipe",
-      "user-experience",
-      "user-interaction"
-    ],
-    "owner": {
-      "name": "MarioIannotta",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5788032?v=4"
-    },
-    "stars": 1240,
-    "starsDetail": {
-      "total": 1241,
-      "week": 0,
-      "month": 0,
-      "year": 14,
-      "updatedAt": 1736034328
-    },
-    "license": "MIT License",
-    "forks": 140,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2024-10-08T17:36:18.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-11-04T18:33:35.000Z",
-    "updatedAt": "2025-01-30T05:02:16.000Z"
   },
   {
     "id": "MatthewYork/MYBlurIntroductionView",
@@ -32448,41 +32026,6 @@
     "updatedAt": "2025-01-30T04:59:44.000Z"
   },
   {
-    "id": "erichoracek/Motif",
-    "name": "erichoracek/Motif",
-    "description": "Lightweight and customizable stylesheets for iOS",
-    "topics": [
-      "objective-c",
-      "style",
-      "stylesheet",
-      "stylesheets",
-      "theme"
-    ],
-    "owner": {
-      "name": "erichoracek",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/438313?v=4"
-    },
-    "stars": 876,
-    "starsDetail": {
-      "total": 878,
-      "week": 0,
-      "month": 0,
-      "year": 1,
-      "updatedAt": 1736034301
-    },
-    "license": "MIT License",
-    "forks": 64,
-    "primaryLanguage": "C++",
-    "pushedAt": "2020-09-18T21:26:47.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-12-27T09:32:59.000Z",
-    "updatedAt": "2025-01-30T05:01:49.000Z"
-  },
-  {
     "id": "evermeer/EVCloudKitDao",
     "name": "evermeer/EVCloudKitDao",
     "description": "Simplified access to Apple's CloudKit",
@@ -33810,35 +33353,6 @@
     "updatedAt": "2025-01-30T05:06:18.000Z"
   },
   {
-    "id": "jobandtalent/CardStackController",
-    "name": "jobandtalent/CardStackController",
-    "description": "iOS custom controller used in Jobandtalent app to present new view controllers as cards",
-    "topics": [],
-    "owner": {
-      "name": "jobandtalent",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/40731?v=4"
-    },
-    "stars": 524,
-    "starsDetail": {
-      "total": 524,
-      "week": 0,
-      "month": 0,
-      "year": 2,
-      "updatedAt": 1736034320
-    },
-    "license": "MIT License",
-    "forks": 37,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2019-04-03T02:59:34.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-12-01T00:20:16.000Z",
-    "updatedAt": "2025-01-30T05:02:07.000Z"
-  },
-  {
     "id": "joemasilotti/UI-Testing-Cheat-Sheet",
     "name": "joemasilotti/UI-Testing-Cheat-Sheet",
     "description": "How do I test this with UI Testing?",
@@ -34850,41 +34364,6 @@
     "goImportedBy": null,
     "createdAt": "2013-09-16T04:05:35.000Z",
     "updatedAt": "2025-01-30T04:55:10.000Z"
-  },
-  {
-    "id": "mariohahn/StatusProvider",
-    "name": "mariohahn/StatusProvider",
-    "description": "Protocol to handle initial Loadings, Empty Views and Error Handling in a ViewController & views",
-    "topics": [
-      "empty",
-      "error-handling",
-      "loading",
-      "protocol",
-      "viewcontroller"
-    ],
-    "owner": {
-      "name": "mariohahn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/915933?v=4"
-    },
-    "stars": 876,
-    "starsDetail": {
-      "total": 877,
-      "week": 0,
-      "month": 0,
-      "year": 0,
-      "updatedAt": 1736034318
-    },
-    "license": "MIT License",
-    "forks": 47,
-    "primaryLanguage": "Objective-C",
-    "pushedAt": "2018-09-14T17:01:25.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-08-25T12:35:39.000Z",
-    "updatedAt": "2025-01-30T05:02:03.000Z"
   },
   {
     "id": "marmelroy/Format",
@@ -37144,35 +36623,6 @@
     "updatedAt": "2025-01-30T05:04:47.000Z"
   },
   {
-    "id": "startry/SwViewCapture",
-    "name": "startry/SwViewCapture",
-    "description": "A nice iOS View Capture Swift Library which can capture all content.",
-    "topics": [],
-    "owner": {
-      "name": "startry",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3454027?v=4"
-    },
-    "stars": 607,
-    "starsDetail": {
-      "total": 607,
-      "week": 0,
-      "month": 0,
-      "year": 8,
-      "updatedAt": 1736034332
-    },
-    "license": "MIT License",
-    "forks": 86,
-    "primaryLanguage": "Objective-C",
-    "pushedAt": "2020-11-23T07:13:50.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-02-18T07:00:16.000Z",
-    "updatedAt": "2025-01-30T05:02:19.000Z"
-  },
-  {
     "id": "stevestreza/Relayout",
     "name": "stevestreza/Relayout",
     "description": "Swift microframework for declaring Auto Layout constraints functionally",
@@ -38296,35 +37746,6 @@
     "goImportedBy": null,
     "createdAt": "2015-09-11T19:30:28.000Z",
     "updatedAt": "2025-01-30T04:57:19.000Z"
-  },
-  {
-    "id": "wongzigii/WZDraggableSwitchHeaderView",
-    "name": "wongzigii/WZDraggableSwitchHeaderView",
-    "description": ":octocat: Show status for transition across viewControllers.",
-    "topics": [],
-    "owner": {
-      "name": "wongzigii",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7384288?v=4"
-    },
-    "stars": 558,
-    "starsDetail": {
-      "total": 557,
-      "week": 0,
-      "month": 0,
-      "year": 1,
-      "updatedAt": 1736034309
-    },
-    "license": "MIT License",
-    "forks": 41,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2016-11-05T09:55:01.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-06-02T07:33:43.000Z",
-    "updatedAt": "2025-01-30T05:01:54.000Z"
   },
   {
     "id": "wxxsw/GSMessages",
@@ -40197,37 +39618,6 @@
     "updatedAt": "2025-01-30T05:04:29.000Z"
   },
   {
-    "id": "Azuritul/AZExpandableIconListView",
-    "name": "Azuritul/AZExpandableIconListView",
-    "description": "An expandable/collapsible view component written in Swift.",
-    "topics": [
-      "accordion",
-      "collapsible",
-      "scrollview",
-      "swift",
-      "toy"
-    ],
-    "owner": {
-      "name": "Azuritul",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/879197?v=4"
-    },
-    "stars": 288,
-    "starsDetail": {
-      "total": 288
-    },
-    "license": "MIT License",
-    "forks": 35,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2019-10-09T07:22:34.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-01-28T10:58:43.000Z",
-    "updatedAt": "2025-01-30T05:01:56.000Z"
-  },
-  {
     "id": "Balancingrock/SwifterSockets",
     "name": "Balancingrock/SwifterSockets",
     "description": "A collection of socket utilities in Swift.",
@@ -41267,12 +40657,12 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 72886,
+    "stars": 72906,
     "starsDetail": {
-      "total": 72886
+      "total": 72906
     },
     "license": null,
-    "forks": 8986,
+    "forks": 8985,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -41281,7 +40671,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2025-01-29T16:08:12.000Z"
+    "updatedAt": "2025-01-30T18:38:01.000Z"
   },
   {
     "id": "DrewKiino/Atlantis",
@@ -41917,43 +41307,6 @@
     "updatedAt": "2025-01-30T05:05:26.000Z"
   },
   {
-    "id": "HamzaGhazouani/HGRippleRadarView",
-    "name": "HamzaGhazouani/HGRippleRadarView",
-    "description": "A beautiful radar view to show nearby items (users, restaurants, ...) with ripple animation, fully customizable ",
-    "topics": [
-      "animation",
-      "loading",
-      "location",
-      "near",
-      "nearby",
-      "pulse",
-      "radar",
-      "radarview",
-      "ripple",
-      "uiview",
-      "wave"
-    ],
-    "owner": {
-      "name": "HamzaGhazouani",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2019146?v=4"
-    },
-    "stars": 383,
-    "starsDetail": {
-      "total": 383
-    },
-    "license": "MIT License",
-    "forks": 45,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2019-10-13T20:27:29.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-01-28T23:51:36.000Z",
-    "updatedAt": "2025-01-30T05:02:20.000Z"
-  },
-  {
     "id": "HideakiTouhara/Poi",
     "name": "HideakiTouhara/Poi",
     "description": "",
@@ -42172,38 +41525,6 @@
     "goImportedBy": null,
     "createdAt": "2013-12-17T19:23:05.000Z",
     "updatedAt": "2025-01-30T04:56:46.000Z"
-  },
-  {
-    "id": "Interactive-Studio/ISPageControl",
-    "name": "Interactive-Studio/ISPageControl",
-    "description": "A page control similar to that used in Instagram",
-    "topics": [
-      "indicator",
-      "instagram",
-      "ios",
-      "page",
-      "pagecontrol",
-      "swift"
-    ],
-    "owner": {
-      "name": "Interactive-Studio",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/33413080?v=4"
-    },
-    "stars": 294,
-    "starsDetail": {
-      "total": 294
-    },
-    "license": "MIT License",
-    "forks": 42,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2021-11-30T14:29:08.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-11-26T16:48:23.000Z",
-    "updatedAt": "2025-01-30T05:02:18.000Z"
   },
   {
     "id": "Isuru-Nanayakkara/Reach",
@@ -43667,36 +42988,6 @@
     "goImportedBy": null,
     "createdAt": "2016-01-19T04:43:14.000Z",
     "updatedAt": "2025-01-30T04:59:35.000Z"
-  },
-  {
-    "id": "MoveUpwards/Sejima",
-    "name": "MoveUpwards/Sejima",
-    "description": "User Interface Library for iOS",
-    "topics": [
-      "ios",
-      "library",
-      "swift",
-      "user-interface"
-    ],
-    "owner": {
-      "name": "MoveUpwards",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/47980030?v=4"
-    },
-    "stars": 70,
-    "starsDetail": {
-      "total": 70
-    },
-    "license": "MIT License",
-    "forks": 6,
-    "primaryLanguage": "Objective-C",
-    "pushedAt": "2021-02-23T13:47:07.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2019-02-25T13:53:40.000Z",
-    "updatedAt": "2025-01-30T05:02:22.000Z"
   },
   {
     "id": "MuShare/Httper-iOS",
@@ -45179,37 +44470,6 @@
     "goImportedBy": null,
     "createdAt": "2017-10-28T12:31:36.000Z",
     "updatedAt": "2025-01-30T05:04:50.000Z"
-  },
-  {
-    "id": "Sajjon/ViewComposer",
-    "name": "Sajjon/ViewComposer",
-    "description": "Compose views using enums swiftly: `let label: UILabel = [.text(\"Hello\"), .textColor(.red)]`",
-    "topics": [
-      "enum",
-      "styled-components",
-      "swift-framework",
-      "uikit",
-      "view"
-    ],
-    "owner": {
-      "name": "Sajjon",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/864410?v=4"
-    },
-    "stars": 29,
-    "starsDetail": {
-      "total": 29
-    },
-    "license": "MIT License",
-    "forks": 3,
-    "primaryLanguage": "Objective-C",
-    "pushedAt": "2018-08-27T14:55:23.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-05-30T13:45:48.000Z",
-    "updatedAt": "2025-01-30T05:02:13.000Z"
   },
   {
     "id": "Sherlouk/SwiftProvisioningProfile",
@@ -48909,31 +48169,6 @@
     "updatedAt": "2025-01-30T05:02:51.000Z"
   },
   {
-    "id": "andreamazz/UIView-draggable",
-    "name": "andreamazz/UIView-draggable",
-    "description": "UIView category that adds dragging capabilities",
-    "topics": [],
-    "owner": {
-      "name": "andreamazz",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/570797?v=4"
-    },
-    "stars": 436,
-    "starsDetail": {
-      "total": 436
-    },
-    "license": "MIT License",
-    "forks": 67,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2017-12-02T03:30:30.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-03-13T09:28:48.000Z",
-    "updatedAt": "2025-01-30T05:01:57.000Z"
-  },
-  {
     "id": "andreamazz/ViralSwitch",
     "name": "andreamazz/ViralSwitch",
     "description": "A UISwitch that infects its superview with its tint color. ",
@@ -50555,31 +49790,6 @@
     "goImportedBy": null,
     "createdAt": "2015-08-31T18:51:48.000Z",
     "updatedAt": "2025-01-30T05:00:10.000Z"
-  },
-  {
-    "id": "bridger/StackLayout",
-    "name": "bridger/StackLayout",
-    "description": "An alternative to UIStackView for common Auto Layout patterns.",
-    "topics": [],
-    "owner": {
-      "name": "bridger",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1337793?v=4"
-    },
-    "stars": 76,
-    "starsDetail": {
-      "total": 76
-    },
-    "license": "MIT License",
-    "forks": 3,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2020-05-12T01:07:10.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-09-25T00:02:43.000Z",
-    "updatedAt": "2025-01-30T05:02:03.000Z"
   },
   {
     "id": "brynbellomy/FlatUIColors",
@@ -52609,31 +51819,6 @@
     "updatedAt": "2025-01-30T08:33:11.000Z"
   },
   {
-    "id": "dhirajjadhao/Newly",
-    "name": "dhirajjadhao/Newly",
-    "description": "Newly is a drop in solution to add Twitter/Facebook/Linkedin style, new updates/tweets/posts available button. It can be used to notify user about new content availability and can other actions can be triggers using its delegate method.",
-    "topics": [],
-    "owner": {
-      "name": "dhirajjadhao",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2684979?v=4"
-    },
-    "stars": 194,
-    "starsDetail": {
-      "total": 194
-    },
-    "license": "MIT License",
-    "forks": 23,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2018-11-12T04:56:09.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-11-18T07:33:40.000Z",
-    "updatedAt": "2025-01-30T05:02:06.000Z"
-  },
-  {
     "id": "di2pra/D2PDatePicker",
     "name": "di2pra/D2PDatePicker",
     "description": "Elegant and Easy-to-Use iOS Swift Date Picker",
@@ -52892,40 +52077,6 @@
     "goImportedBy": null,
     "createdAt": "2016-10-11T15:29:18.000Z",
     "updatedAt": "2025-01-30T05:00:27.000Z"
-  },
-  {
-    "id": "dingwilson/SwiftVideoBackground",
-    "name": "dingwilson/SwiftVideoBackground",
-    "description": "📹 Framework to Play a Video in the Background of any UIView",
-    "topics": [
-      "background",
-      "background-video",
-      "ios",
-      "swift",
-      "ui",
-      "uiview",
-      "video",
-      "video-background"
-    ],
-    "owner": {
-      "name": "dingwilson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8827679?v=4"
-    },
-    "stars": 347,
-    "starsDetail": {
-      "total": 347
-    },
-    "license": "MIT License",
-    "forks": 53,
-    "primaryLanguage": "Objective-C",
-    "pushedAt": "2021-06-12T01:30:52.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-09-26T20:00:57.000Z",
-    "updatedAt": "2025-01-30T05:02:04.000Z"
   },
   {
     "id": "dkalaitzidis/SwiftyAvatar",
@@ -55336,31 +54487,6 @@
     "updatedAt": "2025-01-30T05:05:34.000Z"
   },
   {
-    "id": "haoking/SwiftyUI",
-    "name": "haoking/SwiftyUI",
-    "description": "High performance and lightweight UIView,  UIImage, UIImageView, UIlabel, UIButton, Promise and more.",
-    "topics": [],
-    "owner": {
-      "name": "haoking",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16140558?v=4"
-    },
-    "stars": 343,
-    "starsDetail": {
-      "total": 343
-    },
-    "license": "MIT License",
-    "forks": 29,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2022-05-18T18:51:01.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-10-04T18:08:18.000Z",
-    "updatedAt": "2025-01-30T05:02:16.000Z"
-  },
-  {
     "id": "harlanhaskins/Probably",
     "name": "harlanhaskins/Probably",
     "description": "A Swift probability and statistics library",
@@ -55798,31 +54924,6 @@
     "updatedAt": "2025-01-30T05:04:38.000Z"
   },
   {
-    "id": "hughbe/phone-number-picker",
-    "name": "hughbe/phone-number-picker",
-    "description": "A simple and easy to use view controller enabling you to enter a phone number with a country code similar to WhatsApp written in Swift",
-    "topics": [],
-    "owner": {
-      "name": "hughbe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1275900?v=4"
-    },
-    "stars": 140,
-    "starsDetail": {
-      "total": 140
-    },
-    "license": "MIT License",
-    "forks": 25,
-    "primaryLanguage": "Swift",
-    "pushedAt": "2018-02-05T12:47:11.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-09-07T12:49:55.000Z",
-    "updatedAt": "2025-01-30T05:01:52.000Z"
-  },
-  {
     "id": "huri000/CrownControl",
     "name": "huri000/CrownControl",
     "description": "CrownControl is a tiny accessory that makes scrolling through scrollable content possible without lifting your thumb.",
@@ -56104,31 +55205,6 @@
     "goImportedBy": null,
     "createdAt": "2018-08-27T11:51:49.000Z",
     "updatedAt": "2025-01-30T05:02:42.000Z"
-  },
-  {
-    "id": "hyperoslo/Spots",
-    "name": "hyperoslo/Spots",
-    "description": ":bamboo: Spots is a cross-platform view controller framework for building component-based UIs",
-    "topics": [],
-    "owner": {
-      "name": "hyperoslo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1340892?v=4"
-    },
-    "stars": 19,
-    "starsDetail": {
-      "total": 19
-    },
-    "license": "Other",
-    "forks": 6,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2018-04-12T12:27:12.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-08-22T08:21:32.000Z",
-    "updatedAt": "2025-01-30T05:01:55.000Z"
   },
   {
     "id": "iAmrSalman/Dots",
@@ -59602,31 +58678,6 @@
     "updatedAt": "2025-01-30T05:03:39.000Z"
   },
   {
-    "id": "lucamozza/LMArticleViewController",
-    "name": "lucamozza/LMArticleViewController",
-    "description": "UIViewController subclass to beautifully present news articles and blog posts.",
-    "topics": [],
-    "owner": {
-      "name": "lucamozza",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3152806?v=4"
-    },
-    "stars": 7,
-    "starsDetail": {
-      "total": 7
-    },
-    "license": "MIT License",
-    "forks": 0,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2017-04-12T17:56:25.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-01-29T10:00:35.000Z",
-    "updatedAt": "2025-01-30T05:02:08.000Z"
-  },
-  {
     "id": "lucas34/SwiftQueue",
     "name": "lucas34/SwiftQueue",
     "description": "Job Scheduler for IOS with Concurrent run, failure/retry, persistence, repeat, delay and more",
@@ -61537,7 +60588,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-12-01T03:59:46.000Z",
-    "updatedAt": "2025-01-29T16:08:26.000Z"
+    "updatedAt": "2025-01-30T18:39:25.000Z"
   },
   {
     "id": "mukeshthawani/TriLabelView",
@@ -61780,31 +60831,6 @@
     "goImportedBy": null,
     "createdAt": "2017-10-11T20:33:11.000Z",
     "updatedAt": "2025-01-30T04:55:44.000Z"
-  },
-  {
-    "id": "n8iveapps/N8iveKit",
-    "name": "n8iveapps/N8iveKit",
-    "description": "A set of frameworks making iOS development more fun",
-    "topics": [],
-    "owner": {
-      "name": "n8iveapps",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10995943?v=4"
-    },
-    "stars": 15,
-    "starsDetail": {
-      "total": 15
-    },
-    "license": "MIT License",
-    "forks": 1,
-    "primaryLanguage": "Objective-C",
-    "pushedAt": "2017-09-07T21:45:53.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-08-05T10:40:33.000Z",
-    "updatedAt": "2025-01-30T05:02:14.000Z"
   },
   {
     "id": "nRewik/SimplePDF",
@@ -66472,7 +65498,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-31T19:10:54.000Z",
-    "updatedAt": "2025-01-29T16:08:23.000Z"
+    "updatedAt": "2025-01-30T18:39:22.000Z"
   },
   {
     "id": "sgr-ksmt/Alertift",
@@ -67725,7 +66751,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-14T13:20:19.000Z",
-    "updatedAt": "2025-01-29T16:08:35.000Z"
+    "updatedAt": "2025-01-30T18:39:33.000Z"
   },
   {
     "id": "suzuki-0000/AnimatablePlayButton",
