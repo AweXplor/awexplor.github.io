@@ -17,7 +17,7 @@
       "name": "monicahq",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25832602?v=4"
     },
-    "stars": 22086,
+    "stars": 22092,
     "starsDetail": {
       "total": 21962,
       "week": 31,
@@ -30,16 +30,16 @@
       "updatedAt": 1736060956
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 2207,
+    "forks": 2209,
     "primaryLanguage": "PLpgSQL",
-    "pushedAt": "2025-01-29T12:17:39.000Z",
+    "pushedAt": "2025-02-01T12:34:54.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-02-17T00:02:58.000Z",
-    "updatedAt": "2025-01-31T11:27:49.000Z"
+    "updatedAt": "2025-02-01T13:50:11.000Z"
   },
   {
     "id": "snipe/snipe-it",
@@ -56,7 +56,7 @@
       "name": "snipe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/197404?v=4"
     },
-    "stars": 11576,
+    "stars": 11584,
     "starsDetail": {
       "total": 11398,
       "week": 31,
@@ -78,7 +78,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-11-12T22:25:47.000Z",
-    "updatedAt": "2025-01-31T11:27:50.000Z"
+    "updatedAt": "2025-02-01T13:50:12.000Z"
   },
   {
     "id": "invoiceninja/invoiceninja",
@@ -106,7 +106,7 @@
       "name": "invoiceninja",
       "avatarUrl": "https://avatars.githubusercontent.com/u/15712270?v=4"
     },
-    "stars": 8513,
+    "stars": 8515,
     "starsDetail": {
       "total": 8430,
       "week": 18,
@@ -115,16 +115,16 @@
       "updatedAt": 1736060944
     },
     "license": "Other",
-    "forks": 2313,
+    "forks": 2314,
     "primaryLanguage": "TypeScript",
-    "pushedAt": "2025-01-28T00:34:38.000Z",
+    "pushedAt": "2025-02-01T10:17:06.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-11-26T12:30:05.000Z",
-    "updatedAt": "2025-01-31T11:27:48.000Z"
+    "updatedAt": "2025-02-01T13:50:11.000Z"
   },
   {
     "id": "cpriego/valet-linux",
@@ -160,7 +160,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-05-14T17:15:54.000Z",
-    "updatedAt": "2025-01-31T11:27:42.000Z"
+    "updatedAt": "2025-02-01T13:50:04.000Z"
   },
   {
     "id": "laravel/scout",
@@ -194,7 +194,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-29T22:11:40.000Z",
-    "updatedAt": "2025-01-31T11:27:32.000Z"
+    "updatedAt": "2025-02-01T13:49:55.000Z"
   },
   {
     "id": "saleem-hadad/larecipe",
@@ -230,7 +230,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-29T18:59:25.000Z",
-    "updatedAt": "2025-01-31T11:26:54.000Z"
+    "updatedAt": "2025-02-01T13:49:18.000Z"
   },
   {
     "id": "spatie/laravel-cookie-consent",
@@ -247,7 +247,7 @@
       "name": "spatie",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
     },
-    "stars": 1421,
+    "stars": 1422,
     "starsDetail": {
       "total": 1413,
       "week": 1,
@@ -265,7 +265,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-27T12:42:31.000Z",
-    "updatedAt": "2025-01-31T11:27:09.000Z"
+    "updatedAt": "2025-02-01T13:49:32.000Z"
   },
   {
     "id": "yajra/laravel-datatables",
@@ -284,7 +284,7 @@
       "name": "yajra",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2687997?v=4"
     },
-    "stars": 4781,
+    "stars": 4783,
     "starsDetail": {
       "total": 4777,
       "week": 0,
@@ -302,7 +302,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-11-27T02:31:18.000Z",
-    "updatedAt": "2025-01-31T11:27:08.000Z"
+    "updatedAt": "2025-02-01T13:49:32.000Z"
   },
   {
     "id": "livewire/livewire",
@@ -313,7 +313,7 @@
       "name": "livewire",
       "avatarUrl": "https://avatars.githubusercontent.com/u/51960834?v=4"
     },
-    "stars": 22604,
+    "stars": 22606,
     "starsDetail": {
       "total": 22540,
       "week": 16,
@@ -331,7 +331,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-12T16:53:29.000Z",
-    "updatedAt": "2025-01-31T11:27:24.000Z"
+    "updatedAt": "2025-02-01T13:49:47.000Z"
   },
   {
     "id": "LaravelCollective/html",
@@ -351,7 +351,7 @@
       "updatedAt": 1736060799
     },
     "license": "MIT License",
-    "forks": 845,
+    "forks": 847,
     "primaryLanguage": "PHP",
     "pushedAt": "2024-07-16T12:39:50.000Z",
     "archived": false,
@@ -360,7 +360,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-05T17:02:48.000Z",
-    "updatedAt": "2025-01-31T11:27:06.000Z"
+    "updatedAt": "2025-02-01T13:49:30.000Z"
   },
   {
     "id": "Xethron/migrations-generator",
@@ -393,7 +393,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-03-17T16:45:14.000Z",
-    "updatedAt": "2025-01-31T11:27:27.000Z"
+    "updatedAt": "2025-02-01T13:49:50.000Z"
   },
   {
     "id": "orangehill/iseed",
@@ -422,7 +422,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-07-17T13:05:30.000Z",
-    "updatedAt": "2025-01-31T11:27:26.000Z"
+    "updatedAt": "2025-02-01T13:49:49.000Z"
   },
   {
     "id": "spatie/laravel-menu",
@@ -458,7 +458,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-22T19:35:39.000Z",
-    "updatedAt": "2025-01-31T11:27:11.000Z"
+    "updatedAt": "2025-02-01T13:49:34.000Z"
   },
   {
     "id": "alexeymezenin/laravel-best-practices",
@@ -472,7 +472,7 @@
       "name": "alexeymezenin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4699969?v=4"
     },
-    "stars": 11613,
+    "stars": 11617,
     "starsDetail": {
       "total": 11514,
       "week": [
@@ -485,7 +485,7 @@
       "updatedAt": 1736060926
     },
     "license": null,
-    "forks": 2398,
+    "forks": 2399,
     "primaryLanguage": "",
     "pushedAt": "2024-09-16T09:38:56.000Z",
     "archived": false,
@@ -494,7 +494,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-25T07:02:44.000Z",
-    "updatedAt": "2025-01-31T11:27:44.000Z"
+    "updatedAt": "2025-02-01T13:50:06.000Z"
   },
   {
     "id": "andersao/l5-repository",
@@ -523,7 +523,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-12T17:07:54.000Z",
-    "updatedAt": "2025-01-31T11:27:28.000Z"
+    "updatedAt": "2025-02-01T13:49:51.000Z"
   },
   {
     "id": "antonioribeiro/tracker",
@@ -565,7 +565,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-01-17T10:27:18.000Z",
-    "updatedAt": "2025-01-31T11:27:13.000Z"
+    "updatedAt": "2025-02-01T13:49:36.000Z"
   },
   {
     "id": "clarkeash/doorman",
@@ -600,7 +600,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-05T17:53:41.000Z",
-    "updatedAt": "2025-01-31T11:27:03.000Z"
+    "updatedAt": "2025-02-01T13:49:26.000Z"
   },
   {
     "id": "cmgmyr/laravel-messenger",
@@ -638,7 +638,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-29T17:39:44.000Z",
-    "updatedAt": "2025-01-31T11:27:12.000Z"
+    "updatedAt": "2025-02-01T13:49:35.000Z"
   },
   {
     "id": "laravel/envoy",
@@ -670,7 +670,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-02-08T18:43:03.000Z",
-    "updatedAt": "2025-01-31T11:27:35.000Z"
+    "updatedAt": "2025-02-01T13:49:57.000Z"
   },
   {
     "id": "mpociot/laravel-apidoc-generator",
@@ -702,7 +702,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-05-03T20:20:16.000Z",
-    "updatedAt": "2025-01-31T11:26:53.000Z"
+    "updatedAt": "2025-02-01T13:49:17.000Z"
   },
   {
     "id": "rap2hpoutre/laravel-log-viewer",
@@ -739,7 +739,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-11-23T12:12:09.000Z",
-    "updatedAt": "2025-01-31T11:26:56.000Z"
+    "updatedAt": "2025-02-01T13:49:20.000Z"
   },
   {
     "id": "spatie/eloquent-sortable",
@@ -774,7 +774,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-07-15T15:58:10.000Z",
-    "updatedAt": "2025-01-31T11:27:06.000Z"
+    "updatedAt": "2025-02-01T13:49:30.000Z"
   },
   {
     "id": "akaunting/akaunting",
@@ -805,7 +805,7 @@
       "name": "akaunting",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26357771?v=4"
     },
-    "stars": 8307,
+    "stars": 8310,
     "starsDetail": {
       "total": 8228,
       "week": 18,
@@ -814,16 +814,16 @@
       "updatedAt": 1736035617
     },
     "license": "Other",
-    "forks": 2500,
+    "forks": 2503,
     "primaryLanguage": "Vue",
-    "pushedAt": "2025-01-31T00:22:48.000Z",
+    "pushedAt": "2025-02-01T00:23:37.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-06-21T14:17:56.000Z",
-    "updatedAt": "2025-01-31T10:43:57.000Z"
+    "updatedAt": "2025-02-01T13:09:19.000Z"
   },
   {
     "id": "barryvdh/laravel-ide-helper",
@@ -838,7 +838,7 @@
       "name": "barryvdh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/973269?v=4"
     },
-    "stars": 14356,
+    "stars": 14359,
     "starsDetail": {
       "total": 14314,
       "week": [
@@ -860,7 +860,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-10T00:12:55.000Z",
-    "updatedAt": "2025-01-31T11:26:52.000Z"
+    "updatedAt": "2025-02-01T13:49:16.000Z"
   },
   {
     "id": "Tucker-Eric/EloquentFilter",
@@ -902,7 +902,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-04T20:27:24.000Z",
-    "updatedAt": "2025-01-31T11:27:06.000Z"
+    "updatedAt": "2025-02-01T13:49:29.000Z"
   },
   {
     "id": "Zizaco/entrust",
@@ -913,7 +913,7 @@
       "name": "Zizaco",
       "avatarUrl": "https://avatars.githubusercontent.com/u/777635?v=4"
     },
-    "stars": 6047,
+    "stars": 6048,
     "starsDetail": {
       "total": 6046,
       "week": 3,
@@ -931,7 +931,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-02-07T06:30:20.000Z",
-    "updatedAt": "2025-01-31T11:27:00.000Z"
+    "updatedAt": "2025-02-01T13:49:24.000Z"
   },
   {
     "id": "fideloper/TrustedProxy",
@@ -960,7 +960,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-30T20:03:01.000Z",
-    "updatedAt": "2025-01-31T11:27:17.000Z"
+    "updatedAt": "2025-02-01T13:49:40.000Z"
   },
   {
     "id": "qcod/laravel-imageup",
@@ -998,7 +998,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-09-21T11:49:28.000Z",
-    "updatedAt": "2025-01-31T11:27:19.000Z"
+    "updatedAt": "2025-02-01T13:49:42.000Z"
   },
   {
     "id": "yajra/laravel-oci8",
@@ -1034,7 +1034,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-11-23T06:01:37.000Z",
-    "updatedAt": "2025-01-31T11:27:26.000Z"
+    "updatedAt": "2025-02-01T13:49:49.000Z"
   },
   {
     "id": "dompdf/dompdf",
@@ -1053,7 +1053,7 @@
       "name": "dompdf",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2776605?v=4"
     },
-    "stars": 10693,
+    "stars": 10696,
     "starsDetail": {
       "total": 10633,
       "week": 11,
@@ -1062,7 +1062,7 @@
       "updatedAt": 1736060852
     },
     "license": "GNU Lesser General Public License v2.1",
-    "forks": 1807,
+    "forks": 1806,
     "primaryLanguage": "CSS",
     "pushedAt": "2025-01-20T21:40:51.000Z",
     "archived": false,
@@ -1071,7 +1071,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-11-12T20:47:16.000Z",
-    "updatedAt": "2025-01-31T11:27:21.000Z"
+    "updatedAt": "2025-02-01T13:49:44.000Z"
   },
   {
     "id": "spatie/laravel-permission",
@@ -1087,7 +1087,7 @@
       "name": "spatie",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
     },
-    "stars": 12308,
+    "stars": 12309,
     "starsDetail": {
       "total": 12259,
       "week": 6,
@@ -1096,16 +1096,16 @@
       "updatedAt": 1736060786
     },
     "license": "MIT License",
-    "forks": 1791,
+    "forks": 1790,
     "primaryLanguage": "Blade",
-    "pushedAt": "2025-01-31T01:55:40.000Z",
+    "pushedAt": "2025-01-31T20:02:33.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-14T22:19:38.000Z",
-    "updatedAt": "2025-01-31T11:27:00.000Z"
+    "updatedAt": "2025-02-01T13:49:24.000Z"
   },
   {
     "id": "Intervention/image",
@@ -1122,7 +1122,7 @@
       "name": "Intervention",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3258272?v=4"
     },
-    "stars": 14046,
+    "stars": 14050,
     "starsDetail": {
       "total": 14007,
       "week": 15,
@@ -1133,14 +1133,14 @@
     "license": "MIT License",
     "forks": 1496,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-26T09:59:24.000Z",
+    "pushedAt": "2025-02-01T09:17:24.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-01-19T15:05:32.000Z",
-    "updatedAt": "2025-01-31T11:27:19.000Z"
+    "updatedAt": "2025-02-01T13:49:42.000Z"
   },
   {
     "id": "JosephSilber/page-cache",
@@ -1169,7 +1169,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-07-20T01:56:35.000Z",
-    "updatedAt": "2025-01-31T11:27:14.000Z"
+    "updatedAt": "2025-02-01T13:49:38.000Z"
   },
   {
     "id": "PHPJunior/laravel-video-chat",
@@ -1205,7 +1205,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-21T20:06:33.000Z",
-    "updatedAt": "2025-01-31T11:27:18.000Z"
+    "updatedAt": "2025-02-01T13:49:41.000Z"
   },
   {
     "id": "cybercog/laravel-love",
@@ -1255,7 +1255,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-01-02T21:21:49.000Z",
-    "updatedAt": "2025-01-31T11:27:18.000Z"
+    "updatedAt": "2025-02-01T13:49:41.000Z"
   },
   {
     "id": "santigarcor/laratrust",
@@ -1297,7 +1297,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-05-25T19:21:09.000Z",
-    "updatedAt": "2025-01-31T11:27:00.000Z"
+    "updatedAt": "2025-02-01T13:49:23.000Z"
   },
   {
     "id": "spatie/laravel-failed-job-monitor",
@@ -1333,7 +1333,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-18T12:40:13.000Z",
-    "updatedAt": "2025-01-31T11:27:37.000Z"
+    "updatedAt": "2025-02-01T13:50:00.000Z"
   },
   {
     "id": "teamtnt/tntsearch",
@@ -1375,7 +1375,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-26T10:23:57.000Z",
-    "updatedAt": "2025-01-31T11:27:31.000Z"
+    "updatedAt": "2025-02-01T13:49:54.000Z"
   },
   {
     "id": "webpatser/laravel-uuid",
@@ -1409,7 +1409,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-09-14T08:35:28.000Z",
-    "updatedAt": "2025-01-31T11:27:16.000Z"
+    "updatedAt": "2025-02-01T13:49:39.000Z"
   },
   {
     "id": "pixelfed/pixelfed",
@@ -1427,7 +1427,7 @@
       "name": "pixelfed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/38410642?v=4"
     },
-    "stars": 6255,
+    "stars": 6263,
     "starsDetail": {
       "total": 5719,
       "week": 8,
@@ -1436,16 +1436,16 @@
       "updatedAt": 1736060959
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 731,
+    "forks": 733,
     "primaryLanguage": "Procfile",
-    "pushedAt": "2025-01-31T10:09:13.000Z",
+    "pushedAt": "2025-02-01T05:23:38.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-17T01:48:45.000Z",
-    "updatedAt": "2025-01-31T11:27:50.000Z"
+    "updatedAt": "2025-02-01T13:50:13.000Z"
   },
   {
     "id": "Laravel-Backpack/Base",
@@ -1478,7 +1478,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-23T19:11:14.000Z",
-    "updatedAt": "2025-01-31T11:27:46.000Z"
+    "updatedAt": "2025-02-01T13:50:08.000Z"
   },
   {
     "id": "LaravelRUS/SleepingOwlAdmin",
@@ -1516,7 +1516,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-20T07:04:49.000Z",
-    "updatedAt": "2025-01-31T11:27:51.000Z"
+    "updatedAt": "2025-02-01T13:50:13.000Z"
   },
   {
     "id": "facade/ignition",
@@ -1552,7 +1552,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-26T12:35:48.000Z",
-    "updatedAt": "2025-01-31T11:26:56.000Z"
+    "updatedAt": "2025-02-01T13:49:20.000Z"
   },
   {
     "id": "francescomalatesta/laravel-api-boilerplate-jwt",
@@ -1589,7 +1589,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-06T14:16:31.000Z",
-    "updatedAt": "2025-01-31T11:27:47.000Z"
+    "updatedAt": "2025-02-01T13:50:09.000Z"
   },
   {
     "id": "kirkbushell/eloquence",
@@ -1618,7 +1618,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-04-23T17:34:09.000Z",
-    "updatedAt": "2025-01-31T11:27:25.000Z"
+    "updatedAt": "2025-02-01T13:49:48.000Z"
   },
   {
     "id": "mattstauffer/Torch",
@@ -1629,7 +1629,7 @@
       "name": "mattstauffer",
       "avatarUrl": "https://avatars.githubusercontent.com/u/151829?v=4"
     },
-    "stars": 1858,
+    "stars": 1860,
     "starsDetail": {
       "total": 1855,
       "week": 0,
@@ -1647,7 +1647,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-08-21T21:10:43.000Z",
-    "updatedAt": "2025-01-31T11:27:50.000Z"
+    "updatedAt": "2025-02-01T13:50:12.000Z"
   },
   {
     "id": "mpociot/teamwork",
@@ -1676,7 +1676,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-07T15:07:47.000Z",
-    "updatedAt": "2025-01-31T11:27:15.000Z"
+    "updatedAt": "2025-02-01T13:49:38.000Z"
   },
   {
     "id": "pyrocms/pyrocms",
@@ -1713,7 +1713,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2010-07-06T12:55:25.000Z",
-    "updatedAt": "2025-01-31T11:27:52.000Z"
+    "updatedAt": "2025-02-01T13:50:14.000Z"
   },
   {
     "id": "rebing/graphql-laravel",
@@ -1724,7 +1724,7 @@
       "name": "rebing",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8533161?v=4"
     },
-    "stars": 2145,
+    "stars": 2146,
     "starsDetail": {
       "total": 2140,
       "week": 0,
@@ -1733,7 +1733,7 @@
       "updatedAt": 1736060889
     },
     "license": "MIT License",
-    "forks": 266,
+    "forks": 267,
     "primaryLanguage": "Makefile",
     "pushedAt": "2024-12-23T07:38:35.000Z",
     "archived": false,
@@ -1742,7 +1742,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-09-19T10:28:28.000Z",
-    "updatedAt": "2025-01-31T11:27:33.000Z"
+    "updatedAt": "2025-02-01T13:49:56.000Z"
   },
   {
     "id": "spatie/laravel-fractal",
@@ -1778,7 +1778,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-06T10:08:35.000Z",
-    "updatedAt": "2025-01-31T11:27:33.000Z"
+    "updatedAt": "2025-02-01T13:49:56.000Z"
   },
   {
     "id": "spatie/laravel-newsletter",
@@ -1807,14 +1807,14 @@
     "license": "MIT License",
     "forks": 235,
     "primaryLanguage": "PHP",
-    "pushedAt": "2024-07-18T15:02:59.000Z",
+    "pushedAt": "2025-01-31T15:06:18.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-04T13:19:53.000Z",
-    "updatedAt": "2025-01-31T11:27:42.000Z"
+    "updatedAt": "2025-02-01T13:50:04.000Z"
   },
   {
     "id": "barryvdh/laravel-dompdf",
@@ -1847,7 +1847,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-06-23T11:27:07.000Z",
-    "updatedAt": "2025-01-31T11:27:20.000Z"
+    "updatedAt": "2025-02-01T13:49:43.000Z"
   },
   {
     "id": "itsgoingd/clockwork",
@@ -1884,7 +1884,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-06-21T23:57:05.000Z",
-    "updatedAt": "2025-01-31T11:26:55.000Z"
+    "updatedAt": "2025-02-01T13:49:19.000Z"
   },
   {
     "id": "laravel-zero/laravel-zero",
@@ -1934,7 +1934,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-01-26T19:56:14.000Z",
-    "updatedAt": "2025-01-31T11:27:48.000Z"
+    "updatedAt": "2025-02-01T13:50:10.000Z"
   },
   {
     "id": "nWidart/laravel-modules",
@@ -1960,7 +1960,7 @@
       "updatedAt": 1736060834
     },
     "license": "MIT License",
-    "forks": 980,
+    "forks": 979,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-12-23T21:15:40.000Z",
     "archived": false,
@@ -1969,7 +1969,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-27T21:01:29.000Z",
-    "updatedAt": "2025-01-31T11:27:16.000Z"
+    "updatedAt": "2025-02-01T13:49:39.000Z"
   },
   {
     "id": "owen-it/laravel-auditing",
@@ -1992,7 +1992,7 @@
       "name": "owen-it",
       "avatarUrl": "https://avatars.githubusercontent.com/u/13595876?v=4"
     },
-    "stars": 3117,
+    "stars": 3119,
     "starsDetail": {
       "total": 3098,
       "week": 11,
@@ -2010,7 +2010,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-08-20T11:39:51.000Z",
-    "updatedAt": "2025-01-31T11:27:08.000Z"
+    "updatedAt": "2025-02-01T13:49:31.000Z"
   },
   {
     "id": "alefesouza/laravel-vue-boilerplate",
@@ -2050,7 +2050,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-12-27T07:54:27.000Z",
-    "updatedAt": "2025-01-31T10:42:49.000Z"
+    "updatedAt": "2025-02-01T13:08:18.000Z"
   },
   {
     "id": "dwightwatson/validating",
@@ -2084,7 +2084,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-05-16T05:30:24.000Z",
-    "updatedAt": "2025-01-31T11:27:16.000Z"
+    "updatedAt": "2025-02-01T13:49:39.000Z"
   },
   {
     "id": "imanghafoori1/laravel-widgetize",
@@ -2125,7 +2125,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-02-04T18:27:31.000Z",
-    "updatedAt": "2025-01-31T11:27:36.000Z"
+    "updatedAt": "2025-02-01T13:49:59.000Z"
   },
   {
     "id": "laravel-enso/enso",
@@ -2165,7 +2165,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-06-22T16:39:52.000Z",
-    "updatedAt": "2025-01-31T10:43:38.000Z"
+    "updatedAt": "2025-02-01T13:09:02.000Z"
   },
   {
     "id": "recca0120/laravel-terminal",
@@ -2199,7 +2199,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-10T06:32:57.000Z",
-    "updatedAt": "2025-01-31T11:26:58.000Z"
+    "updatedAt": "2025-02-01T13:49:22.000Z"
   },
   {
     "id": "teamtnt/laravel-scout-tntsearch-driver",
@@ -2235,7 +2235,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-08-13T16:38:52.000Z",
-    "updatedAt": "2025-01-31T11:27:31.000Z"
+    "updatedAt": "2025-02-01T13:49:54.000Z"
   },
   {
     "id": "themsaid/laravel-langman",
@@ -2264,7 +2264,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-30T18:50:26.000Z",
-    "updatedAt": "2025-01-31T11:27:40.000Z"
+    "updatedAt": "2025-02-01T13:50:02.000Z"
   },
   {
     "id": "wmhello/laravel_template_with_vue",
@@ -2308,7 +2308,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-18T02:12:30.000Z",
-    "updatedAt": "2025-01-31T10:42:50.000Z"
+    "updatedAt": "2025-02-01T13:08:19.000Z"
   },
   {
     "id": "spatie/laravel-backup",
@@ -2337,14 +2337,14 @@
     "license": "MIT License",
     "forks": 768,
     "primaryLanguage": "PHP",
-    "pushedAt": "2025-01-31T11:15:28.000Z",
+    "pushedAt": "2025-02-01T08:56:01.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-17T12:12:41.000Z",
-    "updatedAt": "2025-01-31T11:27:26.000Z"
+    "updatedAt": "2025-02-01T13:49:49.000Z"
   },
   {
     "id": "Propaganistas/Laravel-Phone",
@@ -2360,7 +2360,7 @@
       "name": "Propaganistas",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6680176?v=4"
     },
-    "stars": 2807,
+    "stars": 2808,
     "starsDetail": {
       "total": 2790,
       "week": 3,
@@ -2371,14 +2371,14 @@
     "license": "MIT License",
     "forks": 219,
     "primaryLanguage": "PHP",
-    "pushedAt": "2024-12-28T11:35:46.000Z",
+    "pushedAt": "2025-01-31T12:11:17.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-02-23T22:54:38.000Z",
-    "updatedAt": "2025-01-31T11:27:17.000Z"
+    "updatedAt": "2025-02-01T13:49:40.000Z"
   },
   {
     "id": "tymondesigns/jwt-auth",
@@ -2412,7 +2412,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-09-04T21:50:50.000Z",
-    "updatedAt": "2025-01-31T11:27:00.000Z"
+    "updatedAt": "2025-02-01T13:49:24.000Z"
   },
   {
     "id": "spatie/laravel-activitylog",
@@ -2429,7 +2429,7 @@
       "name": "spatie",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
     },
-    "stars": 5421,
+    "stars": 5422,
     "starsDetail": {
       "total": 5403,
       "week": 0,
@@ -2447,7 +2447,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-23T12:17:12.000Z",
-    "updatedAt": "2025-01-31T11:27:07.000Z"
+    "updatedAt": "2025-02-01T13:49:31.000Z"
   },
   {
     "id": "spatie/laravel-medialibrary",
@@ -2484,7 +2484,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-04-14T07:20:15.000Z",
-    "updatedAt": "2025-01-31T11:27:20.000Z"
+    "updatedAt": "2025-02-01T13:49:43.000Z"
   },
   {
     "id": "microweber/microweber",
@@ -2506,7 +2506,7 @@
       "name": "microweber",
       "avatarUrl": "https://avatars.githubusercontent.com/u/281507?v=4"
     },
-    "stars": 3188,
+    "stars": 3192,
     "starsDetail": {
       "total": 3167,
       "week": 8,
@@ -2515,16 +2515,16 @@
       "updatedAt": 1736060968
     },
     "license": "MIT License",
-    "forks": 889,
+    "forks": 890,
     "primaryLanguage": "Sass",
-    "pushedAt": "2025-01-31T11:18:18.000Z",
+    "pushedAt": "2025-01-31T16:36:15.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2010-10-07T09:04:43.000Z",
-    "updatedAt": "2025-01-31T11:27:53.000Z"
+    "updatedAt": "2025-02-01T13:50:15.000Z"
   },
   {
     "id": "octobercms/october",
@@ -2545,7 +2545,7 @@
       "name": "octobercms",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5554805?v=4"
     },
-    "stars": 11062,
+    "stars": 11063,
     "starsDetail": {
       "total": 11058,
       "week": 4,
@@ -2563,7 +2563,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-11-26T23:30:43.000Z",
-    "updatedAt": "2025-01-31T11:27:51.000Z"
+    "updatedAt": "2025-02-01T13:50:13.000Z"
   },
   {
     "id": "404labfr/laravel-impersonate",
@@ -2598,7 +2598,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-02-10T17:35:27.000Z",
-    "updatedAt": "2025-01-31T11:27:10.000Z"
+    "updatedAt": "2025-02-01T13:49:34.000Z"
   },
   {
     "id": "laravel/telescope",
@@ -2631,7 +2631,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-23T14:34:23.000Z",
-    "updatedAt": "2025-01-31T11:26:59.000Z"
+    "updatedAt": "2025-02-01T13:49:23.000Z"
   },
   {
     "id": "mcamara/laravel-localization",
@@ -2666,7 +2666,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-08-25T23:14:30.000Z",
-    "updatedAt": "2025-01-31T11:27:38.000Z"
+    "updatedAt": "2025-02-01T13:50:01.000Z"
   },
   {
     "id": "ARCANEDEV/LogViewer",
@@ -2702,7 +2702,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-01T14:00:53.000Z",
-    "updatedAt": "2025-01-31T11:26:57.000Z"
+    "updatedAt": "2025-02-01T13:49:21.000Z"
   },
   {
     "id": "GrahamCampbell/Laravel-GitHub",
@@ -2733,7 +2733,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-07-26T14:55:40.000Z",
-    "updatedAt": "2025-01-31T11:27:42.000Z"
+    "updatedAt": "2025-02-01T13:50:04.000Z"
   },
   {
     "id": "Protoqol/Prequel",
@@ -2771,7 +2771,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-01T17:54:40.000Z",
-    "updatedAt": "2025-01-31T11:26:55.000Z"
+    "updatedAt": "2025-02-01T13:49:19.000Z"
   },
   {
     "id": "REBELinBLUE/deployer",
@@ -2809,7 +2809,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-04-07T17:55:16.000Z",
-    "updatedAt": "2025-01-31T11:27:48.000Z"
+    "updatedAt": "2025-02-01T13:50:10.000Z"
   },
   {
     "id": "arrilot/laravel-widgets",
@@ -2838,7 +2838,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-01-09T12:45:34.000Z",
-    "updatedAt": "2025-01-31T11:27:18.000Z"
+    "updatedAt": "2025-02-01T13:49:41.000Z"
   },
   {
     "id": "beckenrode/mysql-workbench-export-laravel-5-migrations",
@@ -2872,7 +2872,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-01T21:12:49.000Z",
-    "updatedAt": "2025-01-31T11:26:53.000Z"
+    "updatedAt": "2025-02-01T13:49:18.000Z"
   },
   {
     "id": "cybercog/laravel-ban",
@@ -2920,7 +2920,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-03-05T13:14:48.000Z",
-    "updatedAt": "2025-01-31T11:27:17.000Z"
+    "updatedAt": "2025-02-01T13:49:40.000Z"
   },
   {
     "id": "dimsav/laravel-translatable",
@@ -2954,7 +2954,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-02-03T13:45:13.000Z",
-    "updatedAt": "2025-01-31T11:27:39.000Z"
+    "updatedAt": "2025-02-01T13:50:02.000Z"
   },
   {
     "id": "elasticquent/Elasticquent",
@@ -2988,7 +2988,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-06-18T04:30:34.000Z",
-    "updatedAt": "2025-01-31T11:27:29.000Z"
+    "updatedAt": "2025-02-01T13:49:52.000Z"
   },
   {
     "id": "grimzy/laravel-mysql-spatial",
@@ -3028,7 +3028,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-03-03T06:36:22.000Z",
-    "updatedAt": "2025-01-31T11:27:29.000Z"
+    "updatedAt": "2025-02-01T13:49:51.000Z"
   },
   {
     "id": "imanghafoori1/laravel-heyman",
@@ -3072,7 +3072,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-04T10:53:12.000Z",
-    "updatedAt": "2025-01-31T11:27:03.000Z"
+    "updatedAt": "2025-02-01T13:49:27.000Z"
   },
   {
     "id": "kristijanhusak/laravel-form-builder",
@@ -3107,7 +3107,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-15T22:10:20.000Z",
-    "updatedAt": "2025-01-31T11:27:07.000Z"
+    "updatedAt": "2025-02-01T13:49:31.000Z"
   },
   {
     "id": "laracasts/Laravel-5-Generators-Extended",
@@ -3136,7 +3136,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-26T00:54:26.000Z",
-    "updatedAt": "2025-01-31T11:26:52.000Z"
+    "updatedAt": "2025-02-01T13:49:17.000Z"
   },
   {
     "id": "laracasts/PHP-Vars-To-Js-Transformer",
@@ -3165,7 +3165,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-02-25T18:24:45.000Z",
-    "updatedAt": "2025-01-31T11:27:23.000Z"
+    "updatedAt": "2025-02-01T13:49:45.000Z"
   },
   {
     "id": "nahid/talk",
@@ -3204,7 +3204,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-06T08:28:03.000Z",
-    "updatedAt": "2025-01-31T11:27:11.000Z"
+    "updatedAt": "2025-02-01T13:49:34.000Z"
   },
   {
     "id": "rocketeers/rocketeer",
@@ -3236,7 +3236,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-06-22T14:56:22.000Z",
-    "updatedAt": "2025-01-31T11:27:44.000Z"
+    "updatedAt": "2025-02-01T13:50:06.000Z"
   },
   {
     "id": "spatie/laravel-blade-javascript",
@@ -3272,7 +3272,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-05-28T09:01:52.000Z",
-    "updatedAt": "2025-01-31T11:27:24.000Z"
+    "updatedAt": "2025-02-01T13:49:47.000Z"
   },
   {
     "id": "spatie/laravel-tail",
@@ -3308,7 +3308,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-10T18:50:42.000Z",
-    "updatedAt": "2025-01-31T11:26:58.000Z"
+    "updatedAt": "2025-02-01T13:49:22.000Z"
   },
   {
     "id": "unicodeveloper/laravel-hackathon-starter",
@@ -3330,7 +3330,7 @@
       "name": "unicodeveloper",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2946769?v=4"
     },
-    "stars": 1640,
+    "stars": 1639,
     "starsDetail": {
       "total": 1639,
       "week": 0,
@@ -3348,7 +3348,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-08T02:14:29.000Z",
-    "updatedAt": "2025-01-31T11:27:45.000Z"
+    "updatedAt": "2025-02-01T13:50:07.000Z"
   },
   {
     "id": "Attendize/Attendize",
@@ -3370,7 +3370,7 @@
       "name": "Attendize",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17337376?v=4"
     },
-    "stars": 4060,
+    "stars": 4061,
     "starsDetail": {
       "total": 4048,
       "week": 4,
@@ -3388,7 +3388,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-03T01:33:10.000Z",
-    "updatedAt": "2025-01-31T11:27:49.000Z"
+    "updatedAt": "2025-02-01T13:50:11.000Z"
   },
   {
     "id": "spatie/laravel-analytics",
@@ -3423,7 +3423,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-03-12T08:58:50.000Z",
-    "updatedAt": "2025-01-31T11:27:41.000Z"
+    "updatedAt": "2025-02-01T13:50:03.000Z"
   },
   {
     "id": "spatie/laravel-responsecache",
@@ -3458,7 +3458,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-16T13:31:04.000Z",
-    "updatedAt": "2025-01-31T11:27:37.000Z"
+    "updatedAt": "2025-02-01T13:49:59.000Z"
   },
   {
     "id": "laravel/horizon",
@@ -3490,7 +3490,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-07-14T15:26:27.000Z",
-    "updatedAt": "2025-01-31T11:27:38.000Z"
+    "updatedAt": "2025-02-01T13:50:00.000Z"
   },
   {
     "id": "thephpleague/omnipay",
@@ -3501,7 +3501,7 @@
       "name": "thephpleague",
       "avatarUrl": "https://avatars.githubusercontent.com/u/527621?v=4"
     },
-    "stars": 5974,
+    "stars": 5975,
     "starsDetail": {
       "total": 5967,
       "week": 1,
@@ -3519,7 +3519,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-09-03T14:35:08.000Z",
-    "updatedAt": "2025-01-31T11:27:35.000Z"
+    "updatedAt": "2025-02-01T13:49:58.000Z"
   },
   {
     "id": "z-song/laravel-admin",
@@ -3554,7 +3554,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-30T10:42:57.000Z",
-    "updatedAt": "2025-01-31T11:27:47.000Z"
+    "updatedAt": "2025-02-01T13:50:09.000Z"
   },
   {
     "id": "laravel/socialite",
@@ -3568,7 +3568,7 @@
       "name": "laravel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/958072?v=4"
     },
-    "stars": 5615,
+    "stars": 5616,
     "starsDetail": {
       "total": 5596,
       "week": 2,
@@ -3586,7 +3586,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-08-18T02:49:36.000Z",
-    "updatedAt": "2025-01-31T11:27:02.000Z"
+    "updatedAt": "2025-02-01T13:49:25.000Z"
   },
   {
     "id": "rap2hpoutre/fast-excel",
@@ -3625,7 +3625,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-05T07:49:06.000Z",
-    "updatedAt": "2025-01-31T11:27:22.000Z"
+    "updatedAt": "2025-02-01T13:49:45.000Z"
   },
   {
     "id": "spatie/laravel-translatable",
@@ -3642,7 +3642,7 @@
       "name": "spatie",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
     },
-    "stars": 2285,
+    "stars": 2286,
     "starsDetail": {
       "total": 2273,
       "week": 3,
@@ -3660,7 +3660,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-07T11:49:51.000Z",
-    "updatedAt": "2025-01-31T11:27:39.000Z"
+    "updatedAt": "2025-02-01T13:50:01.000Z"
   },
   {
     "id": "barryvdh/laravel-debugbar",
@@ -3678,7 +3678,7 @@
       "name": "barryvdh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/973269?v=4"
     },
-    "stars": 17806,
+    "stars": 17815,
     "starsDetail": {
       "total": 17662,
       "week": 31,
@@ -3687,7 +3687,7 @@
       "updatedAt": 1736060776
     },
     "license": "MIT License",
-    "forks": 1568,
+    "forks": 1567,
     "primaryLanguage": "Blade",
     "pushedAt": "2025-01-31T09:23:10.000Z",
     "archived": false,
@@ -3696,7 +3696,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-09-05T10:26:54.000Z",
-    "updatedAt": "2025-01-31T11:26:56.000Z"
+    "updatedAt": "2025-02-01T13:49:20.000Z"
   },
   {
     "id": "area17/twill",
@@ -3732,7 +3732,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-29T17:46:46.000Z",
-    "updatedAt": "2025-01-31T11:27:53.000Z"
+    "updatedAt": "2025-02-01T13:50:15.000Z"
   },
   {
     "id": "spatie/laravel-tags",
@@ -3760,14 +3760,14 @@
     "license": "MIT License",
     "forks": 289,
     "primaryLanguage": "PHP",
-    "pushedAt": "2025-01-27T16:42:09.000Z",
+    "pushedAt": "2025-01-31T14:05:18.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-10-19T08:28:05.000Z",
-    "updatedAt": "2025-01-31T11:27:12.000Z"
+    "updatedAt": "2025-02-01T13:49:36.000Z"
   },
   {
     "id": "LavaLite/cms",
@@ -3811,7 +3811,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-04-21T12:42:15.000Z",
-    "updatedAt": "2025-01-31T11:27:52.000Z"
+    "updatedAt": "2025-02-01T13:50:14.000Z"
   },
   {
     "id": "beyondcode/laravel-mailbox",
@@ -3845,7 +3845,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-01-21T19:36:15.000Z",
-    "updatedAt": "2025-01-31T11:27:10.000Z"
+    "updatedAt": "2025-02-01T13:49:33.000Z"
   },
   {
     "id": "Torann/laravel-geoip",
@@ -3874,7 +3874,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-12-11T22:22:25.000Z",
-    "updatedAt": "2025-01-31T11:27:09.000Z"
+    "updatedAt": "2025-02-01T13:49:33.000Z"
   },
   {
     "id": "cviebrock/eloquent-sluggable",
@@ -3907,7 +3907,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-06-05T21:42:39.000Z",
-    "updatedAt": "2025-01-31T11:27:06.000Z"
+    "updatedAt": "2025-02-01T13:49:30.000Z"
   },
   {
     "id": "nuwave/lighthouse",
@@ -3924,7 +3924,7 @@
       "name": "nuwave",
       "avatarUrl": "https://avatars.githubusercontent.com/u/15846842?v=4"
     },
-    "stars": 3394,
+    "stars": 3396,
     "starsDetail": {
       "total": 3386,
       "week": 3,
@@ -3933,7 +3933,7 @@
       "updatedAt": 1736060891
     },
     "license": "MIT License",
-    "forks": 438,
+    "forks": 437,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2025-01-17T15:31:51.000Z",
     "archived": false,
@@ -3942,7 +3942,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-05-29T21:44:38.000Z",
-    "updatedAt": "2025-01-31T11:27:34.000Z"
+    "updatedAt": "2025-02-01T13:49:57.000Z"
   },
   {
     "id": "spatie/laravel-collection-macros",
@@ -3959,7 +3959,7 @@
       "name": "spatie",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
     },
-    "stars": 1776,
+    "stars": 1777,
     "starsDetail": {
       "total": 1769,
       "week": 3,
@@ -3977,7 +3977,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-07-26T13:10:12.000Z",
-    "updatedAt": "2025-01-31T11:27:08.000Z"
+    "updatedAt": "2025-02-01T13:49:32.000Z"
   },
   {
     "id": "artesaos/seotools",
@@ -4004,7 +4004,7 @@
       "name": "artesaos",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11164074?v=4"
     },
-    "stars": 3164,
+    "stars": 3166,
     "starsDetail": {
       "total": 3142,
       "week": 5,
@@ -4022,7 +4022,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-23T19:21:45.000Z",
-    "updatedAt": "2025-01-31T11:27:14.000Z"
+    "updatedAt": "2025-02-01T13:49:37.000Z"
   },
   {
     "id": "laravolt/avatar",
@@ -4057,7 +4057,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-12T07:01:40.000Z",
-    "updatedAt": "2025-01-31T11:27:22.000Z"
+    "updatedAt": "2025-02-01T13:49:45.000Z"
   },
   {
     "id": "lazychaser/laravel-nestedset",
@@ -4076,7 +4076,7 @@
       "name": "lazychaser",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2094856?v=4"
     },
-    "stars": 3686,
+    "stars": 3687,
     "starsDetail": {
       "total": 3676,
       "week": 5,
@@ -4085,7 +4085,7 @@
       "updatedAt": 1736060866
     },
     "license": null,
-    "forks": 471,
+    "forks": 470,
     "primaryLanguage": "PHP",
     "pushedAt": "2024-05-17T09:01:25.000Z",
     "archived": false,
@@ -4094,7 +4094,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-09-28T16:44:21.000Z",
-    "updatedAt": "2025-01-31T11:27:25.000Z"
+    "updatedAt": "2025-02-01T13:49:47.000Z"
   },
   {
     "id": "InfyOmLabs/laravel-generator",
@@ -4134,7 +4134,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-14T09:38:53.000Z",
-    "updatedAt": "2025-01-31T11:26:53.000Z"
+    "updatedAt": "2025-02-01T13:49:17.000Z"
   },
   {
     "id": "VentureCraft/revisionable",
@@ -4163,7 +4163,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-06T12:59:11.000Z",
-    "updatedAt": "2025-01-31T11:27:14.000Z"
+    "updatedAt": "2025-02-01T13:49:37.000Z"
   },
   {
     "id": "antonioribeiro/google2fa",
@@ -4200,7 +4200,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-09-21T16:24:13.000Z",
-    "updatedAt": "2025-01-31T11:27:02.000Z"
+    "updatedAt": "2025-02-01T13:49:26.000Z"
   },
   {
     "id": "apiato/apiato",
@@ -4292,7 +4292,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-10-07T11:10:05.000Z",
-    "updatedAt": "2025-01-31T11:27:43.000Z"
+    "updatedAt": "2025-02-01T13:50:05.000Z"
   },
   {
     "id": "JosephSilber/bouncer",
@@ -4332,7 +4332,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-17T00:34:40.000Z",
-    "updatedAt": "2025-01-31T11:26:59.000Z"
+    "updatedAt": "2025-02-01T13:49:23.000Z"
   },
   {
     "id": "barryvdh/laravel-snappy",
@@ -4361,7 +4361,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-12-18T12:09:11.000Z",
-    "updatedAt": "2025-01-31T11:27:20.000Z"
+    "updatedAt": "2025-02-01T13:49:43.000Z"
   },
   {
     "id": "dingo/api",
@@ -4390,7 +4390,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-04-11T12:31:18.000Z",
-    "updatedAt": "2025-01-31T11:27:33.000Z"
+    "updatedAt": "2025-02-01T13:49:56.000Z"
   },
   {
     "id": "mewebstudio/captcha",
@@ -4424,7 +4424,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-27T00:01:06.000Z",
-    "updatedAt": "2025-01-31T11:27:04.000Z"
+    "updatedAt": "2025-02-01T13:49:28.000Z"
   },
   {
     "id": "AsgardCms/Platform",
@@ -4461,7 +4461,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-11T08:22:27.000Z",
-    "updatedAt": "2025-01-31T11:27:52.000Z"
+    "updatedAt": "2025-02-01T13:50:14.000Z"
   },
   {
     "id": "GrafiteInc/Builder",
@@ -4499,7 +4499,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-15T20:07:15.000Z",
-    "updatedAt": "2025-01-31T11:27:45.000Z"
+    "updatedAt": "2025-02-01T13:50:07.000Z"
   },
   {
     "id": "GrahamCampbell/Laravel-Markdown",
@@ -4530,7 +4530,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-12-10T22:03:54.000Z",
-    "updatedAt": "2025-01-31T11:27:11.000Z"
+    "updatedAt": "2025-02-01T13:49:34.000Z"
   },
   {
     "id": "Vuedo/vuedo",
@@ -4564,7 +4564,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-07-15T06:07:07.000Z",
-    "updatedAt": "2025-01-31T10:43:15.000Z"
+    "updatedAt": "2025-02-01T13:08:41.000Z"
   },
   {
     "id": "amranidev/scaffold-interface",
@@ -4599,7 +4599,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-03T21:32:37.000Z",
-    "updatedAt": "2025-01-31T11:26:51.000Z"
+    "updatedAt": "2025-02-01T13:49:16.000Z"
   },
   {
     "id": "anlutro/laravel-settings",
@@ -4628,7 +4628,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-01-18T14:00:43.000Z",
-    "updatedAt": "2025-01-31T11:27:15.000Z"
+    "updatedAt": "2025-02-01T13:49:38.000Z"
   },
   {
     "id": "awes-io/awes-io",
@@ -4661,7 +4661,7 @@
       "updatedAt": 1736060792
     },
     "license": "MIT License",
-    "forks": 96,
+    "forks": 97,
     "primaryLanguage": "Vue",
     "pushedAt": "2019-08-09T13:49:10.000Z",
     "archived": false,
@@ -4670,7 +4670,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-01-23T22:58:17.000Z",
-    "updatedAt": "2025-01-31T11:27:04.000Z"
+    "updatedAt": "2025-02-01T13:49:27.000Z"
   },
   {
     "id": "dwightwatson/rememberable",
@@ -4704,7 +4704,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-03-08T23:56:11.000Z",
-    "updatedAt": "2025-01-31T11:27:36.000Z"
+    "updatedAt": "2025-02-01T13:49:58.000Z"
   },
   {
     "id": "dwijitsolutions/laraadmin",
@@ -4733,7 +4733,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-23T20:35:32.000Z",
-    "updatedAt": "2025-01-31T11:27:44.000Z"
+    "updatedAt": "2025-02-01T13:50:06.000Z"
   },
   {
     "id": "hootlex/laravel-friendships",
@@ -4759,7 +4759,7 @@
       "updatedAt": 1736060828
     },
     "license": "MIT License",
-    "forks": 150,
+    "forks": 151,
     "primaryLanguage": "PHP",
     "pushedAt": "2021-12-28T11:09:56.000Z",
     "archived": false,
@@ -4768,7 +4768,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-19T04:03:53.000Z",
-    "updatedAt": "2025-01-31T11:27:15.000Z"
+    "updatedAt": "2025-02-01T13:49:38.000Z"
   },
   {
     "id": "jadjoubran/laravel5-angular-material-starter",
@@ -4802,7 +4802,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-02T11:08:20.000Z",
-    "updatedAt": "2025-01-31T11:27:45.000Z"
+    "updatedAt": "2025-02-01T13:50:07.000Z"
   },
   {
     "id": "jcc/blog",
@@ -4839,7 +4839,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-12-27T03:56:51.000Z",
-    "updatedAt": "2025-01-31T10:43:18.000Z"
+    "updatedAt": "2025-02-01T13:08:44.000Z"
   },
   {
     "id": "jenssegers/date",
@@ -4874,7 +4874,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-28T23:48:46.000Z",
-    "updatedAt": "2025-01-31T11:27:40.000Z"
+    "updatedAt": "2025-02-01T13:50:02.000Z"
   },
   {
     "id": "kevinkhill/lavacharts",
@@ -4910,7 +4910,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-08-29T18:27:11.000Z",
-    "updatedAt": "2025-01-31T11:27:05.000Z"
+    "updatedAt": "2025-02-01T13:49:29.000Z"
   },
   {
     "id": "laravel/elixir",
@@ -4939,7 +4939,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-03T06:59:04.000Z",
-    "updatedAt": "2025-01-31T11:27:34.000Z"
+    "updatedAt": "2025-02-01T13:49:57.000Z"
   },
   {
     "id": "lubusIN/laravel-decomposer",
@@ -4973,7 +4973,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-02-17T16:52:39.000Z",
-    "updatedAt": "2025-01-31T11:26:54.000Z"
+    "updatedAt": "2025-02-01T13:49:18.000Z"
   },
   {
     "id": "nicolaslopezj/searchable",
@@ -5008,7 +5008,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-17T05:53:45.000Z",
-    "updatedAt": "2025-01-31T11:27:31.000Z"
+    "updatedAt": "2025-02-01T13:49:53.000Z"
   },
   {
     "id": "orchestral/tenanti",
@@ -5042,7 +5042,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-03-20T04:27:52.000Z",
-    "updatedAt": "2025-01-31T11:27:28.000Z"
+    "updatedAt": "2025-02-01T13:49:51.000Z"
   },
   {
     "id": "proengsoft/laravel-jsvalidation",
@@ -5071,7 +5071,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-03-15T23:38:26.000Z",
-    "updatedAt": "2025-01-31T11:27:23.000Z"
+    "updatedAt": "2025-02-01T13:49:46.000Z"
   },
   {
     "id": "spatie/laravel-pjax",
@@ -5106,7 +5106,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-16T18:44:31.000Z",
-    "updatedAt": "2025-01-31T11:27:23.000Z"
+    "updatedAt": "2025-02-01T13:49:46.000Z"
   },
   {
     "id": "spatie/laravel-uptime-monitor",
@@ -5141,7 +5141,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-09-09T06:55:41.000Z",
-    "updatedAt": "2025-01-31T11:27:38.000Z"
+    "updatedAt": "2025-02-01T13:50:00.000Z"
   },
   {
     "id": "spiritix/lada-cache",
@@ -5179,7 +5179,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-12T11:51:22.000Z",
-    "updatedAt": "2025-01-31T11:27:28.000Z"
+    "updatedAt": "2025-02-01T13:49:51.000Z"
   },
   {
     "id": "stefanzweifel/screeenly",
@@ -5213,7 +5213,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-07-13T18:37:11.000Z",
-    "updatedAt": "2025-01-31T11:27:49.000Z"
+    "updatedAt": "2025-02-01T13:50:11.000Z"
   },
   {
     "id": "Adldap2/Adldap2-Laravel",
@@ -5249,7 +5249,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-22T13:51:01.000Z",
-    "updatedAt": "2025-01-31T11:27:02.000Z"
+    "updatedAt": "2025-02-01T13:49:26.000Z"
   },
   {
     "id": "CodeSleeve/laravel-stapler",
@@ -5278,7 +5278,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-05-27T15:20:33.000Z",
-    "updatedAt": "2025-01-31T11:27:21.000Z"
+    "updatedAt": "2025-02-01T13:49:44.000Z"
   },
   {
     "id": "Intervention/imagecache",
@@ -5307,7 +5307,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-09T14:35:48.000Z",
-    "updatedAt": "2025-01-31T11:27:36.000Z"
+    "updatedAt": "2025-02-01T13:49:58.000Z"
   },
   {
     "id": "TomLingham/Laravel-Searchy",
@@ -5336,7 +5336,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-07-13T11:07:53.000Z",
-    "updatedAt": "2025-01-31T11:27:32.000Z"
+    "updatedAt": "2025-02-01T13:49:55.000Z"
   },
   {
     "id": "aaronlord/laroute",
@@ -5365,7 +5365,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-03-14T11:37:48.000Z",
-    "updatedAt": "2025-01-31T11:27:22.000Z"
+    "updatedAt": "2025-02-01T13:49:45.000Z"
   },
   {
     "id": "aschmelyun/larametrics",
@@ -5399,7 +5399,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-10-21T19:01:14.000Z",
-    "updatedAt": "2025-01-31T11:27:38.000Z"
+    "updatedAt": "2025-02-01T13:50:00.000Z"
   },
   {
     "id": "backup-manager/laravel",
@@ -5428,7 +5428,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-06-09T08:40:06.000Z",
-    "updatedAt": "2025-01-31T11:27:24.000Z"
+    "updatedAt": "2025-02-01T13:49:47.000Z"
   },
   {
     "id": "chrisbjr/api-guard",
@@ -5457,7 +5457,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-13T09:21:06.000Z",
-    "updatedAt": "2025-01-31T11:27:33.000Z"
+    "updatedAt": "2025-02-01T13:49:55.000Z"
   },
   {
     "id": "hootlex/laravel-moderation",
@@ -5491,7 +5491,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-27T19:22:00.000Z",
-    "updatedAt": "2025-01-31T11:27:12.000Z"
+    "updatedAt": "2025-02-01T13:49:35.000Z"
   },
   {
     "id": "ignited/laravel-omnipay",
@@ -5520,7 +5520,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-18T00:10:37.000Z",
-    "updatedAt": "2025-01-31T11:27:35.000Z"
+    "updatedAt": "2025-02-01T13:49:58.000Z"
   },
   {
     "id": "jarektkaczyk/eloquence",
@@ -5549,7 +5549,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-03-19T02:29:06.000Z",
-    "updatedAt": "2025-01-31T11:27:27.000Z"
+    "updatedAt": "2025-02-01T13:49:50.000Z"
   },
   {
     "id": "jrean/laravel-user-verification",
@@ -5594,7 +5594,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-11T04:37:37.000Z",
-    "updatedAt": "2025-01-31T11:27:02.000Z"
+    "updatedAt": "2025-02-01T13:49:26.000Z"
   },
   {
     "id": "laravel-doctrine/orm",
@@ -5627,7 +5627,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-13T20:37:59.000Z",
-    "updatedAt": "2025-01-31T11:27:27.000Z"
+    "updatedAt": "2025-02-01T13:49:49.000Z"
   },
   {
     "id": "lucadegasperi/oauth2-server-laravel",
@@ -5656,7 +5656,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-03T14:35:38.000Z",
-    "updatedAt": "2025-01-31T11:27:01.000Z"
+    "updatedAt": "2025-02-01T13:49:25.000Z"
   },
   {
     "id": "mpociot/laravel-test-factory-helper",
@@ -5688,7 +5688,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-26T23:41:49.000Z",
-    "updatedAt": "2025-01-31T11:26:55.000Z"
+    "updatedAt": "2025-02-01T13:49:19.000Z"
   },
   {
     "id": "patricktalmadge/bootstrapper",
@@ -5717,7 +5717,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-06-19T05:16:35.000Z",
-    "updatedAt": "2025-01-31T11:27:04.000Z"
+    "updatedAt": "2025-02-01T13:49:28.000Z"
   },
   {
     "id": "sleimanx2/plastic",
@@ -5750,7 +5750,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-05-07T12:09:58.000Z",
-    "updatedAt": "2025-01-31T11:27:30.000Z"
+    "updatedAt": "2025-02-01T13:49:53.000Z"
   },
   {
     "id": "someline/someline-starter",
@@ -5779,7 +5779,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-09T12:28:01.000Z",
-    "updatedAt": "2025-01-31T11:27:46.000Z"
+    "updatedAt": "2025-02-01T13:50:09.000Z"
   },
   {
     "id": "svenluijten/artisan-view",
@@ -5816,7 +5816,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-12T10:50:46.000Z",
-    "updatedAt": "2025-01-31T11:27:04.000Z"
+    "updatedAt": "2025-02-01T13:49:28.000Z"
   },
   {
     "id": "vinkla/laravel-hashids",
@@ -5850,7 +5850,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-03T10:18:25.000Z",
-    "updatedAt": "2025-01-31T11:27:09.000Z"
+    "updatedAt": "2025-02-01T13:49:33.000Z"
   },
   {
     "id": "voten-co/voten",
@@ -5883,7 +5883,7 @@
       "updatedAt": 1736035593
     },
     "license": "Apache License 2.0",
-    "forks": 229,
+    "forks": 228,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2020-06-27T16:38:39.000Z",
     "archived": false,
@@ -5892,7 +5892,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-22T07:13:54.000Z",
-    "updatedAt": "2025-01-31T10:43:28.000Z"
+    "updatedAt": "2025-02-01T13:08:53.000Z"
   },
   {
     "id": "ARCANEDEV/noCAPTCHA",
@@ -5923,7 +5923,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-01-17T15:25:30.000Z",
-    "updatedAt": "2025-01-31T11:27:13.000Z"
+    "updatedAt": "2025-02-01T13:49:36.000Z"
   },
   {
     "id": "ConsoleTVs/Charts",
@@ -5948,7 +5948,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-08-08T10:45:03.000Z",
-    "updatedAt": "2025-01-31T11:27:05.000Z"
+    "updatedAt": "2025-02-01T13:49:28.000Z"
   },
   {
     "id": "GrahamCampbell/Laravel-DigitalOcean",
@@ -5961,9 +5961,9 @@
       "name": "GrahamCampbell",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2829600?v=4"
     },
-    "stars": 494,
+    "stars": 495,
     "starsDetail": {
-      "total": 494
+      "total": 495
     },
     "license": "MIT License",
     "forks": 71,
@@ -5975,7 +5975,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-07-24T18:17:15.000Z",
-    "updatedAt": "2025-01-31T11:27:41.000Z"
+    "updatedAt": "2025-02-01T13:50:04.000Z"
   },
   {
     "id": "Laralum/Laralum",
@@ -6003,7 +6003,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-10-03T19:30:35.000Z",
-    "updatedAt": "2025-01-31T11:27:53.000Z"
+    "updatedAt": "2025-02-01T13:50:15.000Z"
   },
   {
     "id": "Maxlab/stacker",
@@ -6049,7 +6049,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-11-20T09:35:35.000Z",
-    "updatedAt": "2025-01-31T11:27:43.000Z"
+    "updatedAt": "2025-02-01T13:50:05.000Z"
   },
   {
     "id": "algolia/algoliasearch-laravel",
@@ -6079,7 +6079,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-06T16:16:29.000Z",
-    "updatedAt": "2025-01-31T11:27:29.000Z"
+    "updatedAt": "2025-02-01T13:49:52.000Z"
   },
   {
     "id": "artesaos/defender",
@@ -6112,7 +6112,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-22T20:49:54.000Z",
-    "updatedAt": "2025-01-31T11:27:01.000Z"
+    "updatedAt": "2025-02-01T13:49:25.000Z"
   },
   {
     "id": "asvae/laravel-api-tester",
@@ -6137,7 +6137,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-07-13T17:35:58.000Z",
-    "updatedAt": "2025-01-31T11:26:58.000Z"
+    "updatedAt": "2025-02-01T13:49:22.000Z"
   },
   {
     "id": "franzose/ClosureTable",
@@ -6169,7 +6169,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-04T10:39:39.000Z",
-    "updatedAt": "2025-01-31T11:27:25.000Z"
+    "updatedAt": "2025-02-01T13:49:48.000Z"
   },
   {
     "id": "furey/tinx",
@@ -6202,7 +6202,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-17T14:19:20.000Z",
-    "updatedAt": "2025-01-31T11:26:53.000Z"
+    "updatedAt": "2025-02-01T13:49:17.000Z"
   },
   {
     "id": "hasib32/rest-api-with-lumen",
@@ -6240,7 +6240,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-02-23T21:28:23.000Z",
-    "updatedAt": "2025-01-31T11:27:47.000Z"
+    "updatedAt": "2025-02-01T13:50:09.000Z"
   },
   {
     "id": "joselfonseca/laravel-api",
@@ -6271,7 +6271,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-25T00:51:03.000Z",
-    "updatedAt": "2025-01-31T11:27:46.000Z"
+    "updatedAt": "2025-02-01T13:50:08.000Z"
   },
   {
     "id": "keevitaja/linguist",
@@ -6306,7 +6306,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-23T08:02:39.000Z",
-    "updatedAt": "2025-01-31T11:27:40.000Z"
+    "updatedAt": "2025-02-01T13:50:03.000Z"
   },
   {
     "id": "laraedit/laraedit-docker",
@@ -6331,7 +6331,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-03T14:29:29.000Z",
-    "updatedAt": "2025-01-31T11:27:43.000Z"
+    "updatedAt": "2025-02-01T13:50:05.000Z"
   },
   {
     "id": "lookitsatravis/listify",
@@ -6356,7 +6356,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-09T15:01:28.000Z",
-    "updatedAt": "2025-01-31T11:27:13.000Z"
+    "updatedAt": "2025-02-01T13:49:36.000Z"
   },
   {
     "id": "mmanos/laravel-search",
@@ -6381,7 +6381,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-05-10T16:19:27.000Z",
-    "updatedAt": "2025-01-31T11:27:30.000Z"
+    "updatedAt": "2025-02-01T13:49:53.000Z"
   },
   {
     "id": "recca0120/laravel-tracy",
@@ -6413,7 +6413,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-08-13T13:55:29.000Z",
-    "updatedAt": "2025-01-31T11:26:57.000Z"
+    "updatedAt": "2025-02-01T13:49:21.000Z"
   },
   {
     "id": "spatie/laravel-glide",
@@ -6445,7 +6445,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-01-19T18:07:18.000Z",
-    "updatedAt": "2025-01-31T11:27:20.000Z"
+    "updatedAt": "2025-02-01T13:49:43.000Z"
   },
   {
     "id": "spatie/searchindex",
@@ -6470,7 +6470,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-01-15T16:41:31.000Z",
-    "updatedAt": "2025-01-31T11:27:31.000Z"
+    "updatedAt": "2025-02-01T13:49:53.000Z"
   },
   {
     "id": "tylercd100/lern",
@@ -6495,7 +6495,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-21T20:39:48.000Z",
-    "updatedAt": "2025-01-31T11:26:57.000Z"
+    "updatedAt": "2025-02-01T13:49:21.000Z"
   },
   {
     "id": "vinkla/laravel-translator",
@@ -6527,7 +6527,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-09-24T14:56:11.000Z",
-    "updatedAt": "2025-01-31T11:27:40.000Z"
+    "updatedAt": "2025-02-01T13:50:02.000Z"
   },
   {
     "id": "ziadoz/awesome-php",
