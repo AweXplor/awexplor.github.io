@@ -133,7 +133,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-11-09T09:43:47.000Z",
-    "updatedAt": "2025-02-03T01:57:03.000Z"
+    "updatedAt": "2025-02-04T04:24:55.000Z"
   },
   {
     "id": "timdonnelly/Advance",
@@ -1010,7 +1010,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-11T06:33:37.000Z",
-    "updatedAt": "2025-02-03T01:56:36.000Z"
+    "updatedAt": "2025-02-04T04:24:27.000Z"
   },
   {
     "id": "Quick/Quick",
@@ -1486,7 +1486,7 @@
       "name": "kodecocodes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4722515?v=4"
     },
-    "stars": 28919,
+    "stars": 28923,
     "starsDetail": {
       "total": 28892,
       "week": 10,
@@ -1495,7 +1495,7 @@
       "updatedAt": 1736033854
     },
     "license": "MIT License",
-    "forks": 4995,
+    "forks": 4996,
     "primaryLanguage": "C",
     "pushedAt": "2024-12-06T07:03:07.000Z",
     "archived": false,
@@ -1504,7 +1504,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-26T17:56:12.000Z",
-    "updatedAt": "2025-02-03T01:55:49.000Z"
+    "updatedAt": "2025-02-04T04:23:40.000Z"
   },
   {
     "id": "CosmicMind/Material",
@@ -1800,6 +1800,39 @@
     "goImportedBy": null,
     "createdAt": "2017-06-10T08:00:56.000Z",
     "updatedAt": "2025-02-03T14:56:12.000Z"
+  },
+  {
+    "id": "sindresorhus/LaunchAtLogin-Legacy",
+    "name": "sindresorhus/LaunchAtLogin-Legacy",
+    "description": "Add “Launch at Login” functionality to your macOS app in seconds",
+    "topics": [
+      "macos",
+      "swift",
+      "swift-package"
+    ],
+    "owner": {
+      "name": "sindresorhus",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/170270?v=4"
+    },
+    "stars": 1576,
+    "starsDetail": {
+      "total": 1570,
+      "week": 2,
+      "month": 7,
+      "year": 139,
+      "updatedAt": 1736059050
+    },
+    "license": "MIT License",
+    "forks": 123,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-06-25T00:03:49.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-07-30T17:12:19.000Z",
+    "updatedAt": "2025-02-04T04:34:42.000Z"
   },
   {
     "id": "stleamist/BetterSafariView",
@@ -2248,7 +2281,7 @@
       "name": "CoreOffice",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65599322?v=4"
     },
-    "stars": 845,
+    "stars": 846,
     "starsDetail": {
       "total": 841,
       "week": 2,
@@ -2266,7 +2299,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-10-27T20:55:43.000Z",
-    "updatedAt": "2025-02-03T01:56:31.000Z"
+    "updatedAt": "2025-02-04T04:24:22.000Z"
   },
   {
     "id": "FlineDev/BartyCrouch",
@@ -2306,7 +2339,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-14T16:08:40.000Z",
-    "updatedAt": "2025-02-03T01:56:06.000Z"
+    "updatedAt": "2025-02-04T04:23:57.000Z"
   },
   {
     "id": "GottaGetSwifty/CodableWrappers",
@@ -2893,7 +2926,7 @@
       "updatedAt": 1736033782
     },
     "license": "Apache License 2.0",
-    "forks": 6016,
+    "forks": 6015,
     "primaryLanguage": "C",
     "pushedAt": "2024-08-19T06:17:16.000Z",
     "archived": false,
@@ -2902,7 +2935,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-03-20T10:49:12.000Z",
-    "updatedAt": "2025-02-03T01:55:38.000Z"
+    "updatedAt": "2025-02-04T04:23:29.000Z"
   },
   {
     "id": "sindresorhus/Defaults",
@@ -2952,7 +2985,7 @@
       "name": "swiftlang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42816656?v=4"
     },
-    "stars": 9828,
+    "stars": 9829,
     "starsDetail": {
       "total": 9811,
       "week": 7,
@@ -2963,14 +2996,14 @@
     "license": "Apache License 2.0",
     "forks": 1362,
     "primaryLanguage": "Emacs Lisp",
-    "pushedAt": "2025-02-02T09:48:42.000Z",
+    "pushedAt": "2025-02-03T19:45:14.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-23T21:41:12.000Z",
-    "updatedAt": "2025-02-03T01:55:55.000Z"
+    "updatedAt": "2025-02-04T04:23:46.000Z"
   },
   {
     "id": "exyte/PopupView",
@@ -4435,6 +4468,46 @@
     "updatedAt": "2025-02-03T18:26:12.000Z"
   },
   {
+    "id": "FluidGroup/Brightroom",
+    "name": "FluidGroup/Brightroom",
+    "description": "📷 A composable image editor using Core Image and Metal.",
+    "topics": [
+      "coreimage",
+      "editor",
+      "gpu",
+      "hacktoberfest",
+      "image",
+      "instagram",
+      "photo",
+      "shader",
+      "uikit",
+      "vsco"
+    ],
+    "owner": {
+      "name": "FluidGroup",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/107502025?v=4"
+    },
+    "stars": 3429,
+    "starsDetail": {
+      "total": 3406,
+      "week": 3,
+      "month": 47,
+      "year": 356,
+      "updatedAt": 1736034061
+    },
+    "license": "MIT License",
+    "forks": 314,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2025-01-20T07:08:08.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-10-08T11:44:36.000Z",
+    "updatedAt": "2025-02-04T04:24:07.000Z"
+  },
+  {
     "id": "aptabase/aptabase",
     "name": "aptabase/aptabase",
     "description": "✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps",
@@ -4569,7 +4642,7 @@
       "name": "AndrewHartAR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1865635?v=4"
     },
-    "stars": 5488,
+    "stars": 5487,
     "starsDetail": {
       "total": 5483,
       "week": 1,
@@ -4587,7 +4660,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-07-15T18:29:21.000Z",
-    "updatedAt": "2025-02-03T01:55:38.000Z"
+    "updatedAt": "2025-02-04T04:23:28.000Z"
   },
   {
     "id": "ArtSabintsev/Zephyr",
@@ -4758,7 +4831,7 @@
       "name": "Kitura",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42834347?v=4"
     },
-    "stars": 7629,
+    "stars": 7628,
     "starsDetail": {
       "total": 7628,
       "week": 2,
@@ -4776,7 +4849,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-08T16:12:21.000Z",
-    "updatedAt": "2025-02-03T01:56:45.000Z"
+    "updatedAt": "2025-02-04T04:24:37.000Z"
   },
   {
     "id": "Krisiacik/ImageViewer",
@@ -5078,7 +5151,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-31T03:51:23.000Z",
-    "updatedAt": "2025-02-03T01:55:51.000Z"
+    "updatedAt": "2025-02-04T04:23:42.000Z"
   },
   {
     "id": "hyperoslo/Presentation",
@@ -5949,6 +6022,56 @@
     "updatedAt": "2025-02-03T18:26:09.000Z"
   },
   {
+    "id": "Mijick/Popups",
+    "name": "Mijick/Popups",
+    "description": "Popups, popovers, sheets, alerts, toasts, banners, (...) presentation made simple. Written with and for SwiftUI.",
+    "topics": [
+      "alert",
+      "cocoapods",
+      "ios",
+      "ios-sdk",
+      "ios-swift",
+      "mobile",
+      "popover",
+      "popup",
+      "popup-window",
+      "popupview",
+      "popupwindow",
+      "swift",
+      "swift-library",
+      "swift-package",
+      "swift-package-manager",
+      "swift6",
+      "swiftui",
+      "swiftui-components",
+      "swiftui-framework",
+      "toast"
+    ],
+    "owner": {
+      "name": "Mijick",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125037042?v=4"
+    },
+    "stars": 1468,
+    "starsDetail": {
+      "total": 1428,
+      "week": 6,
+      "month": 39,
+      "year": 936,
+      "updatedAt": 1736034515
+    },
+    "license": "Apache License 2.0",
+    "forks": 67,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2024-12-19T19:59:47.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-02-10T22:48:37.000Z",
+    "updatedAt": "2025-02-04T04:34:43.000Z"
+  },
+  {
     "id": "stephencelis/SQLite.swift",
     "name": "stephencelis/SQLite.swift",
     "description": "A type-safe, Swift-language layer over SQLite3.",
@@ -6445,7 +6568,7 @@
       "name": "realm",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7575099?v=4"
     },
-    "stars": 16385,
+    "stars": 16386,
     "starsDetail": {
       "total": 16360,
       "week": 3,
@@ -6463,7 +6586,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-04-16T20:06:56.000Z",
-    "updatedAt": "2025-02-03T01:55:45.000Z"
+    "updatedAt": "2025-02-04T04:23:36.000Z"
   },
   {
     "id": "aheze/Popovers",
@@ -6547,6 +6670,46 @@
     "goImportedBy": null,
     "createdAt": "2017-07-27T18:50:15.000Z",
     "updatedAt": "2025-02-03T14:57:04.000Z"
+  },
+  {
+    "id": "CoreOffice/XMLCoder",
+    "name": "CoreOffice/XMLCoder",
+    "description": "Easy XML parsing using Codable protocols in Swift",
+    "topics": [
+      "carthage",
+      "cocoapods",
+      "codable",
+      "decoder",
+      "encoder",
+      "swift",
+      "swift4",
+      "xml",
+      "xml-parser",
+      "xml-serializer"
+    ],
+    "owner": {
+      "name": "CoreOffice",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65599322?v=4"
+    },
+    "stars": 813,
+    "starsDetail": {
+      "total": 809,
+      "week": 1,
+      "month": 3,
+      "year": 61,
+      "updatedAt": 1736034148
+    },
+    "license": "MIT License",
+    "forks": 112,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-02-12T11:28:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-11-08T09:26:06.000Z",
+    "updatedAt": "2025-02-04T04:24:21.000Z"
   },
   {
     "id": "DeclarativeHub/Bond",
@@ -6732,7 +6895,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-22T08:39:02.000Z",
-    "updatedAt": "2025-02-03T01:56:17.000Z"
+    "updatedAt": "2025-02-04T04:24:08.000Z"
   },
   {
     "id": "Ramotion/circle-menu",
@@ -6994,7 +7157,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-05T01:26:03.000Z",
-    "updatedAt": "2025-02-03T01:57:27.000Z"
+    "updatedAt": "2025-02-04T04:25:20.000Z"
   },
   {
     "id": "cezheng/Fuzi",
@@ -7713,7 +7876,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-26T15:24:14.000Z",
-    "updatedAt": "2025-02-03T01:55:46.000Z"
+    "updatedAt": "2025-02-04T04:23:37.000Z"
   },
   {
     "id": "piemonte/Player",
@@ -7989,7 +8152,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-24T15:39:02.000Z",
-    "updatedAt": "2025-02-03T01:57:26.000Z"
+    "updatedAt": "2025-02-04T04:25:19.000Z"
   },
   {
     "id": "yapstudios/YapAnimator",
@@ -8169,7 +8332,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-28T09:41:26.000Z",
-    "updatedAt": "2025-02-03T01:56:12.000Z"
+    "updatedAt": "2025-02-04T04:24:03.000Z"
   },
   {
     "id": "bizz84/SwiftyStoreKit",
@@ -8246,6 +8409,53 @@
     "goImportedBy": null,
     "createdAt": "2018-03-01T20:22:12.000Z",
     "updatedAt": "2025-02-03T18:26:40.000Z"
+  },
+  {
+    "id": "sparrowcode/AlertKit",
+    "name": "sparrowcode/AlertKit",
+    "description": "Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets.",
+    "topics": [
+      "alert",
+      "alert-controller",
+      "animated",
+      "apple",
+      "apple-music",
+      "applemusic",
+      "appstore",
+      "feedback",
+      "ios",
+      "native",
+      "popup",
+      "swift",
+      "swiftui",
+      "swiftui-example",
+      "ui",
+      "ui-components",
+      "uikit"
+    ],
+    "owner": {
+      "name": "sparrowcode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/98487302?v=4"
+    },
+    "stars": 2461,
+    "starsDetail": {
+      "total": 2437,
+      "week": 1,
+      "month": 25,
+      "year": 327,
+      "updatedAt": 1736034426
+    },
+    "license": "MIT License",
+    "forks": 137,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2024-08-11T16:29:07.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-04-28T13:03:40.000Z",
+    "updatedAt": "2025-02-04T04:24:57.000Z"
   },
   {
     "id": "FabrizioBrancati/Queuer",
@@ -8401,6 +8611,38 @@
     "goImportedBy": null,
     "createdAt": "2013-09-12T14:18:54.000Z",
     "updatedAt": "2025-02-03T18:25:30.000Z"
+  },
+  {
+    "id": "swiftlang/swiftly",
+    "name": "swiftlang/swiftly",
+    "description": "A Swift toolchain installer and manager, written in Swift.",
+    "topics": [
+      "swift",
+      "version-manager"
+    ],
+    "owner": {
+      "name": "swiftlang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/42816656?v=4"
+    },
+    "stars": 549,
+    "starsDetail": {
+      "total": 549,
+      "week": 10,
+      "month": 24,
+      "year": 291,
+      "updatedAt": 1738644047
+    },
+    "license": "Apache License 2.0",
+    "forks": 33,
+    "primaryLanguage": "C",
+    "pushedAt": "2025-02-03T22:37:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-06-20T18:47:31.000Z",
+    "updatedAt": "2025-02-04T04:28:53.000Z"
   },
   {
     "id": "apple/swift-argument-parser",
@@ -8657,7 +8899,7 @@
       "name": "TokamakUI",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47811905?v=4"
     },
-    "stars": 2668,
+    "stars": 2669,
     "starsDetail": {
       "total": 2649,
       "week": 4,
@@ -8675,7 +8917,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-09-15T19:58:18.000Z",
-    "updatedAt": "2025-02-03T01:56:37.000Z"
+    "updatedAt": "2025-02-04T04:24:29.000Z"
   },
   {
     "id": "devxoul/Then",
@@ -8718,7 +8960,7 @@
       "name": "kodecocodes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4722515?v=4"
     },
-    "stars": 13141,
+    "stars": 13142,
     "starsDetail": {
       "total": 13133,
       "week": 7,
@@ -8731,7 +8973,7 @@
       "updatedAt": 1736034241
     },
     "license": "Other",
-    "forks": 2144,
+    "forks": 2145,
     "primaryLanguage": "",
     "pushedAt": "2024-02-07T14:53:28.000Z",
     "archived": false,
@@ -8740,7 +8982,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-10T00:52:42.000Z",
-    "updatedAt": "2025-02-03T01:56:47.000Z"
+    "updatedAt": "2025-02-04T04:24:39.000Z"
   },
   {
     "id": "SwiftKickMobile/SwiftMessages",
@@ -8986,7 +9228,7 @@
       "name": "0thernet",
       "avatarUrl": "https://avatars.githubusercontent.com/u/894119?v=4"
     },
-    "stars": 616,
+    "stars": 617,
     "starsDetail": {
       "total": 616,
       "week": 0,
@@ -9004,7 +9246,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-01-02T02:13:26.000Z",
-    "updatedAt": "2025-02-03T01:56:10.000Z"
+    "updatedAt": "2025-02-04T04:24:01.000Z"
   },
   {
     "id": "AFathi/ARVideoKit",
@@ -9249,7 +9491,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-18T03:49:56.000Z",
-    "updatedAt": "2025-02-03T01:57:23.000Z"
+    "updatedAt": "2025-02-04T04:25:16.000Z"
   },
   {
     "id": "HarshilShah/DeckTransition",
@@ -10403,7 +10645,7 @@
       "name": "ivanvorobei",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10995774?v=4"
     },
-    "stars": 2742,
+    "stars": 2743,
     "starsDetail": {
       "total": 2741,
       "week": 0,
@@ -10421,7 +10663,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-27T11:51:50.000Z",
-    "updatedAt": "2025-02-03T01:56:59.000Z"
+    "updatedAt": "2025-02-04T04:24:51.000Z"
   },
   {
     "id": "jogendra/LoadingShimmer",
@@ -11272,6 +11514,35 @@
     "updatedAt": "2025-02-03T14:57:31.000Z"
   },
   {
+    "id": "swiftlang/swift-corelibs-xctest",
+    "name": "swiftlang/swift-corelibs-xctest",
+    "description": "The XCTest Project, A Swift core library for providing unit test support",
+    "topics": [],
+    "owner": {
+      "name": "swiftlang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/42816656?v=4"
+    },
+    "stars": 1157,
+    "starsDetail": {
+      "total": 1154,
+      "week": 0,
+      "month": 2,
+      "year": 65,
+      "updatedAt": 1736034252
+    },
+    "license": "Apache License 2.0",
+    "forks": 267,
+    "primaryLanguage": "CMake",
+    "pushedAt": "2025-02-03T12:00:41.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-11-09T20:15:01.000Z",
+    "updatedAt": "2025-02-04T04:24:40.000Z"
+  },
+  {
     "id": "vadymmarkov/Beethoven",
     "name": "vadymmarkov/Beethoven",
     "description": ":guitar: A maestro of pitch detection.",
@@ -12039,6 +12310,55 @@
     "goImportedBy": null,
     "createdAt": "2014-06-25T04:48:55.000Z",
     "updatedAt": "2025-02-03T14:57:30.000Z"
+  },
+  {
+    "id": "sparrowcode/PermissionsKit",
+    "name": "sparrowcode/PermissionsKit",
+    "description": "Universal API for request permission and get its statuses.",
+    "topics": [
+      "calendar",
+      "camera",
+      "dialog",
+      "interface",
+      "ios",
+      "location",
+      "notification",
+      "permission",
+      "permissionkit",
+      "permissions",
+      "photo-gallery",
+      "reminder",
+      "request",
+      "scope",
+      "sparrow",
+      "sppermissions",
+      "ui",
+      "wizard",
+      "xcode"
+    ],
+    "owner": {
+      "name": "sparrowcode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/98487302?v=4"
+    },
+    "stars": 5691,
+    "starsDetail": {
+      "total": 5681,
+      "week": 3,
+      "month": 16,
+      "year": 302,
+      "updatedAt": 1736034168
+    },
+    "license": "MIT License",
+    "forks": 466,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2024-11-18T13:09:47.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-02-16T17:49:57.000Z",
+    "updatedAt": "2025-02-04T04:24:24.000Z"
   },
   {
     "id": "Carthage/Carthage",
@@ -13449,6 +13769,46 @@
     "updatedAt": "2025-02-03T18:25:59.000Z"
   },
   {
+    "id": "sindresorhus/Settings",
+    "name": "sindresorhus/Settings",
+    "description": "⚙ Add a settings window to your macOS app in minutes",
+    "topics": [
+      "carthage",
+      "cocoapods",
+      "macos",
+      "preferences",
+      "preferences-window",
+      "settings",
+      "swift-package",
+      "swift-package-manager",
+      "swiftui",
+      "swiftui-components"
+    ],
+    "owner": {
+      "name": "sindresorhus",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/170270?v=4"
+    },
+    "stars": 1474,
+    "starsDetail": {
+      "total": 1468,
+      "week": 2,
+      "month": 11,
+      "year": 130,
+      "updatedAt": 1736059062
+    },
+    "license": "MIT License",
+    "forks": 105,
+    "primaryLanguage": "Swift",
+    "pushedAt": "2024-06-05T11:07:25.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-06-29T13:05:08.000Z",
+    "updatedAt": "2025-02-04T04:34:42.000Z"
+  },
+  {
     "id": "soapyigu/LeetCode-Swift",
     "name": "soapyigu/LeetCode-Swift",
     "description": "Solutions to LeetCode by Swift",
@@ -14135,7 +14495,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-09-09T10:57:33.000Z",
-    "updatedAt": "2025-02-03T01:56:07.000Z"
+    "updatedAt": "2025-02-04T04:23:58.000Z"
   },
   {
     "id": "GEOSwift/GEOSwift",
@@ -16408,7 +16768,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-04-22T19:15:10.000Z",
-    "updatedAt": "2025-02-03T01:56:18.000Z"
+    "updatedAt": "2025-02-04T04:24:10.000Z"
   },
   {
     "id": "schmidyy/Loaf",
@@ -16505,7 +16865,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-23T11:05:20.000Z",
-    "updatedAt": "2025-02-03T01:56:51.000Z"
+    "updatedAt": "2025-02-04T04:24:43.000Z"
   },
   {
     "id": "spring-media/Carlos",
@@ -17475,7 +17835,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-06-04T11:25:59.000Z",
-    "updatedAt": "2025-02-03T01:56:54.000Z"
+    "updatedAt": "2025-02-04T04:24:46.000Z"
   },
   {
     "id": "Esqarrouth/EZSwiftExtensions",
@@ -17512,7 +17872,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-14T16:10:25.000Z",
-    "updatedAt": "2025-02-03T01:57:25.000Z"
+    "updatedAt": "2025-02-04T04:25:18.000Z"
   },
   {
     "id": "FutureKit/FutureKit",
@@ -17969,7 +18329,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-25T17:20:10.000Z",
-    "updatedAt": "2025-02-03T01:56:55.000Z"
+    "updatedAt": "2025-02-04T04:24:47.000Z"
   },
   {
     "id": "Ramotion/paper-switch",
@@ -19121,7 +19481,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-24T09:28:05.000Z",
-    "updatedAt": "2025-02-03T01:57:12.000Z"
+    "updatedAt": "2025-02-04T04:25:04.000Z"
   },
   {
     "id": "jessesquires/JSQCoreDataKit",
@@ -19493,6 +19853,45 @@
     "goImportedBy": null,
     "createdAt": "2017-03-01T06:10:45.000Z",
     "updatedAt": "2025-02-03T14:59:02.000Z"
+  },
+  {
+    "id": "matghazaryan/Unrealm",
+    "name": "matghazaryan/Unrealm",
+    "description": "Unrealm is an extension on RealmCocoa, which enables Swift native types to be saved in Realm.",
+    "topics": [
+      "database",
+      "db",
+      "enum",
+      "ios",
+      "realm",
+      "realmswift",
+      "struct",
+      "swift",
+      "xcode"
+    ],
+    "owner": {
+      "name": "matghazaryan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5268958?v=4"
+    },
+    "stars": 538,
+    "starsDetail": {
+      "total": 538,
+      "week": 0,
+      "month": 0,
+      "year": 11,
+      "updatedAt": 1736033845
+    },
+    "license": "MIT License",
+    "forks": 73,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2024-08-31T18:48:09.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-06-01T19:43:30.000Z",
+    "updatedAt": "2025-02-04T04:23:38.000Z"
   },
   {
     "id": "maxep/MXParallaxHeader",
@@ -20255,7 +20654,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-10-20T15:18:19.000Z",
-    "updatedAt": "2025-02-03T01:56:04.000Z"
+    "updatedAt": "2025-02-04T04:23:55.000Z"
   },
   {
     "id": "wojteklu/Watchdog",
@@ -21292,6 +21691,37 @@
     "updatedAt": "2025-02-03T14:51:18.000Z"
   },
   {
+    "id": "FlineDev/AnyLint",
+    "name": "FlineDev/AnyLint",
+    "description": "Lint anything by combining the power of scripts & regular expressions.",
+    "topics": [
+      "autocorrection",
+      "lint-check",
+      "regex",
+      "scripts",
+      "swift"
+    ],
+    "owner": {
+      "name": "FlineDev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12431907?v=4"
+    },
+    "stars": 116,
+    "starsDetail": {
+      "total": 116
+    },
+    "license": "MIT License",
+    "forks": 4,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2023-04-09T22:14:02.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-03-07T09:53:32.000Z",
+    "updatedAt": "2025-02-04T04:23:31.000Z"
+  },
+  {
     "id": "Frugghi/SwiftLCS",
     "name": "Frugghi/SwiftLCS",
     "description": "Swift implementation of the longest common subsequence (LCS) algorithm.",
@@ -21650,7 +22080,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-14T17:27:39.000Z",
-    "updatedAt": "2025-02-03T01:56:51.000Z"
+    "updatedAt": "2025-02-04T04:24:43.000Z"
   },
   {
     "id": "Jaesung-Jung/CapturePreventionKit",
@@ -21751,6 +22181,31 @@
     "goImportedBy": null,
     "createdAt": "2014-12-17T10:52:04.000Z",
     "updatedAt": "2025-02-03T14:50:47.000Z"
+  },
+  {
+    "id": "JaylenCoding/MCScratchImageView",
+    "name": "JaylenCoding/MCScratchImageView",
+    "description": "A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below.",
+    "topics": [],
+    "owner": {
+      "name": "JaylenCoding",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25859636?v=4"
+    },
+    "stars": 357,
+    "starsDetail": {
+      "total": 357
+    },
+    "license": "MIT License",
+    "forks": 27,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2020-03-04T07:20:51.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-12-26T15:29:21.000Z",
+    "updatedAt": "2025-02-04T04:24:06.000Z"
   },
   {
     "id": "KaoruMuta/IGStoryButtonKit",
@@ -22138,41 +22593,6 @@
     "updatedAt": "2025-02-03T18:26:01.000Z"
   },
   {
-    "id": "MKGitHub/UIPheonix",
-    "name": "MKGitHub/UIPheonix",
-    "description": "Inspired by game development UIPheonix is a super easy, flexible, dynamic and highly scalable UI framework + concept for building reusable component/control-driven apps for macOS, iOS and tvOS. The same API apply for cross platform development! Think of it as using Lego blocks, you can use similar ones and move them around easy as pie.",
-    "topics": [
-      "component",
-      "control",
-      "cross-platform",
-      "layout",
-      "mvc",
-      "mvvm",
-      "reusable",
-      "swift",
-      "ui"
-    ],
-    "owner": {
-      "name": "MKGitHub",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/535550?v=4"
-    },
-    "stars": 29,
-    "starsDetail": {
-      "total": 29
-    },
-    "license": "Apache License 2.0",
-    "forks": 6,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2019-09-19T13:26:16.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-08-22T19:51:13.000Z",
-    "updatedAt": "2025-01-20T10:15:06.000Z"
-  },
-  {
     "id": "MacPaw/CocoaSprings",
     "name": "MacPaw/CocoaSprings",
     "description": "Interactive spring animations for macOS/iOS",
@@ -22254,6 +22674,93 @@
     "goImportedBy": null,
     "createdAt": "2018-06-04T22:07:16.000Z",
     "updatedAt": "2025-02-03T18:27:11.000Z"
+  },
+  {
+    "id": "Mijick/Camera",
+    "name": "Mijick/Camera",
+    "description": "Camera made simple. The ultimate camera library that significantly reduces implementation time and effort. Written with and for SwiftUI.",
+    "topics": [
+      "avfoundation",
+      "camera",
+      "camera-api",
+      "cocoapods",
+      "ios",
+      "ios-camera",
+      "ios-sdk",
+      "ios-swift",
+      "mobile",
+      "swift",
+      "swift-5",
+      "swift-camera",
+      "swift-library",
+      "swift-package",
+      "swift-package-manager",
+      "swift5",
+      "swiftui",
+      "swiftui-camera",
+      "swiftui-components",
+      "swiftui-framework"
+    ],
+    "owner": {
+      "name": "Mijick",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125037042?v=4"
+    },
+    "stars": 310,
+    "starsDetail": {
+      "total": 310
+    },
+    "license": "Apache License 2.0",
+    "forks": 38,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2025-01-30T20:12:55.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-04-01T22:48:29.000Z",
+    "updatedAt": "2025-02-03T05:17:37.000Z"
+  },
+  {
+    "id": "Mijick/NavigationView",
+    "name": "Mijick/NavigationView",
+    "description": "Navigation made simple (SwiftUI)",
+    "topics": [
+      "ios-swift",
+      "navigation",
+      "navigationstack",
+      "navigationview",
+      "swift",
+      "swift-package",
+      "swift-package-manager",
+      "swift-packages",
+      "swift5",
+      "swiftlibrary",
+      "swiftnavigation",
+      "swiftpackagemanager",
+      "swiftui",
+      "swiftui-components",
+      "swiftui-framework"
+    ],
+    "owner": {
+      "name": "Mijick",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125037042?v=4"
+    },
+    "stars": 289,
+    "starsDetail": {
+      "total": 289
+    },
+    "license": "MIT License",
+    "forks": 18,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2024-07-17T20:15:09.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-06-03T00:40:05.000Z",
+    "updatedAt": "2025-02-04T04:34:43.000Z"
   },
   {
     "id": "MobileFirstInc/MFCard",
@@ -23257,7 +23764,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-04T23:23:11.000Z",
-    "updatedAt": "2025-02-03T01:55:42.000Z"
+    "updatedAt": "2025-02-04T04:23:33.000Z"
   },
   {
     "id": "SpectralDragon/LiteRoute",
@@ -23931,6 +24438,39 @@
     "goImportedBy": null,
     "createdAt": "2023-12-29T19:33:57.000Z",
     "updatedAt": "2025-02-03T18:25:43.000Z"
+  },
+  {
+    "id": "WizelineLabs/WLEmptyState",
+    "name": "WizelineLabs/WLEmptyState",
+    "description": "WLEmptyState is an iOS based component that lets you customize the view when the dataset of a UITableView or a UICollectionView is empty. We created a sample project with the WLEmptyState component to show how you can use it.",
+    "topics": [
+      "empty-state",
+      "emptydataset",
+      "ios",
+      "placeholder",
+      "uicollectionview",
+      "uikit",
+      "uitableview"
+    ],
+    "owner": {
+      "name": "WizelineLabs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/96882100?v=4"
+    },
+    "stars": 318,
+    "starsDetail": {
+      "total": 318
+    },
+    "license": "MIT License",
+    "forks": 26,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2022-07-22T03:07:15.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-12-10T18:46:16.000Z",
+    "updatedAt": "2025-02-04T04:25:14.000Z"
   },
   {
     "id": "YuigaWada/PolioPager",
@@ -25089,6 +25629,31 @@
     "updatedAt": "2025-02-03T18:27:13.000Z"
   },
   {
+    "id": "basememara/ZamzamKit",
+    "name": "basememara/ZamzamKit",
+    "description": "A Swift package for rapid development using a collection of micro utility extensions for Standard Library, Foundation, and other native frameworks.",
+    "topics": [],
+    "owner": {
+      "name": "basememara",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/892152?v=4"
+    },
+    "stars": 270,
+    "starsDetail": {
+      "total": 270
+    },
+    "license": "MIT License",
+    "forks": 34,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2023-09-23T07:36:59.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-06-09T17:14:20.000Z",
+    "updatedAt": "2025-02-04T04:25:21.000Z"
+  },
+  {
     "id": "batanus/DMScrollBar",
     "name": "batanus/DMScrollBar",
     "description": "Interactive and customizable scroll bar with deceleration and appearing info label during scrolling for Scroll View",
@@ -26015,7 +26580,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-05-25T20:08:36.000Z",
-    "updatedAt": "2025-02-03T01:55:57.000Z"
+    "updatedAt": "2025-02-04T04:23:48.000Z"
   },
   {
     "id": "davidask/StateViewController",
@@ -26553,6 +27118,31 @@
     "goImportedBy": null,
     "createdAt": "2017-12-07T08:46:31.000Z",
     "updatedAt": "2025-02-03T18:25:49.000Z"
+  },
+  {
+    "id": "drewmccormack/Forked",
+    "name": "drewmccormack/Forked",
+    "description": "It's like Git for your Swift data types.",
+    "topics": [],
+    "owner": {
+      "name": "drewmccormack",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/77312?v=4"
+    },
+    "stars": 408,
+    "starsDetail": {
+      "total": 408
+    },
+    "license": "MIT License",
+    "forks": 9,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-01-27T17:21:17.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-07-28T11:21:01.000Z",
+    "updatedAt": "2025-02-04T04:28:54.000Z"
   },
   {
     "id": "eBardX/XestiMonitors",
@@ -27322,7 +27912,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-09-13T03:17:48.000Z",
-    "updatedAt": "2025-02-03T01:56:34.000Z"
+    "updatedAt": "2025-02-04T04:24:25.000Z"
   },
   {
     "id": "fxm90/LightweightObservable",
@@ -28379,6 +28969,40 @@
     "goImportedBy": null,
     "createdAt": "2017-01-23T16:06:22.000Z",
     "updatedAt": "2025-02-03T14:55:15.000Z"
+  },
+  {
+    "id": "ihormalovanyi/SweetCurtain",
+    "name": "ihormalovanyi/SweetCurtain",
+    "description": "A framework that provides CurtainController. CurtainController is a container view controller that implements a content-curtain interface. You can find a similar implementation in applications like Apple Maps, Find My, Stocks, etc. Someone calls it \"Pull Up\" or \"Bottom Sheet\".",
+    "topics": [
+      "bottom-sheet",
+      "curtain",
+      "ios",
+      "pull-up",
+      "sliding-menu",
+      "swift",
+      "swipe",
+      "user-experience"
+    ],
+    "owner": {
+      "name": "ihormalovanyi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7063118?v=4"
+    },
+    "stars": 115,
+    "starsDetail": {
+      "total": 115
+    },
+    "license": null,
+    "forks": 17,
+    "primaryLanguage": "Swift",
+    "pushedAt": "2024-10-21T07:07:23.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-12-18T20:09:32.000Z",
+    "updatedAt": "2025-02-04T04:34:43.000Z"
   },
   {
     "id": "imgix/imgix-swift",
@@ -29448,6 +30072,42 @@
     "goImportedBy": null,
     "createdAt": "2015-10-09T18:03:59.000Z",
     "updatedAt": "2025-02-03T18:26:33.000Z"
+  },
+  {
+    "id": "lcardevnas/Soundable",
+    "name": "lcardevnas/Soundable",
+    "description": "Soundable allows you to play sounds, single and in sequence, in a very easy way",
+    "topics": [
+      "audio",
+      "avaudioplayer",
+      "avaudiosession",
+      "avfoundation",
+      "avqueueplayer",
+      "carthage",
+      "cocoapods",
+      "play-audio",
+      "sound",
+      "swift"
+    ],
+    "owner": {
+      "name": "lcardevnas",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/139926223?v=4"
+    },
+    "stars": 93,
+    "starsDetail": {
+      "total": 93
+    },
+    "license": "MIT License",
+    "forks": 9,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2019-04-06T13:24:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-12-03T16:15:41.000Z",
+    "updatedAt": "2025-02-04T04:34:41.000Z"
   },
   {
     "id": "leoture/MockSwift",
@@ -33665,7 +34325,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-09-16T10:46:49.000Z",
-    "updatedAt": "2025-02-03T01:57:30.000Z"
+    "updatedAt": "2025-02-04T04:25:23.000Z"
   },
   {
     "id": "xai3/Shoyu",
