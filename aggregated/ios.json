@@ -6338,7 +6338,7 @@
       "name": "exyte",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10406525?v=4"
     },
-    "stars": 1069,
+    "stars": 1070,
     "starsDetail": {
       "total": 1015,
       "week": 10,
@@ -6356,7 +6356,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-05-23T07:29:19.000Z",
-    "updatedAt": "2025-02-04T04:28:56.000Z"
+    "updatedAt": "2025-02-05T06:55:53.000Z"
   },
   {
     "id": "0xced/XCDYouTubeKit",
@@ -8198,7 +8198,7 @@
       "name": "Mijick",
       "avatarUrl": "https://avatars.githubusercontent.com/u/125037042?v=4"
     },
-    "stars": 1468,
+    "stars": 1470,
     "starsDetail": {
       "total": 1428,
       "week": 6,
@@ -8216,7 +8216,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-02-10T22:48:37.000Z",
-    "updatedAt": "2025-02-04T04:34:43.000Z"
+    "updatedAt": "2025-02-05T07:01:42.000Z"
   },
   {
     "id": "krzysztofzablocki/Sourcery",
@@ -9112,7 +9112,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-08T14:57:55.000Z",
-    "updatedAt": "2025-02-04T04:28:58.000Z"
+    "updatedAt": "2025-02-05T06:55:56.000Z"
   },
   {
     "id": "Ramotion/circle-menu",
@@ -10250,6 +10250,41 @@
     "goImportedBy": null,
     "createdAt": "2015-02-18T14:16:16.000Z",
     "updatedAt": "2025-02-04T17:18:52.000Z"
+  },
+  {
+    "id": "jakeheis/SwiftCLI",
+    "name": "jakeheis/SwiftCLI",
+    "description": "A powerful framework for developing CLIs in Swift",
+    "topics": [
+      "cli",
+      "command-line",
+      "framework",
+      "option-parser",
+      "swift"
+    ],
+    "owner": {
+      "name": "jakeheis",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1246055?v=4"
+    },
+    "stars": 866,
+    "starsDetail": {
+      "total": 866,
+      "week": 1,
+      "month": 3,
+      "year": 40,
+      "updatedAt": 1736059025
+    },
+    "license": "MIT License",
+    "forks": 72,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2021-09-17T16:12:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-07-29T13:54:59.000Z",
+    "updatedAt": "2025-02-04T20:53:32.000Z"
   },
   {
     "id": "johnno1962/injectionforxcode",
@@ -11572,6 +11607,40 @@
     "goImportedBy": null,
     "createdAt": "2017-03-07T02:20:20.000Z",
     "updatedAt": "2025-02-04T17:27:58.000Z"
+  },
+  {
+    "id": "apple/swift-argument-parser",
+    "name": "apple/swift-argument-parser",
+    "description": "Straightforward, type-safe argument parsing for Swift",
+    "topics": [
+      "cli",
+      "command-line",
+      "flag",
+      "option"
+    ],
+    "owner": {
+      "name": "apple",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10639145?v=4"
+    },
+    "stars": 3386,
+    "starsDetail": {
+      "total": 3374,
+      "week": 8,
+      "month": 23,
+      "year": 292,
+      "updatedAt": 1736059026
+    },
+    "license": "Apache License 2.0",
+    "forks": 331,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-02-04T20:19:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-02-20T16:07:00.000Z",
+    "updatedAt": "2025-02-04T20:53:32.000Z"
   },
   {
     "id": "facebook/idb",
@@ -19105,7 +19174,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-22T18:56:17.000Z",
-    "updatedAt": "2025-02-04T04:29:01.000Z"
+    "updatedAt": "2025-02-05T06:55:59.000Z"
   },
   {
     "id": "SVGKit/SVGKit",
@@ -25507,7 +25576,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-11T20:52:23.000Z",
-    "updatedAt": "2025-02-04T04:28:55.000Z"
+    "updatedAt": "2025-02-05T06:55:53.000Z"
   },
   {
     "id": "shu223/PulsingHalo",
@@ -28474,43 +28543,6 @@
     "goImportedBy": null,
     "createdAt": "2015-11-10T14:04:26.000Z",
     "updatedAt": "2025-02-04T17:27:42.000Z"
-  },
-  {
-    "id": "JohnSundell/Marathon",
-    "name": "JohnSundell/Marathon",
-    "description": "[DEPRECATED] Marathon makes it easy to write, run and manage your Swift scripts 🏃",
-    "topics": [
-      "command-line-tool",
-      "developer-tools",
-      "marathon",
-      "scripting",
-      "swift",
-      "swift-script",
-      "xcode"
-    ],
-    "owner": {
-      "name": "JohnSundell",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2466701?v=4"
-    },
-    "stars": 1864,
-    "starsDetail": {
-      "total": 1864,
-      "week": 0,
-      "month": 0,
-      "year": 1,
-      "updatedAt": 1736033812
-    },
-    "license": "MIT License",
-    "forks": 78,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2019-09-15T21:40:08.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-03-12T16:13:01.000Z",
-    "updatedAt": "2025-02-04T17:14:36.000Z"
   },
   {
     "id": "JohnSundell/SwiftPlate",
@@ -40663,12 +40695,12 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 72963,
+    "stars": 72979,
     "starsDetail": {
-      "total": 72963
+      "total": 72979
     },
     "license": null,
-    "forks": 8983,
+    "forks": 8985,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -40677,7 +40709,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2025-02-04T04:28:53.000Z"
+    "updatedAt": "2025-02-05T06:55:52.000Z"
   },
   {
     "id": "DrewKiino/Atlantis",
@@ -48296,6 +48328,38 @@
     "updatedAt": "2025-02-04T17:20:52.000Z"
   },
   {
+    "id": "andybest/linenoise-swift",
+    "name": "andybest/linenoise-swift",
+    "description": "A pure Swift replacement for readline",
+    "topics": [
+      "console",
+      "library",
+      "linenoise",
+      "pure-swift",
+      "swift",
+      "terminal"
+    ],
+    "owner": {
+      "name": "andybest",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1089613?v=4"
+    },
+    "stars": 146,
+    "starsDetail": {
+      "total": 146
+    },
+    "license": "BSD 2-Clause \"Simplified\" License",
+    "forks": 13,
+    "primaryLanguage": "Swift",
+    "pushedAt": "2023-01-20T11:06:34.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-06-19T21:23:14.000Z",
+    "updatedAt": "2025-02-04T20:53:31.000Z"
+  },
+  {
     "id": "angelvasa/AVXCAssets-Generator",
     "name": "angelvasa/AVXCAssets-Generator",
     "description": "AVXCAssets Generator takes path for your assets images and creates appiconset and imageset for you in just one click",
@@ -50789,6 +50853,31 @@
     "goImportedBy": null,
     "createdAt": "2013-09-29T21:04:04.000Z",
     "updatedAt": "2025-02-04T17:20:58.000Z"
+  },
+  {
+    "id": "colinta/Ashen",
+    "name": "colinta/Ashen",
+    "description": "A framework for writing terminal applications in Swift.",
+    "topics": [],
+    "owner": {
+      "name": "colinta",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27570?v=4"
+    },
+    "stars": 103,
+    "starsDetail": {
+      "total": 103
+    },
+    "license": null,
+    "forks": 4,
+    "primaryLanguage": "Swift",
+    "pushedAt": "2022-10-07T13:34:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-03-04T11:10:20.000Z",
+    "updatedAt": "2025-02-04T20:53:30.000Z"
   },
   {
     "id": "comyar/Chronos-Swift",
@@ -56719,6 +56808,37 @@
     "updatedAt": "2025-02-04T17:17:32.000Z"
   },
   {
+    "id": "jkandzi/Progress.swift",
+    "name": "jkandzi/Progress.swift",
+    "description": ":hourglass: Add beautiful progress bars to your loops.",
+    "topics": [
+      "carthage",
+      "cocoapods",
+      "command-line",
+      "progress-bar",
+      "swift"
+    ],
+    "owner": {
+      "name": "jkandzi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9692434?v=4"
+    },
+    "stars": 348,
+    "starsDetail": {
+      "total": 348
+    },
+    "license": "MIT License",
+    "forks": 28,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2024-01-16T07:57:33.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-12-26T11:16:57.000Z",
+    "updatedAt": "2025-02-04T20:53:31.000Z"
+  },
+  {
     "id": "jmfieldman/Brisk",
     "name": "jmfieldman/Brisk",
     "description": "A Swift DSL that allows concise and effective concurrency manipulation",
@@ -60594,7 +60714,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-12-01T03:59:46.000Z",
-    "updatedAt": "2025-02-04T04:29:00.000Z"
+    "updatedAt": "2025-02-05T06:55:58.000Z"
   },
   {
     "id": "mukeshthawani/TriLabelView",
@@ -65504,7 +65624,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-31T19:10:54.000Z",
-    "updatedAt": "2025-02-04T04:28:59.000Z"
+    "updatedAt": "2025-02-05T06:55:57.000Z"
   },
   {
     "id": "sgr-ksmt/Alertift",
@@ -66757,7 +66877,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-14T13:20:19.000Z",
-    "updatedAt": "2025-02-04T04:29:03.000Z"
+    "updatedAt": "2025-02-05T06:56:01.000Z"
   },
   {
     "id": "suzuki-0000/AnimatablePlayButton",
