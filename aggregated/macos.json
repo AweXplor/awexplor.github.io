@@ -358,42 +358,6 @@
     "updatedAt": "2025-02-04T21:22:11.000Z"
   },
   {
-    "id": "mas-cli/mas",
-    "name": "mas-cli/mas",
-    "description": ":package: Mac App Store command line interface",
-    "topics": [
-      "homebrew",
-      "mac-app-store",
-      "macos",
-      "mas",
-      "osx",
-      "software-update"
-    ],
-    "owner": {
-      "name": "mas-cli",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22406844?v=4"
-    },
-    "stars": 11137,
-    "starsDetail": {
-      "total": 11059,
-      "week": 27,
-      "month": 93,
-      "year": 898,
-      "updatedAt": 1736061839
-    },
-    "license": "MIT License",
-    "forks": 278,
-    "primaryLanguage": "C",
-    "pushedAt": "2025-01-17T08:55:03.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-08-02T20:43:12.000Z",
-    "updatedAt": "2025-02-04T21:24:49.000Z"
-  },
-  {
     "id": "arsenetar/dupeguru",
     "name": "arsenetar/dupeguru",
     "description": "Find duplicate files",
@@ -499,7 +463,7 @@
       "name": "dnote",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26827777?v=4"
     },
-    "stars": 2822,
+    "stars": 2824,
     "starsDetail": {
       "total": 2811,
       "week": 2,
@@ -517,7 +481,7 @@
     "goPackage": "github.com/dnote/dnote",
     "goImportedBy": 0,
     "createdAt": "2017-03-30T23:07:25.000Z",
-    "updatedAt": "2025-02-04T07:46:49.000Z"
+    "updatedAt": "2025-02-05T10:13:57.000Z"
   },
   {
     "id": "gitahead/gitahead",
@@ -952,40 +916,6 @@
     "updatedAt": "2025-02-04T21:25:24.000Z"
   },
   {
-    "id": "Cisco-Talos/clamav",
-    "name": "Cisco-Talos/clamav",
-    "description": "ClamAV - Documentation is here: https://docs.clamav.net",
-    "topics": [
-      "antivirus",
-      "clamav",
-      "gplv2",
-      "open-source"
-    ],
-    "owner": {
-      "name": "Cisco-Talos",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28057349?v=4"
-    },
-    "stars": 4683,
-    "starsDetail": {
-      "total": 4573,
-      "week": 12,
-      "month": 86,
-      "year": 1195,
-      "updatedAt": 1736061824
-    },
-    "license": "GNU General Public License v2.0",
-    "forks": 722,
-    "primaryLanguage": "YARA",
-    "pushedAt": "2025-02-03T18:52:37.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2012-07-20T20:37:54.000Z",
-    "updatedAt": "2025-02-04T21:24:43.000Z"
-  },
-  {
     "id": "misskey-dev/misskey",
     "name": "misskey-dev/misskey",
     "description": "🌎 A completely free and open interplanetary microblogging platform 🚀",
@@ -1293,42 +1223,6 @@
     "updatedAt": "2025-02-05T06:57:48.000Z"
   },
   {
-    "id": "ggreer/the_silver_searcher",
-    "name": "ggreer/the_silver_searcher",
-    "description": "A code-searching tool similar to ack, but faster.",
-    "topics": [
-      "ag",
-      "c",
-      "command-line-tool",
-      "pcre",
-      "search-in-text",
-      "silver-searcher"
-    ],
-    "owner": {
-      "name": "ggreer",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/200121?v=4"
-    },
-    "stars": 26321,
-    "starsDetail": {
-      "total": 26265,
-      "week": 13,
-      "month": 81,
-      "year": 1025,
-      "updatedAt": 1736061562
-    },
-    "license": "Apache License 2.0",
-    "forks": 1429,
-    "primaryLanguage": "Python",
-    "pushedAt": "2024-06-16T19:37:41.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2011-11-19T19:50:47.000Z",
-    "updatedAt": "2025-02-04T21:24:40.000Z"
-  },
-  {
     "id": "64characters/Telephone",
     "name": "64characters/Telephone",
     "description": "SIP softphone for Mac",
@@ -1503,35 +1397,6 @@
     "goImportedBy": null,
     "createdAt": "2018-03-25T07:59:19.000Z",
     "updatedAt": "2025-02-04T21:24:37.000Z"
-  },
-  {
-    "id": "dinedal/textql",
-    "name": "dinedal/textql",
-    "description": "Execute SQL against structured text like CSV or TSV",
-    "topics": [],
-    "owner": {
-      "name": "dinedal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/606028?v=4"
-    },
-    "stars": 9077,
-    "starsDetail": {
-      "total": 9072,
-      "week": 1,
-      "month": 8,
-      "year": 120,
-      "updatedAt": 1736061843
-    },
-    "license": "MIT License",
-    "forks": 299,
-    "primaryLanguage": "Dockerfile",
-    "pushedAt": "2023-10-22T22:51:40.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-02-03T03:48:49.000Z",
-    "updatedAt": "2025-02-04T21:24:49.000Z"
   },
   {
     "id": "hschmidt/EnvPane",
@@ -1718,43 +1583,6 @@
     "updatedAt": "2025-02-04T21:22:08.000Z"
   },
   {
-    "id": "simeg/eureka",
-    "name": "simeg/eureka",
-    "description": "💡 CLI tool to input and store your ideas without leaving the terminal",
-    "topics": [
-      "cli",
-      "command-line",
-      "idea",
-      "ideas",
-      "productivity",
-      "rust",
-      "terminal"
-    ],
-    "owner": {
-      "name": "simeg",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8566054?v=4"
-    },
-    "stars": 798,
-    "starsDetail": {
-      "total": 788,
-      "week": 2,
-      "month": 8,
-      "year": 90,
-      "updatedAt": 1736061575
-    },
-    "license": "MIT License",
-    "forks": 43,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2023-11-04T06:12:54.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-11-20T19:45:20.000Z",
-    "updatedAt": "2025-02-04T21:24:36.000Z"
-  },
-  {
     "id": "zenangst/Gray",
     "name": "zenangst/Gray",
     "description": " :first_quarter_moon: Tailor your macOS Mojave experience",
@@ -1824,39 +1652,6 @@
     "updatedAt": "2025-02-04T21:25:50.000Z"
   },
   {
-    "id": "abishekvashok/cmatrix",
-    "name": "abishekvashok/cmatrix",
-    "description": "Terminal based \"The Matrix\" like implementation",
-    "topics": [
-      "c",
-      "matrix",
-      "screensaver"
-    ],
-    "owner": {
-      "name": "abishekvashok",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8947010?v=4"
-    },
-    "stars": 4201,
-    "starsDetail": {
-      "total": 4135,
-      "week": 13,
-      "month": 79,
-      "year": 622,
-      "updatedAt": 1736061827
-    },
-    "license": "GNU General Public License v3.0",
-    "forks": 434,
-    "primaryLanguage": "Roff",
-    "pushedAt": "2024-08-21T02:41:08.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2013-10-31T15:44:03.000Z",
-    "updatedAt": "2025-02-04T21:24:44.000Z"
-  },
-  {
     "id": "OpenEmu/OpenEmu",
     "name": "OpenEmu/OpenEmu",
     "description": "🕹 Retro video game emulation for macOS",
@@ -1909,7 +1704,7 @@
       "name": "Ranchero-Software",
       "avatarUrl": "https://avatars.githubusercontent.com/u/59430456?v=4"
     },
-    "stars": 8602,
+    "stars": 8605,
     "starsDetail": {
       "total": 8516,
       "week": 23,
@@ -1927,7 +1722,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-21T17:59:23.000Z",
-    "updatedAt": "2025-02-04T07:42:39.000Z"
+    "updatedAt": "2025-02-05T10:09:37.000Z"
   },
   {
     "id": "Slackadays/Clipboard",
@@ -2240,48 +2035,6 @@
     "updatedAt": "2025-02-04T21:21:01.000Z"
   },
   {
-    "id": "hishamhm/htop",
-    "name": "hishamhm/htop",
-    "description": "htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.",
-    "topics": [
-      "c",
-      "console",
-      "console-application",
-      "freebsd",
-      "htop",
-      "linux",
-      "macos",
-      "openbsd",
-      "process-monitor",
-      "system",
-      "terminal",
-      "tui"
-    ],
-    "owner": {
-      "name": "hishamhm",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/245621?v=4"
-    },
-    "stars": 5854,
-    "starsDetail": {
-      "total": 5853,
-      "week": 5,
-      "month": 7,
-      "year": 101,
-      "updatedAt": 1736061675
-    },
-    "license": "GNU General Public License v2.0",
-    "forks": 583,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2020-11-17T07:00:48.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-01-13T22:58:20.000Z",
-    "updatedAt": "2025-02-04T21:24:41.000Z"
-  },
-  {
     "id": "httptoolkit/httptoolkit-desktop",
     "name": "httptoolkit/httptoolkit-desktop",
     "description": "Electron wrapper to build and distribute HTTP Toolkit for the desktop",
@@ -2360,7 +2113,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-05-31T16:51:06.000Z",
-    "updatedAt": "2025-02-04T07:43:01.000Z"
+    "updatedAt": "2025-02-05T10:09:56.000Z"
   },
   {
     "id": "klaudiosinani/tusk",
@@ -2510,41 +2263,6 @@
     "goImportedBy": null,
     "createdAt": "2017-03-15T18:25:37.000Z",
     "updatedAt": "2025-02-04T21:24:27.000Z"
-  },
-  {
-    "id": "sindresorhus/trash",
-    "name": "sindresorhus/trash",
-    "description": "Move files and directories to the trash",
-    "topics": [
-      "delete",
-      "nodejs",
-      "npm-package",
-      "recycle-bin",
-      "trash"
-    ],
-    "owner": {
-      "name": "sindresorhus",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/170270?v=4"
-    },
-    "stars": 2586,
-    "starsDetail": {
-      "total": 2575,
-      "week": 2,
-      "month": 7,
-      "year": 87,
-      "updatedAt": 1729329171
-    },
-    "license": "MIT License",
-    "forks": 79,
-    "primaryLanguage": "TypeScript",
-    "pushedAt": "2024-07-26T12:21:13.000Z",
-    "archived": false,
-    "npmPackage": "trash",
-    "npmLastMonthDownloads": 411328,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-05-14T17:25:32.000Z",
-    "updatedAt": "2025-02-05T03:43:33.000Z"
   },
   {
     "id": "stargatedaw/stargate",
@@ -2747,40 +2465,6 @@
     "goImportedBy": null,
     "createdAt": "2014-07-28T14:14:45.000Z",
     "updatedAt": "2025-02-04T21:25:18.000Z"
-  },
-  {
-    "id": "wting/autojump",
-    "name": "wting/autojump",
-    "description": "A cd command that learns - easily navigate directories from the command line",
-    "topics": [
-      "autojump",
-      "command-line-tool",
-      "filesystem",
-      "python"
-    ],
-    "owner": {
-      "name": "wting",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/622170?v=4"
-    },
-    "stars": 16398,
-    "starsDetail": {
-      "total": 16356,
-      "week": 18,
-      "month": 67,
-      "year": 822,
-      "updatedAt": 1736061615
-    },
-    "license": "Other",
-    "forks": 707,
-    "primaryLanguage": "Lua",
-    "pushedAt": "2023-10-14T15:27:26.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2009-01-14T11:18:07.000Z",
-    "updatedAt": "2025-02-04T21:24:31.000Z"
   },
   {
     "id": "RawTherapee/RawTherapee",
@@ -3251,56 +2935,6 @@
     "updatedAt": "2025-02-05T03:43:24.000Z"
   },
   {
-    "id": "johnkerl/miller",
-    "name": "johnkerl/miller",
-    "description": "Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON",
-    "topics": [
-      "command-line",
-      "command-line-tools",
-      "csv",
-      "csv-format",
-      "data-cleaning",
-      "data-processing",
-      "data-reduction",
-      "data-regression",
-      "devops",
-      "devops-tools",
-      "json",
-      "json-data",
-      "miller",
-      "statistical-analysis",
-      "statistics",
-      "streaming-algorithms",
-      "streaming-data",
-      "tabular-data",
-      "tsv",
-      "unix-toolkit"
-    ],
-    "owner": {
-      "name": "johnkerl",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2008794?v=4"
-    },
-    "stars": 9140,
-    "starsDetail": {
-      "total": 9088,
-      "week": 14,
-      "month": 62,
-      "year": 798,
-      "updatedAt": 1736061838
-    },
-    "license": "Other",
-    "forks": 221,
-    "primaryLanguage": "ASL",
-    "pushedAt": "2025-01-30T14:17:11.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-05-03T23:00:37.000Z",
-    "updatedAt": "2025-02-04T21:24:49.000Z"
-  },
-  {
     "id": "Aegisub/Aegisub",
     "name": "Aegisub/Aegisub",
     "description": "Cross-platform advanced subtitle editor",
@@ -3734,41 +3368,6 @@
     "updatedAt": "2025-02-04T21:21:38.000Z"
   },
   {
-    "id": "dbcli/pgcli",
-    "name": "dbcli/pgcli",
-    "description": "Postgres CLI with autocompletion and syntax highlighting",
-    "topics": [
-      "database",
-      "postgres",
-      "postgresql",
-      "psql",
-      "python"
-    ],
-    "owner": {
-      "name": "dbcli",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11810727?v=4"
-    },
-    "stars": 12248,
-    "starsDetail": {
-      "total": 12214,
-      "week": 13,
-      "month": 59,
-      "year": 834,
-      "updatedAt": 1736034833
-    },
-    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 558,
-    "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-12-04T03:57:05.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-10-12T17:32:33.000Z",
-    "updatedAt": "2025-02-04T17:28:52.000Z"
-  },
-  {
     "id": "emacs-tw/awesome-emacs",
     "name": "emacs-tw/awesome-emacs",
     "description": "A community driven list of useful Emacs packages, libraries and other items.",
@@ -3868,42 +3467,6 @@
     "goImportedBy": null,
     "createdAt": "2019-10-20T18:10:29.000Z",
     "updatedAt": "2025-02-04T21:26:12.000Z"
-  },
-  {
-    "id": "wez/wezterm",
-    "name": "wez/wezterm",
-    "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
-    "topics": [
-      "rust",
-      "serial",
-      "serial-port",
-      "terminal",
-      "terminal-emulator",
-      "terminal-emulators"
-    ],
-    "owner": {
-      "name": "wez",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/117777?v=4"
-    },
-    "stars": 19120,
-    "starsDetail": {
-      "total": 18709,
-      "week": 162,
-      "month": 579,
-      "year": 7225,
-      "updatedAt": 1736031552
-    },
-    "license": "Other",
-    "forks": 842,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2025-02-02T00:23:59.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-02-07T05:35:46.000Z",
-    "updatedAt": "2025-02-05T03:48:27.000Z"
   },
   {
     "id": "notable/notable",
@@ -4059,49 +3622,6 @@
     "goImportedBy": null,
     "createdAt": "2018-03-02T03:02:21.000Z",
     "updatedAt": "2025-02-04T21:25:12.000Z"
-  },
-  {
-    "id": "openrecall/openrecall",
-    "name": "openrecall/openrecall",
-    "description": "OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memory and productivity without compromising your privacy.",
-    "topics": [
-      "ai",
-      "alternative",
-      "history",
-      "macos",
-      "ocr",
-      "open-source",
-      "privacy",
-      "python",
-      "recall",
-      "search",
-      "self-hosted",
-      "semantic",
-      "windows"
-    ],
-    "owner": {
-      "name": "openrecall",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/170944222?v=4"
-    },
-    "stars": 2033,
-    "starsDetail": {
-      "total": 1986,
-      "week": 5,
-      "month": 55,
-      "year": 1986,
-      "updatedAt": 1736087000
-    },
-    "license": "GNU Affero General Public License v3.0",
-    "forks": 107,
-    "primaryLanguage": "Python",
-    "pushedAt": "2024-10-01T09:46:29.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2024-05-29T06:14:07.000Z",
-    "updatedAt": "2025-02-05T03:42:04.000Z"
   },
   {
     "id": "viarotel-org/escrcpy",
@@ -4521,7 +4041,7 @@
       "name": "alin23",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3819725?v=4"
     },
-    "stars": 4853,
+    "stars": 4857,
     "starsDetail": {
       "total": 4782,
       "week": 9,
@@ -4539,57 +4059,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-03T17:23:54.000Z",
-    "updatedAt": "2025-02-04T07:42:05.000Z"
-  },
-  {
-    "id": "xxh/xxh",
-    "name": "xxh/xxh",
-    "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
-    "topics": [
-      "awesome",
-      "awesome-ssh",
-      "bash",
-      "devops",
-      "fish",
-      "fisher",
-      "hacking-tools",
-      "linux",
-      "ohmybash",
-      "ohmyfish",
-      "ohmyzsh",
-      "openssh",
-      "osquery",
-      "powerlevel10k",
-      "powerlevel9k",
-      "shell",
-      "ssh",
-      "xonsh",
-      "xxh",
-      "zsh"
-    ],
-    "owner": {
-      "name": "xxh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/57318034?v=4"
-    },
-    "stars": 5498,
-    "starsDetail": {
-      "total": 5456,
-      "week": 14,
-      "month": 50,
-      "year": 734,
-      "updatedAt": 1736061609
-    },
-    "license": "BSD 2-Clause \"Simplified\" License",
-    "forks": 109,
-    "primaryLanguage": "Dockerfile",
-    "pushedAt": "2024-06-25T18:18:03.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2019-11-03T12:04:13.000Z",
-    "updatedAt": "2025-02-04T21:24:42.000Z"
+    "updatedAt": "2025-02-05T10:09:03.000Z"
   },
   {
     "id": "BoostIO/BoostNote-Legacy",
@@ -4608,7 +4078,7 @@
       "name": "BoostIO",
       "avatarUrl": "https://avatars.githubusercontent.com/u/13612118?v=4"
     },
-    "stars": 17043,
+    "stars": 17042,
     "starsDetail": {
       "total": 17048,
       "week": 1,
@@ -4626,7 +4096,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-06T17:06:07.000Z",
-    "updatedAt": "2025-02-04T07:42:37.000Z"
+    "updatedAt": "2025-02-05T10:09:36.000Z"
   },
   {
     "id": "JadenGeller/Helium",
@@ -5260,79 +4730,6 @@
     "updatedAt": "2025-02-04T21:24:24.000Z"
   },
   {
-    "id": "zellij-org/zellij",
-    "name": "zellij-org/zellij",
-    "description": "A terminal workspace with batteries included",
-    "topics": [
-      "multiplexer",
-      "terminal",
-      "workspace"
-    ],
-    "owner": {
-      "name": "zellij-org",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/73778475?v=4"
-    },
-    "stars": 22903,
-    "starsDetail": {
-      "total": 22527,
-      "week": 126,
-      "month": 476,
-      "year": 7689,
-      "updatedAt": 1736031561
-    },
-    "license": "MIT License",
-    "forks": 687,
-    "primaryLanguage": "RenderScript",
-    "pushedAt": "2025-02-03T10:05:16.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-09-01T14:04:28.000Z",
-    "updatedAt": "2025-02-05T03:48:28.000Z"
-  },
-  {
-    "id": "Bash-it/bash-it",
-    "name": "Bash-it/bash-it",
-    "description": "A community Bash framework.",
-    "topics": [
-      "bash",
-      "bash-alias",
-      "bash-completion",
-      "bash-configuration",
-      "bash-hacks",
-      "bash-prompt",
-      "productivity",
-      "shell",
-      "terminal",
-      "themes"
-    ],
-    "owner": {
-      "name": "Bash-it",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11575812?v=4"
-    },
-    "stars": 14394,
-    "starsDetail": {
-      "total": 14339,
-      "week": 10,
-      "month": 47,
-      "year": 578,
-      "updatedAt": 1736061735
-    },
-    "license": "MIT License",
-    "forks": 2291,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2025-02-03T08:40:47.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2010-10-02T18:36:17.000Z",
-    "updatedAt": "2025-02-04T21:24:35.000Z"
-  },
-  {
     "id": "popcorn-official/popcorn-desktop",
     "name": "popcorn-official/popcorn-desktop",
     "description": "Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork",
@@ -5368,70 +4765,6 @@
     "goImportedBy": null,
     "createdAt": "2016-02-16T11:07:20.000Z",
     "updatedAt": "2025-02-05T03:43:29.000Z"
-  },
-  {
-    "id": "tmuxinator/tmuxinator",
-    "name": "tmuxinator/tmuxinator",
-    "description": "Manage complex tmux sessions easily",
-    "topics": [],
-    "owner": {
-      "name": "tmuxinator",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6574276?v=4"
-    },
-    "stars": 12882,
-    "starsDetail": {
-      "total": 12833,
-      "week": 10,
-      "month": 47,
-      "year": 728,
-      "updatedAt": 1736059696
-    },
-    "license": "MIT License",
-    "forks": 628,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2024-11-19T13:53:48.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2010-12-10T21:49:50.000Z",
-    "updatedAt": "2025-02-04T20:59:54.000Z"
-  },
-  {
-    "id": "zackelia/bclm",
-    "name": "zackelia/bclm",
-    "description": "macOS command-line utility to limit max battery charge",
-    "topics": [
-      "battery",
-      "battery-health",
-      "battery-life",
-      "macos",
-      "smc"
-    ],
-    "owner": {
-      "name": "zackelia",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/31748637?v=4"
-    },
-    "stars": 1979,
-    "starsDetail": {
-      "total": 1956,
-      "week": 5,
-      "month": 47,
-      "year": 928,
-      "updatedAt": 1736061823
-    },
-    "license": "MIT License",
-    "forks": 95,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2024-08-09T18:12:12.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-06-22T02:02:38.000Z",
-    "updatedAt": "2025-02-04T21:24:42.000Z"
   },
   {
     "id": "matryer/xbar",
@@ -6354,54 +5687,6 @@
     "updatedAt": "2025-02-04T21:26:02.000Z"
   },
   {
-    "id": "saulpw/visidata",
-    "name": "saulpw/visidata",
-    "description": "A terminal spreadsheet multitool for discovering and arranging data",
-    "topics": [
-      "cli",
-      "csv",
-      "datajournalism",
-      "datawrangling",
-      "devops-tools",
-      "eda",
-      "hdf5",
-      "json",
-      "opendata",
-      "pandas",
-      "python",
-      "reconciliation",
-      "spreadsheet",
-      "sqlite",
-      "tabular-data",
-      "tsv",
-      "tui",
-      "unix-toolkit"
-    ],
-    "owner": {
-      "name": "saulpw",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/236498?v=4"
-    },
-    "stars": 8029,
-    "starsDetail": {
-      "total": 7984,
-      "week": 12,
-      "month": 39,
-      "year": 992,
-      "updatedAt": 1736061703
-    },
-    "license": "GNU General Public License v3.0",
-    "forks": 287,
-    "primaryLanguage": "Scheme",
-    "pushedAt": "2025-01-20T02:43:46.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-10-27T04:21:00.000Z",
-    "updatedAt": "2025-02-04T21:24:44.000Z"
-  },
-  {
     "id": "sindresorhus/Gifski",
     "name": "sindresorhus/Gifski",
     "description": "🌈 Convert videos to high-quality GIFs on your Mac",
@@ -6422,7 +5707,7 @@
       "name": "sindresorhus",
       "avatarUrl": "https://avatars.githubusercontent.com/u/170270?v=4"
     },
-    "stars": 7894,
+    "stars": 7896,
     "starsDetail": {
       "total": 7860,
       "week": 7,
@@ -6440,7 +5725,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-01T10:45:23.000Z",
-    "updatedAt": "2025-02-04T07:42:56.000Z"
+    "updatedAt": "2025-02-05T10:09:50.000Z"
   },
   {
     "id": "HandBrake/HandBrake",
@@ -6870,42 +6155,6 @@
     "updatedAt": "2025-02-04T21:20:29.000Z"
   },
   {
-    "id": "dbcli/mycli",
-    "name": "dbcli/mycli",
-    "description": "A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.",
-    "topics": [
-      "auto-completion",
-      "database",
-      "mycli",
-      "mysql",
-      "python",
-      "syntax-highlighting"
-    ],
-    "owner": {
-      "name": "dbcli",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11810727?v=4"
-    },
-    "stars": 11563,
-    "starsDetail": {
-      "total": 11533,
-      "week": 6,
-      "month": 35,
-      "year": 486,
-      "updatedAt": 1736034831
-    },
-    "license": "Other",
-    "forks": 666,
-    "primaryLanguage": "Gherkin",
-    "pushedAt": "2024-12-12T07:15:43.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-04-05T22:39:49.000Z",
-    "updatedAt": "2025-02-04T17:28:52.000Z"
-  },
-  {
     "id": "ddddxxx/LyricsX",
     "name": "ddddxxx/LyricsX",
     "description": "🎶 Ultimate lyrics app for macOS.",
@@ -7128,52 +6377,6 @@
     "updatedAt": "2025-02-04T21:25:38.000Z"
   },
   {
-    "id": "xonsh/xonsh",
-    "name": "xonsh/xonsh",
-    "description": ":shell: Python-powered shell. Full-featured and cross-platform.",
-    "topics": [
-      "bash",
-      "cli",
-      "command-line",
-      "console",
-      "data-engineering",
-      "data-science",
-      "devops",
-      "fish",
-      "iterm2",
-      "python",
-      "raspberry-pi",
-      "security-automation",
-      "shell",
-      "windows-terminal",
-      "xonsh",
-      "zsh"
-    ],
-    "owner": {
-      "name": "xonsh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17418188?v=4"
-    },
-    "stars": 8517,
-    "starsDetail": {
-      "total": 8492,
-      "week": 9,
-      "month": 34,
-      "year": 1147,
-      "updatedAt": 1736035228
-    },
-    "license": "Other",
-    "forks": 654,
-    "primaryLanguage": "PowerShell",
-    "pushedAt": "2025-02-03T18:06:37.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-01-21T22:05:27.000Z",
-    "updatedAt": "2025-02-04T17:30:24.000Z"
-  },
-  {
     "id": "MonitorControl/MonitorControl",
     "name": "MonitorControl/MonitorControl",
     "description": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
@@ -7335,7 +6538,7 @@
       "name": "sfsam",
       "avatarUrl": "https://avatars.githubusercontent.com/u/118104?v=4"
     },
-    "stars": 3439,
+    "stars": 3443,
     "starsDetail": {
       "total": 3404,
       "week": 5,
@@ -7353,7 +6556,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-27T17:33:22.000Z",
-    "updatedAt": "2025-02-04T07:43:02.000Z"
+    "updatedAt": "2025-02-05T10:09:56.000Z"
   },
   {
     "id": "webtorrent/webtorrent-desktop",
@@ -8563,43 +7766,6 @@
     "updatedAt": "2025-02-04T21:21:08.000Z"
   },
   {
-    "id": "sindresorhus/dark-mode",
-    "name": "sindresorhus/dark-mode",
-    "description": "Control the macOS dark mode from the command-line",
-    "topics": [
-      "binary",
-      "cli",
-      "cli-app",
-      "dark-mode",
-      "homebrew",
-      "macos",
-      "swift"
-    ],
-    "owner": {
-      "name": "sindresorhus",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/170270?v=4"
-    },
-    "stars": 664,
-    "starsDetail": {
-      "total": 660,
-      "week": 0,
-      "month": 3,
-      "year": 25,
-      "updatedAt": 1729329173
-    },
-    "license": "MIT License",
-    "forks": 28,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2021-10-14T17:32:31.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-10-17T23:42:44.000Z",
-    "updatedAt": "2025-02-05T03:43:41.000Z"
-  },
-  {
     "id": "sozercan/OpenInCode",
     "name": "sozercan/OpenInCode",
     "description": ":open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code",
@@ -9332,44 +8498,6 @@
     "goImportedBy": null,
     "createdAt": "2023-12-27T21:50:31.000Z",
     "updatedAt": "2025-02-05T03:42:04.000Z"
-  },
-  {
-    "id": "nicolargo/glances",
-    "name": "nicolargo/glances",
-    "description": "Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.",
-    "topics": [
-      "monitoring",
-      "multi-platform",
-      "python",
-      "restful",
-      "restful-api",
-      "system",
-      "terminal",
-      "web"
-    ],
-    "owner": {
-      "name": "nicolargo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/776747?v=4"
-    },
-    "stars": 27569,
-    "starsDetail": {
-      "total": 27285,
-      "week": 59,
-      "month": 272,
-      "year": 3471,
-      "updatedAt": 1736061671
-    },
-    "license": "Other",
-    "forks": 1551,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2025-01-25T10:11:24.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2011-12-04T08:49:15.000Z",
-    "updatedAt": "2025-02-04T21:24:39.000Z"
   },
   {
     "id": "jhspetersson/fselect",
@@ -10871,41 +9999,6 @@
     "goImportedBy": null,
     "createdAt": "2014-07-21T01:56:39.000Z",
     "updatedAt": "2025-02-04T21:25:09.000Z"
-  },
-  {
-    "id": "klaudiosinani/taskbook",
-    "name": "klaudiosinani/taskbook",
-    "description": "Tasks, boards & notes for the command-line habitat",
-    "topics": [
-      "board",
-      "cli",
-      "note",
-      "task",
-      "todo"
-    ],
-    "owner": {
-      "name": "klaudiosinani",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12670537?v=4"
-    },
-    "stars": 9017,
-    "starsDetail": {
-      "total": 8997,
-      "week": 6,
-      "month": 20,
-      "year": 225,
-      "updatedAt": 1736087024
-    },
-    "license": "MIT License",
-    "forks": 384,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-08-30T10:19:28.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-02-12T05:37:22.000Z",
-    "updatedAt": "2025-02-04T13:50:36.000Z"
   },
   {
     "id": "macvim-dev/macvim",
@@ -12828,42 +11921,6 @@
     "updatedAt": "2025-02-04T21:25:11.000Z"
   },
   {
-    "id": "Swordfish90/cool-retro-term",
-    "name": "Swordfish90/cool-retro-term",
-    "description": "A good looking terminal emulator which mimics the old cathode display...",
-    "topics": [
-      "linux",
-      "macos",
-      "qml",
-      "qt",
-      "retro",
-      "terminal"
-    ],
-    "owner": {
-      "name": "Swordfish90",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6009070?v=4"
-    },
-    "stars": 22882,
-    "starsDetail": {
-      "total": 22594,
-      "week": 74,
-      "month": 174,
-      "year": 2081,
-      "updatedAt": 1736061832
-    },
-    "license": null,
-    "forks": 870,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2024-06-14T18:28:18.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2013-11-22T09:59:57.000Z",
-    "updatedAt": "2025-02-04T21:24:45.000Z"
-  },
-  {
     "id": "transmission/transmission",
     "name": "transmission/transmission",
     "description": "Official Transmission BitTorrent client repository",
@@ -13178,49 +12235,6 @@
     "updatedAt": "2025-02-04T21:25:54.000Z"
   },
   {
-    "id": "unixorn/awesome-zsh-plugins",
-    "name": "unixorn/awesome-zsh-plugins",
-    "description": "A collection of ZSH frameworks, plugins, themes and tutorials.",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "collection",
-      "hacktoberfest",
-      "list",
-      "oh-my-zsh",
-      "zgenom",
-      "zsh-completions",
-      "zsh-configuration",
-      "zsh-framework",
-      "zsh-plugin",
-      "zsh-prompt",
-      "zsh-theme"
-    ],
-    "owner": {
-      "name": "unixorn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23920?v=4"
-    },
-    "stars": 15871,
-    "starsDetail": {
-      "total": 15725,
-      "week": 46,
-      "month": 162,
-      "year": 2006,
-      "updatedAt": 1736061758
-    },
-    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 552,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2025-01-31T17:08:07.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-10-07T06:11:17.000Z",
-    "updatedAt": "2025-02-04T21:24:45.000Z"
-  },
-  {
     "id": "OpenRCT2/OpenRCT2",
     "name": "OpenRCT2/OpenRCT2",
     "description": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
@@ -13469,43 +12483,6 @@
     "updatedAt": "2025-02-04T21:21:49.000Z"
   },
   {
-    "id": "guarinogabriel/Mac-CLI",
-    "name": "guarinogabriel/Mac-CLI",
-    "description": " macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.",
-    "topics": [
-      "bash",
-      "cli",
-      "command-line-tool",
-      "linux",
-      "macos",
-      "productivity",
-      "productivity-tools"
-    ],
-    "owner": {
-      "name": "guarinogabriel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1928452?v=4"
-    },
-    "stars": 8933,
-    "starsDetail": {
-      "total": 8922,
-      "week": 2,
-      "month": 16,
-      "year": 277,
-      "updatedAt": 1736061834
-    },
-    "license": "MIT License",
-    "forks": 335,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2024-01-13T21:16:08.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-12-07T02:40:42.000Z",
-    "updatedAt": "2025-02-04T21:24:47.000Z"
-  },
-  {
     "id": "hatashiro/kawa",
     "name": "hatashiro/kawa",
     "description": "A macOS input source switcher with user-defined shortcuts.",
@@ -13518,7 +12495,7 @@
       "name": "hatashiro",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1013641?v=4"
     },
-    "stars": 1447,
+    "stars": 1449,
     "starsDetail": {
       "total": 1438,
       "week": 2,
@@ -13536,7 +12513,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-26T16:20:12.000Z",
-    "updatedAt": "2025-02-04T07:42:58.000Z"
+    "updatedAt": "2025-02-05T10:09:53.000Z"
   },
   {
     "id": "insidegui/WWDC",
@@ -14275,78 +13252,6 @@
     "updatedAt": "2025-02-04T21:24:29.000Z"
   },
   {
-    "id": "x-cmd/x-cmd",
-    "name": "x-cmd/x-cmd",
-    "description": "X bootstrap 1000+ tools and scripts.",
-    "topics": [
-      "awk",
-      "cli",
-      "cloud",
-      "posix",
-      "sh"
-    ],
-    "owner": {
-      "name": "x-cmd",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/79955600?v=4"
-    },
-    "stars": 1483,
-    "starsDetail": {
-      "total": 1373,
-      "week": 25,
-      "month": 143,
-      "year": 1336,
-      "updatedAt": 1736061847
-    },
-    "license": null,
-    "forks": 33,
-    "primaryLanguage": "",
-    "pushedAt": "2024-12-31T09:57:53.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2022-10-01T08:46:39.000Z",
-    "updatedAt": "2025-02-04T21:24:50.000Z"
-  },
-  {
-    "id": "asciinema/asciinema",
-    "name": "asciinema/asciinema",
-    "description": "Terminal session recorder 📹",
-    "topics": [
-      "asciicast",
-      "asciinema",
-      "cli",
-      "recorder",
-      "recording",
-      "rust",
-      "terminal"
-    ],
-    "owner": {
-      "name": "asciinema",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6506055?v=4"
-    },
-    "stars": 14613,
-    "starsDetail": {
-      "total": 14435,
-      "week": 31,
-      "month": 141,
-      "year": 2217,
-      "updatedAt": 1736061821
-    },
-    "license": "GNU General Public License v3.0",
-    "forks": 923,
-    "primaryLanguage": "Nix",
-    "pushedAt": "2025-01-28T11:05:35.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2011-11-21T21:45:44.000Z",
-    "updatedAt": "2025-02-04T21:24:41.000Z"
-  },
-  {
     "id": "mltframework/shotcut",
     "name": "mltframework/shotcut",
     "description": "cross-platform (Qt), open-source (GPLv3) video editor",
@@ -14552,49 +13457,6 @@
     "goImportedBy": null,
     "createdAt": "2017-12-24T12:01:42.000Z",
     "updatedAt": "2025-02-04T21:25:12.000Z"
-  },
-  {
-    "id": "tstack/lnav",
-    "name": "tstack/lnav",
-    "description": "Log file navigator",
-    "topics": [
-      "command-line-tool",
-      "less",
-      "log-analysis",
-      "log-monitor",
-      "log-viewer",
-      "log-visualization",
-      "logging",
-      "more",
-      "pager",
-      "tail",
-      "terminal",
-      "terminal-pager",
-      "tui"
-    ],
-    "owner": {
-      "name": "tstack",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/107532?v=4"
-    },
-    "stars": 8374,
-    "starsDetail": {
-      "total": 8207,
-      "week": 21,
-      "month": 139,
-      "year": 2081,
-      "updatedAt": 1736061830
-    },
-    "license": "BSD 2-Clause \"Simplified\" License",
-    "forks": 330,
-    "primaryLanguage": "Procfile",
-    "pushedAt": "2025-02-04T17:14:24.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2009-09-14T01:02:02.000Z",
-    "updatedAt": "2025-02-04T21:24:46.000Z"
   },
   {
     "id": "CodeEditApp/CodeEdit",
@@ -14843,7 +13705,7 @@
       "name": "MacPass",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9559866?v=4"
     },
-    "stars": 6773,
+    "stars": 6774,
     "starsDetail": {
       "total": 6773,
       "week": 3,
@@ -14861,7 +13723,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-07-21T00:48:01.000Z",
-    "updatedAt": "2025-02-04T07:43:08.000Z"
+    "updatedAt": "2025-02-05T10:10:03.000Z"
   },
   {
     "id": "Studio3T/robomongo",
@@ -15154,43 +14016,6 @@
     "updatedAt": "2025-02-04T21:25:47.000Z"
   },
   {
-    "id": "herrbischoff/awesome-macos-command-line",
-    "name": "herrbischoff/awesome-macos-command-line",
-    "description": "Use your macOS terminal shell to do awesome things.",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list",
-      "macos",
-      "macosx",
-      "shell",
-      "terminal"
-    ],
-    "owner": {
-      "name": "herrbischoff",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8957346?v=4"
-    },
-    "stars": 29183,
-    "starsDetail": {
-      "total": 29091,
-      "week": 30,
-      "month": 124,
-      "year": 1253,
-      "updatedAt": 1736061821
-    },
-    "license": null,
-    "forks": 1434,
-    "primaryLanguage": "",
-    "pushedAt": "2021-09-02T13:26:37.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-09-22T19:37:55.000Z",
-    "updatedAt": "2025-02-04T21:24:39.000Z"
-  },
-  {
     "id": "ianyh/Amethyst",
     "name": "ianyh/Amethyst",
     "description": "Automatic tiling window manager for macOS à la xmonad.",
@@ -15397,7 +14222,7 @@
       "name": "TermiT",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87338?v=4"
     },
-    "stars": 2519,
+    "stars": 2520,
     "starsDetail": {
       "total": 2507,
       "week": 4,
@@ -15415,7 +14240,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-03-20T07:17:31.000Z",
-    "updatedAt": "2025-02-04T07:42:00.000Z"
+    "updatedAt": "2025-02-05T10:08:57.000Z"
   },
   {
     "id": "archagon/sensible-side-buttons",
@@ -15618,78 +14443,6 @@
     "goImportedBy": null,
     "createdAt": "2017-09-10T18:54:41.000Z",
     "updatedAt": "2025-02-04T21:22:23.000Z"
-  },
-  {
-    "id": "rgcr/m-cli",
-    "name": "rgcr/m-cli",
-    "description": " Swiss Army Knife for macOS ",
-    "topics": [
-      "bash",
-      "cli",
-      "looking-for-maintainer",
-      "mac",
-      "macos",
-      "sh"
-    ],
-    "owner": {
-      "name": "rgcr",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1203422?v=4"
-    },
-    "stars": 9721,
-    "starsDetail": {
-      "total": 9706,
-      "week": 1,
-      "month": 12,
-      "year": 263,
-      "updatedAt": 1736061835
-    },
-    "license": "MIT License",
-    "forks": 310,
-    "primaryLanguage": "Python",
-    "pushedAt": "2024-09-03T18:15:18.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-07-09T00:49:25.000Z",
-    "updatedAt": "2025-02-04T21:24:47.000Z"
-  },
-  {
-    "id": "shobrook/rebound",
-    "name": "shobrook/rebound",
-    "description": "Get Stack Overflow results in your terminal whenever an error is thrown",
-    "topics": [
-      "command-line-interface",
-      "command-line-tool",
-      "error-messages",
-      "python",
-      "stackoverflow",
-      "terminal-app"
-    ],
-    "owner": {
-      "name": "shobrook",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18684735?v=4"
-    },
-    "stars": 4123,
-    "starsDetail": {
-      "total": 4119,
-      "week": 2,
-      "month": 12,
-      "year": 104,
-      "updatedAt": 1736061655
-    },
-    "license": null,
-    "forks": 385,
-    "primaryLanguage": "Python",
-    "pushedAt": "2022-02-16T15:15:53.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-02-28T04:47:03.000Z",
-    "updatedAt": "2025-02-04T21:24:44.000Z"
   },
   {
     "id": "uroni/urbackup_backend",
@@ -16257,7 +15010,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-12T18:27:27.000Z",
-    "updatedAt": "2025-02-04T07:42:54.000Z"
+    "updatedAt": "2025-02-05T10:09:48.000Z"
   },
   {
     "id": "ramnes/awesome-mongodb",
@@ -19136,42 +17889,6 @@
     "updatedAt": "2025-02-04T21:21:54.000Z"
   },
   {
-    "id": "BurntSushi/ripgrep",
-    "name": "BurntSushi/ripgrep",
-    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
-    "topics": [
-      "cli",
-      "command-line",
-      "command-line-tool",
-      "gitignore",
-      "grep",
-      "recursively-search",
-      "regex",
-      "ripgrep",
-      "rust",
-      "search"
-    ],
-    "owner": {
-      "name": "BurntSushi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/456674?v=4"
-    },
-    "stars": 50111,
-    "starsDetail": {
-      "total": 50111
-    },
-    "license": "The Unlicense",
-    "forks": 2048,
-    "primaryLanguage": "Ruby",
-    "pushedAt": "2025-01-25T19:27:02.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-03-11T02:02:33.000Z",
-    "updatedAt": "2025-02-04T21:24:41.000Z"
-  },
-  {
     "id": "Capevace/BetterPiP",
     "name": "Capevace/BetterPiP",
     "description": "A macOS application that enables the use of native picture-in-picture with browsers such as Google Chrome for HTML5 videos.",
@@ -19440,12 +18157,12 @@
       "name": "Eugeny",
       "avatarUrl": "https://avatars.githubusercontent.com/u/161476?v=4"
     },
-    "stars": 61637,
+    "stars": 61669,
     "starsDetail": {
-      "total": 61637
+      "total": 61669
     },
     "license": "MIT License",
-    "forks": 3498,
+    "forks": 3502,
     "primaryLanguage": "NSIS",
     "pushedAt": "2025-02-03T09:12:36.000Z",
     "archived": false,
@@ -19454,7 +18171,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-12-23T09:06:10.000Z",
-    "updatedAt": "2025-02-04T07:42:46.000Z"
+    "updatedAt": "2025-02-05T10:09:45.000Z"
   },
   {
     "id": "FreeterApp/Freeter",
@@ -19713,21 +18430,21 @@
       "name": "Kong",
       "avatarUrl": "https://avatars.githubusercontent.com/u/962416?v=4"
     },
-    "stars": 35560,
+    "stars": 35571,
     "starsDetail": {
-      "total": 35560
+      "total": 35571
     },
     "license": "Apache License 2.0",
     "forks": 2018,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-01-29T23:34:42.000Z",
+    "pushedAt": "2025-02-05T08:51:08.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-23T03:54:26.000Z",
-    "updatedAt": "2025-02-04T07:42:42.000Z"
+    "updatedAt": "2025-02-05T10:09:40.000Z"
   },
   {
     "id": "KrisYu/FilterShop",
@@ -20171,7 +18888,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-01-30T23:55:53.000Z",
-    "updatedAt": "2025-02-04T07:43:03.000Z"
+    "updatedAt": "2025-02-05T10:09:58.000Z"
   },
   {
     "id": "ParetoSecurity/pareto-mac",
@@ -20202,7 +18919,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-14T09:54:07.000Z",
-    "updatedAt": "2025-02-04T07:41:58.000Z"
+    "updatedAt": "2025-02-05T10:08:54.000Z"
   },
   {
     "id": "Pjirlip/Pillager",
@@ -20521,48 +19238,6 @@
     "updatedAt": "2025-02-04T21:22:14.000Z"
   },
   {
-    "id": "TheAcharya/Airlift",
-    "name": "TheAcharya/Airlift",
-    "description": "Upload & Merge Data with Attachments to Airtable",
-    "topics": [
-      "airtable",
-      "automation",
-      "cli",
-      "command-line-tool",
-      "csv",
-      "database",
-      "dropbox",
-      "image-uploader",
-      "imageuploader",
-      "json",
-      "linux",
-      "macos",
-      "nocode",
-      "python",
-      "terminal",
-      "windows"
-    ],
-    "owner": {
-      "name": "TheAcharya",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/82297851?v=4"
-    },
-    "stars": 13,
-    "starsDetail": {
-      "total": 13
-    },
-    "license": "MIT License",
-    "forks": 0,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2025-02-03T09:57:43.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2023-10-21T01:57:41.000Z",
-    "updatedAt": "2025-02-04T21:24:40.000Z"
-  },
-  {
     "id": "TheAcharya/MarkerData",
     "name": "TheAcharya/MarkerData",
     "description": "The avant-garde Marker extraction application crafted for Final Cut Pro",
@@ -20607,96 +19282,6 @@
     "goImportedBy": null,
     "createdAt": "2023-01-12T13:05:00.000Z",
     "updatedAt": "2025-02-04T21:25:24.000Z"
-  },
-  {
-    "id": "TheAcharya/MarkersExtractor",
-    "name": "TheAcharya/MarkersExtractor",
-    "description": "Extract Markers from Final Cut Pro FCPXML",
-    "topics": [
-      "airtable",
-      "cli",
-      "csv",
-      "database",
-      "fcp",
-      "fcpx",
-      "fcpxml",
-      "final-cut-pro-x",
-      "finalcutpro",
-      "gif",
-      "gifs",
-      "json",
-      "mac",
-      "macos",
-      "macos-application",
-      "markers",
-      "midi",
-      "notion",
-      "swift",
-      "video-editing"
-    ],
-    "owner": {
-      "name": "TheAcharya",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/82297851?v=4"
-    },
-    "stars": 40,
-    "starsDetail": {
-      "total": 40
-    },
-    "license": "MIT License",
-    "forks": 2,
-    "primaryLanguage": "Swift",
-    "pushedAt": "2025-02-03T09:56:53.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2022-12-06T04:02:10.000Z",
-    "updatedAt": "2025-02-04T21:24:48.000Z"
-  },
-  {
-    "id": "TheAcharya/csv2notion-neo",
-    "name": "TheAcharya/csv2notion-neo",
-    "description": "Upload & Merge CSV or JSON Data with Images to Notion Database",
-    "topics": [
-      "automation",
-      "cli",
-      "command-line-tool",
-      "csv",
-      "database",
-      "huggingface",
-      "huggingface-models",
-      "image-uploader",
-      "imageuploader",
-      "json",
-      "linux",
-      "macos",
-      "mechine-learning",
-      "nocode",
-      "notion",
-      "python",
-      "terminal",
-      "windows"
-    ],
-    "owner": {
-      "name": "TheAcharya",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/82297851?v=4"
-    },
-    "stars": 26,
-    "starsDetail": {
-      "total": 26
-    },
-    "license": "MIT License",
-    "forks": 1,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-02-03T09:57:19.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2023-10-06T12:47:47.000Z",
-    "updatedAt": "2025-02-04T21:24:46.000Z"
   },
   {
     "id": "TheNewNormal/corectl.app",
@@ -21014,21 +19599,21 @@
       "name": "alacritty",
       "avatarUrl": "https://avatars.githubusercontent.com/u/29714349?v=4"
     },
-    "stars": 57545,
+    "stars": 57562,
     "starsDetail": {
-      "total": 57545
+      "total": 57562
     },
     "license": "Apache License 2.0",
-    "forks": 3069,
+    "forks": 3068,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-01-29T01:29:22.000Z",
+    "pushedAt": "2025-02-04T15:23:07.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-18T05:02:30.000Z",
-    "updatedAt": "2025-02-04T07:42:42.000Z"
+    "updatedAt": "2025-02-05T10:12:16.000Z"
   },
   {
     "id": "alberti42/iTunes-Volume-Control",
@@ -21576,7 +20161,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-13T16:10:58.000Z",
-    "updatedAt": "2025-02-04T07:45:19.000Z"
+    "updatedAt": "2025-02-05T10:12:22.000Z"
   },
   {
     "id": "bfmatei/PiPTool",
@@ -21955,36 +20540,6 @@
     "goImportedBy": null,
     "createdAt": "2016-03-19T11:24:56.000Z",
     "updatedAt": "2025-02-04T21:22:08.000Z"
-  },
-  {
-    "id": "cli/cli",
-    "name": "cli/cli",
-    "description": "GitHub’s official command line tool",
-    "topics": [
-      "cli",
-      "git",
-      "github-api-v4",
-      "golang"
-    ],
-    "owner": {
-      "name": "cli",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/59704711?v=4"
-    },
-    "stars": 38166,
-    "starsDetail": {
-      "total": 38166
-    },
-    "license": "MIT License",
-    "forks": 6160,
-    "primaryLanguage": "Batchfile",
-    "pushedAt": "2025-02-04T21:08:00.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2019-10-03T15:24:53.000Z",
-    "updatedAt": "2025-02-04T21:24:46.000Z"
   },
   {
     "id": "crilleengvall/Screenbar",
@@ -23375,7 +21930,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-17T16:32:10.000Z",
-    "updatedAt": "2025-02-04T07:42:58.000Z"
+    "updatedAt": "2025-02-05T10:09:53.000Z"
   },
   {
     "id": "imanel/deezplayer",
@@ -24159,7 +22714,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-12-12T22:56:25.000Z",
-    "updatedAt": "2025-02-04T07:42:53.000Z"
+    "updatedAt": "2025-02-05T10:09:47.000Z"
   },
   {
     "id": "kuyawa/AppIcons",
@@ -24393,39 +22948,6 @@
     "goImportedBy": null,
     "createdAt": "2018-02-01T22:59:48.000Z",
     "updatedAt": "2025-02-04T21:21:05.000Z"
-  },
-  {
-    "id": "liujianping/job",
-    "name": "liujianping/job",
-    "description": "JOB, make your short-term command as a long-term job. 将命令行规划成任务的工具",
-    "topics": [
-      "bench",
-      "concurrency",
-      "crontab",
-      "job",
-      "repeat",
-      "report",
-      "retry"
-    ],
-    "owner": {
-      "name": "liujianping",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/635905?v=4"
-    },
-    "stars": 147,
-    "starsDetail": {
-      "total": 147
-    },
-    "license": null,
-    "forks": 12,
-    "primaryLanguage": "Go",
-    "pushedAt": "2020-06-30T10:17:38.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": "github.com/liujianping/job",
-    "goImportedBy": 0,
-    "createdAt": "2019-04-09T11:14:51.000Z",
-    "updatedAt": "2025-02-04T07:46:53.000Z"
   },
   {
     "id": "livecode/livecode",
@@ -25481,62 +24003,6 @@
     "updatedAt": "2025-02-04T21:20:58.000Z"
   },
   {
-    "id": "nushell/nushell",
-    "name": "nushell/nushell",
-    "description": "A new type of shell",
-    "topics": [
-      "rust",
-      "shell"
-    ],
-    "owner": {
-      "name": "nushell",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50749515?v=4"
-    },
-    "stars": 33740,
-    "starsDetail": {
-      "total": 33740
-    },
-    "license": "MIT License",
-    "forks": 1738,
-    "primaryLanguage": "Batchfile",
-    "pushedAt": "2025-02-05T05:21:18.000Z",
-    "archived": false,
-    "npmPackage": "nushell",
-    "npmLastMonthDownloads": 10640,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2019-05-10T16:59:42.000Z",
-    "updatedAt": "2025-02-05T07:02:29.000Z"
-  },
-  {
-    "id": "nvbn/thefuck",
-    "name": "nvbn/thefuck",
-    "description": "Magnificent app which corrects your previous console command.",
-    "topics": [
-      "python",
-      "shell"
-    ],
-    "owner": {
-      "name": "nvbn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1114542?v=4"
-    },
-    "stars": 89688,
-    "starsDetail": {
-      "total": 89688
-    },
-    "license": "MIT License",
-    "forks": 3610,
-    "primaryLanguage": "Batchfile",
-    "pushedAt": "2024-07-19T14:56:13.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-04-08T15:08:04.000Z",
-    "updatedAt": "2025-02-04T17:28:49.000Z"
-  },
-  {
     "id": "nvm-sh/nvm",
     "name": "nvm-sh/nvm",
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
@@ -25631,31 +24097,6 @@
     "goImportedBy": 0,
     "createdAt": "2012-01-04T06:21:10.000Z",
     "updatedAt": "2025-02-04T17:07:40.000Z"
-  },
-  {
-    "id": "obihann/archey-osx",
-    "name": "obihann/archey-osx",
-    "description": "An archey script clone for OS X",
-    "topics": [],
-    "owner": {
-      "name": "obihann",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1507841?v=4"
-    },
-    "stars": 340,
-    "starsDetail": {
-      "total": 340
-    },
-    "license": "GNU General Public License v2.0",
-    "forks": 125,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2019-01-12T23:27:57.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2013-09-13T13:33:57.000Z",
-    "updatedAt": "2025-02-04T21:24:41.000Z"
   },
   {
     "id": "objective-see/DylibHijackScanner",
@@ -25883,48 +24324,6 @@
     "goImportedBy": null,
     "createdAt": "2013-10-01T02:40:31.000Z",
     "updatedAt": "2025-02-04T21:25:02.000Z"
-  },
-  {
-    "id": "ohmyzsh/ohmyzsh",
-    "name": "ohmyzsh/ohmyzsh",
-    "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-    "topics": [
-      "cli",
-      "cli-app",
-      "hacktoberfest",
-      "oh-my-zsh",
-      "oh-my-zsh-plugin",
-      "oh-my-zsh-theme",
-      "ohmyzsh",
-      "plugin-framework",
-      "plugins",
-      "productivity",
-      "shell",
-      "terminal",
-      "theme",
-      "themes",
-      "zsh",
-      "zsh-configuration"
-    ],
-    "owner": {
-      "name": "ohmyzsh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22552083?v=4"
-    },
-    "stars": 175801,
-    "starsDetail": {
-      "total": 175801
-    },
-    "license": "MIT License",
-    "forks": 26006,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2025-02-04T12:37:03.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2009-08-28T18:15:37.000Z",
-    "updatedAt": "2025-02-04T21:24:49.000Z"
   },
   {
     "id": "onebadidea/swiftquit",
@@ -26462,12 +24861,12 @@
       "name": "shadowsocks",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3006190?v=4"
     },
-    "stars": 32592,
+    "stars": 32595,
     "starsDetail": {
-      "total": 32592
+      "total": 32595
     },
     "license": "GNU General Public License v3.0",
-    "forks": 7934,
+    "forks": 7937,
     "primaryLanguage": "C",
     "pushedAt": "2024-10-29T12:19:30.000Z",
     "archived": false,
@@ -26476,7 +24875,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-10T11:49:00.000Z",
-    "updatedAt": "2025-02-04T07:43:01.000Z"
+    "updatedAt": "2025-02-05T10:09:56.000Z"
   },
   {
     "id": "shadowsocks/shadowsocks",
@@ -26504,40 +24903,6 @@
     "updatedAt": "2025-02-04T21:25:47.000Z"
   },
   {
-    "id": "sharkdp/bat",
-    "name": "sharkdp/bat",
-    "description": "A cat(1) clone with wings.",
-    "topics": [
-      "cli",
-      "command-line",
-      "git",
-      "hacktoberfest",
-      "rust",
-      "syntax-highlighting",
-      "terminal",
-      "tool"
-    ],
-    "owner": {
-      "name": "sharkdp",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4209276?v=4"
-    },
-    "stars": 50959,
-    "starsDetail": {
-      "total": 50959
-    },
-    "license": "Apache License 2.0",
-    "forks": 1278,
-    "primaryLanguage": "Batchfile",
-    "pushedAt": "2025-02-04T03:15:15.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-04-21T10:52:23.000Z",
-    "updatedAt": "2025-02-05T07:02:32.000Z"
-  },
-  {
     "id": "shgodoroja/APNGb",
     "name": "shgodoroja/APNGb",
     "description": "macOS app which assembles and disassembles animated png files",
@@ -26560,7 +24925,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-09-17T20:24:11.000Z",
-    "updatedAt": "2025-02-04T07:42:52.000Z"
+    "updatedAt": "2025-02-05T10:09:47.000Z"
   },
   {
     "id": "shubhambatra3019/macOrganizer",
@@ -26951,77 +25316,6 @@
     "updatedAt": "2025-02-04T21:22:12.000Z"
   },
   {
-    "id": "tldr-pages/tldr",
-    "name": "tldr-pages/tldr",
-    "description": "📚 Collaborative cheatsheets for console commands",
-    "topics": [
-      "android",
-      "bsd",
-      "cheatsheet",
-      "cheatsheets",
-      "command-line",
-      "console",
-      "documentation",
-      "examples",
-      "hacktoberfest",
-      "help",
-      "linux",
-      "macos",
-      "man-page",
-      "manpages",
-      "manual",
-      "osx",
-      "shell",
-      "terminal",
-      "tldr",
-      "windows"
-    ],
-    "owner": {
-      "name": "tldr-pages",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7366472?v=4"
-    },
-    "stars": 53341,
-    "starsDetail": {
-      "total": 53341
-    },
-    "license": "Other",
-    "forks": 4325,
-    "primaryLanguage": "CSS",
-    "pushedAt": "2025-02-04T05:39:03.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2013-12-08T07:34:43.000Z",
-    "updatedAt": "2025-02-04T21:27:16.000Z"
-  },
-  {
-    "id": "tmux/tmux",
-    "name": "tmux/tmux",
-    "description": "tmux source code",
-    "topics": [],
-    "owner": {
-      "name": "tmux",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12054114?v=4"
-    },
-    "stars": 36310,
-    "starsDetail": {
-      "total": 36310
-    },
-    "license": "Other",
-    "forks": 2155,
-    "primaryLanguage": "Perl",
-    "pushedAt": "2025-01-27T12:03:18.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-06-03T23:32:55.000Z",
-    "updatedAt": "2025-02-04T17:28:50.000Z"
-  },
-  {
     "id": "toeverything/AFFiNE",
     "name": "toeverything/AFFiNE",
     "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
@@ -27363,12 +25657,12 @@
       "name": "vercel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4"
     },
-    "stars": 43644,
+    "stars": 43651,
     "starsDetail": {
-      "total": 43644
+      "total": 43651
     },
     "license": "MIT License",
-    "forks": 3533,
+    "forks": 3531,
     "primaryLanguage": "Batchfile",
     "pushedAt": "2024-08-14T03:32:57.000Z",
     "archived": false,
@@ -27377,7 +25671,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-07-01T06:01:21.000Z",
-    "updatedAt": "2025-02-04T07:42:45.000Z"
+    "updatedAt": "2025-02-05T10:09:45.000Z"
   },
   {
     "id": "vgorloff/AUHost",
@@ -28176,6 +26470,6 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-08T06:30:42.000Z",
-    "updatedAt": "2025-02-04T07:43:06.000Z"
+    "updatedAt": "2025-02-05T10:10:01.000Z"
   }
 ]
