@@ -17,7 +17,7 @@
       "name": "cython",
       "avatarUrl": "https://avatars.githubusercontent.com/u/486082?v=4"
     },
-    "stars": 9740,
+    "stars": 9744,
     "starsDetail": {
       "total": 9672,
       "week": 25,
@@ -43,7 +43,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2010-11-21T07:44:20.000Z",
-    "updatedAt": "2025-02-04T17:29:45.000Z"
+    "updatedAt": "2025-02-05T19:54:46.000Z"
   },
   {
     "id": "eyalroz/cuda-api-wrappers",
@@ -2266,7 +2266,7 @@
       "name": "sphinx-doc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9928167?v=4"
     },
-    "stars": 6785,
+    "stars": 6790,
     "starsDetail": {
       "total": 6705,
       "week": 18,
@@ -2277,14 +2277,14 @@
     "license": "Other",
     "forks": 2163,
     "primaryLanguage": "Assembly",
-    "pushedAt": "2025-02-03T17:50:46.000Z",
+    "pushedAt": "2025-02-05T04:51:47.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-01-02T10:53:28.000Z",
-    "updatedAt": "2025-02-04T17:29:25.000Z"
+    "updatedAt": "2025-02-05T19:54:27.000Z"
   },
   {
     "id": "r-lyeh/single_file_libs",
@@ -3744,7 +3744,7 @@
       "name": "zeromq",
       "avatarUrl": "https://avatars.githubusercontent.com/u/109777?v=4"
     },
-    "stars": 9913,
+    "stars": 9916,
     "starsDetail": {
       "total": 9851,
       "week": 12,
@@ -3762,7 +3762,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2009-07-29T09:56:41.000Z",
-    "updatedAt": "2025-02-04T16:53:53.000Z"
+    "updatedAt": "2025-02-05T19:20:54.000Z"
   },
   {
     "id": "scylladb/seastar",
@@ -4362,7 +4362,7 @@
       "name": "harfang3d",
       "avatarUrl": "https://avatars.githubusercontent.com/u/15690165?v=4"
     },
-    "stars": 591,
+    "stars": 592,
     "starsDetail": {
       "total": 587,
       "week": 2,
@@ -4380,7 +4380,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2021-10-04T10:23:22.000Z",
-    "updatedAt": "2025-02-04T16:54:55.000Z"
+    "updatedAt": "2025-02-05T19:21:54.000Z"
   },
   {
     "id": "taviso/ctypes.sh",
@@ -5992,7 +5992,7 @@
       "name": "facebook",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69631?v=4"
     },
-    "stars": 15077,
+    "stars": 15079,
     "starsDetail": {
       "total": 15042,
       "week": 10,
@@ -6001,16 +6001,16 @@
       "updatedAt": 1736034662
     },
     "license": "MIT License",
-    "forks": 2028,
+    "forks": 2027,
     "primaryLanguage": "Swift",
-    "pushedAt": "2025-02-04T16:00:20.000Z",
+    "pushedAt": "2025-02-05T15:30:11.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-01-26T11:19:13.000Z",
-    "updatedAt": "2025-02-04T17:27:51.000Z"
+    "updatedAt": "2025-02-05T19:53:02.000Z"
   },
   {
     "id": "ada-url/ada",
@@ -7811,7 +7811,7 @@
       "name": "tayllan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5643498?v=4"
     },
-    "stars": 21631,
+    "stars": 21643,
     "starsDetail": {
       "total": 21315,
       "week": 87,
@@ -7820,7 +7820,7 @@
       "updatedAt": 1736034704
     },
     "license": null,
-    "forks": 2721,
+    "forks": 2723,
     "primaryLanguage": "",
     "pushedAt": "2024-11-16T06:34:00.000Z",
     "archived": false,
@@ -7829,7 +7829,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-07-16T18:10:01.000Z",
-    "updatedAt": "2025-02-04T17:28:17.000Z"
+    "updatedAt": "2025-02-05T19:53:25.000Z"
   },
   {
     "id": "DiligentGraphics/DiligentEngine",
@@ -8006,7 +8006,7 @@
       "name": "libAudioFlux",
       "avatarUrl": "https://avatars.githubusercontent.com/u/105165315?v=4"
     },
-    "stars": 2981,
+    "stars": 2982,
     "starsDetail": {
       "total": 2956,
       "week": 6,
@@ -8024,7 +8024,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-01-16T09:53:04.000Z",
-    "updatedAt": "2025-02-04T17:28:25.000Z"
+    "updatedAt": "2025-02-05T19:53:32.000Z"
   },
   {
     "id": "phoboslab/qoi",
@@ -13752,7 +13752,7 @@
       "name": "svaarala",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6377415?v=4"
     },
-    "stars": 5987,
+    "stars": 5988,
     "starsDetail": {
       "total": 5937,
       "week": 4,
@@ -13761,7 +13761,7 @@
       "updatedAt": 1729322585
     },
     "license": "MIT License",
-    "forks": 518,
+    "forks": 519,
     "primaryLanguage": "Perl",
     "pushedAt": "2024-03-22T16:08:38.000Z",
     "archived": false,
@@ -13770,7 +13770,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-01-12T22:16:14.000Z",
-    "updatedAt": "2025-02-04T17:09:08.000Z"
+    "updatedAt": "2025-02-05T19:35:26.000Z"
   },
   {
     "id": "xelatihy/yocto-gl",
@@ -15242,7 +15242,7 @@
       "name": "micropython",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6298560?v=4"
     },
-    "stars": 19818,
+    "stars": 19824,
     "starsDetail": {
       "total": 19643,
       "week": 26,
@@ -15251,7 +15251,7 @@
       "updatedAt": 1736035072
     },
     "license": "Other",
-    "forks": 7932,
+    "forks": 7935,
     "primaryLanguage": "Assembly",
     "pushedAt": "2025-02-04T05:51:32.000Z",
     "archived": false,
@@ -15260,7 +15260,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-12-20T11:47:07.000Z",
-    "updatedAt": "2025-02-04T17:29:46.000Z"
+    "updatedAt": "2025-02-05T19:54:47.000Z"
   },
   {
     "id": "Neargye/nameof",
@@ -18253,7 +18253,7 @@
       "name": "oclint",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2847908?v=4"
     },
-    "stars": 3792,
+    "stars": 3791,
     "starsDetail": {
       "total": 3786,
       "week": 2,
@@ -18271,7 +18271,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-12-14T03:48:18.000Z",
-    "updatedAt": "2025-02-04T17:14:27.000Z"
+    "updatedAt": "2025-02-05T19:40:37.000Z"
   },
   {
     "id": "renatoGarcia/icecream-cpp",
@@ -18614,7 +18614,7 @@
       "name": "dmlc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11508361?v=4"
     },
-    "stars": 26552,
+    "stars": 26555,
     "starsDetail": {
       "total": 26451,
       "week": 22,
@@ -18625,14 +18625,14 @@
     "license": "Apache License 2.0",
     "forks": 8740,
     "primaryLanguage": "M4",
-    "pushedAt": "2025-02-04T05:14:57.000Z",
+    "pushedAt": "2025-02-05T04:58:44.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-02-06T17:28:03.000Z",
-    "updatedAt": "2025-02-04T17:29:54.000Z"
+    "updatedAt": "2025-02-05T19:54:54.000Z"
   },
   {
     "id": "mackron/miniaudio",
@@ -25934,21 +25934,21 @@
       "name": "ocornut",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8225057?v=4"
     },
-    "stars": 62932,
+    "stars": 62966,
     "starsDetail": {
-      "total": 62932
+      "total": 62966
     },
     "license": "MIT License",
-    "forks": 10551,
+    "forks": 10561,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-02-03T17:42:41.000Z",
+    "pushedAt": "2025-02-04T19:20:00.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-07-21T14:29:47.000Z",
-    "updatedAt": "2025-02-04T16:55:17.000Z"
+    "updatedAt": "2025-02-05T19:22:14.000Z"
   },
   {
     "id": "oir/barkeep",
@@ -26283,21 +26283,21 @@
       "name": "pytorch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/21003710?v=4"
     },
-    "stars": 86483,
+    "stars": 86511,
     "starsDetail": {
-      "total": 86483
+      "total": 86511
     },
     "license": "Other",
-    "forks": 23275,
+    "forks": 23282,
     "primaryLanguage": "Vim Script",
-    "pushedAt": "2025-02-04T17:29:11.000Z",
+    "pushedAt": "2025-02-05T19:52:31.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-08-13T05:26:41.000Z",
-    "updatedAt": "2025-02-04T17:29:16.000Z"
+    "updatedAt": "2025-02-05T19:54:19.000Z"
   },
   {
     "id": "qlibs/mph",
@@ -26887,21 +26887,21 @@
       "name": "tensorflow",
       "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4"
     },
-    "stars": 187738,
+    "stars": 187753,
     "starsDetail": {
-      "total": 187738
+      "total": 187753
     },
     "license": "Apache License 2.0",
-    "forks": 74486,
+    "forks": 74492,
     "primaryLanguage": "Vim Snippet",
-    "pushedAt": "2025-02-04T17:24:05.000Z",
+    "pushedAt": "2025-02-05T19:52:07.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-07T01:19:20.000Z",
-    "updatedAt": "2025-02-04T17:29:06.000Z"
+    "updatedAt": "2025-02-05T19:54:09.000Z"
   },
   {
     "id": "teslamotors/fixed-containers",
