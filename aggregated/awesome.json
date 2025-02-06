@@ -498,7 +498,7 @@
       "name": "cicdops",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11013015?v=4"
     },
-    "stars": 1904,
+    "stars": 1905,
     "starsDetail": {
       "total": 1893,
       "week": 1,
@@ -516,7 +516,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-11-23T04:36:38.000Z",
-    "updatedAt": "2025-02-05T06:55:09.000Z"
+    "updatedAt": "2025-02-06T12:18:13.000Z"
   },
   {
     "id": "cosmos/awesome-cosmos",
@@ -1591,7 +1591,7 @@
       "name": "analysis-tools-dev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62759712?v=4"
     },
-    "stars": 13556,
+    "stars": 13560,
     "starsDetail": {
       "total": 13470,
       "week": 16,
@@ -1600,7 +1600,7 @@
       "updatedAt": 1736034772
     },
     "license": "MIT License",
-    "forks": 1369,
+    "forks": 1370,
     "primaryLanguage": "Makefile",
     "pushedAt": "2025-02-03T18:49:50.000Z",
     "archived": false,
@@ -1609,7 +1609,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-18T16:58:30.000Z",
-    "updatedAt": "2025-02-05T06:52:42.000Z"
+    "updatedAt": "2025-02-06T12:16:33.000Z"
   },
   {
     "id": "kdeldycke/awesome-engineering-team-management",
@@ -5289,7 +5289,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-13T08:37:26.000Z",
-    "updatedAt": "2025-02-05T10:12:17.000Z"
+    "updatedAt": "2025-02-06T12:36:04.000Z"
   },
   {
     "id": "PatrickJS/awesome-angular",
@@ -7779,7 +7779,7 @@
       "name": "inputsh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4890548?v=4"
     },
-    "stars": 3529,
+    "stars": 3530,
     "starsDetail": {
       "total": 3516,
       "week": 9,
@@ -7797,7 +7797,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-31T01:56:17.000Z",
-    "updatedAt": "2025-02-05T06:55:50.000Z"
+    "updatedAt": "2025-02-06T12:20:02.000Z"
   },
   {
     "id": "inputsh/awesome-linux",
@@ -14527,12 +14527,12 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 72979,
+    "stars": 72992,
     "starsDetail": {
-      "total": 72979
+      "total": 72992
     },
     "license": null,
-    "forks": 8985,
+    "forks": 8987,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -14541,7 +14541,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2025-02-05T06:55:52.000Z"
+    "updatedAt": "2025-02-06T12:20:04.000Z"
   },
   {
     "id": "Dvergar/awesome-haxe-gamedev",
@@ -14596,21 +14596,21 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 349631,
+    "stars": 349722,
     "starsDetail": {
-      "total": 349631
+      "total": 349722
     },
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62760,
+    "forks": 62773,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-02-04T14:22:39.000Z",
+    "pushedAt": "2025-02-05T18:17:12.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2025-02-05T06:55:52.000Z"
+    "updatedAt": "2025-02-06T12:20:04.000Z"
   },
   {
     "id": "FonduAI/awesome-prompt-injection",
@@ -19682,29 +19682,6 @@
     "goImportedBy": null,
     "createdAt": "2023-04-11T19:20:47.000Z",
     "updatedAt": "2025-02-05T23:56:11.000Z"
-  },
-  {
-    "id": "shime/creative-commons-media",
-    "name": "shime/creative-commons-media",
-    "description": "A curated list of resources that provide media licensed under Creative Commons licenses.",
-    "topics": [],
-    "owner": {
-      "name": "shime",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/703563?v=4"
-    },
-    "stars": 601,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 37,
-    "primaryLanguage": "",
-    "pushedAt": "2022-07-02T09:25:09.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-09-09T19:43:36.000Z",
-    "updatedAt": "2024-11-23T05:50:38.000Z"
   },
   {
     "id": "sindresorhus/awesome-observables",
