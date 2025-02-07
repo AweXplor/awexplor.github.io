@@ -1143,7 +1143,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-16T21:08:44.000Z",
-    "updatedAt": "2025-02-06T12:32:11.000Z"
+    "updatedAt": "2025-02-07T14:56:37.000Z"
   },
   {
     "id": "trekhleb/homemade-machine-learning",
@@ -1295,7 +1295,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-05-05T09:43:50.000Z",
-    "updatedAt": "2025-02-06T12:16:55.000Z"
+    "updatedAt": "2025-02-07T14:39:20.000Z"
   },
   {
     "id": "JuliaStats/GLM.jl",
@@ -2151,7 +2151,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-03T21:48:17.000Z",
-    "updatedAt": "2025-02-06T12:32:12.000Z"
+    "updatedAt": "2025-02-07T14:56:37.000Z"
   },
   {
     "id": "mit-nlp/MITIE",
@@ -2751,7 +2751,7 @@
       "name": "rust-ml",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50020044?v=4"
     },
-    "stars": 3924,
+    "stars": 3929,
     "starsDetail": {
       "total": 3838,
       "week": 14,
@@ -2760,16 +2760,16 @@
       "updatedAt": 1736032025
     },
     "license": "Apache License 2.0",
-    "forks": 254,
+    "forks": 255,
     "primaryLanguage": "Gnuplot",
-    "pushedAt": "2025-02-03T10:35:04.000Z",
+    "pushedAt": "2025-02-07T13:38:55.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-05T07:03:30.000Z",
-    "updatedAt": "2025-02-06T12:32:12.000Z"
+    "updatedAt": "2025-02-07T14:56:38.000Z"
   },
   {
     "id": "madmaze/pytesseract",
@@ -4039,7 +4039,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-26T08:20:56.000Z",
-    "updatedAt": "2025-02-06T12:32:09.000Z"
+    "updatedAt": "2025-02-07T14:56:34.000Z"
   },
   {
     "id": "chaos-genius/chaos_genius",
@@ -5038,7 +5038,7 @@
       "name": "guillaume-be",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27071604?v=4"
     },
-    "stars": 2733,
+    "stars": 2735,
     "starsDetail": {
       "total": 2705,
       "week": 2,
@@ -5047,7 +5047,7 @@
       "updatedAt": 1736032011
     },
     "license": "Apache License 2.0",
-    "forks": 219,
+    "forks": 220,
     "primaryLanguage": "Python",
     "pushedAt": "2024-12-24T00:29:32.000Z",
     "archived": false,
@@ -5056,7 +5056,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-25T09:40:07.000Z",
-    "updatedAt": "2025-02-06T12:32:10.000Z"
+    "updatedAt": "2025-02-07T14:56:35.000Z"
   },
   {
     "id": "scikit-image/scikit-image",
@@ -6026,7 +6026,7 @@
       "name": "tracel-ai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/111992358?v=4"
     },
-    "stars": 9637,
+    "stars": 9648,
     "starsDetail": {
       "total": 9324,
       "week": 50,
@@ -6035,16 +6035,16 @@
       "updatedAt": 1736032009
     },
     "license": "Apache License 2.0",
-    "forks": 489,
+    "forks": 490,
     "primaryLanguage": "RenderScript",
-    "pushedAt": "2025-02-05T22:04:42.000Z",
+    "pushedAt": "2025-02-06T20:03:12.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-18T23:11:45.000Z",
-    "updatedAt": "2025-02-06T12:32:09.000Z"
+    "updatedAt": "2025-02-07T14:56:35.000Z"
   },
   {
     "id": "leoxiaobin/deep-high-resolution-net.pytorch",
@@ -6155,7 +6155,7 @@
       "name": "huggingface",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4"
     },
-    "stars": 16485,
+    "stars": 16496,
     "starsDetail": {
       "total": 16195,
       "week": 55,
@@ -6164,7 +6164,7 @@
       "updatedAt": 1736032019
     },
     "license": "Apache License 2.0",
-    "forks": 1017,
+    "forks": 1020,
     "primaryLanguage": "RenderScript",
     "pushedAt": "2025-02-04T06:55:31.000Z",
     "archived": false,
@@ -6173,7 +6173,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-06-19T16:06:31.000Z",
-    "updatedAt": "2025-02-06T12:32:11.000Z"
+    "updatedAt": "2025-02-07T14:56:37.000Z"
   },
   {
     "id": "benedekrozemberczki/pytorch_geometric_temporal",
@@ -7769,7 +7769,7 @@
       "name": "VowpalWabbit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43754238?v=4"
     },
-    "stars": 8520,
+    "stars": 8523,
     "starsDetail": {
       "total": 8506,
       "week": [
@@ -7791,7 +7791,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-07-31T19:36:58.000Z",
-    "updatedAt": "2025-02-06T12:16:48.000Z"
+    "updatedAt": "2025-02-07T14:39:12.000Z"
   },
   {
     "id": "clips/pattern",
@@ -7980,7 +7980,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-08T05:14:51.000Z",
-    "updatedAt": "2025-02-06T12:32:12.000Z"
+    "updatedAt": "2025-02-07T14:56:37.000Z"
   },
   {
     "id": "SerpentAI/SerpentAI",
@@ -8143,7 +8143,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-10-12T02:58:54.000Z",
-    "updatedAt": "2025-02-06T12:32:10.000Z"
+    "updatedAt": "2025-02-07T14:56:36.000Z"
   },
   {
     "id": "mljar/mljar-supervised",
@@ -8298,7 +8298,7 @@
       "name": "comet-ml",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31487821?v=4"
     },
-    "stars": 4874,
+    "stars": 4903,
     "starsDetail": {
       "total": 4013,
       "week": 203,
@@ -8307,16 +8307,16 @@
       "updatedAt": 1736085221
     },
     "license": "Apache License 2.0",
-    "forks": 319,
+    "forks": 320,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-02-06T10:20:37.000Z",
+    "pushedAt": "2025-02-07T13:20:14.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-10T12:57:13.000Z",
-    "updatedAt": "2025-02-06T12:28:02.000Z"
+    "updatedAt": "2025-02-07T14:53:00.000Z"
   },
   {
     "id": "CamDavidsonPilon/lifelines",
@@ -9139,7 +9139,7 @@
       "name": "huggingface",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4"
     },
-    "stars": 9345,
+    "stars": 9348,
     "starsDetail": {
       "total": 9220,
       "week": 26,
@@ -9157,7 +9157,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-01T17:52:20.000Z",
-    "updatedAt": "2025-02-06T12:32:11.000Z"
+    "updatedAt": "2025-02-07T14:56:36.000Z"
   },
   {
     "id": "sympy/sympy",
@@ -19000,21 +19000,21 @@
       "name": "milvus-io",
       "avatarUrl": "https://avatars.githubusercontent.com/u/51735404?v=4"
     },
-    "stars": 32187,
+    "stars": 32221,
     "starsDetail": {
-      "total": 32187
+      "total": 32221
     },
     "license": "Apache License 2.0",
     "forks": 3019,
     "primaryLanguage": "Assembly",
-    "pushedAt": "2025-02-06T10:40:44.000Z",
+    "pushedAt": "2025-02-07T13:00:45.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/milvus-io/milvus",
     "goImportedBy": 0,
     "createdAt": "2019-09-16T06:43:43.000Z",
-    "updatedAt": "2025-02-06T12:39:07.000Z"
+    "updatedAt": "2025-02-07T15:03:32.000Z"
   },
   {
     "id": "mindsdb/lightwood",
@@ -19854,21 +19854,21 @@
       "name": "opencv",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5009934?v=4"
     },
-    "stars": 80409,
+    "stars": 80422,
     "starsDetail": {
-      "total": 80409
+      "total": 80422
     },
     "license": "Apache License 2.0",
-    "forks": 55959,
+    "forks": 55961,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-02-06T10:40:03.000Z",
+    "pushedAt": "2025-02-07T14:20:04.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-07-19T09:40:17.000Z",
-    "updatedAt": "2025-02-06T12:19:46.000Z"
+    "updatedAt": "2025-02-07T14:44:26.000Z"
   },
   {
     "id": "oxinabox/DataDeps.jl",
