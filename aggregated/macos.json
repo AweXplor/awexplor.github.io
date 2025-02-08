@@ -2914,7 +2914,7 @@
       "name": "PasteBar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/148391726?v=4"
     },
-    "stars": 1264,
+    "stars": 1267,
     "starsDetail": {
       "total": 1203,
       "week": 9,
@@ -2923,7 +2923,7 @@
       "updatedAt": 1736087008
     },
     "license": "Other",
-    "forks": 43,
+    "forks": 44,
     "primaryLanguage": "C",
     "pushedAt": "2025-01-18T23:35:57.000Z",
     "archived": false,
@@ -2932,7 +2932,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-04-10T13:19:35.000Z",
-    "updatedAt": "2025-02-07T08:30:02.000Z"
+    "updatedAt": "2025-02-08T11:00:18.000Z"
   },
   {
     "id": "Aegisub/Aegisub",
@@ -3467,42 +3467,6 @@
     "goImportedBy": null,
     "createdAt": "2019-10-20T18:10:29.000Z",
     "updatedAt": "2025-02-08T04:42:22.000Z"
-  },
-  {
-    "id": "wez/wezterm",
-    "name": "wez/wezterm",
-    "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
-    "topics": [
-      "rust",
-      "serial",
-      "serial-port",
-      "terminal",
-      "terminal-emulator",
-      "terminal-emulators"
-    ],
-    "owner": {
-      "name": "wez",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/117777?v=4"
-    },
-    "stars": 19148,
-    "starsDetail": {
-      "total": 18709,
-      "week": 162,
-      "month": 579,
-      "year": 7225,
-      "updatedAt": 1736031552
-    },
-    "license": "Other",
-    "forks": 843,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2025-02-07T04:25:05.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-02-07T05:35:46.000Z",
-    "updatedAt": "2025-02-07T08:35:31.000Z"
   },
   {
     "id": "notable/notable",
@@ -4782,7 +4746,7 @@
       "name": "popcorn-official",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7267937?v=4"
     },
-    "stars": 9602,
+    "stars": 9603,
     "starsDetail": {
       "total": 9546,
       "week": 9,
@@ -4800,7 +4764,43 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-16T11:07:20.000Z",
-    "updatedAt": "2025-02-07T08:30:07.000Z"
+    "updatedAt": "2025-02-08T11:00:24.000Z"
+  },
+  {
+    "id": "wezterm/wezterm",
+    "name": "wezterm/wezterm",
+    "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+    "topics": [
+      "rust",
+      "serial",
+      "serial-port",
+      "terminal",
+      "terminal-emulator",
+      "terminal-emulators"
+    ],
+    "owner": {
+      "name": "wezterm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/198158019?v=4"
+    },
+    "stars": 19164,
+    "starsDetail": {
+      "total": 19164,
+      "week": 96,
+      "month": 458,
+      "year": 7125,
+      "updatedAt": 1739012816
+    },
+    "license": "Other",
+    "forks": 844,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2025-02-08T05:27:07.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-02-07T05:35:46.000Z",
+    "updatedAt": "2025-02-08T11:05:40.000Z"
   },
   {
     "id": "matryer/xbar",
@@ -6008,7 +6008,7 @@
       "name": "surrealdb",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10982346?v=4"
     },
-    "stars": 28630,
+    "stars": 28633,
     "starsDetail": {
       "total": 28452,
       "week": 64,
@@ -6017,16 +6017,16 @@
       "updatedAt": 1736031651
     },
     "license": "Other",
-    "forks": 948,
+    "forks": 949,
     "primaryLanguage": "DTrace",
-    "pushedAt": "2025-02-06T17:52:09.000Z",
+    "pushedAt": "2025-02-08T10:38:27.000Z",
     "archived": false,
     "npmPackage": "surrealdb",
     "npmLastMonthDownloads": 17838,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-12-09T15:03:29.000Z",
-    "updatedAt": "2025-02-07T08:36:10.000Z"
+    "updatedAt": "2025-02-08T11:06:18.000Z"
   },
   {
     "id": "syncthing/syncthing-macos",
@@ -6240,7 +6240,7 @@
       "name": "haystackeditor",
       "avatarUrl": "https://avatars.githubusercontent.com/u/175750354?v=4"
     },
-    "stars": 1030,
+    "stars": 1032,
     "starsDetail": {
       "total": 945,
       "week": 7,
@@ -6258,7 +6258,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-24T02:34:44.000Z",
-    "updatedAt": "2025-02-07T08:23:05.000Z"
+    "updatedAt": "2025-02-08T10:53:32.000Z"
   },
   {
     "id": "qvacua/vimr",
@@ -8533,7 +8533,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-12-27T21:50:31.000Z",
-    "updatedAt": "2025-02-07T08:28:36.000Z"
+    "updatedAt": "2025-02-08T10:58:54.000Z"
   },
   {
     "id": "jhspetersson/fselect",
@@ -8889,7 +8889,7 @@
       "name": "GyulyVGC",
       "avatarUrl": "https://avatars.githubusercontent.com/u/100347457?v=4"
     },
-    "stars": 21217,
+    "stars": 21330,
     "starsDetail": {
       "total": 18893,
       "week": 48,
@@ -8898,16 +8898,16 @@
       "updatedAt": 1736031538
     },
     "license": "Apache License 2.0",
-    "forks": 625,
+    "forks": 628,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-02-07T03:25:43.000Z",
+    "pushedAt": "2025-02-07T22:41:07.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-31T21:55:56.000Z",
-    "updatedAt": "2025-02-07T08:35:27.000Z"
+    "updatedAt": "2025-02-08T11:05:35.000Z"
   },
   {
     "id": "bhj/KaraokeEternal",
@@ -11103,7 +11103,7 @@
       "name": "lihaoyun6",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16348097?v=4"
     },
-    "stars": 667,
+    "stars": 668,
     "starsDetail": {
       "total": 614,
       "week": 19,
@@ -11121,7 +11121,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-20T01:39:15.000Z",
-    "updatedAt": "2025-02-07T08:30:03.000Z"
+    "updatedAt": "2025-02-08T11:00:19.000Z"
   },
   {
     "id": "videolan/vlc",
@@ -11779,7 +11779,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-11-10T21:06:35.000Z",
-    "updatedAt": "2025-02-07T08:29:57.000Z"
+    "updatedAt": "2025-02-08T11:00:13.000Z"
   },
   {
     "id": "pkulchenko/ZeroBraneStudio",
@@ -12795,7 +12795,7 @@
       "name": "FelixKratz",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22680421?v=4"
     },
-    "stars": 1742,
+    "stars": 1744,
     "starsDetail": {
       "total": 1620,
       "week": 30,
@@ -12813,7 +12813,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-11-02T16:14:50.000Z",
-    "updatedAt": "2025-02-07T08:30:19.000Z"
+    "updatedAt": "2025-02-08T11:00:35.000Z"
   },
   {
     "id": "nmap/nmap",
@@ -13097,7 +13097,7 @@
       "name": "readest",
       "avatarUrl": "https://avatars.githubusercontent.com/u/190965649?v=4"
     },
-    "stars": 2859,
+    "stars": 2917,
     "starsDetail": {
       "total": 1514,
       "week": 267,
@@ -13108,14 +13108,14 @@
     "license": "GNU Affero General Public License v3.0",
     "forks": 109,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-02-07T01:55:14.000Z",
+    "pushedAt": "2025-02-08T02:38:17.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-12T23:16:55.000Z",
-    "updatedAt": "2025-02-07T08:35:53.000Z"
+    "updatedAt": "2025-02-08T11:06:01.000Z"
   },
   {
     "id": "viatsko/awesome-vscode",
@@ -15288,7 +15288,7 @@
       "name": "mjmlio",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16115896?v=4"
     },
-    "stars": 17233,
+    "stars": 17236,
     "starsDetail": {
       "total": 17027,
       "week": 15,
@@ -15306,7 +15306,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-28T14:04:05.000Z",
-    "updatedAt": "2025-02-07T08:32:05.000Z"
+    "updatedAt": "2025-02-08T11:02:18.000Z"
   },
   {
     "id": "FreeCAD/FreeCAD",
@@ -17849,9 +17849,9 @@
       "name": "BigBerny",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1528504?v=4"
     },
-    "stars": 222,
+    "stars": 223,
     "starsDetail": {
-      "total": 222
+      "total": 223
     },
     "license": "GNU General Public License v3.0",
     "forks": 7,
@@ -17863,7 +17863,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-07-15T22:59:46.000Z",
-    "updatedAt": "2025-02-07T08:30:04.000Z"
+    "updatedAt": "2025-02-08T11:00:21.000Z"
   },
   {
     "id": "Bunn/PiStats",
@@ -17958,21 +17958,21 @@
       "name": "Celve",
       "avatarUrl": "https://avatars.githubusercontent.com/u/95223577?v=4"
     },
-    "stars": 313,
+    "stars": 314,
     "starsDetail": {
-      "total": 313
+      "total": 314
     },
     "license": "GNU General Public License v3.0",
     "forks": 2,
     "primaryLanguage": "Swift",
-    "pushedAt": "2025-02-05T16:08:36.000Z",
+    "pushedAt": "2025-02-07T14:05:42.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-03T06:01:12.000Z",
-    "updatedAt": "2025-02-07T08:35:42.000Z"
+    "updatedAt": "2025-02-08T11:05:51.000Z"
   },
   {
     "id": "ChimeHQ/Chime",
@@ -25509,12 +25509,12 @@
       "name": "upscayl",
       "avatarUrl": "https://avatars.githubusercontent.com/u/112148288?v=4"
     },
-    "stars": 34663,
+    "stars": 34698,
     "starsDetail": {
-      "total": 34663
+      "total": 34698
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 1590,
+    "forks": 1591,
     "primaryLanguage": "Shell",
     "pushedAt": "2025-02-02T03:32:03.000Z",
     "archived": false,
@@ -25523,7 +25523,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-30T17:19:20.000Z",
-    "updatedAt": "2025-02-07T08:30:10.000Z"
+    "updatedAt": "2025-02-08T11:00:26.000Z"
   },
   {
     "id": "user-attachments/assets",
