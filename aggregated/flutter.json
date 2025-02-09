@@ -1,0 +1,6201 @@
+[
+  {
+    "id": "nank1ro/flutter-shadcn-ui",
+    "name": "nank1ro/flutter-shadcn-ui",
+    "description": "shadcn-ui ported in Flutter. Awesome UI components for Flutter, fully customizable.",
+    "topics": [
+      "flutter",
+      "shadcn",
+      "shadcn-ui",
+      "shadcnui",
+      "ui"
+    ],
+    "owner": {
+      "name": "nank1ro",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/60045235?v=4"
+    },
+    "stars": 1500,
+    "starsDetail": {
+      "total": 1289,
+      "week": 29,
+      "month": 96,
+      "year": 1289,
+      "updatedAt": 1736035384
+    },
+    "license": "MIT License",
+    "forks": 88,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2025-02-07T17:04:53.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-01-05T14:54:24.000Z",
+    "updatedAt": "2025-02-08T00:46:56.000Z"
+  },
+  {
+    "id": "jonataslaw/getx",
+    "name": "jonataslaw/getx",
+    "description": "Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.",
+    "topics": [
+      "dart",
+      "dependency-injection",
+      "flutter",
+      "framework",
+      "get",
+      "getx",
+      "http",
+      "internationalization",
+      "mobile",
+      "routes",
+      "state-management",
+      "web"
+    ],
+    "owner": {
+      "name": "jonataslaw",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35742643?v=4"
+    },
+    "stars": 10577,
+    "starsDetail": {
+      "total": 10521,
+      "week": 20,
+      "month": 91,
+      "year": 1191,
+      "updatedAt": 1736035426
+    },
+    "license": "MIT License",
+    "forks": 1650,
+    "primaryLanguage": "Kotlin",
+    "pushedAt": "2024-09-24T17:19:41.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-11-14T01:16:25.000Z",
+    "updatedAt": "2025-02-08T17:12:07.000Z"
+  },
+  {
+    "id": "chulwoo-park/timelines",
+    "name": "chulwoo-park/timelines",
+    "description": "A powerful & easy to use timeline package for Flutter! 🚀",
+    "topics": [
+      "dart",
+      "flutter",
+      "flutter-package",
+      "flutter-ui",
+      "flutter-widget",
+      "flutter-widgets",
+      "timeline",
+      "timeline-component",
+      "timelines"
+    ],
+    "owner": {
+      "name": "chulwoo-park",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/776420?v=4"
+    },
+    "stars": 735,
+    "starsDetail": {
+      "total": 728,
+      "week": 2,
+      "month": 9,
+      "year": 68,
+      "updatedAt": 1736035379
+    },
+    "license": "MIT License",
+    "forks": 192,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2023-02-06T17:24:53.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-11-16T13:35:48.000Z",
+    "updatedAt": "2025-02-08T00:46:54.000Z"
+  },
+  {
+    "id": "fluttercommunity/get_it",
+    "name": "fluttercommunity/get_it",
+    "description": "Get It - Simple direct Service Locator that allows to decouple the interface from a concrete implementation and to access the concrete implementation from everywhere in your App. Maintainer: @escamoteur",
+    "topics": [],
+    "owner": {
+      "name": "fluttercommunity",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35045612?v=4"
+    },
+    "stars": 1380,
+    "starsDetail": {
+      "total": 1367,
+      "week": 3,
+      "month": 9,
+      "year": 170,
+      "updatedAt": 1736035465
+    },
+    "license": "MIT License",
+    "forks": 151,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-12-13T18:00:10.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-05-20T14:07:38.000Z",
+    "updatedAt": "2025-02-08T00:47:27.000Z"
+  },
+  {
+    "id": "huextrat/Taskist",
+    "name": "huextrat/Taskist",
+    "description": "Flutter ToDo App with Firebase",
+    "topics": [
+      "dart",
+      "flutter",
+      "todo",
+      "todoapp"
+    ],
+    "owner": {
+      "name": "huextrat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22995315?v=4"
+    },
+    "stars": 1023,
+    "starsDetail": {
+      "total": 1019,
+      "week": 2,
+      "month": 9,
+      "year": 108,
+      "updatedAt": 1736035502
+    },
+    "license": "MIT License",
+    "forks": 280,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2023-12-15T14:34:43.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-09-04T13:34:52.000Z",
+    "updatedAt": "2025-02-08T00:47:39.000Z"
+  },
+  {
+    "id": "mobxjs/mobx.dart",
+    "name": "mobxjs/mobx.dart",
+    "description": "MobX for the Dart language. Hassle-free, reactive state-management for your Dart and Flutter apps.",
+    "topics": [
+      "dart",
+      "dart-language",
+      "flutter",
+      "mobx",
+      "pub",
+      "reactive",
+      "state-management"
+    ],
+    "owner": {
+      "name": "mobxjs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17475736?v=4"
+    },
+    "stars": 2421,
+    "starsDetail": {
+      "total": 2417,
+      "week": 3,
+      "month": 9,
+      "year": 112,
+      "updatedAt": 1736035468
+    },
+    "license": "MIT License",
+    "forks": 309,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-01-22T03:22:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-12-17T10:43:33.000Z",
+    "updatedAt": "2025-02-08T00:47:27.000Z"
+  },
+  {
+    "id": "vintage/scratcher",
+    "name": "vintage/scratcher",
+    "description": "Scratch card widget which temporarily hides content from user.",
+    "topics": [
+      "flutter",
+      "flutter-plugin",
+      "flutter-widget"
+    ],
+    "owner": {
+      "name": "vintage",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/729785?v=4"
+    },
+    "stars": 601,
+    "starsDetail": {
+      "total": 595,
+      "week": 2,
+      "month": 9,
+      "year": 81,
+      "updatedAt": 1736035374
+    },
+    "license": "MIT License",
+    "forks": 68,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2023-11-24T13:38:55.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-07-22T18:51:35.000Z",
+    "updatedAt": "2025-02-08T00:46:53.000Z"
+  },
+  {
+    "id": "aagarwal1012/Animated-Text-Kit",
+    "name": "aagarwal1012/Animated-Text-Kit",
+    "description": "🔔  A flutter package to create cool and beautiful text animations. [Flutter Favorite Package]",
+    "topics": [
+      "animated-text-kit",
+      "animation",
+      "dart",
+      "flutter",
+      "flutter-package",
+      "material-design",
+      "text-animation"
+    ],
+    "owner": {
+      "name": "aagarwal1012",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34043023?v=4"
+    },
+    "stars": 1692,
+    "starsDetail": {
+      "total": 1678,
+      "week": 2,
+      "month": 8,
+      "year": 97,
+      "updatedAt": 1736035477
+    },
+    "license": "MIT License",
+    "forks": 316,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2025-01-25T16:06:13.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-08-03T10:53:45.000Z",
+    "updatedAt": "2025-02-08T00:47:31.000Z"
+  },
+  {
+    "id": "fzyzcjy/flutter_convenient_test",
+    "name": "fzyzcjy/flutter_convenient_test",
+    "description": "Write and debug tests easily, with full action history, time travel, screenshots, rapid re-execution, video records, interactivity, isolation and more",
+    "topics": [
+      "dart",
+      "flutter",
+      "framework",
+      "test",
+      "testing"
+    ],
+    "owner": {
+      "name": "fzyzcjy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5236035?v=4"
+    },
+    "stars": 506,
+    "starsDetail": {
+      "total": 501,
+      "week": 2,
+      "month": 8,
+      "year": 79,
+      "updatedAt": 1736304765
+    },
+    "license": "MIT License",
+    "forks": 44,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-10-17T00:43:41.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-05-03T08:50:02.000Z",
+    "updatedAt": "2025-02-08T00:47:33.000Z"
+  },
+  {
+    "id": "google/flutter-desktop-embedding",
+    "name": "google/flutter-desktop-embedding",
+    "description": "Experimental plugins for Flutter for Desktop",
+    "topics": [],
+    "owner": {
+      "name": "google",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1342004?v=4"
+    },
+    "stars": 7107,
+    "starsDetail": {
+      "total": 7107,
+      "week": 2,
+      "month": 8,
+      "year": 62,
+      "updatedAt": 1736035524
+    },
+    "license": "Apache License 2.0",
+    "forks": 607,
+    "primaryLanguage": "Swift",
+    "pushedAt": "2024-04-03T14:28:40.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-02-14T00:41:16.000Z",
+    "updatedAt": "2025-02-08T03:48:50.000Z"
+  },
+  {
+    "id": "iampawan/Flutter-Music-Player",
+    "name": "iampawan/Flutter-Music-Player",
+    "description": "Flutter Music Player - First Open Source Flutter based material design music player with audio plugin to play local music files.",
+    "topics": [
+      "android",
+      "cross-platform",
+      "dart",
+      "fetch-songs",
+      "flutter-music-player",
+      "ios",
+      "material",
+      "music-player",
+      "open-source",
+      "playstore"
+    ],
+    "owner": {
+      "name": "iampawan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12619420?v=4"
+    },
+    "stars": 1730,
+    "starsDetail": {
+      "total": 1727,
+      "week": 2,
+      "month": 8,
+      "year": 110,
+      "updatedAt": 1736035493
+    },
+    "license": "Apache License 2.0",
+    "forks": 554,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-01-15T08:28:42.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-03-24T12:50:18.000Z",
+    "updatedAt": "2025-02-08T00:47:38.000Z"
+  },
+  {
+    "id": "felangel/bloc",
+    "name": "felangel/bloc",
+    "description": "A predictable state management library that helps implement the BLoC design pattern",
+    "topics": [
+      "angulardart",
+      "bloc",
+      "concurrency",
+      "dart",
+      "dart-library",
+      "dart-web",
+      "dartlang",
+      "flutter",
+      "flutter-package",
+      "library",
+      "state-management"
+    ],
+    "owner": {
+      "name": "felangel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8855632?v=4"
+    },
+    "stars": 11981,
+    "starsDetail": {
+      "total": 11921,
+      "week": 8,
+      "month": 70,
+      "year": 983,
+      "updatedAt": 1736035463
+    },
+    "license": "MIT License",
+    "forks": 3403,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-02-01T23:09:53.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-10-07T19:32:59.000Z",
+    "updatedAt": "2025-02-08T00:47:26.000Z"
+  },
+  {
+    "id": "JHBitencourt/timeline_tile",
+    "name": "JHBitencourt/timeline_tile",
+    "description": "A package to help build customisable timelines in Flutter.",
+    "topics": [],
+    "owner": {
+      "name": "JHBitencourt",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9002831?v=4"
+    },
+    "stars": 765,
+    "starsDetail": {
+      "total": 764,
+      "week": 2,
+      "month": 7,
+      "year": 120,
+      "updatedAt": 1736035380
+    },
+    "license": "MIT License",
+    "forks": 149,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-08-02T08:33:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-06-06T20:50:25.000Z",
+    "updatedAt": "2025-02-08T00:46:54.000Z"
+  },
+  {
+    "id": "aagarwal1012/Liquid-Pull-To-Refresh",
+    "name": "aagarwal1012/Liquid-Pull-To-Refresh",
+    "description": "🔁 A custom refresh indicator for flutter.",
+    "topics": [
+      "android",
+      "flutter",
+      "hacktoberfest",
+      "ios",
+      "pull-to-refresh",
+      "refresh-indicator",
+      "swipe-refresh",
+      "swipe-to-refresh",
+      "swiperefreshlayout"
+    ],
+    "owner": {
+      "name": "aagarwal1012",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34043023?v=4"
+    },
+    "stars": 1266,
+    "starsDetail": {
+      "total": 1263,
+      "week": 0,
+      "month": 7,
+      "year": 89,
+      "updatedAt": 1736035373
+    },
+    "license": "MIT License",
+    "forks": 93,
+    "primaryLanguage": "Kotlin",
+    "pushedAt": "2023-07-26T12:15:44.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-12-15T19:36:46.000Z",
+    "updatedAt": "2025-02-08T00:46:52.000Z"
+  },
+  {
+    "id": "dengyin2000/dynamic_widget",
+    "name": "dengyin2000/dynamic_widget",
+    "description": "A Backend-Driven UI toolkit, build your dynamic UI with json, and the json format is very similar with flutter widget code.",
+    "topics": [
+      "dynamic",
+      "dynamicwidget",
+      "flutter",
+      "widget"
+    ],
+    "owner": {
+      "name": "dengyin2000",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11385305?v=4"
+    },
+    "stars": 1581,
+    "starsDetail": {
+      "total": 1576,
+      "week": 1,
+      "month": 7,
+      "year": 119,
+      "updatedAt": 1736035408
+    },
+    "license": "Apache License 2.0",
+    "forks": 313,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-05-25T19:47:24.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-01-28T07:31:39.000Z",
+    "updatedAt": "2025-02-08T00:47:05.000Z"
+  },
+  {
+    "id": "mdanics/fluttergram",
+    "name": "mdanics/fluttergram",
+    "description": "A fully functional Instagram clone written in Flutter using Firebase / Firestore",
+    "topics": [
+      "dart",
+      "firebase",
+      "firestore",
+      "flutter"
+    ],
+    "owner": {
+      "name": "mdanics",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10066840?v=4"
+    },
+    "stars": 2345,
+    "starsDetail": {
+      "total": 2336,
+      "week": 2,
+      "month": 7,
+      "year": 112,
+      "updatedAt": 1736035498
+    },
+    "license": "Other",
+    "forks": 623,
+    "primaryLanguage": "Java",
+    "pushedAt": "2024-08-07T19:39:38.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-03-12T23:06:58.000Z",
+    "updatedAt": "2025-02-08T00:47:39.000Z"
+  },
+  {
+    "id": "robertodoering/harpy",
+    "name": "robertodoering/harpy",
+    "description": "a Twitter app built with Flutter 🦅",
+    "topics": [
+      "dart",
+      "flutter",
+      "mobile",
+      "mobile-app",
+      "twitter",
+      "twitter-api",
+      "twitter-client"
+    ],
+    "owner": {
+      "name": "robertodoering",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20045287?v=4"
+    },
+    "stars": 2074,
+    "starsDetail": {
+      "total": 2075,
+      "week": 3,
+      "month": 7,
+      "year": 135,
+      "updatedAt": 1736035511
+    },
+    "license": "GNU General Public License v3.0",
+    "forks": 198,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-08-01T23:32:46.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-10-28T14:02:58.000Z",
+    "updatedAt": "2025-02-08T00:47:43.000Z"
+  },
+  {
+    "id": "leoafarias/fvm",
+    "name": "leoafarias/fvm",
+    "description": "Flutter Version Management: A simple CLI to manage Flutter SDK versions.",
+    "topics": [
+      "cli",
+      "dart",
+      "flutter",
+      "flutter-releases",
+      "flutter-sdk-versions",
+      "fvm",
+      "sdk"
+    ],
+    "owner": {
+      "name": "leoafarias",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/435833?v=4"
+    },
+    "stars": 4845,
+    "starsDetail": {
+      "total": 4788,
+      "week": 17,
+      "month": 61,
+      "year": 778,
+      "updatedAt": 1736035516
+    },
+    "license": "MIT License",
+    "forks": 243,
+    "primaryLanguage": "Ruby",
+    "pushedAt": "2025-02-05T19:05:25.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-02-22T06:57:07.000Z",
+    "updatedAt": "2025-02-08T00:47:44.000Z"
+  },
+  {
+    "id": "AbdulRahmanAlHamali/flutter_typeahead",
+    "name": "AbdulRahmanAlHamali/flutter_typeahead",
+    "description": "A TypeAhead widget for Flutter, where you can show suggestions to users as they type",
+    "topics": [],
+    "owner": {
+      "name": "AbdulRahmanAlHamali",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16646600?v=4"
+    },
+    "stars": 839,
+    "starsDetail": {
+      "total": 837,
+      "week": 0,
+      "month": 6,
+      "year": 100,
+      "updatedAt": 1736035386
+    },
+    "license": "BSD 2-Clause \"Simplified\" License",
+    "forks": 353,
+    "primaryLanguage": "Dart",
+    "pushedAt": "2024-12-13T16:01:10.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-08-30T19:25:44.000Z",
+    "updatedAt": "2025-02-08T00:46:57.000Z"
+  },
+  {
+    "id": "Lyokone/flutterlocation",
+    "name": "Lyokone/flutterlocation",
+    "description": "A Flutter plugin to easily handle realtime location in iOS and Android. Provides settings for optimizing performance or battery.",
+    "topics": [
+      "android",
+      "dart",
+      "flutter",
+      "flutter-plugin",
+      "ios"
+    ],
+    "owner": {
+      "name": "Lyokone",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3680002?v=4"
+    },
+    "stars": 1125,
+    "starsDetail": {
+      "total": 1122,
+      "week": 1,
+      "month": 6,
+      "year": 97,
+      "updatedAt": 1736035446
+    },
+    "license": "MIT License",
+    "forks": 835,
+    "primaryLanguage": "Swift",
+    "pushedAt": "2025-01-23T17:11:47.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-07-07T12:47:30.000Z",
+    "updatedAt": "2025-02-08T00:47:21.000Z"
+  },
+  {
+    "id": "ReinBentdal/styled_widget",
+    "name": "ReinBentdal/styled_widget",
+    "description": "Simplifying widget style in Flutter. ",
+    "topics": [
+      "dart",
+      "flutter",
+      "package",
+      "style",
+      "widget",
+      "widgets"
+    ],
+    "owner": {
+      "name": "ReinBentdal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/21336626?v=4"
+    },
+    "stars": 1289,
+    "starsDetail": {
+      "total": 1279,
+      "week": 1,
+      "month": 6,
+      "year": 112,
+      "updatedAt": 1736035484
+    },
+    "license": "MIT License",
+    "forks": 103,
+    "primaryLanguage": "Dart",
+    "pushedAt": "2023-09-14T03:59:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-11-26T18:59:03.000Z",
+    "updatedAt": "2025-02-08T00:47:34.000Z"
+  },
+  {
+    "id": "hnvn/flutter_shimmer",
+    "name": "hnvn/flutter_shimmer",
+    "description": "A package provides an easy way to add shimmer effect in Flutter project",
+    "topics": [
+      "animation",
+      "dart",
+      "flutter",
+      "loading"
+    ],
+    "owner": {
+      "name": "hnvn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5468513?v=4"
+    },
+    "stars": 1810,
+    "starsDetail": {
+      "total": 1807,
+      "week": 1,
+      "month": 6,
+      "year": 123,
+      "updatedAt": 1736035402
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 206,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2023-12-28T06:22:01.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-06-06T08:29:18.000Z",
+    "updatedAt": "2025-02-08T00:47:03.000Z"
+  },
+  {
+    "id": "olexale/arkit_flutter_plugin",
+    "name": "olexale/arkit_flutter_plugin",
+    "description": "ARKit Flutter Plugin",
+    "topics": [],
+    "owner": {
+      "name": "olexale",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4376913?v=4"
+    },
+    "stars": 812,
+    "starsDetail": {
+      "total": 807,
+      "week": 1,
+      "month": 6,
+      "year": 52,
+      "updatedAt": 1736035444
+    },
+    "license": "MIT License",
+    "forks": 230,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2025-02-02T20:02:55.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-04-12T11:25:36.000Z",
+    "updatedAt": "2025-02-08T00:47:20.000Z"
+  },
+  {
+    "id": "sooxt98/google_nav_bar",
+    "name": "sooxt98/google_nav_bar",
+    "description": "A modern google style nav bar for flutter.",
+    "topics": [
+      "bottombar",
+      "bottomnavigationbar",
+      "bubble-navigation",
+      "flutter",
+      "flutter-apps",
+      "flutter-material",
+      "flutter-package",
+      "flutter-plugin",
+      "flutter-widget",
+      "google-nav",
+      "navigationbar"
+    ],
+    "owner": {
+      "name": "sooxt98",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13378059?v=4"
+    },
+    "stars": 755,
+    "starsDetail": {
+      "total": 755,
+      "week": 1,
+      "month": 6,
+      "year": 120,
+      "updatedAt": 1736035394
+    },
+    "license": "MIT License",
+    "forks": 115,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-11-30T13:06:53.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-12-22T06:56:56.000Z",
+    "updatedAt": "2025-02-08T00:47:00.000Z"
+  },
+  {
+    "id": "flutter/packages",
+    "name": "flutter/packages",
+    "description": "A collection of useful packages maintained by the Flutter team",
+    "topics": [],
+    "owner": {
+      "name": "flutter",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14101776?v=4"
+    },
+    "stars": 4551,
+    "starsDetail": {
+      "total": 4494,
+      "week": 13,
+      "month": 59,
+      "year": 857,
+      "updatedAt": 1736035416
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 3045,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2025-02-07T19:31:35.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-08-01T21:43:32.000Z",
+    "updatedAt": "2025-02-08T00:47:08.000Z"
+  },
+  {
+    "id": "olexale/flutter_roadmap",
+    "name": "olexale/flutter_roadmap",
+    "description": "Highly Subjective Roadmap to Flutter Development",
+    "topics": [],
+    "owner": {
+      "name": "olexale",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4376913?v=4"
+    },
+    "stars": 5594,
+    "starsDetail": {
+      "total": 5557,
+      "week": 6,
+      "month": 51,
+      "year": [
+        50,
+        49,
+        1704412962
+      ],
+      "updatedAt": 1736035365
+    },
+    "license": "MIT License",
+    "forks": 776,
+    "primaryLanguage": "",
+    "pushedAt": "2024-12-24T17:48:05.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-04-05T14:31:06.000Z",
+    "updatedAt": "2025-02-08T00:46:49.000Z"
+  },
+  {
+    "id": "KarimElghamry/chillify",
+    "name": "KarimElghamry/chillify",
+    "description": "Music App made with flutter",
+    "topics": [
+      "android",
+      "dart",
+      "flutter",
+      "flutter-app",
+      "music-player"
+    ],
+    "owner": {
+      "name": "KarimElghamry",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46113985?v=4"
+    },
+    "stars": 750,
+    "starsDetail": {
+      "total": 748,
+      "week": 2,
+      "month": 5,
+      "year": 40,
+      "updatedAt": 1736035503
+    },
+    "license": "MIT License",
+    "forks": 196,
+    "primaryLanguage": "Java",
+    "pushedAt": "2022-03-31T13:22:38.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-05-25T14:11:36.000Z",
+    "updatedAt": "2025-02-08T00:47:42.000Z"
+  },
+  {
+    "id": "OneSignal/OneSignal-Flutter-SDK",
+    "name": "OneSignal/OneSignal-Flutter-SDK",
+    "description": "OneSignal is a free push notification service for mobile apps. This plugin makes it easy to integrate your flutter app with OneSignal",
+    "topics": [
+      "android",
+      "email",
+      "flutter",
+      "in-app-messaging",
+      "ios",
+      "notifications",
+      "push-notifications",
+      "sms"
+    ],
+    "owner": {
+      "name": "OneSignal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11823027?v=4"
+    },
+    "stars": 637,
+    "starsDetail": {
+      "total": 634,
+      "week": 0,
+      "month": 5,
+      "year": 47,
+      "updatedAt": 1736035459
+    },
+    "license": "Other",
+    "forks": 220,
+    "primaryLanguage": "Swift",
+    "pushedAt": "2025-02-07T23:30:19.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-07-09T21:18:34.000Z",
+    "updatedAt": "2025-02-08T00:47:26.000Z"
+  },
+  {
+    "id": "boyan01/flutter-tetris",
+    "name": "boyan01/flutter-tetris",
+    "description": "a tetris game powered by flutter. 使用flutter开发俄罗斯方块。",
+    "topics": [
+      "android-app",
+      "dart",
+      "flutter",
+      "flutter-apps",
+      "flutter-games",
+      "ios-app"
+    ],
+    "owner": {
+      "name": "boyan01",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17426470?v=4"
+    },
+    "stars": 1625,
+    "starsDetail": {
+      "total": 1619,
+      "week": 2,
+      "month": 5,
+      "year": 114,
+      "updatedAt": 1736035490
+    },
+    "license": "Other",
+    "forks": 338,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-08-25T08:51:57.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-01-11T04:31:56.000Z",
+    "updatedAt": "2025-02-08T00:47:37.000Z"
+  },
+  {
+    "id": "fluttercandies/flutter_photo_manager",
+    "name": "fluttercandies/flutter_photo_manager",
+    "description": "A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, macOS and OpenHarmony.",
+    "topics": [
+      "dart",
+      "flutter",
+      "flutter-plugin",
+      "image",
+      "photo",
+      "photos",
+      "plugin",
+      "video"
+    ],
+    "owner": {
+      "name": "fluttercandies",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/47586449?v=4"
+    },
+    "stars": 713,
+    "starsDetail": {
+      "total": 708,
+      "week": 1,
+      "month": 5,
+      "year": 107,
+      "updatedAt": 1736035430
+    },
+    "license": "Apache License 2.0",
+    "forks": 325,
+    "primaryLanguage": "Swift",
+    "pushedAt": "2025-01-29T08:21:04.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-09-10T09:59:38.000Z",
+    "updatedAt": "2025-02-08T00:47:14.000Z"
+  },
+  {
+    "id": "jaweii/Flutter_beautiful_popup",
+    "name": "jaweii/Flutter_beautiful_popup",
+    "description": "A flutter package help you beautify your app popups. ",
+    "topics": [],
+    "owner": {
+      "name": "jaweii",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22613580?v=4"
+    },
+    "stars": 693,
+    "starsDetail": {
+      "total": 686,
+      "week": 1,
+      "month": 5,
+      "year": 48,
+      "updatedAt": 1736035375
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 92,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2022-10-13T09:25:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-12-05T07:04:14.000Z",
+    "updatedAt": "2025-02-08T00:46:53.000Z"
+  },
+  {
+    "id": "jesusrp98/spacex-go",
+    "name": "jesusrp98/spacex-go",
+    "description": "Simple yet powerful, open-source SpaceX launch tracker.",
+    "topics": [
+      "android-app",
+      "flutter",
+      "flutter-apps",
+      "spacex"
+    ],
+    "owner": {
+      "name": "jesusrp98",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8961959?v=4"
+    },
+    "stars": 888,
+    "starsDetail": {
+      "total": 882,
+      "week": 1,
+      "month": 5,
+      "year": 70,
+      "updatedAt": 1736035502
+    },
+    "license": "GNU General Public License v3.0",
+    "forks": 253,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-03-28T22:03:32.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-06-29T21:51:06.000Z",
+    "updatedAt": "2025-02-08T00:47:41.000Z"
+  },
+  {
+    "id": "pauldemarco/flutter_blue",
+    "name": "pauldemarco/flutter_blue",
+    "description": "Bluetooth plugin for Flutter",
+    "topics": [],
+    "owner": {
+      "name": "pauldemarco",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16725750?v=4"
+    },
+    "stars": 2406,
+    "starsDetail": {
+      "total": 2401,
+      "week": [
+        25,
+        24,
+        1735430651
+      ],
+      "month": 5,
+      "year": 112,
+      "updatedAt": 1736035454
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 1247,
+    "primaryLanguage": "Swift",
+    "pushedAt": "2024-08-05T06:45:46.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-06-05T05:47:02.000Z",
+    "updatedAt": "2025-02-08T00:47:24.000Z"
+  },
+  {
+    "id": "simolus3/drift",
+    "name": "simolus3/drift",
+    "description": "Drift is an easy to use, reactive, typesafe persistence library for Dart & Flutter.",
+    "topics": [
+      "dart",
+      "dart-build-system",
+      "flutter",
+      "persistence",
+      "reactive",
+      "sqlite"
+    ],
+    "owner": {
+      "name": "simolus3",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5738860?v=4"
+    },
+    "stars": 2763,
+    "starsDetail": {
+      "total": 2725,
+      "week": 14,
+      "month": 48,
+      "year": 530,
+      "updatedAt": 1736035457
+    },
+    "license": "MIT License",
+    "forks": 386,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2025-02-08T14:54:20.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-02-03T12:42:56.000Z",
+    "updatedAt": "2025-02-08T17:12:26.000Z"
+  },
+  {
+    "id": "bdlukaa/fluent_ui",
+    "name": "bdlukaa/fluent_ui",
+    "description": "Implements Microsoft's WinUI3 in Flutter.",
+    "topics": [
+      "dart",
+      "fluent-design",
+      "fluent-ui",
+      "flutter",
+      "flutter-favorite",
+      "uwp",
+      "windows",
+      "winui",
+      "winui3"
+    ],
+    "owner": {
+      "name": "bdlukaa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45696119?v=4"
+    },
+    "stars": 3063,
+    "starsDetail": {
+      "total": 3033,
+      "week": 10,
+      "month": 47,
+      "year": 551,
+      "updatedAt": 1736035529
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 473,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-02-07T11:59:07.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-12-19T12:36:20.000Z",
+    "updatedAt": "2025-02-08T03:48:51.000Z"
+  },
+  {
+    "id": "leancodepl/patrol",
+    "name": "leancodepl/patrol",
+    "description": "Flutter-first UI testing framework. Ready for action!",
+    "topics": [
+      "dart",
+      "flutter",
+      "flutter-test",
+      "greybox-testing",
+      "hacktoberfest",
+      "integration-testing",
+      "testing",
+      "ui-automation",
+      "whitebox-testing"
+    ],
+    "owner": {
+      "name": "leancodepl",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33636762?v=4"
+    },
+    "stars": 975,
+    "starsDetail": {
+      "total": 960,
+      "week": 14,
+      "month": 45,
+      "year": 304,
+      "updatedAt": 1736035481
+    },
+    "license": "Apache License 2.0",
+    "forks": 156,
+    "primaryLanguage": "MATLAB",
+    "pushedAt": "2025-02-07T15:36:20.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-05-25T11:44:09.000Z",
+    "updatedAt": "2025-02-08T00:47:33.000Z"
+  },
+  {
+    "id": "serverpod/serverpod",
+    "name": "serverpod/serverpod",
+    "description": "Serverpod is a next-generation app and web server, explicitly built for the Flutter and Dart ecosystem.",
+    "topics": [],
+    "owner": {
+      "name": "serverpod",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48181558?v=4"
+    },
+    "stars": 2647,
+    "starsDetail": {
+      "total": 2608,
+      "week": 9,
+      "month": 42,
+      "year": 715,
+      "updatedAt": 1736035477
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 253,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2025-02-06T08:14:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-05-22T12:01:45.000Z",
+    "updatedAt": "2025-02-08T00:47:31.000Z"
+  },
+  {
+    "id": "LanarsInc/direct-select-flutter",
+    "name": "LanarsInc/direct-select-flutter",
+    "description": "DirectSelect is a selection widget with an ethereal, full-screen modal popup displaying the available choices when the widget is interact with. https://dribbble.com/shots/3876250-DirectSelect-Dropdown-ux",
+    "topics": [
+      "flutter",
+      "flutter-ui",
+      "flutter-ui-collection",
+      "selection-widget",
+      "widget"
+    ],
+    "owner": {
+      "name": "LanarsInc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20770665?v=4"
+    },
+    "stars": 788,
+    "starsDetail": {
+      "total": 787,
+      "week": 0,
+      "month": 4,
+      "year": 99,
+      "updatedAt": 1736035373
+    },
+    "license": "BSD 2-Clause \"Simplified\" License",
+    "forks": 63,
+    "primaryLanguage": "Kotlin",
+    "pushedAt": "2024-01-10T16:18:11.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-03-15T09:51:29.000Z",
+    "updatedAt": "2025-02-08T00:46:52.000Z"
+  },
+  {
+    "id": "bitsdojo/bitsdojo_window",
+    "name": "bitsdojo/bitsdojo_window",
+    "description": "A Flutter package that makes it easy to customize and work with your Flutter desktop app window.",
+    "topics": [],
+    "owner": {
+      "name": "bitsdojo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/69184916?v=4"
+    },
+    "stars": 820,
+    "starsDetail": {
+      "total": 817,
+      "week": 0,
+      "month": 4,
+      "year": 100,
+      "updatedAt": 1736035526
+    },
+    "license": "MIT License",
+    "forks": 233,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2023-12-24T00:42:49.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-11-27T21:01:55.000Z",
+    "updatedAt": "2025-02-08T00:47:49.000Z"
+  },
+  {
+    "id": "boeledi/flutter_crush",
+    "name": "boeledi/flutter_crush",
+    "description": "How to build a Match-3 game, like Candy Crush, Bejeweled, FishDom… in Flutter.",
+    "topics": [],
+    "owner": {
+      "name": "boeledi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3143268?v=4"
+    },
+    "stars": 588,
+    "starsDetail": {
+      "total": 586,
+      "week": 0,
+      "month": 4,
+      "year": 60,
+      "updatedAt": 1736035488
+    },
+    "license": null,
+    "forks": 233,
+    "primaryLanguage": "Kotlin",
+    "pushedAt": "2024-04-02T14:33:30.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-11-07T02:03:35.000Z",
+    "updatedAt": "2025-02-08T00:47:36.000Z"
+  },
+  {
+    "id": "dnfield/flutter_svg",
+    "name": "dnfield/flutter_svg",
+    "description": "SVG parsing, rendering, and widget library for Flutter",
+    "topics": [
+      "dart",
+      "flutter",
+      "flutter-plugin",
+      "svg"
+    ],
+    "owner": {
+      "name": "dnfield",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8620741?v=4"
+    },
+    "stars": 1683,
+    "starsDetail": {
+      "total": 1679,
+      "week": 1,
+      "month": 4,
+      "year": 94,
+      "updatedAt": 1736035410
+    },
+    "license": "MIT License",
+    "forks": 459,
+    "primaryLanguage": "Kotlin",
+    "pushedAt": "2024-11-01T20:45:43.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-03-12T04:21:33.000Z",
+    "updatedAt": "2025-02-08T00:47:06.000Z"
+  },
+  {
+    "id": "florent37/Flutter-AssetsAudioPlayer",
+    "name": "florent37/Flutter-AssetsAudioPlayer",
+    "description": "Play simultaneously music/audio from assets/network/file directly from Flutter, compatible with android / ios / web / macos, displays notifications",
+    "topics": [
+      "android",
+      "audio",
+      "audios",
+      "dart",
+      "flutter",
+      "ios",
+      "java",
+      "kotlin",
+      "listen",
+      "mac",
+      "macos",
+      "media",
+      "mp3",
+      "player",
+      "playlist",
+      "song",
+      "songs",
+      "swift",
+      "web"
+    ],
+    "owner": {
+      "name": "florent37",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5754972?v=4"
+    },
+    "stars": 759,
+    "starsDetail": {
+      "total": 761,
+      "week": 1,
+      "month": 4,
+      "year": 46,
+      "updatedAt": 1736035431
+    },
+    "license": "Apache License 2.0",
+    "forks": 385,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-12-23T20:24:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-01-24T10:38:56.000Z",
+    "updatedAt": "2025-02-08T00:47:15.000Z"
+  },
+  {
+    "id": "janoodleFTW/timy-messenger",
+    "name": "janoodleFTW/timy-messenger",
+    "description": "Timy - open source mobile app for groups to communicate and organize themselves. Built with flutter.",
+    "topics": [
+      "android",
+      "app",
+      "firebase",
+      "flutter",
+      "ios",
+      "kotlin",
+      "messaging",
+      "messenger",
+      "swift"
+    ],
+    "owner": {
+      "name": "janoodleFTW",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50869161?v=4"
+    },
+    "stars": 2097,
+    "starsDetail": {
+      "total": 2092,
+      "week": 0,
+      "month": 4,
+      "year": 99,
+      "updatedAt": 1736035507
+    },
+    "license": "Apache License 2.0",
+    "forks": 464,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2023-01-09T11:56:55.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-10-01T12:06:13.000Z",
+    "updatedAt": "2025-02-08T00:47:42.000Z"
+  },
+  {
+    "id": "rrousselGit/functional_widget",
+    "name": "rrousselGit/functional_widget",
+    "description": "A code generator to write widgets as function without loosing the benefits of classes.",
+    "topics": [
+      "code-generator",
+      "dart",
+      "flutter",
+      "function",
+      "widget"
+    ],
+    "owner": {
+      "name": "rrousselGit",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20165741?v=4"
+    },
+    "stars": 604,
+    "starsDetail": {
+      "total": 601,
+      "week": [
+        7,
+        7,
+        1735430669
+      ],
+      "month": 4,
+      "year": 31,
+      "updatedAt": 1736035470
+    },
+    "license": null,
+    "forks": 46,
+    "primaryLanguage": "Dart",
+    "pushedAt": "2024-03-14T10:36:12.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-12-01T17:28:50.000Z",
+    "updatedAt": "2025-02-08T00:47:29.000Z"
+  },
+  {
+    "id": "trentpiercy/trace",
+    "name": "trentpiercy/trace",
+    "description": "Modern crypto portfolio & market explorer. Built with @Flutter",
+    "topics": [
+      "cryptocurrency",
+      "finance",
+      "flutter",
+      "mobile-app"
+    ],
+    "owner": {
+      "name": "trentpiercy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29619204?v=4"
+    },
+    "stars": 1120,
+    "starsDetail": {
+      "total": 1120,
+      "week": 1,
+      "month": 4,
+      "year": 66,
+      "updatedAt": 1736035501
+    },
+    "license": "GNU General Public License v3.0",
+    "forks": 339,
+    "primaryLanguage": "Java",
+    "pushedAt": "2023-03-07T03:04:30.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-04-01T06:45:33.000Z",
+    "updatedAt": "2025-02-08T00:47:39.000Z"
+  },
+  {
+    "id": "GitJournal/GitJournal",
+    "name": "GitJournal/GitJournal",
+    "description": "Mobile first Note Taking integrated with Git",
+    "topics": [
+      "git",
+      "google-keep",
+      "journal",
+      "knowledge-graph",
+      "knowledge-management",
+      "markdown",
+      "memex",
+      "note-taking",
+      "notes",
+      "notes-app"
+    ],
+    "owner": {
+      "name": "GitJournal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46486395?v=4"
+    },
+    "stars": 3582,
+    "starsDetail": {
+      "total": 3542,
+      "week": 13,
+      "month": 38,
+      "year": 409,
+      "updatedAt": 1736035508
+    },
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 246,
+    "primaryLanguage": "C",
+    "pushedAt": "2024-09-06T08:00:01.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-01-10T11:27:18.000Z",
+    "updatedAt": "2025-02-08T00:47:42.000Z"
+  },
+  {
+    "id": "TheAlphamerc/flutter_twitter_clone",
+    "name": "TheAlphamerc/flutter_twitter_clone",
+    "description": "Fully functional Twitter clone built in  flutter framework using Firebase realtime database and storage",
+    "topics": [
+      "firebase-auth",
+      "firebase-realtime-database",
+      "firebase-storage",
+      "flutter",
+      "flutter-app",
+      "flutter-apps",
+      "social",
+      "social-app",
+      "twitter",
+      "twitter-clone"
+    ],
+    "owner": {
+      "name": "TheAlphamerc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/37103237?v=4"
+    },
+    "stars": 4001,
+    "starsDetail": {
+      "total": 3971,
+      "week": 5,
+      "month": 36,
+      "year": 610,
+      "updatedAt": 1736035513
+    },
+    "license": "MIT License",
+    "forks": 1119,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-07-31T04:58:06.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-12-25T05:56:37.000Z",
+    "updatedAt": "2025-02-08T00:47:43.000Z"
+  },
+  {
+    "id": "flutter/gallery",
+    "name": "flutter/gallery",
+    "description": "Flutter Gallery was a resource to help developers evaluate and use Flutter",
+    "topics": [
+      "dart",
+      "flutter"
+    ],
+    "owner": {
+      "name": "flutter",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14101776?v=4"
+    },
+    "stars": 6454,
+    "starsDetail": {
+      "total": 6436,
+      "week": 5,
+      "month": 33,
+      "year": 509,
+      "updatedAt": 1736035369
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 1548,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-06-13T14:53:56.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-03-05T17:46:11.000Z",
+    "updatedAt": "2025-02-08T00:46:50.000Z"
+  },
+  {
+    "id": "nisrulz/flutter-examples",
+    "name": "nisrulz/flutter-examples",
+    "description": "[Examples] Simple basic isolated apps, for budding flutter devs.",
+    "topics": [
+      "android",
+      "application-framework",
+      "cross-platform",
+      "dart",
+      "dartlang",
+      "flutter",
+      "flutter-apps",
+      "flutter-examples",
+      "flutter-material",
+      "google-flutter",
+      "ios",
+      "java",
+      "objective-c",
+      "swift"
+    ],
+    "owner": {
+      "name": "nisrulz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2096087?v=4"
+    },
+    "stars": 7019,
+    "starsDetail": {
+      "total": 7004,
+      "week": 9,
+      "month": 33,
+      "year": 424,
+      "updatedAt": 1736035369
+    },
+    "license": "Apache License 2.0",
+    "forks": 1670,
+    "primaryLanguage": "Java",
+    "pushedAt": "2024-05-27T14:27:56.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-08-11T08:11:07.000Z",
+    "updatedAt": "2025-02-08T00:46:50.000Z"
+  },
+  {
+    "id": "pichillilorenzo/flutter_inappwebview",
+    "name": "pichillilorenzo/flutter_inappwebview",
+    "description": "A Flutter plugin that allows you to add an inline webview, to use a headless webview, and to open an in-app browser window.",
+    "topics": [
+      "android",
+      "browser",
+      "cookie-manager",
+      "desktop",
+      "flutter",
+      "flutter-package",
+      "flutter-plugin",
+      "flutter-webview",
+      "inappbrowser",
+      "inappwebview",
+      "inline-webview",
+      "ios",
+      "mobile",
+      "plugin",
+      "web-storage",
+      "webview",
+      "webview-library",
+      "webview-options",
+      "webview2",
+      "wkwebview"
+    ],
+    "owner": {
+      "name": "pichillilorenzo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5956938?v=4"
+    },
+    "stars": 3378,
+    "starsDetail": {
+      "total": 3352,
+      "week": 9,
+      "month": 32,
+      "year": 561,
+      "updatedAt": 1736035449
+    },
+    "license": "Apache License 2.0",
+    "forks": 1697,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-12-09T14:04:46.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-09-14T00:21:29.000Z",
+    "updatedAt": "2025-02-08T00:47:23.000Z"
+  },
+  {
+    "id": "AndreHaueisen/flushbar",
+    "name": "AndreHaueisen/flushbar",
+    "description": "Custom widget for Flutter",
+    "topics": [],
+    "owner": {
+      "name": "AndreHaueisen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13854934?v=4"
+    },
+    "stars": 1015,
+    "starsDetail": {
+      "total": 1012,
+      "week": 0,
+      "month": 3,
+      "year": 49,
+      "updatedAt": 1736035371
+    },
+    "license": "Other",
+    "forks": 173,
+    "primaryLanguage": "Java",
+    "pushedAt": "2023-05-30T06:42:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-05-23T22:32:20.000Z",
+    "updatedAt": "2025-02-08T00:46:51.000Z"
+  },
+  {
+    "id": "brianegan/flutter_redux",
+    "name": "brianegan/flutter_redux",
+    "description": "A library that connects Widgets to a Redux Store",
+    "topics": [
+      "dart",
+      "dartlang",
+      "flutter",
+      "redux"
+    ],
+    "owner": {
+      "name": "brianegan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/126604?v=4"
+    },
+    "stars": 1657,
+    "starsDetail": {
+      "total": 1654,
+      "week": 1,
+      "month": 3,
+      "year": 26,
+      "updatedAt": 1736035468
+    },
+    "license": "MIT License",
+    "forks": 217,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2023-04-06T02:42:49.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-11-25T14:48:13.000Z",
+    "updatedAt": "2025-02-08T00:47:28.000Z"
+  },
+  {
+    "id": "entronad/flutter_echarts",
+    "name": "entronad/flutter_echarts",
+    "description": "A Flutter widget to use Apache ECharts in a reactive way.",
+    "topics": [
+      "android",
+      "chart",
+      "charting-library",
+      "charts",
+      "dart",
+      "data-visualization",
+      "echarts",
+      "flutter",
+      "flutter-widgets",
+      "ios",
+      "javascript"
+    ],
+    "owner": {
+      "name": "entronad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23075527?v=4"
+    },
+    "stars": 749,
+    "starsDetail": {
+      "total": 745,
+      "week": 0,
+      "month": 3,
+      "year": 46,
+      "updatedAt": 1736035419
+    },
+    "license": "Other",
+    "forks": 170,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2023-08-31T06:50:21.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-07-05T06:38:53.000Z",
+    "updatedAt": "2025-02-08T00:47:10.000Z"
+  },
+  {
+    "id": "felixblaschke/simple_animations",
+    "name": "felixblaschke/simple_animations",
+    "description": "Flutter package for creating awesome animations.",
+    "topics": [],
+    "owner": {
+      "name": "felixblaschke",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26407468?v=4"
+    },
+    "stars": 1042,
+    "starsDetail": {
+      "total": 1042,
+      "week": 1,
+      "month": 3,
+      "year": 88,
+      "updatedAt": 1736035479
+    },
+    "license": "MIT License",
+    "forks": 107,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-11-02T08:23:39.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-03-30T17:38:22.000Z",
+    "updatedAt": "2025-02-08T00:47:32.000Z"
+  },
+  {
+    "id": "go-flutter-desktop/go-flutter",
+    "name": "go-flutter-desktop/go-flutter",
+    "description": "Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.",
+    "topics": [
+      "cross-platform",
+      "desktop",
+      "flutter",
+      "glfw",
+      "go",
+      "golang",
+      "hover",
+      "linux",
+      "macos",
+      "ui",
+      "windows"
+    ],
+    "owner": {
+      "name": "go-flutter-desktop",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/47712234?v=4"
+    },
+    "stars": 5894,
+    "starsDetail": {
+      "total": 5882,
+      "week": 0,
+      "month": 3,
+      "year": 194,
+      "updatedAt": 1736035525
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 282,
+    "primaryLanguage": "C",
+    "pushedAt": "2025-02-05T01:21:28.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-08-19T22:04:27.000Z",
+    "updatedAt": "2025-02-08T00:47:48.000Z"
+  },
+  {
+    "id": "hanshengchiu/reorderables",
+    "name": "hanshengchiu/reorderables",
+    "description": "Reorderable table, row, column, wrap, and sliver list that allow drag and drop of the children. https://pub.dartlang.org/packages/reorderables",
+    "topics": [],
+    "owner": {
+      "name": "hanshengchiu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17819084?v=4"
+    },
+    "stars": 747,
+    "starsDetail": {
+      "total": 742,
+      "week": 0,
+      "month": 3,
+      "year": 57,
+      "updatedAt": 1736035385
+    },
+    "license": "MIT License",
+    "forks": 173,
+    "primaryLanguage": "Java",
+    "pushedAt": "2023-06-23T03:47:17.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-02-12T15:47:01.000Z",
+    "updatedAt": "2025-02-08T00:46:57.000Z"
+  },
+  {
+    "id": "iamSahdeep/liquid_swipe_flutter",
+    "name": "iamSahdeep/liquid_swipe_flutter",
+    "description": "A flutter based liquid swipe",
+    "topics": [
+      "flutter",
+      "flutter-app",
+      "flutter-apps",
+      "flutter-material",
+      "flutter-package",
+      "flutter-plugin",
+      "flutter-ui",
+      "flutter-widget"
+    ],
+    "owner": {
+      "name": "iamSahdeep",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26563213?v=4"
+    },
+    "stars": 1234,
+    "starsDetail": {
+      "total": 1233,
+      "week": 0,
+      "month": 3,
+      "year": 99,
+      "updatedAt": 1736035404
+    },
+    "license": "Apache License 2.0",
+    "forks": 159,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-02-08T12:56:20.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-07-06T16:57:57.000Z",
+    "updatedAt": "2025-02-08T00:47:04.000Z"
+  },
+  {
+    "id": "roipeker/graphx",
+    "name": "roipeker/graphx",
+    "description": "GraphX package for Flutter.",
+    "topics": [
+      "custompainter",
+      "dart",
+      "flutter",
+      "graphx"
+    ],
+    "owner": {
+      "name": "roipeker",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33768711?v=4"
+    },
+    "stars": 506,
+    "starsDetail": {
+      "total": 500,
+      "week": 1,
+      "month": 3,
+      "year": 42,
+      "updatedAt": 1736035484
+    },
+    "license": "MIT License",
+    "forks": 50,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-03-28T09:36:43.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-10-21T04:13:57.000Z",
+    "updatedAt": "2025-02-08T00:47:34.000Z"
+  },
+  {
+    "id": "serenader2014/flutter_carousel_slider",
+    "name": "serenader2014/flutter_carousel_slider",
+    "description": "A flutter carousel widget, support infinite scroll, and custom child widget.",
+    "topics": [
+      "autoplay",
+      "carousel-slider",
+      "flutter",
+      "infinite-scroll",
+      "widget"
+    ],
+    "owner": {
+      "name": "serenader2014",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6716522?v=4"
+    },
+    "stars": 1618,
+    "starsDetail": {
+      "total": 1610,
+      "week": 2,
+      "month": 3,
+      "year": 112,
+      "updatedAt": 1736035408
+    },
+    "license": "MIT License",
+    "forks": 590,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-08-19T10:47:28.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-04-16T17:05:04.000Z",
+    "updatedAt": "2025-02-08T00:47:06.000Z"
+  },
+  {
+    "id": "flame-engine/flame",
+    "name": "flame-engine/flame",
+    "description": "A Flutter based game engine.",
+    "topics": [
+      "dart",
+      "flame",
+      "flutter",
+      "game",
+      "game-development",
+      "game-engine",
+      "gamedev",
+      "hacktoberfest"
+    ],
+    "owner": {
+      "name": "flame-engine",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/47222401?v=4"
+    },
+    "stars": 9679,
+    "starsDetail": {
+      "total": 9585,
+      "week": 17,
+      "month": 267,
+      "year": 1250,
+      "updatedAt": 1736035487
+    },
+    "license": "MIT License",
+    "forks": 942,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2025-02-05T17:26:08.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-10-22T03:01:50.000Z",
+    "updatedAt": "2025-02-08T00:47:35.000Z"
+  },
+  {
+    "id": "authpass/authpass",
+    "name": "authpass/authpass",
+    "description": "AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.",
+    "topics": [
+      "android",
+      "contributions-welcome",
+      "dart",
+      "dartlang",
+      "debian",
+      "flutter",
+      "flutter-apps",
+      "hacktoberfest",
+      "help-wanted",
+      "ios",
+      "kdbx",
+      "keepass",
+      "linux",
+      "macos-application",
+      "password-manager",
+      "password-store",
+      "security",
+      "web",
+      "windows"
+    ],
+    "owner": {
+      "name": "authpass",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54736460?v=4"
+    },
+    "stars": 2355,
+    "starsDetail": {
+      "total": 2335,
+      "week": 6,
+      "month": 26,
+      "year": 392,
+      "updatedAt": 1736035510
+    },
+    "license": "GNU General Public License v3.0",
+    "forks": 259,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2025-01-13T11:49:35.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-08-22T09:05:36.000Z",
+    "updatedAt": "2025-02-08T00:47:43.000Z"
+  },
+  {
+    "id": "flame-engine/awesome-flame",
+    "name": "flame-engine/awesome-flame",
+    "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "flame",
+      "flutter",
+      "game",
+      "game-development",
+      "lists",
+      "resources"
+    ],
+    "owner": {
+      "name": "flame-engine",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/47222401?v=4"
+    },
+    "stars": 1126,
+    "starsDetail": {
+      "total": 1112,
+      "week": 5,
+      "month": 25,
+      "year": 266,
+      "updatedAt": 1736035490
+    },
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 99,
+    "primaryLanguage": "",
+    "pushedAt": "2024-11-16T08:31:34.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-10-01T13:53:01.000Z",
+    "updatedAt": "2025-02-08T00:47:37.000Z"
+  },
+  {
+    "id": "ardera/flutter-pi",
+    "name": "ardera/flutter-pi",
+    "description": "A light-weight Flutter Engine Embedder for Linux Embedded that runs without X11 or Wayland.",
+    "topics": [
+      "digital-signage",
+      "embedded",
+      "flutter",
+      "flutter-pi",
+      "raspberry-pi"
+    ],
+    "owner": {
+      "name": "ardera",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2488440?v=4"
+    },
+    "stars": 1690,
+    "starsDetail": {
+      "total": 1665,
+      "week": 1,
+      "month": 24,
+      "year": 312,
+      "updatedAt": 1736035528
+    },
+    "license": "MIT License",
+    "forks": 165,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-12-10T17:23:50.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-06-05T11:10:56.000Z",
+    "updatedAt": "2025-02-08T03:48:50.000Z"
+  },
+  {
+    "id": "jogboms/flutter_offline",
+    "name": "jogboms/flutter_offline",
+    "description": "✈️ A tidy utility to handle offline/online connectivity like a Boss",
+    "topics": [
+      "android",
+      "connectivity",
+      "connectivity-manager",
+      "dart-library",
+      "dartlang",
+      "flutter",
+      "flutter-package",
+      "flutter-widget",
+      "ios",
+      "network"
+    ],
+    "owner": {
+      "name": "jogboms",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6208486?v=4"
+    },
+    "stars": 1122,
+    "starsDetail": {
+      "total": 1108,
+      "week": 3,
+      "month": 23,
+      "year": 161,
+      "updatedAt": 1736035398
+    },
+    "license": "MIT License",
+    "forks": 119,
+    "primaryLanguage": "Kotlin",
+    "pushedAt": "2024-07-11T08:02:10.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-09-05T07:30:33.000Z",
+    "updatedAt": "2025-02-08T00:47:02.000Z"
+  },
+  {
+    "id": "invertase/melos",
+    "name": "invertase/melos",
+    "description": "🌋  A tool for managing Dart projects with multiple packages. With IntelliJ and Vscode IDE support. Supports automated versioning, changelogs & publishing via Conventional Commits.",
+    "topics": [
+      "dart",
+      "flutter",
+      "hacktoberfest",
+      "lerna",
+      "monorepo",
+      "pubdev"
+    ],
+    "owner": {
+      "name": "invertase",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13588260?v=4"
+    },
+    "stars": 1235,
+    "starsDetail": {
+      "total": 1211,
+      "week": 7,
+      "month": 22,
+      "year": 261,
+      "updatedAt": 1736035522
+    },
+    "license": "Apache License 2.0",
+    "forks": 220,
+    "primaryLanguage": "Batchfile",
+    "pushedAt": "2025-02-05T13:15:06.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-04-29T20:28:27.000Z",
+    "updatedAt": "2025-02-08T00:47:47.000Z"
+  },
+  {
+    "id": "rrousselGit/provider",
+    "name": "rrousselGit/provider",
+    "description": "InheritedWidgets, but simple",
+    "topics": [
+      "dart",
+      "flutter",
+      "hacktoberfest",
+      "provider",
+      "state-management"
+    ],
+    "owner": {
+      "name": "rrousselGit",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20165741?v=4"
+    },
+    "stars": 5143,
+    "starsDetail": {
+      "total": 5132,
+      "week": 4,
+      "month": 21,
+      "year": 235,
+      "updatedAt": 1736035462
+    },
+    "license": "MIT License",
+    "forks": 518,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-10-02T00:48:19.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-10-19T11:58:50.000Z",
+    "updatedAt": "2025-02-08T00:47:26.000Z"
+  },
+  {
+    "id": "rodydavis/signals.dart",
+    "name": "rodydavis/signals.dart",
+    "description": "Reactive programming made simple for Dart and Flutter",
+    "topics": [
+      "dart",
+      "flutter",
+      "preact-signals",
+      "signals",
+      "state-management"
+    ],
+    "owner": {
+      "name": "rodydavis",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31253215?v=4"
+    },
+    "stars": 519,
+    "starsDetail": {
+      "total": 506,
+      "week": 2,
+      "month": 20,
+      "year": 299,
+      "updatedAt": 1736035467
+    },
+    "license": "Apache License 2.0",
+    "forks": 58,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2025-02-06T16:46:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-11-18T07:48:45.000Z",
+    "updatedAt": "2025-02-08T00:47:28.000Z"
+  },
+  {
+    "id": "rrousselGit/flutter_hooks",
+    "name": "rrousselGit/flutter_hooks",
+    "description": "React hooks for Flutter. Hooks are a new kind of object that manages a Widget life-cycles. They are used to increase code sharing between widgets and as a complete replacement for StatefulWidget.",
+    "topics": [
+      "code-reuse",
+      "dart",
+      "flutter",
+      "hacktoberfest",
+      "hook",
+      "widget"
+    ],
+    "owner": {
+      "name": "rrousselGit",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20165741?v=4"
+    },
+    "stars": 3174,
+    "starsDetail": {
+      "total": 3166,
+      "week": 4,
+      "month": 20,
+      "year": 264,
+      "updatedAt": 1736035470
+    },
+    "license": "MIT License",
+    "forks": 183,
+    "primaryLanguage": "Dart",
+    "pushedAt": "2025-01-13T17:38:40.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-11-30T18:26:39.000Z",
+    "updatedAt": "2025-02-08T00:47:29.000Z"
+  },
+  {
+    "id": "CodemateLtd/FlutterMates",
+    "name": "CodemateLtd/FlutterMates",
+    "description": "A quick sample app on how to implement a friend list and a profile page in Flutter.",
+    "topics": [
+      "android",
+      "cross-platform",
+      "flutter",
+      "ios",
+      "mobile"
+    ],
+    "owner": {
+      "name": "CodemateLtd",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24607170?v=4"
+    },
+    "stars": 594,
+    "starsDetail": {
+      "total": 593,
+      "week": 1,
+      "month": 2,
+      "year": 37,
+      "updatedAt": 1736035438
+    },
+    "license": "MIT License",
+    "forks": 151,
+    "primaryLanguage": "Java",
+    "pushedAt": "2023-02-10T07:45:26.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-09-15T08:35:18.000Z",
+    "updatedAt": "2025-02-08T00:47:17.000Z"
+  },
+  {
+    "id": "PhilipsHue/flutter_reactive_ble",
+    "name": "PhilipsHue/flutter_reactive_ble",
+    "description": "Flutter library that handles BLE operations for multiple devices.",
+    "topics": [
+      "bluetooth",
+      "bluetooth-low-energy",
+      "flutter",
+      "flutter-plugin"
+    ],
+    "owner": {
+      "name": "PhilipsHue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2989748?v=4"
+    },
+    "stars": 676,
+    "starsDetail": {
+      "total": 672,
+      "week": 0,
+      "month": 2,
+      "year": 77,
+      "updatedAt": 1736035454
+    },
+    "license": "Other",
+    "forks": 345,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-02-07T15:00:27.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-10-21T14:03:47.000Z",
+    "updatedAt": "2025-02-08T00:47:24.000Z"
+  },
+  {
+    "id": "codegrue/card_settings",
+    "name": "codegrue/card_settings",
+    "description": "A flutter package for building card based forms. ",
+    "topics": [
+      "card-settings",
+      "cupertino",
+      "flutter",
+      "forms",
+      "material",
+      "picker"
+    ],
+    "owner": {
+      "name": "codegrue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2914616?v=4"
+    },
+    "stars": 555,
+    "starsDetail": {
+      "total": 556,
+      "week": 1,
+      "month": 2,
+      "year": 53,
+      "updatedAt": 1736035376
+    },
+    "license": "MIT License",
+    "forks": 105,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-06-27T08:45:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-07-26T20:32:41.000Z",
+    "updatedAt": "2025-02-08T00:46:54.000Z"
+  },
+  {
+    "id": "creativecreatorormaybenot/funvas",
+    "name": "creativecreatorormaybenot/funvas",
+    "description": "Fun canvas animations in Flutter based on time and math functions.",
+    "topics": [
+      "canvas",
+      "dart",
+      "flutter",
+      "flutter-package"
+    ],
+    "owner": {
+      "name": "creativecreatorormaybenot",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19204050?v=4"
+    },
+    "stars": 534,
+    "starsDetail": {
+      "total": 529,
+      "week": 1,
+      "month": 2,
+      "year": 34,
+      "updatedAt": 1736035479
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 39,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2025-01-03T02:44:10.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-11-05T00:45:56.000Z",
+    "updatedAt": "2025-02-08T00:47:32.000Z"
+  },
+  {
+    "id": "dart-code-checker/dart-code-metrics",
+    "name": "dart-code-checker/dart-code-metrics",
+    "description": "Software analytics tool that helps developers analyse and improve software quality.",
+    "topics": [
+      "analysis",
+      "analyzer",
+      "analyzer-plugin",
+      "anti-patterns",
+      "antipatterns",
+      "cli",
+      "code-metrics",
+      "codeclimate",
+      "dart",
+      "dartlang",
+      "flutter",
+      "metrics",
+      "quality",
+      "static-analysis",
+      "tool"
+    ],
+    "owner": {
+      "name": "dart-code-checker",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/76523811?v=4"
+    },
+    "stars": 863,
+    "starsDetail": {
+      "total": 863,
+      "week": 1,
+      "month": 2,
+      "year": 17,
+      "updatedAt": 1736035519
+    },
+    "license": "Other",
+    "forks": 267,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2023-07-16T15:30:39.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-01-16T06:52:24.000Z",
+    "updatedAt": "2025-02-08T00:47:47.000Z"
+  },
+  {
+    "id": "erluxman/awesomefluttertips",
+    "name": "erluxman/awesomefluttertips",
+    "description": "❤️ Awesome Flutter Tips and Tricks  ❤️",
+    "topics": [],
+    "owner": {
+      "name": "erluxman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6260014?v=4"
+    },
+    "stars": 2935,
+    "starsDetail": {
+      "total": 2938,
+      "week": 1,
+      "month": 2,
+      "year": 89,
+      "updatedAt": 1736035362
+    },
+    "license": null,
+    "forks": 256,
+    "primaryLanguage": "Dart",
+    "pushedAt": "2022-09-30T09:08:06.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-05-02T06:22:04.000Z",
+    "updatedAt": "2025-02-08T00:46:48.000Z"
+  },
+  {
+    "id": "fluttercommunity/flutter_blurhash",
+    "name": "fluttercommunity/flutter_blurhash",
+    "description": "Compact representation of a placeholder for an image. Encode a blurry image under 30 caracters for instant display like used by Medium. Maintainer: @Solido",
+    "topics": [
+      "blurhash",
+      "dartlang",
+      "flutter"
+    ],
+    "owner": {
+      "name": "fluttercommunity",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35045612?v=4"
+    },
+    "stars": 534,
+    "starsDetail": {
+      "total": 532,
+      "week": 0,
+      "month": 2,
+      "year": 72,
+      "updatedAt": 1736035400
+    },
+    "license": "MIT License",
+    "forks": 67,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2023-11-18T14:14:44.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-02-21T18:02:50.000Z",
+    "updatedAt": "2025-02-08T00:47:02.000Z"
+  },
+  {
+    "id": "flutterkit/zerker",
+    "name": "flutterkit/zerker",
+    "description": "Zerker is a lightweight and powerful flutter graphic animation library",
+    "topics": [
+      "canvas",
+      "flutter",
+      "flutter-game",
+      "flutter-games",
+      "flutter-graphic",
+      "fluttercanvas",
+      "fluttergame"
+    ],
+    "owner": {
+      "name": "flutterkit",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/52991659?v=4"
+    },
+    "stars": 695,
+    "starsDetail": {
+      "total": 688,
+      "week": 0,
+      "month": 2,
+      "year": 70,
+      "updatedAt": 1736035487
+    },
+    "license": "MIT License",
+    "forks": 62,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-08-16T14:52:28.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-08-22T09:07:15.000Z",
+    "updatedAt": "2025-02-08T00:47:35.000Z"
+  },
+  {
+    "id": "fluttify-project/amap_map_fluttify",
+    "name": "fluttify-project/amap_map_fluttify",
+    "description": "高德地图 地图组件 Flutter插件",
+    "topics": [
+      "android",
+      "flutter",
+      "flutter-plugin",
+      "fluttify",
+      "ios"
+    ],
+    "owner": {
+      "name": "fluttify-project",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/56247236?v=4"
+    },
+    "stars": 543,
+    "starsDetail": {
+      "total": 541,
+      "week": 0,
+      "month": 2,
+      "year": 15,
+      "updatedAt": 1736035416
+    },
+    "license": "Other",
+    "forks": 164,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2023-06-19T02:58:16.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-10-14T00:30:38.000Z",
+    "updatedAt": "2025-02-08T00:47:09.000Z"
+  },
+  {
+    "id": "gql-dart/ferry",
+    "name": "gql-dart/ferry",
+    "description": "Stream-based strongly typed GraphQL client for Dart",
+    "topics": [
+      "dart",
+      "flutter",
+      "graphql",
+      "rxdart"
+    ],
+    "owner": {
+      "name": "gql-dart",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53877361?v=4"
+    },
+    "stars": 612,
+    "starsDetail": {
+      "total": 610,
+      "week": 0,
+      "month": 2,
+      "year": 61,
+      "updatedAt": 1736035472
+    },
+    "license": "MIT License",
+    "forks": 121,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2025-02-07T23:09:21.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-12-20T20:03:24.000Z",
+    "updatedAt": "2025-02-08T00:47:29.000Z"
+  },
+  {
+    "id": "hnvn/flutter_image_cropper",
+    "name": "hnvn/flutter_image_cropper",
+    "description": "A Flutter plugin for Android and iOS supports cropping images",
+    "topics": [
+      "android",
+      "crop",
+      "flutter",
+      "flutter-plugin",
+      "image",
+      "image-cropper",
+      "ios",
+      "photo"
+    ],
+    "owner": {
+      "name": "hnvn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5468513?v=4"
+    },
+    "stars": 1010,
+    "starsDetail": {
+      "total": 1004,
+      "week": 0,
+      "month": 2,
+      "year": 54,
+      "updatedAt": 1736035413
+    },
+    "license": null,
+    "forks": 401,
+    "primaryLanguage": "Kotlin",
+    "pushedAt": "2025-01-30T10:52:49.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-06-27T09:22:55.000Z",
+    "updatedAt": "2025-02-08T00:47:07.000Z"
+  },
+  {
+    "id": "huextrat/TheGorgeousLogin",
+    "name": "huextrat/TheGorgeousLogin",
+    "description": "Login page built with @flutter 😍",
+    "topics": [
+      "beautiful",
+      "flutter",
+      "gorgeous",
+      "login",
+      "uplabs"
+    ],
+    "owner": {
+      "name": "huextrat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22995315?v=4"
+    },
+    "stars": 1752,
+    "starsDetail": {
+      "total": 1751,
+      "week": 0,
+      "month": 2,
+      "year": 71,
+      "updatedAt": 1736035440
+    },
+    "license": "MIT License",
+    "forks": 505,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2023-12-15T14:47:55.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-09-13T13:53:09.000Z",
+    "updatedAt": "2025-02-08T00:47:17.000Z"
+  },
+  {
+    "id": "nativeshell/nativeshell",
+    "name": "nativeshell/nativeshell",
+    "description": "Experimental embedder for Flutter",
+    "topics": [
+      "desktop",
+      "desktop-app",
+      "flutter",
+      "rust",
+      "rust-crate",
+      "rustlang"
+    ],
+    "owner": {
+      "name": "nativeshell",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/80065693?v=4"
+    },
+    "stars": 642,
+    "starsDetail": {
+      "total": 638,
+      "week": 0,
+      "month": 2,
+      "year": 56,
+      "updatedAt": 1736035525
+    },
+    "license": null,
+    "forks": 37,
+    "primaryLanguage": "C",
+    "pushedAt": "2025-01-31T17:01:07.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-04-09T19:45:58.000Z",
+    "updatedAt": "2025-02-08T00:47:48.000Z"
+  },
+  {
+    "id": "parse-community/Parse-SDK-Flutter",
+    "name": "parse-community/Parse-SDK-Flutter",
+    "description": "The Dart/Flutter SDK for Parse Platform",
+    "topics": [
+      "dart",
+      "flutter",
+      "hacktoberfest",
+      "parse",
+      "parse-sdk",
+      "parse-server"
+    ],
+    "owner": {
+      "name": "parse-community",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26932219?v=4"
+    },
+    "stars": 578,
+    "starsDetail": {
+      "total": 578,
+      "week": 0,
+      "month": 2,
+      "year": 28,
+      "updatedAt": 1736035473
+    },
+    "license": "Apache License 2.0",
+    "forks": 198,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-12-20T00:55:43.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-08-29T11:41:32.000Z",
+    "updatedAt": "2025-02-08T00:47:30.000Z"
+  },
+  {
+    "id": "tunitowen/fancy_bottom_navigation",
+    "name": "tunitowen/fancy_bottom_navigation",
+    "description": "Flutter plugin - FancyBottomNavigation",
+    "topics": [
+      "bottomnavigationbar",
+      "fancy",
+      "flutter",
+      "tabs"
+    ],
+    "owner": {
+      "name": "tunitowen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2042037?v=4"
+    },
+    "stars": 780,
+    "starsDetail": {
+      "total": 775,
+      "week": 1,
+      "month": 2,
+      "year": 73,
+      "updatedAt": 1736035390
+    },
+    "license": "Apache License 2.0",
+    "forks": 186,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2023-12-01T16:20:13.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-01-05T06:44:29.000Z",
+    "updatedAt": "2025-02-08T00:46:59.000Z"
+  },
+  {
+    "id": "flutter/samples",
+    "name": "flutter/samples",
+    "description": "A collection of Flutter examples and demos",
+    "topics": [],
+    "owner": {
+      "name": "flutter",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14101776?v=4"
+    },
+    "stars": 17705,
+    "starsDetail": {
+      "total": 17559,
+      "week": 37,
+      "month": 197,
+      "year": 1627,
+      "updatedAt": 1736035496
+    },
+    "license": "Other",
+    "forks": 7641,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2025-02-07T06:21:26.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-06-08T21:28:03.000Z",
+    "updatedAt": "2025-02-08T00:47:38.000Z"
+  },
+  {
+    "id": "Milad-Akarie/auto_route_library",
+    "name": "Milad-Akarie/auto_route_library",
+    "description": "Flutter route generator",
+    "topics": [
+      "autoroute",
+      "deeplinking",
+      "flutter",
+      "navigation",
+      "nested-routes",
+      "router"
+    ],
+    "owner": {
+      "name": "Milad-Akarie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55059449?v=4"
+    },
+    "stars": 1633,
+    "starsDetail": {
+      "total": 1613,
+      "week": 5,
+      "month": 19,
+      "year": 201,
+      "updatedAt": 1736035424
+    },
+    "license": "MIT License",
+    "forks": 413,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2025-01-09T14:37:19.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-11-10T14:59:23.000Z",
+    "updatedAt": "2025-02-08T00:47:11.000Z"
+  },
+  {
+    "id": "RafaelBarbosatec/bonfire",
+    "name": "RafaelBarbosatec/bonfire",
+    "description": "(RPG maker) Create RPG-style or similar games more simply with Flame.",
+    "topics": [
+      "dart",
+      "flutter",
+      "flutter-package",
+      "game",
+      "gamedev",
+      "gamedev-library"
+    ],
+    "owner": {
+      "name": "RafaelBarbosatec",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10039275?v=4"
+    },
+    "stars": 1307,
+    "starsDetail": {
+      "total": 1301,
+      "week": 3,
+      "month": 19,
+      "year": 249,
+      "updatedAt": 1736035486
+    },
+    "license": "MIT License",
+    "forks": 190,
+    "primaryLanguage": "GLSL",
+    "pushedAt": "2025-01-26T03:14:43.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-03-13T16:40:29.000Z",
+    "updatedAt": "2025-02-08T00:47:35.000Z"
+  },
+  {
+    "id": "FlutterGen/flutter_gen",
+    "name": "FlutterGen/flutter_gen",
+    "description": "The Flutter code generator for your assets, fonts, colors, … — Get rid of all String-based APIs.",
+    "topics": [
+      "assets",
+      "code-generator",
+      "dart",
+      "flutter",
+      "fluttergen",
+      "fonts",
+      "swiftgen",
+      "templates"
+    ],
+    "owner": {
+      "name": "FlutterGen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70014310?v=4"
+    },
+    "stars": 1515,
+    "starsDetail": {
+      "total": 1501,
+      "week": 4,
+      "month": 18,
+      "year": 189,
+      "updatedAt": 1736035517
+    },
+    "license": "MIT License",
+    "forks": 158,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-02-05T07:38:58.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-08-21T09:09:54.000Z",
+    "updatedAt": "2025-02-08T00:47:46.000Z"
+  },
+  {
+    "id": "JideGuru/FlutterFoodybite",
+    "name": "JideGuru/FlutterFoodybite",
+    "description": "Flutter representation of a Restaurant app UI.",
+    "topics": [
+      "android",
+      "cross-platform-app",
+      "cross-platrorm",
+      "dart",
+      "flutter",
+      "ios",
+      "minimalism",
+      "mobile",
+      "ui",
+      "uplabs"
+    ],
+    "owner": {
+      "name": "JideGuru",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24323581?v=4"
+    },
+    "stars": 1637,
+    "starsDetail": {
+      "total": 1630,
+      "week": 4,
+      "month": 17,
+      "year": 182,
+      "updatedAt": 1736035441
+    },
+    "license": "Do What The F*ck You Want To Public License",
+    "forks": 476,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-08-05T19:36:10.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-06-23T12:14:42.000Z",
+    "updatedAt": "2025-02-08T00:47:18.000Z"
+  },
+  {
+    "id": "MaikuB/flutter_local_notifications",
+    "name": "MaikuB/flutter_local_notifications",
+    "description": "A Flutter plugin for displaying local notifications on Android, iOS, macOS and Linux",
+    "topics": [
+      "android",
+      "dart",
+      "flutter",
+      "flutter-plugin",
+      "ios",
+      "macos",
+      "notifications"
+    ],
+    "owner": {
+      "name": "MaikuB",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25263378?v=4"
+    },
+    "stars": 2507,
+    "starsDetail": {
+      "total": 2486,
+      "week": 3,
+      "month": 17,
+      "year": 200,
+      "updatedAt": 1736035447
+    },
+    "license": null,
+    "forks": 1428,
+    "primaryLanguage": "Batchfile",
+    "pushedAt": "2025-01-31T07:23:28.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-03-25T11:35:47.000Z",
+    "updatedAt": "2025-02-08T00:47:21.000Z"
+  },
+  {
+    "id": "X-Wei/flutter_catalog",
+    "name": "X-Wei/flutter_catalog",
+    "description": "An app showcasing Flutter components, with side-by-side source code view.",
+    "topics": [
+      "firebase",
+      "flutter",
+      "flutter-demo",
+      "flutter-examples",
+      "flutter-state-management",
+      "showcasing-flutter-components"
+    ],
+    "owner": {
+      "name": "X-Wei",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1615196?v=4"
+    },
+    "stars": 2212,
+    "starsDetail": {
+      "total": 2211,
+      "week": 2,
+      "month": 16,
+      "year": 190,
+      "updatedAt": 1736035371
+    },
+    "license": "MIT License",
+    "forks": 557,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-07-14T20:32:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-08-05T08:33:21.000Z",
+    "updatedAt": "2025-02-08T00:46:51.000Z"
+  },
+  {
+    "id": "fluttercandies/flutter_wechat_assets_picker",
+    "name": "fluttercandies/flutter_wechat_assets_picker",
+    "description": "An image picker (also with video and audio) for Flutter projects based on the WeChat's UI.",
+    "topics": [
+      "android",
+      "flutter",
+      "ios",
+      "macos",
+      "mobile",
+      "multiple-assets",
+      "picker",
+      "video",
+      "wechat"
+    ],
+    "owner": {
+      "name": "fluttercandies",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/47586449?v=4"
+    },
+    "stars": 1555,
+    "starsDetail": {
+      "total": 1543,
+      "week": 1,
+      "month": 16,
+      "year": 186,
+      "updatedAt": 1736035417
+    },
+    "license": "Apache License 2.0",
+    "forks": 463,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2025-01-07T03:52:26.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-03-26T03:59:21.000Z",
+    "updatedAt": "2025-02-08T00:47:08.000Z"
+  },
+  {
+    "id": "Milad-Akarie/smooth_page_indicator",
+    "name": "Milad-Akarie/smooth_page_indicator",
+    "description": "Flutter Smooth PageView indicators",
+    "topics": [],
+    "owner": {
+      "name": "Milad-Akarie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55059449?v=4"
+    },
+    "stars": 1287,
+    "starsDetail": {
+      "total": 1273,
+      "week": 0,
+      "month": 15,
+      "year": 244,
+      "updatedAt": 1736035382
+    },
+    "license": "MIT License",
+    "forks": 152,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-07-20T10:22:55.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-12-28T19:35:58.000Z",
+    "updatedAt": "2025-02-08T00:46:56.000Z"
+  },
+  {
+    "id": "jamesblasco/modal_bottom_sheet",
+    "name": "jamesblasco/modal_bottom_sheet",
+    "description": "Flutter | Create advanced modal bottom sheets. Material, Cupertino or your own style",
+    "topics": [
+      "cupertino",
+      "dart",
+      "flutter",
+      "ios13",
+      "material",
+      "modal-bottom-sheets"
+    ],
+    "owner": {
+      "name": "jamesblasco",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19904063?v=4"
+    },
+    "stars": 1918,
+    "starsDetail": {
+      "total": 1909,
+      "week": 4,
+      "month": 15,
+      "year": 203,
+      "updatedAt": 1736035396
+    },
+    "license": "MIT License",
+    "forks": 489,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-12-23T00:24:01.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-04-06T12:30:38.000Z",
+    "updatedAt": "2025-02-08T00:47:01.000Z"
+  },
+  {
+    "id": "tekartik/sqflite",
+    "name": "tekartik/sqflite",
+    "description": "SQLite flutter plugin",
+    "topics": [],
+    "owner": {
+      "name": "tekartik",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2605412?v=4"
+    },
+    "stars": 2909,
+    "starsDetail": {
+      "total": 2897,
+      "week": 5,
+      "month": 15,
+      "year": 189,
+      "updatedAt": 1736035456
+    },
+    "license": "BSD 2-Clause \"Simplified\" License",
+    "forks": 530,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-01-15T15:58:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-05-22T08:15:53.000Z",
+    "updatedAt": "2025-02-08T00:47:25.000Z"
+  },
+  {
+    "id": "aleksanderwozniak/table_calendar",
+    "name": "aleksanderwozniak/table_calendar",
+    "description": "Highly customizable, feature-packed calendar widget for Flutter",
+    "topics": [
+      "calendar",
+      "calendar-view",
+      "date",
+      "flutter",
+      "flutter-package",
+      "flutter-plugin",
+      "table",
+      "table-calendar",
+      "widget"
+    ],
+    "owner": {
+      "name": "aleksanderwozniak",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22658673?v=4"
+    },
+    "stars": 1874,
+    "starsDetail": {
+      "total": 1859,
+      "week": 4,
+      "month": 14,
+      "year": 213,
+      "updatedAt": 1736035406
+    },
+    "license": "Apache License 2.0",
+    "forks": 1017,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2025-01-08T17:55:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-02-22T13:09:29.000Z",
+    "updatedAt": "2025-02-08T00:47:05.000Z"
+  },
+  {
+    "id": "jogboms/flutter_spinkit",
+    "name": "jogboms/flutter_spinkit",
+    "description": "✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.",
+    "topics": [
+      "android",
+      "animation",
+      "animation-library",
+      "dart",
+      "dartlang",
+      "flutter",
+      "flutter-plugin",
+      "ios",
+      "loaders",
+      "loading",
+      "loading-animations",
+      "spinkit"
+    ],
+    "owner": {
+      "name": "jogboms",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6208486?v=4"
+    },
+    "stars": 3051,
+    "starsDetail": {
+      "total": 3042,
+      "week": 0,
+      "month": 14,
+      "year": 196,
+      "updatedAt": 1736035475
+    },
+    "license": "MIT License",
+    "forks": 313,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-11-18T04:28:51.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-06-25T09:30:45.000Z",
+    "updatedAt": "2025-02-08T00:47:31.000Z"
+  },
+  {
+    "id": "leanflutter/awesome-flutter-desktop",
+    "name": "leanflutter/awesome-flutter-desktop",
+    "description": "A curated list of awesome things related to Flutter desktop.",
+    "topics": [
+      "flutter",
+      "flutter-app",
+      "flutter-apps",
+      "flutter-demo",
+      "flutter-desktop",
+      "flutter-desktop-app",
+      "flutter-desktop-template",
+      "flutter-examples"
+    ],
+    "owner": {
+      "name": "leanflutter",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67750077?v=4"
+    },
+    "stars": 1594,
+    "starsDetail": {
+      "total": 1580,
+      "week": 3,
+      "month": 14,
+      "year": 201,
+      "updatedAt": 1736035531
+    },
+    "license": "MIT License",
+    "forks": 113,
+    "primaryLanguage": "",
+    "pushedAt": "2024-06-27T12:21:41.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-09-02T07:28:07.000Z",
+    "updatedAt": "2025-02-08T03:48:52.000Z"
+  },
+  {
+    "id": "leoafarias/sidekick",
+    "name": "leoafarias/sidekick",
+    "description": "A simple app to make Flutter development more delightful",
+    "topics": [
+      "devtools",
+      "flutter",
+      "sidekick"
+    ],
+    "owner": {
+      "name": "leoafarias",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/435833?v=4"
+    },
+    "stars": 1596,
+    "starsDetail": {
+      "total": 1583,
+      "week": 5,
+      "month": 14,
+      "year": 180,
+      "updatedAt": 1736035519
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 104,
+    "primaryLanguage": "Batchfile",
+    "pushedAt": "2024-09-08T21:11:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-02-18T14:22:08.000Z",
+    "updatedAt": "2025-02-08T00:47:47.000Z"
+  },
+  {
+    "id": "objectbox/objectbox-dart",
+    "name": "objectbox/objectbox-dart",
+    "description": "Flutter database for super-fast Dart object persistence",
+    "topics": [
+      "android",
+      "cross-platform",
+      "dart",
+      "database",
+      "embedded",
+      "firebase",
+      "flutter",
+      "ios",
+      "mobile",
+      "nosql",
+      "offline-first",
+      "sustainable",
+      "sync"
+    ],
+    "owner": {
+      "name": "objectbox",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22327943?v=4"
+    },
+    "stars": 1079,
+    "starsDetail": {
+      "total": 1065,
+      "week": 3,
+      "month": 14,
+      "year": 199,
+      "updatedAt": 1736035458
+    },
+    "license": "Apache License 2.0",
+    "forks": 127,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2025-02-04T14:29:16.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-07-18T12:38:10.000Z",
+    "updatedAt": "2025-02-08T00:47:25.000Z"
+  },
+  {
+    "id": "Idean/Flutter-Neumorphic",
+    "name": "Idean/Flutter-Neumorphic",
+    "description": "A complete, ready to use, Neumorphic ui kit for Flutter, 🕶️ dark mode compatible",
+    "topics": [
+      "android",
+      "button",
+      "card",
+      "concave",
+      "convex",
+      "custom-shape",
+      "dart",
+      "depth",
+      "design",
+      "emboss",
+      "flat",
+      "flutter",
+      "ios",
+      "lightsource",
+      "material",
+      "neumorphic",
+      "pub",
+      "shape",
+      "theme",
+      "widgets"
+    ],
+    "owner": {
+      "name": "Idean",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1050942?v=4"
+    },
+    "stars": 2068,
+    "starsDetail": {
+      "total": 2059,
+      "week": 3,
+      "month": 13,
+      "year": 198,
+      "updatedAt": 1736035377
+    },
+    "license": "Apache License 2.0",
+    "forks": 386,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-05-18T09:35:40.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-02-19T14:49:02.000Z",
+    "updatedAt": "2025-02-08T00:46:54.000Z"
+  },
+  {
+    "id": "entronad/graphic",
+    "name": "entronad/graphic",
+    "description": "A grammar of data visualization and Flutter charting library.",
+    "topics": [
+      "chart",
+      "charting-library",
+      "charts",
+      "dart",
+      "dartlang",
+      "data-visualization",
+      "flutter",
+      "flutter-package",
+      "flutter-widget",
+      "graph",
+      "graphic",
+      "visualization"
+    ],
+    "owner": {
+      "name": "entronad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23075527?v=4"
+    },
+    "stars": 1657,
+    "starsDetail": {
+      "total": 1636,
+      "week": 4,
+      "month": 13,
+      "year": 235,
+      "updatedAt": 1736035421
+    },
+    "license": "MIT License",
+    "forks": 180,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2025-01-23T02:21:18.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-02-22T08:36:12.000Z",
+    "updatedAt": "2025-02-08T00:47:11.000Z"
+  },
+  {
+    "id": "flyerhq/flutter_chat_ui",
+    "name": "flyerhq/flutter_chat_ui",
+    "description": "Actively maintained, community-driven chat UI implementation with an optional Firebase BaaS.",
+    "topics": [
+      "android",
+      "chat",
+      "dart",
+      "flutter",
+      "ios",
+      "ui",
+      "widget"
+    ],
+    "owner": {
+      "name": "flyerhq",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/59206044?v=4"
+    },
+    "stars": 1709,
+    "starsDetail": {
+      "total": 1682,
+      "week": 2,
+      "month": 13,
+      "year": 491,
+      "updatedAt": 1736035381
+    },
+    "license": null,
+    "forks": 740,
+    "primaryLanguage": "Dart",
+    "pushedAt": "2025-02-05T20:53:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-08-30T18:20:18.000Z",
+    "updatedAt": "2025-02-08T00:46:55.000Z"
+  },
+  {
+    "id": "letsar/flutter_slidable",
+    "name": "letsar/flutter_slidable",
+    "description": "A Flutter implementation of slidable list item with directional slide actions.",
+    "topics": [
+      "dart",
+      "flutter",
+      "slide-menu",
+      "swipe-menu"
+    ],
+    "owner": {
+      "name": "letsar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9378033?v=4"
+    },
+    "stars": 2768,
+    "starsDetail": {
+      "total": 2742,
+      "week": 1,
+      "month": 13,
+      "year": 218,
+      "updatedAt": 1736035402
+    },
+    "license": "MIT License",
+    "forks": 622,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2025-01-23T21:06:16.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-07-15T07:52:25.000Z",
+    "updatedAt": "2025-02-08T00:47:03.000Z"
+  },
+  {
+    "id": "letsar/flutter_staggered_grid_view",
+    "name": "letsar/flutter_staggered_grid_view",
+    "description": "A Flutter staggered grid view",
+    "topics": [
+      "dart",
+      "flutter",
+      "staggeredgrid"
+    ],
+    "owner": {
+      "name": "letsar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9378033?v=4"
+    },
+    "stars": 3169,
+    "starsDetail": {
+      "total": 3164,
+      "week": 3,
+      "month": 13,
+      "year": 203,
+      "updatedAt": 1736035388
+    },
+    "license": "MIT License",
+    "forks": 510,
+    "primaryLanguage": "Dart",
+    "pushedAt": "2024-06-05T17:44:36.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-02-09T11:03:20.000Z",
+    "updatedAt": "2025-02-08T00:46:58.000Z"
+  },
+  {
+    "id": "xvrh/lottie-flutter",
+    "name": "xvrh/lottie-flutter",
+    "description": "Render After Effects animations natively on Flutter. This package is a pure Dart implementation of a Lottie player.",
+    "topics": [
+      "dart",
+      "flutter",
+      "flutter-web",
+      "flutter-widget",
+      "lottie",
+      "lottie-android",
+      "lottie-animation",
+      "widget"
+    ],
+    "owner": {
+      "name": "xvrh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5110923?v=4"
+    },
+    "stars": 1203,
+    "starsDetail": {
+      "total": 1195,
+      "week": 3,
+      "month": 13,
+      "year": 142,
+      "updatedAt": 1736035413
+    },
+    "license": "MIT License",
+    "forks": 203,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2025-01-27T04:20:39.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-01-23T12:41:27.000Z",
+    "updatedAt": "2025-02-08T00:47:07.000Z"
+  },
+  {
+    "id": "BayesWitnesses/m2cgen",
+    "name": "BayesWitnesses/m2cgen",
+    "description": "Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies",
+    "topics": [
+      "c",
+      "csharp",
+      "dartlang",
+      "go",
+      "haskell",
+      "java",
+      "javascript",
+      "lightgbm",
+      "lightning",
+      "machine-learning",
+      "php",
+      "python",
+      "r",
+      "ruby",
+      "rust",
+      "scikit-learn",
+      "statistical-learning",
+      "statsmodels",
+      "xgboost"
+    ],
+    "owner": {
+      "name": "BayesWitnesses",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46638712?v=4"
+    },
+    "stars": 2844,
+    "starsDetail": {
+      "total": 2833,
+      "week": 1,
+      "month": 12,
+      "year": 181,
+      "updatedAt": 1736031324
+    },
+    "license": "MIT License",
+    "forks": 243,
+    "primaryLanguage": "Euphoria",
+    "pushedAt": "2024-08-03T17:30:36.000Z",
+    "archived": false,
+    "npmPackage": "",
+    "npmLastMonthDownloads": null,
+    "goPackage": "",
+    "goImportedBy": 0,
+    "createdAt": "2019-01-13T02:32:55.000Z",
+    "updatedAt": "2025-02-08T11:04:11.000Z"
+  },
+  {
+    "id": "Codelessly/ResponsiveFramework",
+    "name": "Codelessly/ResponsiveFramework",
+    "description": "Easily make Flutter apps responsive. Automatically adapt UI to different screen sizes. Responsiveness made simple. Demo: https://gallery.codelessly.com/flutterwebsites/minimal/",
+    "topics": [
+      "android",
+      "bootstrap",
+      "bootstrap4",
+      "demo",
+      "flutter",
+      "flutter-plugin",
+      "flutter-ui",
+      "framework",
+      "ios",
+      "responsive",
+      "responsive-layout",
+      "webapp",
+      "website",
+      "website-builder",
+      "website-development",
+      "website-template"
+    ],
+    "owner": {
+      "name": "Codelessly",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/61098177?v=4"
+    },
+    "stars": 1301,
+    "starsDetail": {
+      "total": 1295,
+      "week": 1,
+      "month": 12,
+      "year": 154,
+      "updatedAt": 1736035483
+    },
+    "license": "MIT License",
+    "forks": 154,
+    "primaryLanguage": "Dart",
+    "pushedAt": "2024-12-21T20:46:02.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-02-16T00:06:39.000Z",
+    "updatedAt": "2025-02-08T00:47:34.000Z"
+  },
+  {
+    "id": "VeryGoodOpenSource/very_good_cli",
+    "name": "VeryGoodOpenSource/very_good_cli",
+    "description": "A Very Good Command-Line Interface for Dart created by Very Good Ventures 🦄",
+    "topics": [
+      "cli",
+      "dart",
+      "dart-library",
+      "dart-package",
+      "flutter",
+      "flutter-package"
+    ],
+    "owner": {
+      "name": "VeryGoodOpenSource",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/74265434?v=4"
+    },
+    "stars": 2214,
+    "starsDetail": {
+      "total": 2206,
+      "week": 3,
+      "month": 12,
+      "year": 212,
+      "updatedAt": 1736035519
+    },
+    "license": "MIT License",
+    "forks": 200,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-01-27T09:48:36.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-01-29T23:01:39.000Z",
+    "updatedAt": "2025-02-08T00:47:46.000Z"
+  },
+  {
+    "id": "xsahil03x/before_after",
+    "name": "xsahil03x/before_after",
+    "description": "A flutter package which makes it easier to display the difference between two images.",
+    "topics": [
+      "before-after",
+      "dart",
+      "flutter",
+      "flutter-package",
+      "hacktoberfest",
+      "slider"
+    ],
+    "owner": {
+      "name": "xsahil03x",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25670178?v=4"
+    },
+    "stars": 953,
+    "starsDetail": {
+      "total": 943,
+      "week": 2,
+      "month": 12,
+      "year": 107,
+      "updatedAt": 1736035375
+    },
+    "license": "MIT License",
+    "forks": 109,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-11-16T16:09:42.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-07-15T07:42:22.000Z",
+    "updatedAt": "2025-02-08T00:46:52.000Z"
+  },
+  {
+    "id": "forus-labs/forui",
+    "name": "forus-labs/forui",
+    "description": "Forus Lab's Flutter UI library",
+    "topics": [
+      "flutter",
+      "flutter-package",
+      "flutter-ui"
+    ],
+    "owner": {
+      "name": "forus-labs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/58653901?v=4"
+    },
+    "stars": 691,
+    "starsDetail": {
+      "total": 631,
+      "week": 11,
+      "month": 112,
+      "year": 631,
+      "updatedAt": 1736035383
+    },
+    "license": "Other",
+    "forks": 32,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2025-02-07T03:23:53.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-02-25T08:51:32.000Z",
+    "updatedAt": "2025-02-08T00:46:56.000Z"
+  },
+  {
+    "id": "diegoveloper/flutter-samples",
+    "name": "diegoveloper/flutter-samples",
+    "description": "Flutter Samples",
+    "topics": [],
+    "owner": {
+      "name": "diegoveloper",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4898256?v=4"
+    },
+    "stars": 3120,
+    "starsDetail": {
+      "total": 3114,
+      "week": 3,
+      "month": 11,
+      "year": 210,
+      "updatedAt": 1736035442
+    },
+    "license": "MIT License",
+    "forks": 746,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2025-01-19T04:20:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-07-03T05:34:00.000Z",
+    "updatedAt": "2025-02-08T00:47:19.000Z"
+  },
+  {
+    "id": "pd4d10/git-touch",
+    "name": "pd4d10/git-touch",
+    "description": "An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter",
+    "topics": [
+      "bitbucket",
+      "bitbucket-app",
+      "flutter",
+      "flutter-apps",
+      "gitea",
+      "gitea-app",
+      "gitee",
+      "github",
+      "github-app",
+      "gitlab",
+      "gitlab-app"
+    ],
+    "owner": {
+      "name": "pd4d10",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9524411?v=4"
+    },
+    "stars": 1598,
+    "starsDetail": {
+      "total": 1587,
+      "week": 3,
+      "month": 11,
+      "year": 162,
+      "updatedAt": 1736035444
+    },
+    "license": "Apache License 2.0",
+    "forks": 138,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-07-28T22:09:55.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-04-18T12:26:00.000Z",
+    "updatedAt": "2025-02-08T00:47:20.000Z"
+  },
+  {
+    "id": "burhanrashid52/WhatTodo",
+    "name": "burhanrashid52/WhatTodo",
+    "description": "A Simple Todo app design in Flutter to keep track of your task on daily basis. Its build on BLoC Pattern. You can add a project, labels, and due-date to your task also you can sort your task on the basis of project, label, and dates",
+    "topics": [
+      "android",
+      "dart",
+      "flutter",
+      "ios",
+      "labels",
+      "projects",
+      "sqflite",
+      "task",
+      "whattodo"
+    ],
+    "owner": {
+      "name": "burhanrashid52",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14251963?v=4"
+    },
+    "stars": 1212,
+    "starsDetail": {
+      "total": 1200,
+      "week": 3,
+      "month": 10,
+      "year": 119,
+      "updatedAt": 1736035495
+    },
+    "license": "Apache License 2.0",
+    "forks": 279,
+    "primaryLanguage": "Kotlin",
+    "pushedAt": "2024-11-16T11:44:49.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-04-18T05:09:45.000Z",
+    "updatedAt": "2025-02-08T00:47:38.000Z"
+  },
+  {
+    "id": "pedromassango/bottom_navy_bar",
+    "name": "pedromassango/bottom_navy_bar",
+    "description": " A beautiful and animated bottom navigation",
+    "topics": [
+      "flutter",
+      "flutter-apps",
+      "flutter-material",
+      "flutter-package",
+      "flutter-plugin",
+      "flutter-widget"
+    ],
+    "owner": {
+      "name": "pedromassango",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33294549?v=4"
+    },
+    "stars": 1055,
+    "starsDetail": {
+      "total": 1050,
+      "week": 2,
+      "month": 10,
+      "year": 109,
+      "updatedAt": 1736035392
+    },
+    "license": "Apache License 2.0",
+    "forks": 220,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-12-14T13:47:16.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-01-31T22:00:37.000Z",
+    "updatedAt": "2025-02-08T00:47:00.000Z"
+  },
+  {
+    "id": "Ali-Azmoud/flutter_xlider",
+    "name": "Ali-Azmoud/flutter_xlider",
+    "description": "A material design slider and range slider with rtl support and lots of options and customization for flutter",
+    "topics": [
+      "flutter-slider",
+      "range-slider",
+      "vertical-slider"
+    ],
+    "owner": {
+      "name": "Ali-Azmoud",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5966796?v=4"
+    },
+    "stars": 521,
+    "starsDetail": {
+      "total": 520,
+      "week": 0,
+      "month": 1,
+      "year": 48,
+      "updatedAt": 1736035396
+    },
+    "license": "MIT License",
+    "forks": 183,
+    "primaryLanguage": "Kotlin",
+    "pushedAt": "2024-04-19T20:57:42.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-02-23T00:23:57.000Z",
+    "updatedAt": "2025-02-08T00:47:02.000Z"
+  },
+  {
+    "id": "bosskmk/pluto_grid",
+    "name": "bosskmk/pluto_grid",
+    "description": "PlutoGrid is a dataGrid for flutter that can be controlled by the keyboard on desktop and web. Of course, it works well on Android and IOS.",
+    "topics": [
+      "datagrid",
+      "datatable",
+      "filtering",
+      "flutter",
+      "frozen-columns",
+      "grid",
+      "grouping",
+      "pagination",
+      "sorting",
+      "sticky-headers",
+      "table"
+    ],
+    "owner": {
+      "name": "bosskmk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5284141?v=4"
+    },
+    "stars": 688,
+    "starsDetail": {
+      "total": 678,
+      "week": 0,
+      "month": 1,
+      "year": 94,
+      "updatedAt": 1736035387
+    },
+    "license": "MIT License",
+    "forks": 332,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-08-12T13:56:28.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-08-16T07:35:41.000Z",
+    "updatedAt": "2025-02-08T00:46:58.000Z"
+  },
+  {
+    "id": "pawlik92/flutter_whirlpool",
+    "name": "pawlik92/flutter_whirlpool",
+    "description": "Flutter UI challenge (with Box2D physic)- Smart washing machine app",
+    "topics": [
+      "app",
+      "box2d",
+      "challenge",
+      "dart",
+      "flutter",
+      "flutter-apps",
+      "neuromorphic",
+      "smart",
+      "smart-washing-machine",
+      "ui",
+      "ui-challenge"
+    ],
+    "owner": {
+      "name": "pawlik92",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9088664?v=4"
+    },
+    "stars": 886,
+    "starsDetail": {
+      "total": 883,
+      "week": 0,
+      "month": 1,
+      "year": 47,
+      "updatedAt": 1736035442
+    },
+    "license": "MIT License",
+    "forks": 125,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2022-10-23T11:17:13.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-04-25T16:01:40.000Z",
+    "updatedAt": "2025-02-08T00:47:19.000Z"
+  },
+  {
+    "id": "slovnicki/beamer",
+    "name": "slovnicki/beamer",
+    "description": "A routing package built on top of Router and Navigator's pages API, supporting arbitrary nested navigation, guards and more.",
+    "topics": [
+      "flutter",
+      "flutter-router",
+      "navigator",
+      "router"
+    ],
+    "owner": {
+      "name": "slovnicki",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29288059?v=4"
+    },
+    "stars": 593,
+    "starsDetail": {
+      "total": 592,
+      "week": 0,
+      "month": 1,
+      "year": 46,
+      "updatedAt": 1736035421
+    },
+    "license": "MIT License",
+    "forks": 129,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-10-16T20:40:17.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-01-08T18:39:40.000Z",
+    "updatedAt": "2025-02-08T00:47:11.000Z"
+  },
+  {
+    "id": "Dn-a/flutter_inner_drawer",
+    "name": "Dn-a/flutter_inner_drawer",
+    "description": "Inner Drawer is an easy way to create an internal side section (left/right) where you can insert a list-menu or other.",
+    "topics": [],
+    "owner": {
+      "name": "Dn-a",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29060725?v=4"
+    },
+    "stars": 516,
+    "starsDetail": {
+      "total": 516,
+      "week": 0,
+      "month": 0,
+      "year": 19,
+      "updatedAt": 1736035390
+    },
+    "license": "MIT License",
+    "forks": 129,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-07-10T13:36:02.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-02-12T12:27:49.000Z",
+    "updatedAt": "2025-02-08T00:46:59.000Z"
+  },
+  {
+    "id": "matthewtory/trinity-orientation-2018",
+    "name": "matthewtory/trinity-orientation-2018",
+    "description": "An app for orientation week at Trinity College, University of Toronto. Made with Flutter",
+    "topics": [],
+    "owner": {
+      "name": "matthewtory",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9093728?v=4"
+    },
+    "stars": 617,
+    "starsDetail": {
+      "total": 617,
+      "week": 0,
+      "month": 0,
+      "year": 11,
+      "updatedAt": 1736035501
+    },
+    "license": "GNU General Public License v3.0",
+    "forks": 225,
+    "primaryLanguage": "C",
+    "pushedAt": "2024-01-24T01:50:28.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-09-30T21:55:27.000Z",
+    "updatedAt": "2025-02-08T00:47:40.000Z"
+  },
+  {
+    "id": "mcrovero/rubber",
+    "name": "mcrovero/rubber",
+    "description": "An elastic material bottom sheet implementation for Flutter.",
+    "topics": [],
+    "owner": {
+      "name": "mcrovero",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5471299?v=4"
+    },
+    "stars": 563,
+    "starsDetail": {
+      "total": 561,
+      "week": 0,
+      "month": 0,
+      "year": 19,
+      "updatedAt": 1736035393
+    },
+    "license": "BSD 2-Clause \"Simplified\" License",
+    "forks": 89,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2023-08-23T15:56:06.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-12-16T01:25:27.000Z",
+    "updatedAt": "2025-02-08T00:47:00.000Z"
+  },
+  {
+    "id": "AmitJoki/Enigma",
+    "name": "AmitJoki/Enigma",
+    "description": "A full-fledged one-to-one chat app developed entirely in Flutter",
+    "topics": [
+      "authentication",
+      "chat",
+      "chat-application",
+      "dart",
+      "flutter",
+      "privacy"
+    ],
+    "owner": {
+      "name": "AmitJoki",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5158554?v=4"
+    },
+    "stars": 400,
+    "starsDetail": {
+      "total": 400
+    },
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 120,
+    "primaryLanguage": "Java",
+    "pushedAt": "2023-01-09T11:47:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-04-18T13:09:17.000Z",
+    "updatedAt": "2025-02-08T00:47:41.000Z"
+  },
+  {
+    "id": "AngeloAvv/flutter_flavorizr",
+    "name": "AngeloAvv/flutter_flavorizr",
+    "description": "A flutter utility to easily create flavors in your flutter application",
+    "topics": [
+      "android",
+      "cross-platform",
+      "dart",
+      "dartlang",
+      "flavors",
+      "flutter",
+      "flutter-plugin",
+      "flutter-plugins",
+      "flutter-utility",
+      "ios",
+      "macos",
+      "mobile",
+      "mobile-app"
+    ],
+    "owner": {
+      "name": "AngeloAvv",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7781143?v=4"
+    },
+    "stars": 481,
+    "starsDetail": {
+      "total": 481
+    },
+    "license": "MIT License",
+    "forks": 92,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2025-01-28T10:42:08.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-05-09T09:30:46.000Z",
+    "updatedAt": "2025-02-08T00:47:45.000Z"
+  },
+  {
+    "id": "BertrandBev/code_field",
+    "name": "BertrandBev/code_field",
+    "description": "A customizable code text field supporting syntax highlighting",
+    "topics": [
+      "code",
+      "editor",
+      "field",
+      "flutter",
+      "highlight",
+      "language",
+      "syntax",
+      "syntax-highlighting",
+      "textfield"
+    ],
+    "owner": {
+      "name": "BertrandBev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12652154?v=4"
+    },
+    "stars": 235,
+    "starsDetail": {
+      "total": 235
+    },
+    "license": "MIT License",
+    "forks": 61,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-07-08T19:51:11.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-03-06T16:52:18.000Z",
+    "updatedAt": "2025-02-08T00:47:13.000Z"
+  },
+  {
+    "id": "Clancey/simple_auth",
+    "name": "Clancey/simple_auth",
+    "description": "The Simplest way to Authenticate in Flutter",
+    "topics": [
+      "authentication",
+      "dart",
+      "dart-library",
+      "flutter",
+      "flutter-plugin"
+    ],
+    "owner": {
+      "name": "Clancey",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/256046?v=4"
+    },
+    "stars": 354,
+    "starsDetail": {
+      "total": 354
+    },
+    "license": "MIT License",
+    "forks": 108,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2023-04-02T21:09:48.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-06-07T19:14:50.000Z",
+    "updatedAt": "2025-02-08T00:47:12.000Z"
+  },
+  {
+    "id": "DarshanGowda0/GeoFlutterFire",
+    "name": "DarshanGowda0/GeoFlutterFire",
+    "description": ":fire:GeoFlutterFire:fire: is an open-source library that allows you to store and query firestore documents based on their geographic location.",
+    "topics": [
+      "dart",
+      "firebase",
+      "firestore",
+      "flutter",
+      "geohashing",
+      "rxdart"
+    ],
+    "owner": {
+      "name": "DarshanGowda0",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10462504?v=4"
+    },
+    "stars": 304,
+    "starsDetail": {
+      "total": 304
+    },
+    "license": "MIT License",
+    "forks": 262,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-06-25T17:38:40.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-01-17T10:24:24.000Z",
+    "updatedAt": "2025-02-08T00:47:29.000Z"
+  },
+  {
+    "id": "DrPaulT/flutter-engine-test",
+    "name": "DrPaulT/flutter-engine-test",
+    "description": "A quick hack using image and transform widgets",
+    "topics": [],
+    "owner": {
+      "name": "DrPaulT",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5172456?v=4"
+    },
+    "stars": 26,
+    "starsDetail": {
+      "total": 26
+    },
+    "license": null,
+    "forks": 8,
+    "primaryLanguage": "Java",
+    "pushedAt": "2018-11-25T15:28:33.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-11-23T14:00:46.000Z",
+    "updatedAt": "2025-02-08T00:47:40.000Z"
+  },
+  {
+    "id": "GigaDroid/flutter_udid",
+    "name": "GigaDroid/flutter_udid",
+    "description": "Plugin to retrieve a persistent UDID across app reinstalls on iOS, Android, Mac, Windows & Linux.",
+    "topics": [],
+    "owner": {
+      "name": "GigaDroid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1688752?v=4"
+    },
+    "stars": 254,
+    "starsDetail": {
+      "total": 254
+    },
+    "license": "MIT License",
+    "forks": 58,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-12-22T12:30:42.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-08-16T17:39:10.000Z",
+    "updatedAt": "2025-02-08T00:47:22.000Z"
+  },
+  {
+    "id": "Jamalianpour/time_planner",
+    "name": "Jamalianpour/time_planner",
+    "description": "a time planner for flutter to show task on table",
+    "topics": [
+      "dart",
+      "flutter",
+      "table",
+      "time-planner"
+    ],
+    "owner": {
+      "name": "Jamalianpour",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29815018?v=4"
+    },
+    "stars": 229,
+    "starsDetail": {
+      "total": 229
+    },
+    "license": "MIT License",
+    "forks": 62,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2023-09-28T15:00:14.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-03-22T16:12:24.000Z",
+    "updatedAt": "2025-02-08T00:47:05.000Z"
+  },
+  {
+    "id": "JideGuru/flutter_drawing_board",
+    "name": "JideGuru/flutter_drawing_board",
+    "description": "A simple drawing app made with Flutter",
+    "topics": [
+      "flutter",
+      "flutter-custom-painter",
+      "flutter-drawing",
+      "flutter-drawing-app",
+      "flutter-painting",
+      "flutter-scribble"
+    ],
+    "owner": {
+      "name": "JideGuru",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24323581?v=4"
+    },
+    "stars": 301,
+    "starsDetail": {
+      "total": 301
+    },
+    "license": "Apache License 2.0",
+    "forks": 90,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-08-17T01:03:07.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-10-18T21:13:48.000Z",
+    "updatedAt": "2025-02-08T00:47:44.000Z"
+  },
+  {
+    "id": "JonathanMonga/flutter_shine.dart",
+    "name": "JonathanMonga/flutter_shine.dart",
+    "description": "Flutter Shine is a library for pretty and realistic shadows, dynamic light positions, extremely customizable shadows, no library dependencies, text or box shadows based on content.",
+    "topics": [
+      "dart",
+      "flutter",
+      "made-in-drc",
+      "shadow",
+      "shine"
+    ],
+    "owner": {
+      "name": "JonathanMonga",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16438669?v=4"
+    },
+    "stars": 147,
+    "starsDetail": {
+      "total": 147
+    },
+    "license": "MIT License",
+    "forks": 13,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2023-09-25T14:34:35.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-01-21T00:01:20.000Z",
+    "updatedAt": "2025-02-08T00:47:05.000Z"
+  },
+  {
+    "id": "KRTirtho/spotube",
+    "name": "KRTirtho/spotube",
+    "description": "🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!",
+    "topics": [
+      "android",
+      "android-client",
+      "android-music-player",
+      "desktop-client",
+      "fdroid",
+      "flutter",
+      "flutter-desktop",
+      "linux",
+      "macos",
+      "music",
+      "music-player",
+      "spotify",
+      "windows",
+      "youtube"
+    ],
+    "owner": {
+      "name": "KRTirtho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/61944859?v=4"
+    },
+    "stars": 34863,
+    "starsDetail": {
+      "total": 34863
+    },
+    "license": "Other",
+    "forks": 1453,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2025-02-07T18:00:21.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-02-14T03:17:58.000Z",
+    "updatedAt": "2025-02-08T00:47:37.000Z"
+  },
+  {
+    "id": "KingWu/gen_lang",
+    "name": "KingWu/gen_lang",
+    "description": "gen_lang is a dart library for internationalization. Extracts messages to generate dart files required by Intl, inspired by Intl_translation and Flutter i18n",
+    "topics": [
+      "dart",
+      "dart-library",
+      "dartlang",
+      "flutter",
+      "flutter-package",
+      "flutter-plugin",
+      "flutter-plugins"
+    ],
+    "owner": {
+      "name": "KingWu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2141985?v=4"
+    },
+    "stars": 101,
+    "starsDetail": {
+      "total": 101
+    },
+    "license": "BSD 2-Clause \"Simplified\" License",
+    "forks": 23,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2022-10-13T09:25:08.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-05-20T15:35:25.000Z",
+    "updatedAt": "2025-02-08T00:47:14.000Z"
+  },
+  {
+    "id": "LeGoffMael/video_editor",
+    "name": "LeGoffMael/video_editor",
+    "description": "A flutter package for editing video written in pure Dart with fully customizable UI. Supports crop, trim, rotation and cover selection.",
+    "topics": [
+      "crop",
+      "flutter",
+      "package",
+      "trimmer",
+      "video",
+      "video-editor"
+    ],
+    "owner": {
+      "name": "LeGoffMael",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22376981?v=4"
+    },
+    "stars": 424,
+    "starsDetail": {
+      "total": 424
+    },
+    "license": "MIT License",
+    "forks": 260,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-08-07T12:03:12.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-12-20T04:24:28.000Z",
+    "updatedAt": "2025-02-08T00:47:15.000Z"
+  },
+  {
+    "id": "MaikuB/flutter_appauth",
+    "name": "MaikuB/flutter_appauth",
+    "description": "A Flutter wrapper for AppAuth iOS and Android SDKs",
+    "topics": [
+      "android",
+      "dart",
+      "flutter",
+      "flutter-plugin",
+      "ios"
+    ],
+    "owner": {
+      "name": "MaikuB",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25263378?v=4"
+    },
+    "stars": 280,
+    "starsDetail": {
+      "total": 280
+    },
+    "license": null,
+    "forks": 253,
+    "primaryLanguage": "Kotlin",
+    "pushedAt": "2024-12-31T01:50:58.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-02-03T06:07:55.000Z",
+    "updatedAt": "2025-02-08T00:47:12.000Z"
+  },
+  {
+    "id": "RafaelBarbosatec/hidden_drawer_menu",
+    "name": "RafaelBarbosatec/hidden_drawer_menu",
+    "description": "Hidden Drawer Menu is a library for adding a beautiful drawer mode menu feature with perspective animation.",
+    "topics": [],
+    "owner": {
+      "name": "RafaelBarbosatec",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10039275?v=4"
+    },
+    "stars": 353,
+    "starsDetail": {
+      "total": 353
+    },
+    "license": "MIT License",
+    "forks": 55,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-03-19T15:19:18.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-11-18T14:05:28.000Z",
+    "updatedAt": "2025-02-08T00:46:59.000Z"
+  },
+  {
+    "id": "Rahiche/stepper_touch",
+    "name": "Rahiche/stepper_touch",
+    "description": "flutter stepper_touch widget ",
+    "topics": [],
+    "owner": {
+      "name": "Rahiche",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/37366956?v=4"
+    },
+    "stars": 326,
+    "starsDetail": {
+      "total": 326
+    },
+    "license": "Other",
+    "forks": 28,
+    "primaryLanguage": "Dart",
+    "pushedAt": "2024-09-23T20:31:23.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-09-28T09:35:04.000Z",
+    "updatedAt": "2025-02-08T00:46:51.000Z"
+  },
+  {
+    "id": "RedBrogdon/flutterflip",
+    "name": "RedBrogdon/flutterflip",
+    "description": "Public repo for flutterflip, a reversi clone built with Flutter.",
+    "topics": [],
+    "owner": {
+      "name": "RedBrogdon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/969662?v=4"
+    },
+    "stars": 265,
+    "starsDetail": {
+      "total": 265
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 62,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-09-13T22:27:51.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-01-22T17:24:10.000Z",
+    "updatedAt": "2025-02-08T00:47:36.000Z"
+  },
+  {
+    "id": "TatsuUkraine/dart_environment_config",
+    "name": "TatsuUkraine/dart_environment_config",
+    "description": "Environment specific config generator for Dart and Flutter applications during CI/CD builds",
+    "topics": [
+      "ci-cd",
+      "configuration",
+      "dart",
+      "dotenv",
+      "environment",
+      "environment-configuration",
+      "environment-variables",
+      "flutter"
+    ],
+    "owner": {
+      "name": "TatsuUkraine",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/621542?v=4"
+    },
+    "stars": 92,
+    "starsDetail": {
+      "total": 92
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 8,
+    "primaryLanguage": "Dart",
+    "pushedAt": "2025-01-27T17:33:31.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-02-23T21:07:41.000Z",
+    "updatedAt": "2025-02-08T00:47:45.000Z"
+  },
+  {
+    "id": "aeyrium/bezier-chart",
+    "name": "aeyrium/bezier-chart",
+    "description": "A beautiful bezier line chart widget for flutter that is highly interactive and configurable.",
+    "topics": [],
+    "owner": {
+      "name": "aeyrium",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33470610?v=4"
+    },
+    "stars": 449,
+    "starsDetail": {
+      "total": 449
+    },
+    "license": "Apache License 2.0",
+    "forks": 131,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2023-01-17T12:29:38.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-06-03T01:01:14.000Z",
+    "updatedAt": "2025-02-08T00:47:10.000Z"
+  },
+  {
+    "id": "aldycool/NETCoreSync",
+    "name": "aldycool/NETCoreSync",
+    "description": "NETCoreSync is a database synchronization framework where each client's local offline database (on each client's multiple devices) can be synchronized on-demand via network into a single centralized database hosted on a server. Data which are stored locally within each device of a single client can all be synchronized after each device have successfully performed the synchronization operation.",
+    "topics": [
+      "dotnet",
+      "dotnet-core",
+      "dotnet-standard",
+      "dotnet5",
+      "flutter",
+      "postgresql",
+      "sqlite",
+      "xamarin"
+    ],
+    "owner": {
+      "name": "aldycool",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8155468?v=4"
+    },
+    "stars": 79,
+    "starsDetail": {
+      "total": 79
+    },
+    "license": "GNU General Public License v3.0",
+    "forks": 12,
+    "primaryLanguage": "C#",
+    "pushedAt": "2022-12-08T14:51:25.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-06-03T17:47:44.000Z",
+    "updatedAt": "2025-02-08T00:47:30.000Z"
+  },
+  {
+    "id": "aloisdeniel/flutter_geocoder",
+    "name": "aloisdeniel/flutter_geocoder",
+    "description": "Flutter plugin for forward and reverse geocoding",
+    "topics": [
+      "dart",
+      "flutter",
+      "geocoding",
+      "plugin"
+    ],
+    "owner": {
+      "name": "aloisdeniel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7687231?v=4"
+    },
+    "stars": 186,
+    "starsDetail": {
+      "total": 186
+    },
+    "license": "MIT License",
+    "forks": 179,
+    "primaryLanguage": "Kotlin",
+    "pushedAt": "2024-03-07T02:45:30.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-02-04T20:28:39.000Z",
+    "updatedAt": "2025-02-08T00:47:08.000Z"
+  },
+  {
+    "id": "antz22/ultimate-guide-to-flutter",
+    "name": "antz22/ultimate-guide-to-flutter",
+    "description": "A comprehensive guide on learning how to code cross platform mobile applications with the Flutter framework, from the ground up.",
+    "topics": [
+      "app-development",
+      "dart",
+      "firebase",
+      "flutter",
+      "flutter-apps",
+      "flutter-firebase",
+      "flutter-tutorial",
+      "flutterfire"
+    ],
+    "owner": {
+      "name": "antz22",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/59377837?v=4"
+    },
+    "stars": 400,
+    "starsDetail": {
+      "total": 400
+    },
+    "license": null,
+    "forks": 44,
+    "primaryLanguage": "Dart",
+    "pushedAt": "2023-02-14T15:47:25.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-08-03T04:17:11.000Z",
+    "updatedAt": "2025-02-08T00:46:50.000Z"
+  },
+  {
+    "id": "biocarl/drawing_animation",
+    "name": "biocarl/drawing_animation",
+    "description": "A Flutter library for gradually painting SVG path objects on canvas (drawing line animation).",
+    "topics": [
+      "dart",
+      "flutter",
+      "svg",
+      "svg-animations",
+      "svg-path"
+    ],
+    "owner": {
+      "name": "biocarl",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12430709?v=4"
+    },
+    "stars": 494,
+    "starsDetail": {
+      "total": 494
+    },
+    "license": "BSD 2-Clause \"Simplified\" License",
+    "forks": 124,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2023-12-27T12:58:20.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-02-12T12:49:16.000Z",
+    "updatedAt": "2025-02-08T00:47:32.000Z"
+  },
+  {
+    "id": "boeledi/RangeSlider",
+    "name": "boeledi/RangeSlider",
+    "description": "RangeSlider Widget for Flutter",
+    "topics": [],
+    "owner": {
+      "name": "boeledi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3143268?v=4"
+    },
+    "stars": 374,
+    "starsDetail": {
+      "total": 374
+    },
+    "license": "Other",
+    "forks": 68,
+    "primaryLanguage": "Dart",
+    "pushedAt": "2024-06-03T14:01:04.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-07-29T02:52:13.000Z",
+    "updatedAt": "2025-02-08T00:47:01.000Z"
+  },
+  {
+    "id": "britannio/in_app_review",
+    "name": "britannio/in_app_review",
+    "description": "A Flutter plugin for showing the In-App Review/System Rating pop up on Android, IOS, and MacOS. It makes it easy for users to rate your app.",
+    "topics": [
+      "flutter",
+      "flutter-plugin"
+    ],
+    "owner": {
+      "name": "britannio",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33752528?v=4"
+    },
+    "stars": 338,
+    "starsDetail": {
+      "total": 338
+    },
+    "license": null,
+    "forks": 83,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-11-19T18:24:23.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-08-05T17:16:30.000Z",
+    "updatedAt": "2025-02-08T00:47:26.000Z"
+  },
+  {
+    "id": "builttoroam/device_calendar",
+    "name": "builttoroam/device_calendar",
+    "description": "A cross platform plugin for modifying calendars on the user's device",
+    "topics": [],
+    "owner": {
+      "name": "builttoroam",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13250438?v=4"
+    },
+    "stars": 274,
+    "starsDetail": {
+      "total": 274
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 278,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-11-23T14:40:34.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-05-16T06:59:52.000Z",
+    "updatedAt": "2025-02-08T00:47:21.000Z"
+  },
+  {
+    "id": "bus710/matrix2",
+    "name": "bus710/matrix2",
+    "description": " A toy project to drive Sense Hat's matrix by using Go, Flutter/Web, and Docker ",
+    "topics": [],
+    "owner": {
+      "name": "bus710",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8920680?v=4"
+    },
+    "stars": 22,
+    "starsDetail": {
+      "total": 22
+    },
+    "license": "MIT License",
+    "forks": 2,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2022-12-29T19:07:36.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-06-01T18:34:24.000Z",
+    "updatedAt": "2025-02-08T03:48:52.000Z"
+  },
+  {
+    "id": "chrisedg87/flutter_rounded_loading_button",
+    "name": "chrisedg87/flutter_rounded_loading_button",
+    "description": "A simple implementation of an animated loading button widget for Flutter",
+    "topics": [],
+    "owner": {
+      "name": "chrisedg87",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3407251?v=4"
+    },
+    "stars": 348,
+    "starsDetail": {
+      "total": 348
+    },
+    "license": "MIT License",
+    "forks": 88,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-06-17T20:36:49.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-01-23T15:11:42.000Z",
+    "updatedAt": "2025-02-08T00:46:55.000Z"
+  },
+  {
+    "id": "dreamsoftin/facebook_audience_network",
+    "name": "dreamsoftin/facebook_audience_network",
+    "description": "Flutter Facebook Audience Network",
+    "topics": [
+      "ads",
+      "ads-sdk",
+      "dart",
+      "facebook",
+      "facebook-audience-network",
+      "flutter",
+      "flutter-plugin",
+      "flutter-widget"
+    ],
+    "owner": {
+      "name": "dreamsoftin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/47470434?v=4"
+    },
+    "stars": 158,
+    "starsDetail": {
+      "total": 158
+    },
+    "license": "MIT License",
+    "forks": 90,
+    "primaryLanguage": "Kotlin",
+    "pushedAt": "2024-08-09T09:35:41.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-04-27T05:46:07.000Z",
+    "updatedAt": "2025-02-08T00:47:16.000Z"
+  },
+  {
+    "id": "fayeed/flutter_parsed_text",
+    "name": "fayeed/flutter_parsed_text",
+    "description": "A Flutter package to parse text and make them into linkified text widget ",
+    "topics": [
+      "flutter",
+      "hastags",
+      "linkify-text",
+      "mentionsedittext",
+      "parsedtext"
+    ],
+    "owner": {
+      "name": "fayeed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8464270?v=4"
+    },
+    "stars": 219,
+    "starsDetail": {
+      "total": 219
+    },
+    "license": "MIT License",
+    "forks": 69,
+    "primaryLanguage": "Kotlin",
+    "pushedAt": "2023-10-11T16:32:40.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-06-22T09:02:55.000Z",
+    "updatedAt": "2025-02-08T00:47:13.000Z"
+  },
+  {
+    "id": "fkirc/attranslate",
+    "name": "fkirc/attranslate",
+    "description": "A command line tool for translating JSON, YAML, CSV, ARB, XML (via a CLI)",
+    "topics": [
+      "internationalization",
+      "localization",
+      "semi-automated-translations",
+      "translations"
+    ],
+    "owner": {
+      "name": "fkirc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17876666?v=4"
+    },
+    "stars": 341,
+    "starsDetail": {
+      "total": 341
+    },
+    "license": "Other",
+    "forks": 28,
+    "primaryLanguage": "Batchfile",
+    "pushedAt": "2025-01-08T18:43:02.000Z",
+    "archived": false,
+    "npmPackage": "attranslate",
+    "npmLastMonthDownloads": 739,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-09-15T08:51:45.000Z",
+    "updatedAt": "2025-02-08T11:03:58.000Z"
+  },
+  {
+    "id": "fleather-editor/fleather",
+    "name": "fleather-editor/fleather",
+    "description": "Soft and gentle rich text editing for Flutter applications.",
+    "topics": [
+      "dart",
+      "flutter",
+      "rich-text-editor",
+      "wysiwyg"
+    ],
+    "owner": {
+      "name": "fleather-editor",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/106467422?v=4"
+    },
+    "stars": 217,
+    "starsDetail": {
+      "total": 217
+    },
+    "license": "Other",
+    "forks": 42,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2025-02-06T10:59:49.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-05-30T09:18:18.000Z",
+    "updatedAt": "2025-02-08T00:47:12.000Z"
+  },
+  {
+    "id": "fluttercommunity/backdrop",
+    "name": "fluttercommunity/backdrop",
+    "description": "Backdrop implementation in flutter.",
+    "topics": [
+      "flutter",
+      "flutter-demo",
+      "flutter-examples",
+      "flutter-material",
+      "flutter-widget",
+      "pub",
+      "widget"
+    ],
+    "owner": {
+      "name": "fluttercommunity",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35045612?v=4"
+    },
+    "stars": 339,
+    "starsDetail": {
+      "total": 339
+    },
+    "license": "MIT License",
+    "forks": 36,
+    "primaryLanguage": "Java",
+    "pushedAt": "2023-09-23T23:11:18.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-07-25T14:24:30.000Z",
+    "updatedAt": "2025-02-08T00:47:03.000Z"
+  },
+  {
+    "id": "g123k/flutter_app_badger",
+    "name": "g123k/flutter_app_badger",
+    "description": "Support to update the app badge on the launcher (both for Android and iOS)",
+    "topics": [
+      "android",
+      "badge",
+      "dart",
+      "dartlang",
+      "flutter",
+      "ios",
+      "launcher"
+    ],
+    "owner": {
+      "name": "g123k",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/246838?v=4"
+    },
+    "stars": 308,
+    "starsDetail": {
+      "total": 308
+    },
+    "license": "Apache License 2.0",
+    "forks": 189,
+    "primaryLanguage": "Java",
+    "pushedAt": "2024-07-11T23:56:39.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-04-10T19:17:31.000Z",
+    "updatedAt": "2025-02-08T00:47:22.000Z"
+  },
+  {
+    "id": "giandifra/arcore_flutter_plugin",
+    "name": "giandifra/arcore_flutter_plugin",
+    "description": "Flutter plugin for ARCore SDK, Android platform to build new augmented reality experiences",
+    "topics": [],
+    "owner": {
+      "name": "giandifra",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/44344581?v=4"
+    },
+    "stars": 437,
+    "starsDetail": {
+      "total": 437
+    },
+    "license": "MIT License",
+    "forks": 284,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-03-28T11:34:13.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-04-24T07:59:29.000Z",
+    "updatedAt": "2025-02-08T00:47:20.000Z"
+  },
+  {
+    "id": "gregertw/actingweb_firstapp",
+    "name": "gregertw/actingweb_firstapp",
+    "description": "Starter app for Flutter that includes many different production app features; some not typically included in demo apps.",
+    "topics": [
+      "android",
+      "auth0",
+      "crashlytics",
+      "dart",
+      "firebase",
+      "flutter",
+      "flutter-examples",
+      "google",
+      "google-maps",
+      "internationalization",
+      "ios",
+      "location",
+      "messaging",
+      "provider"
+    ],
+    "owner": {
+      "name": "gregertw",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23233429?v=4"
+    },
+    "stars": 497,
+    "starsDetail": {
+      "total": 497
+    },
+    "license": "Other",
+    "forks": 87,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-01-27T16:04:47.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-02-23T18:31:06.000Z",
+    "updatedAt": "2025-02-08T00:47:19.000Z"
+  },
+  {
+    "id": "hnvn/flutter_downloader",
+    "name": "hnvn/flutter_downloader",
+    "description": "Flutter Downloader - A plugin for creating and managing download tasks.",
+    "topics": [],
+    "owner": {
+      "name": "hnvn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5468513?v=4"
+    },
+    "stars": 0,
+    "starsDetail": {
+      "total": 0
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 0,
+    "primaryLanguage": "Swift",
+    "pushedAt": "2024-11-01T04:30:45.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-11-01T04:04:36.000Z",
+    "updatedAt": "2025-02-08T00:47:23.000Z"
+  },
+  {
+    "id": "joanpablo/reactive_forms",
+    "name": "joanpablo/reactive_forms",
+    "description": "This is a model-driven approach to handling form inputs and validations, heavily inspired in Angular's Reactive Forms",
+    "topics": [
+      "dart",
+      "flutter",
+      "form",
+      "forms",
+      "reactive"
+    ],
+    "owner": {
+      "name": "joanpablo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/37339180?v=4"
+    },
+    "stars": 476,
+    "starsDetail": {
+      "total": 476
+    },
+    "license": "MIT License",
+    "forks": 96,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-09-18T19:26:49.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-06-25T03:00:13.000Z",
+    "updatedAt": "2025-02-08T00:47:13.000Z"
+  },
+  {
+    "id": "jogboms/tailor_made",
+    "name": "jogboms/tailor_made",
+    "description": "✄ Managing a Fashion designer's daily routine.",
+    "topics": [
+      "android",
+      "dartlang",
+      "fashion",
+      "firebase",
+      "firebase-auth",
+      "firebase-cloud",
+      "firebase-functions",
+      "firebase-storage",
+      "firestore",
+      "flutter",
+      "flutter-app",
+      "flutter-apps",
+      "flutter-examples",
+      "inventory-app",
+      "ios"
+    ],
+    "owner": {
+      "name": "jogboms",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6208486?v=4"
+    },
+    "stars": 328,
+    "starsDetail": {
+      "total": 328
+    },
+    "license": "MIT License",
+    "forks": 116,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2023-08-15T23:19:12.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-04-09T11:31:40.000Z",
+    "updatedAt": "2025-02-08T00:47:40.000Z"
+  },
+  {
+    "id": "jpnurmi/awesome-flutter-linux",
+    "name": "jpnurmi/awesome-flutter-linux",
+    "description": "A curated list of awesome Linux-specific Flutter packages and projects.",
+    "topics": [
+      "awesome",
+      "dart",
+      "flutter",
+      "linux"
+    ],
+    "owner": {
+      "name": "jpnurmi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/140617?v=4"
+    },
+    "stars": 191,
+    "starsDetail": {
+      "total": 191
+    },
+    "license": "Other",
+    "forks": 12,
+    "primaryLanguage": "",
+    "pushedAt": "2024-06-27T07:18:18.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-09-05T17:52:22.000Z",
+    "updatedAt": "2025-02-08T03:48:52.000Z"
+  },
+  {
+    "id": "kmcgill88/admob_flutter",
+    "name": "kmcgill88/admob_flutter",
+    "description": "Admob Flutter plugin that shows banner ads using native platform views.",
+    "topics": [
+      "admob",
+      "admob-plugin",
+      "android",
+      "dart",
+      "flutter",
+      "ios",
+      "monetization",
+      "plugin"
+    ],
+    "owner": {
+      "name": "kmcgill88",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1992370?v=4"
+    },
+    "stars": 435,
+    "starsDetail": {
+      "total": 435
+    },
+    "license": "ISC License",
+    "forks": 153,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-08-12T05:04:32.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-12-10T00:33:18.000Z",
+    "updatedAt": "2025-02-08T00:47:16.000Z"
+  },
+  {
+    "id": "longhoang2984/flutter_payment_app_ui",
+    "name": "longhoang2984/flutter_payment_app_ui",
+    "description": "Flutter Liquid Pay Payment App Concept",
+    "topics": [
+      "dart2",
+      "flutter",
+      "flutter-apps",
+      "flutter-demo",
+      "flutter-examples"
+    ],
+    "owner": {
+      "name": "longhoang2984",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11419002?v=4"
+    },
+    "stars": 309,
+    "starsDetail": {
+      "total": 309
+    },
+    "license": "MIT License",
+    "forks": 112,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2022-11-26T11:29:08.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-09-26T12:06:28.000Z",
+    "updatedAt": "2025-02-08T00:47:18.000Z"
+  },
+  {
+    "id": "marius-h/flutter_enhancement_suite",
+    "name": "marius-h/flutter_enhancement_suite",
+    "description": "The essential IntelliJ/Android Studio plugin for making working with Flutter easier than ever!",
+    "topics": [
+      "androidstudio-plugin",
+      "autocompletion",
+      "dart",
+      "flutter",
+      "intellij-plugin",
+      "snippets"
+    ],
+    "owner": {
+      "name": "marius-h",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29115214?v=4"
+    },
+    "stars": 287,
+    "starsDetail": {
+      "total": 287
+    },
+    "license": "GNU General Public License v3.0",
+    "forks": 30,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-03-28T10:17:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-07-08T00:30:05.000Z",
+    "updatedAt": "2025-02-08T00:47:48.000Z"
+  },
+  {
+    "id": "okadan/flutter-nfc-manager",
+    "name": "okadan/flutter-nfc-manager",
+    "description": "A Flutter plugin for accessing the NFC features on Android and iOS.",
+    "topics": [
+      "dart",
+      "flutter",
+      "flutter-plugin",
+      "nfc"
+    ],
+    "owner": {
+      "name": "okadan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46291090?v=4"
+    },
+    "stars": 215,
+    "starsDetail": {
+      "total": 215
+    },
+    "license": "MIT License",
+    "forks": 143,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-08-15T07:06:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-09-22T06:48:30.000Z",
+    "updatedAt": "2025-02-08T00:47:24.000Z"
+  },
+  {
+    "id": "pichillilorenzo/flutter_appavailability",
+    "name": "pichillilorenzo/flutter_appavailability",
+    "description": "A Flutter plugin that allows you to check if an app is installed/enabled, launch an app and get the list of installed apps.",
+    "topics": [
+      "android",
+      "dart",
+      "flutter",
+      "flutter-package",
+      "flutter-plugin",
+      "ios",
+      "plugin",
+      "swift"
+    ],
+    "owner": {
+      "name": "pichillilorenzo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5956938?v=4"
+    },
+    "stars": 92,
+    "starsDetail": {
+      "total": 92
+    },
+    "license": "MIT License",
+    "forks": 91,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2023-01-31T11:01:32.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-09-12T11:05:40.000Z",
+    "updatedAt": "2025-02-08T00:47:23.000Z"
+  },
+  {
+    "id": "ruskakimov/mooltik",
+    "name": "ruskakimov/mooltik",
+    "description": "🧑‍🎨 Mobile app for drawing 2D animations",
+    "topics": [
+      "android",
+      "animation",
+      "animation-app",
+      "dart",
+      "dartlang",
+      "drawing-app",
+      "flutter",
+      "flutter-apps",
+      "ios",
+      "mobile",
+      "mobile-app",
+      "storyboard"
+    ],
+    "owner": {
+      "name": "ruskakimov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5536948?v=4"
+    },
+    "stars": 210,
+    "starsDetail": {
+      "total": 210
+    },
+    "license": "GNU General Public License v3.0",
+    "forks": 36,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2023-07-17T07:11:01.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-08-05T15:05:03.000Z",
+    "updatedAt": "2025-02-08T00:47:44.000Z"
+  },
+  {
+    "id": "rustdesk/rustdesk",
+    "name": "rustdesk/rustdesk",
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "topics": [
+      "anydesk",
+      "dart",
+      "flutter",
+      "flutter-apps",
+      "flutter-desktop",
+      "flutter-examples",
+      "flutter-mobile",
+      "flutter-ui",
+      "flutter-web",
+      "hacktoberfest",
+      "linux",
+      "p2p",
+      "rdp",
+      "remote-control",
+      "remote-desktop",
+      "rust",
+      "rust-lang",
+      "teamviewer",
+      "vnc",
+      "wayland"
+    ],
+    "owner": {
+      "name": "rustdesk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/71636191?v=4"
+    },
+    "stars": 81613,
+    "starsDetail": {
+      "total": 81613
+    },
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 11423,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2025-02-08T08:03:11.000Z",
+    "archived": false,
+    "npmPackage": "",
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-09-28T15:36:08.000Z",
+    "updatedAt": "2025-02-08T17:25:34.000Z"
+  },
+  {
+    "id": "rxlabz/speech_recognition",
+    "name": "rxlabz/speech_recognition",
+    "description": "A Flutter plugin to use speech recognition on iOS & Android (Swift/Java)",
+    "topics": [
+      "android",
+      "flutter",
+      "ios",
+      "javascript",
+      "plugin",
+      "speech-recognition",
+      "swift"
+    ],
+    "owner": {
+      "name": "rxlabz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1397248?v=4"
+    },
+    "stars": 336,
+    "starsDetail": {
+      "total": 336
+    },
+    "license": "Other",
+    "forks": 197,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2022-10-15T10:14:13.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-06-11T21:56:34.000Z",
+    "updatedAt": "2025-02-08T00:47:16.000Z"
+  },
+  {
+    "id": "sbis04/video_trimmer",
+    "name": "sbis04/video_trimmer",
+    "description": "Flutter video trimmer package",
+    "topics": [
+      "hacktoberfest",
+      "video-trimmer"
+    ],
+    "owner": {
+      "name": "sbis04",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43280874?v=4"
+    },
+    "stars": 453,
+    "starsDetail": {
+      "total": 453
+    },
+    "license": "MIT License",
+    "forks": 287,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-12-30T07:16:41.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-04-30T04:56:04.000Z",
+    "updatedAt": "2025-02-08T00:47:15.000Z"
+  },
+  {
+    "id": "skkallayath/photofilters",
+    "name": "skkallayath/photofilters",
+    "description": "photofilters library for flutter",
+    "topics": [
+      "dart",
+      "filters",
+      "flutter",
+      "image",
+      "imagefilter",
+      "instagram",
+      "package",
+      "photo",
+      "photofilters",
+      "plugin"
+    ],
+    "owner": {
+      "name": "skkallayath",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8578130?v=4"
+    },
+    "stars": 409,
+    "starsDetail": {
+      "total": 409
+    },
+    "license": "MIT License",
+    "forks": 136,
+    "primaryLanguage": "Kotlin",
+    "pushedAt": "2024-01-21T07:54:44.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-10-10T13:12:32.000Z",
+    "updatedAt": "2025-02-08T00:47:04.000Z"
+  },
+  {
+    "id": "square/in-app-payments-flutter-plugin",
+    "name": "square/in-app-payments-flutter-plugin",
+    "description": "Flutter Plugin for Square In-App Payments SDK",
+    "topics": [
+      "flutter",
+      "in-app-payments",
+      "in-app-purchase",
+      "payment",
+      "payment-form",
+      "payments",
+      "sdk",
+      "square"
+    ],
+    "owner": {
+      "name": "square",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/82592?v=4"
+    },
+    "stars": 342,
+    "starsDetail": {
+      "total": 342
+    },
+    "license": "Apache License 2.0",
+    "forks": 128,
+    "primaryLanguage": "Swift",
+    "pushedAt": "2025-01-28T18:26:15.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-11-20T18:09:50.000Z",
+    "updatedAt": "2025-02-08T00:47:17.000Z"
+  },
+  {
+    "id": "superlistapp/super_sliver_list",
+    "name": "superlistapp/super_sliver_list",
+    "description": "Drop-in replacement for SliverList and ListView that can handle large amount of items with variable extents and reliably jump / animate to any item.",
+    "topics": [],
+    "owner": {
+      "name": "superlistapp",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65357775?v=4"
+    },
+    "stars": 318,
+    "starsDetail": {
+      "total": 318
+    },
+    "license": "MIT License",
+    "forks": 21,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-07-24T18:53:25.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-09-25T14:41:11.000Z",
+    "updatedAt": "2025-02-08T00:46:57.000Z"
+  },
+  {
+    "id": "ubuntu/yaru.dart",
+    "name": "ubuntu/yaru.dart",
+    "description": "Ubuntu Yaru Flutter widgets and themes for building desktop and web applications",
+    "topics": [
+      "flutter",
+      "ubuntu",
+      "yaru"
+    ],
+    "owner": {
+      "name": "ubuntu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4604537?v=4"
+    },
+    "stars": 265,
+    "starsDetail": {
+      "total": 265
+    },
+    "license": "Mozilla Public License 2.0",
+    "forks": 38,
+    "primaryLanguage": "Swift",
+    "pushedAt": "2025-01-27T13:30:26.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-11-08T14:55:39.000Z",
+    "updatedAt": "2025-02-08T03:48:51.000Z"
+  },
+  {
+    "id": "westracer/fontify",
+    "name": "westracer/fontify",
+    "description": "Converts SVG icons to OTF font and generates Flutter-compatible class. Provides an API and a CLI tool.",
+    "topics": [
+      "converter",
+      "dart",
+      "flutter",
+      "font-generator",
+      "svg-converter",
+      "svgtofont"
+    ],
+    "owner": {
+      "name": "westracer",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29298427?v=4"
+    },
+    "stars": 105,
+    "starsDetail": {
+      "total": 105
+    },
+    "license": "Other",
+    "forks": 16,
+    "primaryLanguage": "Dart",
+    "pushedAt": "2024-06-11T14:24:34.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-06-06T18:01:53.000Z",
+    "updatedAt": "2025-02-08T00:47:45.000Z"
+  },
+  {
+    "id": "whatsupcoders/Flutter-Interview-Questions",
+    "name": "whatsupcoders/Flutter-Interview-Questions",
+    "description": "This repo contains a list of helpful Flutter related questions you can use to interview potential candidates.",
+    "topics": [],
+    "owner": {
+      "name": "whatsupcoders",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46075509?v=4"
+    },
+    "stars": 356,
+    "starsDetail": {
+      "total": 356
+    },
+    "license": "MIT License",
+    "forks": 89,
+    "primaryLanguage": "",
+    "pushedAt": "2021-02-10T13:16:01.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-06-26T05:38:06.000Z",
+    "updatedAt": "2025-02-08T03:48:53.000Z"
+  },
+  {
+    "id": "whatsupcoders/Whatsupcoders-flutter",
+    "name": "whatsupcoders/Whatsupcoders-flutter",
+    "description": "An Awesome list of all the Flutter video Tutorials from Whatsupcoders",
+    "topics": [],
+    "owner": {
+      "name": "whatsupcoders",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46075509?v=4"
+    },
+    "stars": 41,
+    "starsDetail": {
+      "total": 41
+    },
+    "license": null,
+    "forks": 8,
+    "primaryLanguage": "",
+    "pushedAt": "2019-10-11T00:53:27.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-05-27T06:17:27.000Z",
+    "updatedAt": "2025-02-08T03:48:53.000Z"
+  },
+  {
+    "id": "xclud/flutter_crop",
+    "name": "xclud/flutter_crop",
+    "description": "Crop any widget/image in Android, iOS, Web and Desktop with fancy and customizable UI, in pure Dart code.",
+    "topics": [
+      "android",
+      "crop",
+      "dart",
+      "demo",
+      "desktop",
+      "editor",
+      "flutter",
+      "image",
+      "pub",
+      "web",
+      "widget"
+    ],
+    "owner": {
+      "name": "xclud",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12394889?v=4"
+    },
+    "stars": 257,
+    "starsDetail": {
+      "total": 257
+    },
+    "license": "MIT License",
+    "forks": 87,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2023-09-21T06:10:12.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-01-15T09:08:37.000Z",
+    "updatedAt": "2025-02-08T00:47:07.000Z"
+  },
+  {
+    "id": "xclud/flutter_map",
+    "name": "xclud/flutter_map",
+    "description": "Lightweight Map widget for flutter supporting different projections including EPSG4326/Mercator/WGS1984.",
+    "topics": [
+      "cartography",
+      "dart",
+      "flutter",
+      "google-maps",
+      "map",
+      "maps",
+      "openstreetmap",
+      "vector-tiles"
+    ],
+    "owner": {
+      "name": "xclud",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12394889?v=4"
+    },
+    "stars": 132,
+    "starsDetail": {
+      "total": 132
+    },
+    "license": "MIT License",
+    "forks": 29,
+    "primaryLanguage": "Objective-C",
+    "pushedAt": "2024-02-12T22:22:25.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-02-22T13:31:19.000Z",
+    "updatedAt": "2025-02-08T00:47:09.000Z"
+  },
+  {
+    "id": "xqwzts/flutter_circular_chart",
+    "name": "xqwzts/flutter_circular_chart",
+    "description": "Animated radial and pie charts for Flutter",
+    "topics": [
+      "charting",
+      "flutter",
+      "library"
+    ],
+    "owner": {
+      "name": "xqwzts",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/798935?v=4"
+    },
+    "stars": 403,
+    "starsDetail": {
+      "total": 403
+    },
+    "license": "MIT License",
+    "forks": 142,
+    "primaryLanguage": "Dart",
+    "pushedAt": "2024-06-13T12:04:29.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-11-03T01:46:04.000Z",
+    "updatedAt": "2025-02-08T00:47:10.000Z"
+  }
+]

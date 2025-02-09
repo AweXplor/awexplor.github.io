@@ -1,0 +1,2511 @@
+[
+  {
+    "id": "zsdonghao/text-to-image",
+    "name": "zsdonghao/text-to-image",
+    "description": "Generative Adversarial Text to Image Synthesis / Please Star -->",
+    "topics": [
+      "gan",
+      "tensorflow",
+      "tensorlayer",
+      "text-to-image"
+    ],
+    "owner": {
+      "name": "zsdonghao",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10713581?v=4"
+    },
+    "stars": 600,
+    "starsDetail": {
+      "total": 602,
+      "week": 1,
+      "month": [
+        7,
+        6,
+        1733381777
+      ],
+      "year": 18,
+      "updatedAt": 1736060179
+    },
+    "license": null,
+    "forks": 161,
+    "primaryLanguage": "Python",
+    "pushedAt": "2021-01-22T07:11:25.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-11-02T13:50:16.000Z",
+    "updatedAt": "2025-02-08T04:19:48.000Z"
+  },
+  {
+    "id": "nlintz/TensorFlow-Tutorials",
+    "name": "nlintz/TensorFlow-Tutorials",
+    "description": "Simple tutorials using Google's TensorFlow Framework",
+    "topics": [],
+    "owner": {
+      "name": "nlintz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1192661?v=4"
+    },
+    "stars": 6007,
+    "starsDetail": {
+      "total": 6002,
+      "week": 1,
+      "month": [
+        61,
+        60,
+        1733381759
+      ],
+      "year": 68,
+      "updatedAt": 1736060162
+    },
+    "license": null,
+    "forks": 1509,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2023-08-20T07:32:57.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-11-10T23:02:28.000Z",
+    "updatedAt": "2025-02-08T04:19:40.000Z"
+  },
+  {
+    "id": "kubeflow/kubeflow",
+    "name": "kubeflow/kubeflow",
+    "description": "Machine Learning Toolkit for Kubernetes",
+    "topics": [
+      "google-kubernetes-engine",
+      "jupyter",
+      "kubeflow",
+      "kubernetes",
+      "machine-learning",
+      "minikube",
+      "ml",
+      "notebook",
+      "tensorflow"
+    ],
+    "owner": {
+      "name": "kubeflow",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33164907?v=4"
+    },
+    "stars": 14607,
+    "starsDetail": {
+      "total": 14514,
+      "week": 20,
+      "month": 96,
+      "year": 1323,
+      "updatedAt": 1736060198
+    },
+    "license": "Apache License 2.0",
+    "forks": 2449,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-02-07T20:32:42.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-11-30T18:44:19.000Z",
+    "updatedAt": "2025-02-08T04:20:00.000Z"
+  },
+  {
+    "id": "devsisters/DQN-tensorflow",
+    "name": "devsisters/DQN-tensorflow",
+    "description": "Tensorflow implementation of Human-Level Control through Deep Reinforcement Learning",
+    "topics": [],
+    "owner": {
+      "name": "devsisters",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4694597?v=4"
+    },
+    "stars": 2501,
+    "starsDetail": {
+      "total": 2496,
+      "week": 3,
+      "month": 9,
+      "year": 94,
+      "updatedAt": 1736060180
+    },
+    "license": "MIT License",
+    "forks": 765,
+    "primaryLanguage": "Python",
+    "pushedAt": "2019-04-18T18:36:45.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-05-15T11:33:47.000Z",
+    "updatedAt": "2025-02-08T04:19:52.000Z"
+  },
+  {
+    "id": "ml-tooling/ml-workspace",
+    "name": "ml-tooling/ml-workspace",
+    "description": "🛠 All-in-one web-based IDE specialized for machine learning and data science.",
+    "topics": [
+      "anaconda",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "deep-learning",
+      "docker",
+      "gpu",
+      "jupyter",
+      "jupyter-lab",
+      "jupyter-notebook",
+      "kubernetes",
+      "machine-learning",
+      "neural-networks",
+      "nlp",
+      "python",
+      "pytorch",
+      "r",
+      "scikit-learn",
+      "tensorflow",
+      "vscode"
+    ],
+    "owner": {
+      "name": "ml-tooling",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45942048?v=4"
+    },
+    "stars": 3468,
+    "starsDetail": {
+      "total": 3449,
+      "week": 1,
+      "month": 9,
+      "year": 241,
+      "updatedAt": 1736060208
+    },
+    "license": "Apache License 2.0",
+    "forks": 455,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2024-07-26T07:39:39.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-05-27T16:55:15.000Z",
+    "updatedAt": "2025-02-08T04:47:35.000Z"
+  },
+  {
+    "id": "astorfi/lip-reading-deeplearning",
+    "name": "astorfi/lip-reading-deeplearning",
+    "description": ":unlock: Lip Reading - Cross Audio-Visual Recognition using 3D Architectures",
+    "topics": [
+      "3d-convolutional-network",
+      "computer-vision",
+      "deep-learning",
+      "speech-recognition",
+      "tensorflow"
+    ],
+    "owner": {
+      "name": "astorfi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13461059?v=4"
+    },
+    "stars": 1848,
+    "starsDetail": {
+      "total": 1845,
+      "week": 2,
+      "month": 8,
+      "year": 75,
+      "updatedAt": 1736060192
+    },
+    "license": "Apache License 2.0",
+    "forks": 326,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2022-11-07T13:58:59.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-06-20T22:05:34.000Z",
+    "updatedAt": "2025-02-08T04:19:57.000Z"
+  },
+  {
+    "id": "anishathalye/neural-style",
+    "name": "anishathalye/neural-style",
+    "description": "Neural style in TensorFlow! 🎨",
+    "topics": [],
+    "owner": {
+      "name": "anishathalye",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3526486?v=4"
+    },
+    "stars": 5542,
+    "starsDetail": {
+      "total": 5542,
+      "week": 2,
+      "month": 7,
+      "year": 41,
+      "updatedAt": 1736060175
+    },
+    "license": "GNU General Public License v3.0",
+    "forks": 1506,
+    "primaryLanguage": "Python",
+    "pushedAt": "2025-02-01T17:32:27.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-11-21T23:40:00.000Z",
+    "updatedAt": "2025-02-08T04:19:44.000Z"
+  },
+  {
+    "id": "stellargraph/stellargraph",
+    "name": "stellargraph/stellargraph",
+    "description": "StellarGraph - Machine Learning on Graphs",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "gcn",
+      "geometric-deep-learning",
+      "graph-analysis",
+      "graph-convolutional-networks",
+      "graph-data",
+      "graph-machine-learning",
+      "graph-neural-networks",
+      "graphs",
+      "heterogeneous-networks",
+      "interpretability",
+      "link-prediction",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "networkx",
+      "python",
+      "saliency-map",
+      "stellargraph-library"
+    ],
+    "owner": {
+      "name": "stellargraph",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36725857?v=4"
+    },
+    "stars": 2969,
+    "starsDetail": {
+      "total": 2962,
+      "week": 2,
+      "month": 7,
+      "year": 153,
+      "updatedAt": 1736060207
+    },
+    "license": "Apache License 2.0",
+    "forks": 435,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-04-10T12:25:23.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-04-13T07:35:51.000Z",
+    "updatedAt": "2025-02-08T04:46:18.000Z"
+  },
+  {
+    "id": "transcranial/keras-js",
+    "name": "transcranial/keras-js",
+    "description": "Run Keras models in the browser, with GPU support using WebGL",
+    "topics": [
+      "deep-learning",
+      "javascript",
+      "keras",
+      "machine-learning",
+      "neural-networks",
+      "tensorflow",
+      "webgl"
+    ],
+    "owner": {
+      "name": "transcranial",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6182852?v=4"
+    },
+    "stars": 4962,
+    "starsDetail": {
+      "total": 4961,
+      "week": 1,
+      "month": 6,
+      "year": 47,
+      "updatedAt": 1729322611
+    },
+    "license": "MIT License",
+    "forks": 502,
+    "primaryLanguage": "Python",
+    "pushedAt": "2022-06-15T12:11:24.000Z",
+    "archived": false,
+    "npmPackage": "keras-js",
+    "npmLastMonthDownloads": 616,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-09-30T14:40:35.000Z",
+    "updatedAt": "2025-02-08T00:25:23.000Z"
+  },
+  {
+    "id": "mlachmish/MusicGenreClassification",
+    "name": "mlachmish/MusicGenreClassification",
+    "description": "Classify music genre from a 10 second sound stream using a Neural Network.",
+    "topics": [
+      "deep-learning",
+      "music-genre-classification",
+      "neural-network",
+      "paper",
+      "tensorflow"
+    ],
+    "owner": {
+      "name": "mlachmish",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5091705?v=4"
+    },
+    "stars": 572,
+    "starsDetail": {
+      "total": 567,
+      "week": 3,
+      "month": 5,
+      "year": 44,
+      "updatedAt": 1736060191
+    },
+    "license": "MIT License",
+    "forks": 116,
+    "primaryLanguage": "Python",
+    "pushedAt": "2020-01-11T14:57:36.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-07-18T19:52:19.000Z",
+    "updatedAt": "2025-02-08T04:19:59.000Z"
+  },
+  {
+    "id": "vahidk/EffectiveTensorflow",
+    "name": "vahidk/EffectiveTensorflow",
+    "description": "TensorFlow tutorials and best practices.",
+    "topics": [
+      "deep-learning",
+      "ebook",
+      "machine-learning",
+      "neural-network",
+      "tensorflow"
+    ],
+    "owner": {
+      "name": "vahidk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/145408?v=4"
+    },
+    "stars": 8623,
+    "starsDetail": {
+      "total": 8620,
+      "week": 0,
+      "month": 5,
+      "year": 44,
+      "updatedAt": 1736060171
+    },
+    "license": null,
+    "forks": 904,
+    "primaryLanguage": "",
+    "pushedAt": "2020-10-22T05:26:17.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-08-01T06:00:56.000Z",
+    "updatedAt": "2025-02-08T04:19:43.000Z"
+  },
+  {
+    "id": "dennybritz/cnn-text-classification-tf",
+    "name": "dennybritz/cnn-text-classification-tf",
+    "description": "Convolutional Neural Network for Text Classification in Tensorflow",
+    "topics": [],
+    "owner": {
+      "name": "dennybritz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/403133?v=4"
+    },
+    "stars": 5648,
+    "starsDetail": {
+      "total": 5651,
+      "week": 2,
+      "month": 4,
+      "year": 84,
+      "updatedAt": 1736060185
+    },
+    "license": "Apache License 2.0",
+    "forks": 2766,
+    "primaryLanguage": "Python",
+    "pushedAt": "2024-04-15T19:15:44.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-11-24T15:43:25.000Z",
+    "updatedAt": "2025-02-08T04:19:54.000Z"
+  },
+  {
+    "id": "pkmital/tensorflow_tutorials",
+    "name": "pkmital/tensorflow_tutorials",
+    "description": "From the basics to slightly more interesting applications of Tensorflow",
+    "topics": [],
+    "owner": {
+      "name": "pkmital",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/429252?v=4"
+    },
+    "stars": 5645,
+    "starsDetail": {
+      "total": 5637,
+      "week": 3,
+      "month": 4,
+      "year": 54,
+      "updatedAt": 1736060160
+    },
+    "license": "Other",
+    "forks": 1180,
+    "primaryLanguage": "Python",
+    "pushedAt": "2021-12-11T20:54:51.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-02-03T04:01:40.000Z",
+    "updatedAt": "2025-02-08T04:19:39.000Z"
+  },
+  {
+    "id": "tflearn/tflearn",
+    "name": "tflearn/tflearn",
+    "description": "Deep learning library featuring a higher-level API for TensorFlow.",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "neural-network",
+      "tensorflow",
+      "tflearn"
+    ],
+    "owner": {
+      "name": "tflearn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16848261?v=4"
+    },
+    "stars": 9613,
+    "starsDetail": {
+      "total": 9618,
+      "week": 1,
+      "month": 4,
+      "year": 70,
+      "updatedAt": 1736060200
+    },
+    "license": "Other",
+    "forks": 2413,
+    "primaryLanguage": "Python",
+    "pushedAt": "2024-05-06T11:34:20.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-03-31T12:05:53.000Z",
+    "updatedAt": "2025-02-08T04:46:06.000Z"
+  },
+  {
+    "id": "Hvass-Labs/TensorFlow-Tutorials",
+    "name": "Hvass-Labs/TensorFlow-Tutorials",
+    "description": "TensorFlow Tutorials with YouTube Videos",
+    "topics": [
+      "deep-learning",
+      "machine-learning",
+      "neural-network",
+      "python-notebook",
+      "reinforcement-learning",
+      "tensorflow",
+      "tutorial",
+      "youtube"
+    ],
+    "owner": {
+      "name": "Hvass-Labs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13588114?v=4"
+    },
+    "stars": 9279,
+    "starsDetail": {
+      "total": 9276,
+      "week": 0,
+      "month": 3,
+      "year": 121,
+      "updatedAt": 1736060164
+    },
+    "license": "MIT License",
+    "forks": 4179,
+    "primaryLanguage": "Python",
+    "pushedAt": "2021-01-15T20:20:02.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-06-26T14:43:21.000Z",
+    "updatedAt": "2025-02-08T04:19:40.000Z"
+  },
+  {
+    "id": "natanielruiz/android-yolo",
+    "name": "natanielruiz/android-yolo",
+    "description": "Real-time object detection on Android using the YOLO network with TensorFlow",
+    "topics": [
+      "android",
+      "android-device",
+      "android-studio",
+      "apk",
+      "demo",
+      "detection",
+      "object-detection",
+      "pascal-voc",
+      "prediction",
+      "tensorflow",
+      "tensorflow-yolo",
+      "yolo"
+    ],
+    "owner": {
+      "name": "natanielruiz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16767288?v=4"
+    },
+    "stars": 670,
+    "starsDetail": {
+      "total": 670,
+      "week": 1,
+      "month": 3,
+      "year": 30,
+      "updatedAt": 1736060194
+    },
+    "license": "Apache License 2.0",
+    "forks": 215,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2022-10-15T11:34:11.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-12-03T01:25:43.000Z",
+    "updatedAt": "2025-02-08T04:20:02.000Z"
+  },
+  {
+    "id": "pavelgonchar/colornet",
+    "name": "pavelgonchar/colornet",
+    "description": "Neural Network to colorize grayscale images",
+    "topics": [],
+    "owner": {
+      "name": "pavelgonchar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16557697?v=4"
+    },
+    "stars": 3566,
+    "starsDetail": {
+      "total": 3563,
+      "week": 0,
+      "month": 3,
+      "year": 21,
+      "updatedAt": 1736060180
+    },
+    "license": null,
+    "forks": 323,
+    "primaryLanguage": "Python",
+    "pushedAt": "2020-04-21T10:17:51.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-04-19T09:16:50.000Z",
+    "updatedAt": "2025-02-08T04:19:49.000Z"
+  },
+  {
+    "id": "tensorlayer/TensorLayerX",
+    "name": "tensorlayer/TensorLayerX",
+    "description": "TensorLayerX: A Unified Deep Learning and Reinforcement Learning Framework for All Hardwares, Backends and OS.",
+    "topics": [
+      "deep-learning",
+      "jittor",
+      "machine-learning",
+      "mindspore",
+      "neural-network",
+      "oneflow",
+      "paddlepaddle",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "tensorlayer",
+      "tensorlayerx"
+    ],
+    "owner": {
+      "name": "tensorlayer",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32261543?v=4"
+    },
+    "stars": 524,
+    "starsDetail": {
+      "total": 542,
+      "week": 0,
+      "month": 3,
+      "year": 29,
+      "updatedAt": 1736060205
+    },
+    "license": "Other",
+    "forks": 47,
+    "primaryLanguage": "Batchfile",
+    "pushedAt": "2024-11-28T05:28:15.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-12-03T07:41:20.000Z",
+    "updatedAt": "2025-02-08T04:20:06.000Z"
+  },
+  {
+    "id": "yahoo/TensorFlowOnSpark",
+    "name": "yahoo/TensorFlowOnSpark",
+    "description": "TensorFlowOnSpark brings TensorFlow programs to Apache Spark clusters.",
+    "topics": [
+      "cluster",
+      "featured",
+      "machine-learning",
+      "python",
+      "scala",
+      "spark",
+      "tensorflow",
+      "yahoo"
+    ],
+    "owner": {
+      "name": "yahoo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16574?v=4"
+    },
+    "stars": 3874,
+    "starsDetail": {
+      "total": 3872,
+      "week": 1,
+      "month": 3,
+      "year": 42,
+      "updatedAt": 1736060201
+    },
+    "license": "Apache License 2.0",
+    "forks": 943,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2023-07-10T10:34:11.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-01-20T18:15:57.000Z",
+    "updatedAt": "2025-02-08T04:20:04.000Z"
+  },
+  {
+    "id": "astorfi/TensorFlow-World",
+    "name": "astorfi/TensorFlow-World",
+    "description": ":earth_americas: Simple and ready-to-use tutorials for TensorFlow",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "neural-network",
+      "python",
+      "tensorflow"
+    ],
+    "owner": {
+      "name": "astorfi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13461059?v=4"
+    },
+    "stars": 4522,
+    "starsDetail": {
+      "total": 4522,
+      "week": 0,
+      "month": 2,
+      "year": 18,
+      "updatedAt": 1736060167
+    },
+    "license": "MIT License",
+    "forks": 415,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2020-12-23T00:18:21.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-03-24T22:19:05.000Z",
+    "updatedAt": "2025-02-08T04:19:43.000Z"
+  },
+  {
+    "id": "samjabrahams/tensorflow-on-raspberry-pi",
+    "name": "samjabrahams/tensorflow-on-raspberry-pi",
+    "description": "TensorFlow for Raspberry Pi",
+    "topics": [
+      "machine-learning",
+      "raspberry-pi",
+      "tensorflow"
+    ],
+    "owner": {
+      "name": "samjabrahams",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11607205?v=4"
+    },
+    "stars": 2247,
+    "starsDetail": {
+      "total": 2244,
+      "week": 0,
+      "month": 2,
+      "year": 33,
+      "updatedAt": 1736060165
+    },
+    "license": "Other",
+    "forks": 495,
+    "primaryLanguage": "Python",
+    "pushedAt": "2018-11-08T18:48:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-03-12T06:26:47.000Z",
+    "updatedAt": "2025-02-08T04:19:41.000Z"
+  },
+  {
+    "id": "terryum/TensorFlow_Exercises",
+    "name": "terryum/TensorFlow_Exercises",
+    "description": "The codes I made while I practiced various TensorFlow examples",
+    "topics": [],
+    "owner": {
+      "name": "terryum",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12528769?v=4"
+    },
+    "stars": 618,
+    "starsDetail": {
+      "total": 617,
+      "week": 2,
+      "month": 2,
+      "year": 8,
+      "updatedAt": 1736060164
+    },
+    "license": null,
+    "forks": 197,
+    "primaryLanguage": "Jupyter Notebook",
+    "pushedAt": "2019-05-14T16:45:45.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-05-29T04:24:20.000Z",
+    "updatedAt": "2025-02-08T04:19:41.000Z"
+  },
+  {
+    "id": "trailbehind/DeepOSM",
+    "name": "trailbehind/DeepOSM",
+    "description": "Train a deep learning net with OpenStreetMap features and satellite imagery.",
+    "topics": [],
+    "owner": {
+      "name": "trailbehind",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/113243?v=4"
+    },
+    "stars": 1321,
+    "starsDetail": {
+      "total": 1323,
+      "week": 1,
+      "month": 2,
+      "year": [
+        14,
+        13,
+        1704437780
+      ],
+      "updatedAt": 1736060182
+    },
+    "license": "MIT License",
+    "forks": 181,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2017-03-13T16:09:05.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-02-14T22:30:33.000Z",
+    "updatedAt": "2025-02-08T04:19:51.000Z"
+  },
+  {
+    "id": "CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+    "name": "CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+    "description": "aka \"Bayesian Methods for Hackers\": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)  ",
+    "topics": [
+      "bayesian-methods",
+      "data-science",
+      "jupyter-notebook",
+      "mathematical-analysis",
+      "pymc",
+      "statistics"
+    ],
+    "owner": {
+      "name": "CamDavidsonPilon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/884032?v=4"
+    },
+    "stars": 27170,
+    "starsDetail": {
+      "total": 26964,
+      "week": 74,
+      "month": 130,
+      "year": 1024,
+      "updatedAt": 1736060217
+    },
+    "license": "MIT License",
+    "forks": 7911,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-06-25T20:42:58.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-01-14T15:46:28.000Z",
+    "updatedAt": "2025-02-08T04:45:55.000Z"
+  },
+  {
+    "id": "guillaume-chevalier/LSTM-Human-Activity-Recognition",
+    "name": "guillaume-chevalier/LSTM-Human-Activity-Recognition",
+    "description": "Human Activity Recognition example using TensorFlow on smartphone sensors dataset and an LSTM RNN. Classifying the type of movement amongst six activity categories - Guillaume Chevalier",
+    "topics": [
+      "activity-recognition",
+      "deep-learning",
+      "human-activity-recognition",
+      "lstm",
+      "machine-learning",
+      "neural-network",
+      "recurrent-neural-networks",
+      "rnn",
+      "tensorflow"
+    ],
+    "owner": {
+      "name": "guillaume-chevalier",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11862328?v=4"
+    },
+    "stars": 3369,
+    "starsDetail": {
+      "total": 3362,
+      "week": 2,
+      "month": 11,
+      "year": 139,
+      "updatedAt": 1736060168
+    },
+    "license": "MIT License",
+    "forks": 938,
+    "primaryLanguage": "Python",
+    "pushedAt": "2022-11-06T17:53:06.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-05-18T02:00:21.000Z",
+    "updatedAt": "2025-02-08T04:19:42.000Z"
+  },
+  {
+    "id": "ibab/tensorflow-wavenet",
+    "name": "ibab/tensorflow-wavenet",
+    "description": "A TensorFlow implementation of DeepMind's WaveNet paper",
+    "topics": [],
+    "owner": {
+      "name": "ibab",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/890531?v=4"
+    },
+    "stars": 5432,
+    "starsDetail": {
+      "total": 5424,
+      "week": 6,
+      "month": 11,
+      "year": 75,
+      "updatedAt": 1736060188
+    },
+    "license": "MIT License",
+    "forks": 1292,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2023-07-12T06:15:53.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-09-12T13:50:45.000Z",
+    "updatedAt": "2025-02-08T04:19:55.000Z"
+  },
+  {
+    "id": "astorfi/3D-convolutional-speaker-recognition",
+    "name": "astorfi/3D-convolutional-speaker-recognition",
+    "description": ":speaker: Deep Learning & 3D Convolutional Neural Networks for Speaker Verification",
+    "topics": [
+      "3d",
+      "convolutional-neural-networks",
+      "deep-learning",
+      "speaker-recognition"
+    ],
+    "owner": {
+      "name": "astorfi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13461059?v=4"
+    },
+    "stars": 782,
+    "starsDetail": {
+      "total": 783,
+      "week": 0,
+      "month": 1,
+      "year": 16,
+      "updatedAt": 1736060189
+    },
+    "license": "Apache License 2.0",
+    "forks": 273,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2020-03-03T19:12:02.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-06-18T23:13:18.000Z",
+    "updatedAt": "2025-02-08T04:19:56.000Z"
+  },
+  {
+    "id": "carpedm20/lstm-char-cnn-tensorflow",
+    "name": "carpedm20/lstm-char-cnn-tensorflow",
+    "description": "in progress",
+    "topics": [
+      "cnn",
+      "lstm",
+      "nlp",
+      "tensorflow"
+    ],
+    "owner": {
+      "name": "carpedm20",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3346407?v=4"
+    },
+    "stars": 769,
+    "starsDetail": {
+      "total": 770,
+      "week": 0,
+      "month": 1,
+      "year": 21,
+      "updatedAt": 1736060185
+    },
+    "license": "MIT License",
+    "forks": 242,
+    "primaryLanguage": "Python",
+    "pushedAt": "2018-07-27T11:04:42.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-12-10T16:31:03.000Z",
+    "updatedAt": "2025-02-08T04:19:55.000Z"
+  },
+  {
+    "id": "ethereon/caffe-tensorflow",
+    "name": "ethereon/caffe-tensorflow",
+    "description": "Caffe models in TensorFlow",
+    "topics": [],
+    "owner": {
+      "name": "ethereon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/337985?v=4"
+    },
+    "stars": 2796,
+    "starsDetail": {
+      "total": 2796,
+      "week": 0,
+      "month": 1,
+      "year": 6,
+      "updatedAt": 1736060201
+    },
+    "license": "Other",
+    "forks": 1030,
+    "primaryLanguage": "Python",
+    "pushedAt": "2019-07-18T13:35:38.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-11-10T06:43:47.000Z",
+    "updatedAt": "2025-02-08T04:20:04.000Z"
+  },
+  {
+    "id": "guillaume-chevalier/seq2seq-signal-prediction",
+    "name": "guillaume-chevalier/seq2seq-signal-prediction",
+    "description": "Signal forecasting with a Sequence-to-Sequence (seq2seq) Recurrent Neural Network (RNN) model in TensorFlow - Guillaume Chevalier",
+    "topics": [
+      "python",
+      "seq2seq",
+      "tensorflow",
+      "tensorflow-tutorials"
+    ],
+    "owner": {
+      "name": "guillaume-chevalier",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11862328?v=4"
+    },
+    "stars": 1082,
+    "starsDetail": {
+      "total": 1080,
+      "week": 0,
+      "month": 1,
+      "year": 13,
+      "updatedAt": 1736060166
+    },
+    "license": "Apache License 2.0",
+    "forks": 293,
+    "primaryLanguage": "Python",
+    "pushedAt": "2023-03-25T00:33:48.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-03-31T19:26:21.000Z",
+    "updatedAt": "2025-02-08T04:19:42.000Z"
+  },
+  {
+    "id": "jazzsaxmafia/show_attend_and_tell.tensorflow",
+    "name": "jazzsaxmafia/show_attend_and_tell.tensorflow",
+    "description": "",
+    "topics": [],
+    "owner": {
+      "name": "jazzsaxmafia",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8408608?v=4"
+    },
+    "stars": 504,
+    "starsDetail": {
+      "total": 506,
+      "week": 1,
+      "month": 1,
+      "year": 2,
+      "updatedAt": 1736060180
+    },
+    "license": "BSD 2-Clause \"Simplified\" License",
+    "forks": 191,
+    "primaryLanguage": "Python",
+    "pushedAt": "2019-10-23T10:03:31.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-11-16T14:47:39.000Z",
+    "updatedAt": "2025-02-08T04:19:50.000Z"
+  },
+  {
+    "id": "tensorflow/lattice",
+    "name": "tensorflow/lattice",
+    "description": "Lattice methods in TensorFlow",
+    "topics": [],
+    "owner": {
+      "name": "tensorflow",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4"
+    },
+    "stars": 520,
+    "starsDetail": {
+      "total": 519,
+      "week": 0,
+      "month": 1,
+      "year": 5,
+      "updatedAt": 1736060195
+    },
+    "license": "Apache License 2.0",
+    "forks": 93,
+    "primaryLanguage": "Starlark",
+    "pushedAt": "2024-07-30T20:06:20.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-09-22T03:27:49.000Z",
+    "updatedAt": "2025-02-08T04:20:03.000Z"
+  },
+  {
+    "id": "zsdonghao/u-net-brain-tumor",
+    "name": "zsdonghao/u-net-brain-tumor",
+    "description": "U-Net Brain Tumor Segmentation",
+    "topics": [
+      "medical-imaging",
+      "tensorflow",
+      "tensorlayer",
+      "unet"
+    ],
+    "owner": {
+      "name": "zsdonghao",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10713581?v=4"
+    },
+    "stars": 509,
+    "starsDetail": {
+      "total": 507,
+      "week": 0,
+      "month": 1,
+      "year": 29,
+      "updatedAt": 1736060191
+    },
+    "license": null,
+    "forks": 180,
+    "primaryLanguage": "Python",
+    "pushedAt": "2019-08-17T21:55:15.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-06-05T16:17:51.000Z",
+    "updatedAt": "2025-02-08T04:19:56.000Z"
+  },
+  {
+    "id": "Conchylicultor/DeepQA",
+    "name": "Conchylicultor/DeepQA",
+    "description": "My tensorflow implementation of \"A neural conversational model\", a Deep learning based chatbot",
+    "topics": [
+      "chatbot",
+      "deep-learning",
+      "seq2seq",
+      "tensorflow"
+    ],
+    "owner": {
+      "name": "Conchylicultor",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9047355?v=4"
+    },
+    "stars": 2923,
+    "starsDetail": {
+      "total": 2924,
+      "week": 0,
+      "month": 0,
+      "year": 34,
+      "updatedAt": 1736060179
+    },
+    "license": "Apache License 2.0",
+    "forks": 1167,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2022-12-30T14:42:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-07-07T17:17:20.000Z",
+    "updatedAt": "2025-02-08T04:19:47.000Z"
+  },
+  {
+    "id": "amygdala/tensorflow-workshop",
+    "name": "amygdala/tensorflow-workshop",
+    "description": "This repo contains materials for use in a TensorFlow workshop.",
+    "topics": [],
+    "owner": {
+      "name": "amygdala",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/115093?v=4"
+    },
+    "stars": 633,
+    "starsDetail": {
+      "total": 633,
+      "week": 0,
+      "month": 0,
+      "year": 0,
+      "updatedAt": 1736060209
+    },
+    "license": "Apache License 2.0",
+    "forks": 265,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2018-08-16T21:01:17.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-05-05T15:48:07.000Z",
+    "updatedAt": "2025-02-08T04:20:07.000Z"
+  },
+  {
+    "id": "carpedm20/NTM-tensorflow",
+    "name": "carpedm20/NTM-tensorflow",
+    "description": "\"Neural Turing Machine\" in Tensorflow",
+    "topics": [
+      "neural-turing-machines",
+      "tensorflow"
+    ],
+    "owner": {
+      "name": "carpedm20",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3346407?v=4"
+    },
+    "stars": 1046,
+    "starsDetail": {
+      "total": 1047,
+      "week": 0,
+      "month": 0,
+      "year": 10,
+      "updatedAt": 1736060176
+    },
+    "license": "MIT License",
+    "forks": 213,
+    "primaryLanguage": "Python",
+    "pushedAt": "2017-05-18T06:31:02.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-12-09T14:22:21.000Z",
+    "updatedAt": "2025-02-08T04:19:46.000Z"
+  },
+  {
+    "id": "cysmith/neural-style-tf",
+    "name": "cysmith/neural-style-tf",
+    "description": "TensorFlow (Python API) implementation of Neural Style",
+    "topics": [
+      "convolutional-neural-network",
+      "deep-learning",
+      "style-transfer",
+      "tensorflow"
+    ],
+    "owner": {
+      "name": "cysmith",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9257969?v=4"
+    },
+    "stars": 3102,
+    "starsDetail": {
+      "total": 3104,
+      "week": 0,
+      "month": 0,
+      "year": 41,
+      "updatedAt": 1736060174
+    },
+    "license": "GNU General Public License v3.0",
+    "forks": 825,
+    "primaryLanguage": "C++",
+    "pushedAt": "2020-12-24T19:45:09.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-10-08T20:42:56.000Z",
+    "updatedAt": "2025-02-08T04:19:43.000Z"
+  },
+  {
+    "id": "gliese581gg/YOLO_tensorflow",
+    "name": "gliese581gg/YOLO_tensorflow",
+    "description": "tensorflow implementation of 'YOLO : Real-Time Object Detection'",
+    "topics": [],
+    "owner": {
+      "name": "gliese581gg",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15100232?v=4"
+    },
+    "stars": 1721,
+    "starsDetail": {
+      "total": 1720,
+      "week": 0,
+      "month": 0,
+      "year": 14,
+      "updatedAt": 1736060193
+    },
+    "license": "Other",
+    "forks": 653,
+    "primaryLanguage": "Python",
+    "pushedAt": "2019-01-05T07:57:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-02-15T04:50:51.000Z",
+    "updatedAt": "2025-02-08T04:20:02.000Z"
+  },
+  {
+    "id": "google/prettytensor",
+    "name": "google/prettytensor",
+    "description": "Pretty Tensor: Fluent Networks in TensorFlow",
+    "topics": [],
+    "owner": {
+      "name": "google",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1342004?v=4"
+    },
+    "stars": 1233,
+    "starsDetail": {
+      "total": 1234,
+      "week": 0,
+      "month": 0,
+      "year": 4,
+      "updatedAt": 1736060174
+    },
+    "license": null,
+    "forks": 151,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2020-05-17T17:37:00.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-11-02T18:19:46.000Z",
+    "updatedAt": "2025-02-08T04:19:44.000Z"
+  },
+  {
+    "id": "hardmaru/write-rnn-tensorflow",
+    "name": "hardmaru/write-rnn-tensorflow",
+    "description": "Generative Handwriting using LSTM Mixture Density Network with TensorFlow",
+    "topics": [],
+    "owner": {
+      "name": "hardmaru",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6318110?v=4"
+    },
+    "stars": 700,
+    "starsDetail": {
+      "total": 700,
+      "week": 0,
+      "month": 0,
+      "year": 8,
+      "updatedAt": 1736060176
+    },
+    "license": null,
+    "forks": 165,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2018-02-10T08:17:23.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-12-12T08:12:18.000Z",
+    "updatedAt": "2025-02-08T04:19:46.000Z"
+  },
+  {
+    "id": "sjchoi86/Tensorflow-101",
+    "name": "sjchoi86/Tensorflow-101",
+    "description": "TensorFlow Tutorials",
+    "topics": [
+      "convolutional-neural-networks",
+      "recurrent-neural-networks",
+      "tensorflow-tutorials"
+    ],
+    "owner": {
+      "name": "sjchoi86",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14815269?v=4"
+    },
+    "stars": 2606,
+    "starsDetail": {
+      "total": 2606,
+      "week": 0,
+      "month": 0,
+      "year": 22,
+      "updatedAt": 1736060165
+    },
+    "license": "MIT License",
+    "forks": 749,
+    "primaryLanguage": "Python",
+    "pushedAt": "2020-03-23T06:50:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-05-09T15:12:05.000Z",
+    "updatedAt": "2025-02-08T04:19:40.000Z"
+  },
+  {
+    "id": "somaticio/tensorflow.rb",
+    "name": "somaticio/tensorflow.rb",
+    "description": "tensorflow for ruby",
+    "topics": [],
+    "owner": {
+      "name": "somaticio",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14168819?v=4"
+    },
+    "stars": 830,
+    "starsDetail": {
+      "total": 829,
+      "week": 0,
+      "month": 0,
+      "year": 7,
+      "updatedAt": 1736060196
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 63,
+    "primaryLanguage": "PureBasic",
+    "pushedAt": "2022-01-10T15:41:18.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-06-16T14:59:51.000Z",
+    "updatedAt": "2025-02-08T04:20:04.000Z"
+  },
+  {
+    "id": "taehoonlee/tensornets",
+    "name": "taehoonlee/tensornets",
+    "description": "High level network definitions with pre-trained weights in TensorFlow",
+    "topics": [
+      "deep-learning",
+      "densenet",
+      "efficientnet",
+      "faster-rcnn",
+      "inception",
+      "mobilenet",
+      "mobilenetv2",
+      "mobilenetv3",
+      "model",
+      "nasnet",
+      "object-detection",
+      "pnasnet",
+      "resnet",
+      "squeezenet",
+      "tensorflow",
+      "vgg",
+      "yolo",
+      "yolov2",
+      "yolov3",
+      "zoo"
+    ],
+    "owner": {
+      "name": "taehoonlee",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4445535?v=4"
+    },
+    "stars": 1003,
+    "starsDetail": {
+      "total": 1003,
+      "week": 0,
+      "month": 0,
+      "year": 2,
+      "updatedAt": 1736060192
+    },
+    "license": "MIT License",
+    "forks": 182,
+    "primaryLanguage": "Python",
+    "pushedAt": "2021-01-02T06:28:10.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-09-19T05:19:01.000Z",
+    "updatedAt": "2025-02-08T04:19:59.000Z"
+  },
+  {
+    "id": "tensorflow/skflow",
+    "name": "tensorflow/skflow",
+    "description": "Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning",
+    "topics": [],
+    "owner": {
+      "name": "tensorflow",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4"
+    },
+    "stars": 3176,
+    "starsDetail": {
+      "total": 3179,
+      "week": 0,
+      "month": 0,
+      "year": 11,
+      "updatedAt": 1736060194
+    },
+    "license": "Apache License 2.0",
+    "forks": 440,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2021-08-30T20:14:47.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-11-18T19:55:34.000Z",
+    "updatedAt": "2025-02-08T04:20:03.000Z"
+  },
+  {
+    "id": "tensorlayer/seq2seq-chatbot",
+    "name": "tensorlayer/seq2seq-chatbot",
+    "description": "Chatbot in 200 lines of code using TensorLayer",
+    "topics": [
+      "bot",
+      "chat",
+      "chatbot",
+      "corpus",
+      "lstm",
+      "nlp",
+      "python",
+      "rnn",
+      "tensorflow",
+      "tensorlayer"
+    ],
+    "owner": {
+      "name": "tensorlayer",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32261543?v=4"
+    },
+    "stars": 835,
+    "starsDetail": {
+      "total": 836,
+      "week": 0,
+      "month": 0,
+      "year": 9,
+      "updatedAt": 1736060177
+    },
+    "license": null,
+    "forks": 314,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2021-10-05T13:25:46.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-09-05T23:11:14.000Z",
+    "updatedAt": "2025-02-08T04:19:48.000Z"
+  },
+  {
+    "id": "Mazecreator/TensorFlow-SIRDS",
+    "name": "Mazecreator/TensorFlow-SIRDS",
+    "description": "Single Image Random Dot Stereogram for Tensorflow",
+    "topics": [
+      "3d-reconstruction",
+      "jupyter-notebook",
+      "python",
+      "stereogram-creator",
+      "stereogram-generator",
+      "tensorflow"
+    ],
+    "owner": {
+      "name": "Mazecreator",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18412448?v=4"
+    },
+    "stars": 6,
+    "starsDetail": {
+      "total": 6
+    },
+    "license": "Apache License 2.0",
+    "forks": 4,
+    "primaryLanguage": "Python",
+    "pushedAt": "2020-10-25T02:23:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-03-12T23:58:36.000Z",
+    "updatedAt": "2025-02-08T04:19:43.000Z"
+  },
+  {
+    "id": "Singularity42/VGAN-Tensorflow",
+    "name": "Singularity42/VGAN-Tensorflow",
+    "description": "Tensorflow Implementation of \"Generating Videos with Scene Dynamics\"",
+    "topics": [],
+    "owner": {
+      "name": "Singularity42",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28288044?v=4"
+    },
+    "stars": 15,
+    "starsDetail": {
+      "total": 15
+    },
+    "license": null,
+    "forks": 6,
+    "primaryLanguage": "Python",
+    "pushedAt": "2018-03-20T13:12:43.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-05-02T06:20:10.000Z",
+    "updatedAt": "2025-02-08T04:19:56.000Z"
+  },
+  {
+    "id": "agermanidis/thingscoop",
+    "name": "agermanidis/thingscoop",
+    "description": "Search and filter videos based on objects that appear in them using convolutional neural networks",
+    "topics": [],
+    "owner": {
+      "name": "agermanidis",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/600956?v=4"
+    },
+    "stars": 357,
+    "starsDetail": {
+      "total": 357
+    },
+    "license": "MIT License",
+    "forks": 60,
+    "primaryLanguage": "Python",
+    "pushedAt": "2016-05-11T16:26:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-07-28T23:48:15.000Z",
+    "updatedAt": "2025-02-08T04:19:47.000Z"
+  },
+  {
+    "id": "akosiorek/attend_infer_repeat",
+    "name": "akosiorek/attend_infer_repeat",
+    "description": "A Tensorfflow implementation of Attend, Infer, Repeat",
+    "topics": [
+      "attend-infer-repeat",
+      "attention",
+      "attention-mechanism",
+      "computer-graphics",
+      "computer-vision",
+      "generative-model",
+      "neural-networks",
+      "rnn",
+      "tensorflow",
+      "vae"
+    ],
+    "owner": {
+      "name": "akosiorek",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5015641?v=4"
+    },
+    "stars": 81,
+    "starsDetail": {
+      "total": 81
+    },
+    "license": "GNU General Public License v3.0",
+    "forks": 20,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2018-12-09T15:08:08.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-07-31T12:27:17.000Z",
+    "updatedAt": "2025-02-08T04:19:59.000Z"
+  },
+  {
+    "id": "akosiorek/hart",
+    "name": "akosiorek/hart",
+    "description": "Hierarchical Attentive Recurrent Tracking",
+    "topics": [
+      "attention-mechanism",
+      "kitti-dataset",
+      "neural-nets",
+      "object-tracking",
+      "rnn",
+      "tensorflow"
+    ],
+    "owner": {
+      "name": "akosiorek",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5015641?v=4"
+    },
+    "stars": 146,
+    "starsDetail": {
+      "total": 146
+    },
+    "license": "GNU General Public License v3.0",
+    "forks": 49,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2018-08-20T12:33:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-06-27T17:12:14.000Z",
+    "updatedAt": "2025-02-08T04:19:58.000Z"
+  },
+  {
+    "id": "apcode/tensorflow_fasttext",
+    "name": "apcode/tensorflow_fasttext",
+    "description": "Simple embedding based text classifier inspired by fastText, implemented in tensorflow",
+    "topics": [
+      "fasttext",
+      "language-identification",
+      "tensorflow",
+      "text-classifier"
+    ],
+    "owner": {
+      "name": "apcode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1490072?v=4"
+    },
+    "stars": 302,
+    "starsDetail": {
+      "total": 302
+    },
+    "license": "MIT License",
+    "forks": 91,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2018-07-18T23:12:33.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-06-17T23:15:26.000Z",
+    "updatedAt": "2025-02-08T04:20:00.000Z"
+  },
+  {
+    "id": "aymericdamien/TensorFlow-Examples",
+    "name": "aymericdamien/TensorFlow-Examples",
+    "description": "TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)",
+    "topics": [
+      "deep-learning",
+      "examples",
+      "machine-learning",
+      "python",
+      "tensorflow",
+      "tutorial"
+    ],
+    "owner": {
+      "name": "aymericdamien",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10386605?v=4"
+    },
+    "stars": 43507,
+    "starsDetail": {
+      "total": 43507
+    },
+    "license": "Other",
+    "forks": 14924,
+    "primaryLanguage": "Python",
+    "pushedAt": "2024-07-26T19:46:13.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-11-11T14:21:19.000Z",
+    "updatedAt": "2025-02-08T04:19:40.000Z"
+  },
+  {
+    "id": "ckmarkoh/neuralart_tensorflow",
+    "name": "ckmarkoh/neuralart_tensorflow",
+    "description": "Implementation of  \"A Neural Algorithm of Artistic Style\" by Tensorflow",
+    "topics": [],
+    "owner": {
+      "name": "ckmarkoh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3319364?v=4"
+    },
+    "stars": 496,
+    "starsDetail": {
+      "total": 496
+    },
+    "license": "MIT License",
+    "forks": 146,
+    "primaryLanguage": "Python",
+    "pushedAt": "2022-11-27T11:53:35.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-12-02T02:52:19.000Z",
+    "updatedAt": "2025-02-08T04:19:46.000Z"
+  },
+  {
+    "id": "denti/AlexNet3D",
+    "name": "denti/AlexNet3D",
+    "description": "This is implementation of AlexNet(2012) with 3D Convolution on TensorFlow (AlexNet 3D).",
+    "topics": [],
+    "owner": {
+      "name": "denti",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1257669?v=4"
+    },
+    "stars": 42,
+    "starsDetail": {
+      "total": 42
+    },
+    "license": "MIT License",
+    "forks": 13,
+    "primaryLanguage": "Python",
+    "pushedAt": "2018-02-09T14:33:45.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-01-25T11:21:14.000Z",
+    "updatedAt": "2025-02-08T04:19:45.000Z"
+  },
+  {
+    "id": "divamgupta/ladder_network_keras",
+    "name": "divamgupta/ladder_network_keras",
+    "description": "Semi-Supervised Learning with Ladder Networks in Keras. Get 98% test accuracy on MNIST with just 100 labeled examples ! ",
+    "topics": [],
+    "owner": {
+      "name": "divamgupta",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1890549?v=4"
+    },
+    "stars": 101,
+    "starsDetail": {
+      "total": 101
+    },
+    "license": null,
+    "forks": 34,
+    "primaryLanguage": "Python",
+    "pushedAt": "2021-04-30T09:58:08.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-02-22T20:01:18.000Z",
+    "updatedAt": "2025-02-08T04:20:00.000Z"
+  },
+  {
+    "id": "domluna/memn2n",
+    "name": "domluna/memn2n",
+    "description": "End-To-End Memory Network using Tensorflow",
+    "topics": [
+      "memory-networks",
+      "nlp",
+      "tensorflow"
+    ],
+    "owner": {
+      "name": "domluna",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1907223?v=4"
+    },
+    "stars": 341,
+    "starsDetail": {
+      "total": 341
+    },
+    "license": "MIT License",
+    "forks": 134,
+    "primaryLanguage": "Python",
+    "pushedAt": "2017-02-17T16:46:57.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-11-30T18:16:37.000Z",
+    "updatedAt": "2025-02-08T04:19:54.000Z"
+  },
+  {
+    "id": "dwiel/tensorflow_hmm",
+    "name": "dwiel/tensorflow_hmm",
+    "description": "A tensorflow implementation of an HMM layer",
+    "topics": [
+      "hmm",
+      "tensorflow",
+      "tensorflow-hmm",
+      "viterbi"
+    ],
+    "owner": {
+      "name": "dwiel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29542?v=4"
+    },
+    "stars": 287,
+    "starsDetail": {
+      "total": 287
+    },
+    "license": "Apache License 2.0",
+    "forks": 81,
+    "primaryLanguage": "Python",
+    "pushedAt": "2018-01-23T18:11:27.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-03-13T03:00:15.000Z",
+    "updatedAt": "2025-02-08T04:19:51.000Z"
+  },
+  {
+    "id": "fomorians/highway-cnn",
+    "name": "fomorians/highway-cnn",
+    "description": "Simple convolutional highway networks using TensorFlow.",
+    "topics": [],
+    "owner": {
+      "name": "fomorians",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13500863?v=4"
+    },
+    "stars": 56,
+    "starsDetail": {
+      "total": 56
+    },
+    "license": null,
+    "forks": 20,
+    "primaryLanguage": "Python",
+    "pushedAt": "2016-09-18T22:27:07.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-03-21T18:08:55.000Z",
+    "updatedAt": "2025-02-08T04:19:53.000Z"
+  },
+  {
+    "id": "jazzsaxmafia/Weakly_detector",
+    "name": "jazzsaxmafia/Weakly_detector",
+    "description": "Tensorflow implementation of \"Learning Deep Features for Discriminative Localization\"",
+    "topics": [],
+    "owner": {
+      "name": "jazzsaxmafia",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8408608?v=4"
+    },
+    "stars": 361,
+    "starsDetail": {
+      "total": 361
+    },
+    "license": null,
+    "forks": 87,
+    "primaryLanguage": "Python",
+    "pushedAt": "2017-07-29T16:58:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-04-09T04:51:08.000Z",
+    "updatedAt": "2025-02-08T04:19:50.000Z"
+  },
+  {
+    "id": "jazzsaxmafia/dcn.tf",
+    "name": "jazzsaxmafia/dcn.tf",
+    "description": "Dynamic Capacity Networks using Tensorflow",
+    "topics": [],
+    "owner": {
+      "name": "jazzsaxmafia",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8408608?v=4"
+    },
+    "stars": 9,
+    "starsDetail": {
+      "total": 9
+    },
+    "license": null,
+    "forks": 3,
+    "primaryLanguage": "Python",
+    "pushedAt": "2016-05-03T10:29:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-05-04T00:33:00.000Z",
+    "updatedAt": "2025-02-08T04:19:50.000Z"
+  },
+  {
+    "id": "jjkke88/RL_toolbox",
+    "name": "jjkke88/RL_toolbox",
+    "description": "reinfore learning tool box, contains trpo, a3c algorithm for continous action space",
+    "topics": [],
+    "owner": {
+      "name": "jjkke88",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5785746?v=4"
+    },
+    "stars": 42,
+    "starsDetail": {
+      "total": 42
+    },
+    "license": "MIT License",
+    "forks": 8,
+    "primaryLanguage": "Python",
+    "pushedAt": "2018-01-27T03:40:32.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-01-08T10:43:37.000Z",
+    "updatedAt": "2025-02-08T04:19:53.000Z"
+  },
+  {
+    "id": "jtoy/awesome",
+    "name": "jtoy/awesome",
+    "description": "A curated list of awesome lists",
+    "topics": [],
+    "owner": {
+      "name": "jtoy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14783?v=4"
+    },
+    "stars": 148,
+    "starsDetail": {
+      "total": 148
+    },
+    "license": null,
+    "forks": 26,
+    "primaryLanguage": "",
+    "pushedAt": "2016-10-03T04:03:42.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-04-12T08:50:16.000Z",
+    "updatedAt": "2025-02-08T04:19:39.000Z"
+  },
+  {
+    "id": "juniorxsound/TF-Unet",
+    "name": "juniorxsound/TF-Unet",
+    "description": "🗺 General purpose U-Network implemented in Keras for image segmentation",
+    "topics": [
+      "cnn",
+      "cv",
+      "dnn",
+      "tensorflow",
+      "unet"
+    ],
+    "owner": {
+      "name": "juniorxsound",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15909884?v=4"
+    },
+    "stars": 2,
+    "starsDetail": {
+      "total": 2
+    },
+    "license": "Apache License 2.0",
+    "forks": 1,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2019-11-09T00:10:36.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-08-14T14:09:28.000Z",
+    "updatedAt": "2025-02-08T04:20:01.000Z"
+  },
+  {
+    "id": "laxatives/TensorFlow-TransX",
+    "name": "laxatives/TensorFlow-TransX",
+    "description": "Project moved!",
+    "topics": [],
+    "owner": {
+      "name": "laxatives",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16109646?v=4"
+    },
+    "stars": 0,
+    "starsDetail": {
+      "total": 0
+    },
+    "license": null,
+    "forks": 0,
+    "primaryLanguage": "",
+    "pushedAt": "2017-10-24T01:46:57.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-10-24T01:46:24.000Z",
+    "updatedAt": "2025-02-08T04:19:58.000Z"
+  },
+  {
+    "id": "luoxier/CycleGAN_Tensorlayer",
+    "name": "luoxier/CycleGAN_Tensorlayer",
+    "description": "Re-implement CycleGAN in Tensorlayer",
+    "topics": [
+      "cyclegan",
+      "gan",
+      "resize-convolution",
+      "tensorlayer"
+    ],
+    "owner": {
+      "name": "luoxier",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5254259?v=4"
+    },
+    "stars": 89,
+    "starsDetail": {
+      "total": 89
+    },
+    "license": "MIT License",
+    "forks": 25,
+    "primaryLanguage": "Python",
+    "pushedAt": "2018-07-16T08:30:50.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-09-22T15:26:11.000Z",
+    "updatedAt": "2025-02-08T04:19:49.000Z"
+  },
+  {
+    "id": "mortendahl/tf-encrypted",
+    "name": "mortendahl/tf-encrypted",
+    "description": "A Framework for Encrypted Machine Learning in TensorFlow",
+    "topics": [],
+    "owner": {
+      "name": "mortendahl",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5921097?v=4"
+    },
+    "stars": 3,
+    "starsDetail": {
+      "total": 3
+    },
+    "license": "Apache License 2.0",
+    "forks": 0,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2022-06-09T07:09:24.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-06-09T16:49:11.000Z",
+    "updatedAt": "2025-02-08T04:20:05.000Z"
+  },
+  {
+    "id": "radi-cho/create-tf-app",
+    "name": "radi-cho/create-tf-app",
+    "description": "Set up and maintain a machine learning project in Tensorflow with a single script.",
+    "topics": [
+      "cli",
+      "machine-learning",
+      "shell-script",
+      "tensorflow"
+    ],
+    "owner": {
+      "name": "radi-cho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12954909?v=4"
+    },
+    "stars": 4,
+    "starsDetail": {
+      "total": 4
+    },
+    "license": "MIT License",
+    "forks": 1,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2022-12-24T10:24:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-12-19T20:51:27.000Z",
+    "updatedAt": "2025-02-08T04:20:07.000Z"
+  },
+  {
+    "id": "samjabrahams/tensorflow-white-paper-notes",
+    "name": "samjabrahams/tensorflow-white-paper-notes",
+    "description": "Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation",
+    "topics": [],
+    "owner": {
+      "name": "samjabrahams",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11607205?v=4"
+    },
+    "stars": 438,
+    "starsDetail": {
+      "total": 438
+    },
+    "license": "MIT License",
+    "forks": 61,
+    "primaryLanguage": "",
+    "pushedAt": "2018-12-18T23:07:47.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-12-28T11:13:59.000Z",
+    "updatedAt": "2025-02-08T04:19:45.000Z"
+  },
+  {
+    "id": "sarus-tech/tf2-published-models",
+    "name": "sarus-tech/tf2-published-models",
+    "description": "Sarus implementation of classical ML models. The models are implemented using the Keras API of tensorflow 2. Vizualization are implemented and can be seen in tensorboard.",
+    "topics": [
+      "ai",
+      "generative-model",
+      "keras",
+      "tensorflow",
+      "tensorflow2"
+    ],
+    "owner": {
+      "name": "sarus-tech",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/66689347?v=4"
+    },
+    "stars": 38,
+    "starsDetail": {
+      "total": 38
+    },
+    "license": "Apache License 2.0",
+    "forks": 6,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2021-09-23T07:51:25.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-07-06T14:20:41.000Z",
+    "updatedAt": "2025-02-08T04:20:01.000Z"
+  },
+  {
+    "id": "stjordanis/gluon2keras",
+    "name": "stjordanis/gluon2keras",
+    "description": "Gluon to Keras deep neural network model converter",
+    "topics": [],
+    "owner": {
+      "name": "stjordanis",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4212985?v=4"
+    },
+    "stars": 0,
+    "starsDetail": {
+      "total": 0
+    },
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Python",
+    "pushedAt": "2018-12-23T22:13:50.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-01-30T15:45:16.000Z",
+    "updatedAt": "2025-02-08T04:20:06.000Z"
+  },
+  {
+    "id": "tensorflow/models",
+    "name": "tensorflow/models",
+    "description": "Models and examples built with TensorFlow",
+    "topics": [],
+    "owner": {
+      "name": "tensorflow",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4"
+    },
+    "stars": 77347,
+    "starsDetail": {
+      "total": 77347
+    },
+    "license": "Other",
+    "forks": 45693,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2025-02-07T20:53:46.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-02-05T01:15:20.000Z",
+    "updatedAt": "2025-02-08T04:20:04.000Z"
+  },
+  {
+    "id": "tokestermw/tensorflow-shakespeare",
+    "name": "tokestermw/tensorflow-shakespeare",
+    "description": "Neural machine translation between the writings of Shakespeare and modern English using TensorFlow",
+    "topics": [
+      "neural-machine-translation",
+      "seq2seq",
+      "shakespeare",
+      "tensorflow"
+    ],
+    "owner": {
+      "name": "tokestermw",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4722119?v=4"
+    },
+    "stars": 249,
+    "starsDetail": {
+      "total": 249
+    },
+    "license": "Apache License 2.0",
+    "forks": 59,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2022-12-11T00:42:28.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-11-17T05:58:21.000Z",
+    "updatedAt": "2025-02-08T04:19:47.000Z"
+  },
+  {
+    "id": "tqtg/hierarchical-attention-networks",
+    "name": "tqtg/hierarchical-attention-networks",
+    "description": " TensorFlow implementation of the paper \"Hierarchical Attention Networks for Document Classification\"",
+    "topics": [
+      "attention-mechanism",
+      "document-classification",
+      "hierarchical-attention-networks",
+      "sentiment-analysis",
+      "tensorflow",
+      "text-classification"
+    ],
+    "owner": {
+      "name": "tqtg",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6743100?v=4"
+    },
+    "stars": 87,
+    "starsDetail": {
+      "total": 87
+    },
+    "license": "MIT License",
+    "forks": 25,
+    "primaryLanguage": "Python",
+    "pushedAt": "2019-05-28T04:14:14.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-11-30T03:50:04.000Z",
+    "updatedAt": "2025-02-08T04:19:53.000Z"
+  },
+  {
+    "id": "trigeorgis/mdm",
+    "name": "trigeorgis/mdm",
+    "description": "A TensorFlow implementation of the Mnemonic Descent Method.",
+    "topics": [
+      "deep-learning",
+      "face",
+      "face-alignment",
+      "mdm",
+      "menpo",
+      "pretrained-models",
+      "snapchat",
+      "tensorflow"
+    ],
+    "owner": {
+      "name": "trigeorgis",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/364193?v=4"
+    },
+    "stars": 124,
+    "starsDetail": {
+      "total": 124
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 48,
+    "primaryLanguage": "Python",
+    "pushedAt": "2022-05-21T17:31:33.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-06-30T22:20:13.000Z",
+    "updatedAt": "2025-02-08T04:19:56.000Z"
+  },
+  {
+    "id": "ugo-nama-kun/gym_torcs",
+    "name": "ugo-nama-kun/gym_torcs",
+    "description": "",
+    "topics": [],
+    "owner": {
+      "name": "ugo-nama-kun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1684732?v=4"
+    },
+    "stars": 409,
+    "starsDetail": {
+      "total": 409
+    },
+    "license": "MIT License",
+    "forks": 163,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2018-03-21T14:43:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-05-27T02:39:20.000Z",
+    "updatedAt": "2025-02-08T04:19:53.000Z"
+  },
+  {
+    "id": "welschma/NNFlow",
+    "name": "welschma/NNFlow",
+    "description": "",
+    "topics": [],
+    "owner": {
+      "name": "welschma",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19416480?v=4"
+    },
+    "stars": 7,
+    "starsDetail": {
+      "total": 7
+    },
+    "license": null,
+    "forks": 6,
+    "primaryLanguage": "Python",
+    "pushedAt": "2021-03-24T08:14:42.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-01-18T13:48:29.000Z",
+    "updatedAt": "2025-02-08T04:20:05.000Z"
+  },
+  {
+    "id": "zsdonghao/Imitation-Learning-Dagger-Torcs",
+    "name": "zsdonghao/Imitation-Learning-Dagger-Torcs",
+    "description": "A Simple Example for Imitation Learning with Dataset Aggregation (DAGGER) on Torcs Env",
+    "topics": [
+      "dagger",
+      "gym-torcs",
+      "imitation-learning",
+      "tensorflow",
+      "tensorflow-tutorials",
+      "tensorlayer",
+      "torcs",
+      "torcs-env"
+    ],
+    "owner": {
+      "name": "zsdonghao",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10713581?v=4"
+    },
+    "stars": 70,
+    "starsDetail": {
+      "total": 70
+    },
+    "license": null,
+    "forks": 28,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2017-08-10T19:42:20.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-08-10T17:33:43.000Z",
+    "updatedAt": "2025-02-08T04:19:52.000Z"
+  },
+  {
+    "id": "zsdonghao/Spatial-Transformer-Nets",
+    "name": "zsdonghao/Spatial-Transformer-Nets",
+    "description": "Spatial Transformer Nets in TensorFlow/ TensorLayer",
+    "topics": [
+      "cnn",
+      "deep-learning",
+      "spatial-transformer-network",
+      "tensorflow",
+      "tensorflow-tutorials",
+      "tensorlayer"
+    ],
+    "owner": {
+      "name": "zsdonghao",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10713581?v=4"
+    },
+    "stars": 36,
+    "starsDetail": {
+      "total": 36
+    },
+    "license": null,
+    "forks": 6,
+    "primaryLanguage": "Python",
+    "pushedAt": "2019-06-17T06:50:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-06-23T14:28:55.000Z",
+    "updatedAt": "2025-02-08T04:19:57.000Z"
+  },
+  {
+    "id": "zsdonghao/Unsup-Im2Im",
+    "name": "zsdonghao/Unsup-Im2Im",
+    "description": "Unsupervised Image to Image Translation with Generative Adversarial Networks",
+    "topics": [
+      "deep-learning",
+      "gan",
+      "generative-adversarial-network",
+      "image-to-image",
+      "tensorflow",
+      "tensorlayer"
+    ],
+    "owner": {
+      "name": "zsdonghao",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10713581?v=4"
+    },
+    "stars": 72,
+    "starsDetail": {
+      "total": 72
+    },
+    "license": null,
+    "forks": 16,
+    "primaryLanguage": "Python",
+    "pushedAt": "2020-07-19T03:13:26.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-12-17T14:46:12.000Z",
+    "updatedAt": "2025-02-08T04:19:49.000Z"
+  }
+]

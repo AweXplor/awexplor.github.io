@@ -1,0 +1,6565 @@
+[
+  {
+    "id": "monicahq/monica",
+    "name": "monicahq/monica",
+    "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
+    "topics": [
+      "crm",
+      "family",
+      "friends",
+      "hacktoberfest",
+      "laravel",
+      "php",
+      "prm",
+      "social"
+    ],
+    "owner": {
+      "name": "monicahq",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25832602?v=4"
+    },
+    "stars": 22146,
+    "starsDetail": {
+      "total": 21962,
+      "week": 31,
+      "month": [
+        219,
+        218,
+        1733382549
+      ],
+      "year": 2095,
+      "updatedAt": 1736060956
+    },
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 2213,
+    "primaryLanguage": "PLpgSQL",
+    "pushedAt": "2025-02-06T08:20:17.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-02-17T00:02:58.000Z",
+    "updatedAt": "2025-02-08T04:35:02.000Z"
+  },
+  {
+    "id": "snipe/snipe-it",
+    "name": "snipe/snipe-it",
+    "description": "A free open source IT asset/license management system",
+    "topics": [
+      "asset-management",
+      "asset-manager",
+      "assets-management",
+      "itam",
+      "license-management"
+    ],
+    "owner": {
+      "name": "snipe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/197404?v=4"
+    },
+    "stars": 11619,
+    "starsDetail": {
+      "total": 11398,
+      "week": 31,
+      "month": [
+        113,
+        112,
+        1733382549
+      ],
+      "year": 2581,
+      "updatedAt": 1736060956
+    },
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 3286,
+    "primaryLanguage": "Procfile",
+    "pushedAt": "2025-02-06T13:30:53.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-11-12T22:25:47.000Z",
+    "updatedAt": "2025-02-08T04:35:03.000Z"
+  },
+  {
+    "id": "invoiceninja/invoiceninja",
+    "name": "invoiceninja/invoiceninja",
+    "description": "A source-available invoice, quote, project and time-tracking app built with Laravel",
+    "topics": [
+      "einvoicing",
+      "expenses",
+      "flutter",
+      "hacktoberfest",
+      "invoice",
+      "invoiceninja",
+      "invoices",
+      "javascript",
+      "kanban",
+      "laravel",
+      "payments",
+      "php",
+      "projects",
+      "quotes",
+      "tasks",
+      "time-tracker"
+    ],
+    "owner": {
+      "name": "invoiceninja",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15712270?v=4"
+    },
+    "stars": 8554,
+    "starsDetail": {
+      "total": 8430,
+      "week": 18,
+      "month": 97,
+      "year": 1095,
+      "updatedAt": 1736060944
+    },
+    "license": "Other",
+    "forks": 2323,
+    "primaryLanguage": "TypeScript",
+    "pushedAt": "2025-02-05T05:18:55.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-11-26T12:30:05.000Z",
+    "updatedAt": "2025-02-08T04:35:01.000Z"
+  },
+  {
+    "id": "cpriego/valet-linux",
+    "name": "cpriego/valet-linux",
+    "description": "A fork of Laravel Valet to work in Linux.",
+    "topics": [
+      "arch-linux",
+      "fedora",
+      "laravel",
+      "linux",
+      "ubuntu",
+      "valet"
+    ],
+    "owner": {
+      "name": "cpriego",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6462826?v=4"
+    },
+    "stars": 1370,
+    "starsDetail": {
+      "total": 1363,
+      "week": 4,
+      "month": 9,
+      "year": 85,
+      "updatedAt": 1736060917
+    },
+    "license": "MIT License",
+    "forks": 161,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2025-02-04T09:35:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-05-14T17:15:54.000Z",
+    "updatedAt": "2025-02-08T04:34:55.000Z"
+  },
+  {
+    "id": "laravel/scout",
+    "name": "laravel/scout",
+    "description": "Laravel Scout provides a driver based solution to searching your Eloquent models.",
+    "topics": [
+      "algolia",
+      "laravel",
+      "meilisearch",
+      "search"
+    ],
+    "owner": {
+      "name": "laravel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/958072?v=4"
+    },
+    "stars": 1586,
+    "starsDetail": {
+      "total": 1580,
+      "week": 1,
+      "month": 9,
+      "year": 140,
+      "updatedAt": 1736060884
+    },
+    "license": "MIT License",
+    "forks": 342,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2025-02-07T14:58:29.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-06-29T22:11:40.000Z",
+    "updatedAt": "2025-02-08T04:34:44.000Z"
+  },
+  {
+    "id": "saleem-hadad/larecipe",
+    "name": "saleem-hadad/larecipe",
+    "description": "✏️ Write and ship beautiful documentation with your Laravel applications using MarkDown",
+    "topics": [
+      "api-docs",
+      "docs",
+      "documentation",
+      "laravel",
+      "laravel-docs",
+      "larecipe"
+    ],
+    "owner": {
+      "name": "saleem-hadad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12780866?v=4"
+    },
+    "stars": 2428,
+    "starsDetail": {
+      "total": 2424,
+      "week": 0,
+      "month": 9,
+      "year": 186,
+      "updatedAt": 1736060769
+    },
+    "license": "MIT License",
+    "forks": 263,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2025-02-05T21:23:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-07-29T18:59:25.000Z",
+    "updatedAt": "2025-02-08T04:34:04.000Z"
+  },
+  {
+    "id": "spatie/laravel-cookie-consent",
+    "name": "spatie/laravel-cookie-consent",
+    "description": "Make your Laravel app comply with the crazy EU cookie law",
+    "topics": [
+      "cookie",
+      "eu",
+      "javascript",
+      "laravel",
+      "php"
+    ],
+    "owner": {
+      "name": "spatie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
+    },
+    "stars": 1423,
+    "starsDetail": {
+      "total": 1413,
+      "week": 1,
+      "month": 9,
+      "year": 123,
+      "updatedAt": 1736060809
+    },
+    "license": "MIT License",
+    "forks": 142,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2025-01-06T09:33:19.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-06-27T12:42:31.000Z",
+    "updatedAt": "2025-02-08T04:34:19.000Z"
+  },
+  {
+    "id": "yajra/laravel-datatables",
+    "name": "yajra/laravel-datatables",
+    "description": "jQuery DataTables API for Laravel",
+    "topics": [
+      "datatables",
+      "hacktoberfest",
+      "jquery",
+      "jquery-datatables",
+      "laravel",
+      "laravel-datatables",
+      "php"
+    ],
+    "owner": {
+      "name": "yajra",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2687997?v=4"
+    },
+    "stars": 4781,
+    "starsDetail": {
+      "total": 4777,
+      "week": 0,
+      "month": 9,
+      "year": 189,
+      "updatedAt": 1736060809
+    },
+    "license": "MIT License",
+    "forks": 859,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2025-01-21T03:16:01.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-11-27T02:31:18.000Z",
+    "updatedAt": "2025-02-08T04:34:19.000Z"
+  },
+  {
+    "id": "livewire/livewire",
+    "name": "livewire/livewire",
+    "description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+    "topics": [],
+    "owner": {
+      "name": "livewire",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51960834?v=4"
+    },
+    "stars": 22627,
+    "starsDetail": {
+      "total": 22540,
+      "week": 16,
+      "month": 89,
+      "year": 1686,
+      "updatedAt": 1736060868
+    },
+    "license": "MIT License",
+    "forks": 1593,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-01-30T15:09:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-02-12T16:53:29.000Z",
+    "updatedAt": "2025-02-08T04:34:35.000Z"
+  },
+  {
+    "id": "LaravelCollective/html",
+    "name": "LaravelCollective/html",
+    "description": "HTML and Form Builders for the Laravel Framework",
+    "topics": [],
+    "owner": {
+      "name": "LaravelCollective",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10841098?v=4"
+    },
+    "stars": 4006,
+    "starsDetail": {
+      "total": 4003,
+      "week": 2,
+      "month": 8,
+      "year": 82,
+      "updatedAt": 1736060799
+    },
+    "license": "MIT License",
+    "forks": 852,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-07-16T12:39:50.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-02-05T17:02:48.000Z",
+    "updatedAt": "2025-02-08T04:34:17.000Z"
+  },
+  {
+    "id": "Xethron/migrations-generator",
+    "name": "Xethron/migrations-generator",
+    "description": "Laravel Migrations Generator: Automatically generate your migrations from an existing database schema.",
+    "topics": [
+      "existing-database",
+      "laravel-migration",
+      "php"
+    ],
+    "owner": {
+      "name": "Xethron",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1497338?v=4"
+    },
+    "stars": 3340,
+    "starsDetail": {
+      "total": 3337,
+      "week": 2,
+      "month": 8,
+      "year": 42,
+      "updatedAt": 1736060874
+    },
+    "license": "MIT License",
+    "forks": 580,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2023-02-17T05:44:18.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-03-17T16:45:14.000Z",
+    "updatedAt": "2025-02-08T04:34:38.000Z"
+  },
+  {
+    "id": "orangehill/iseed",
+    "name": "orangehill/iseed",
+    "description": "Laravel Inverse Seed Generator",
+    "topics": [],
+    "owner": {
+      "name": "orangehill",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5024746?v=4"
+    },
+    "stars": 2812,
+    "starsDetail": {
+      "total": 2789,
+      "week": 0,
+      "month": 8,
+      "year": 143,
+      "updatedAt": 1736060869
+    },
+    "license": "BSD 2-Clause \"Simplified\" License",
+    "forks": 388,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-07-31T11:49:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-07-17T13:05:30.000Z",
+    "updatedAt": "2025-02-08T04:34:37.000Z"
+  },
+  {
+    "id": "spatie/laravel-menu",
+    "name": "spatie/laravel-menu",
+    "description": "Html menu generator for Laravel",
+    "topics": [
+      "generate",
+      "html",
+      "laravel",
+      "menu",
+      "navigation",
+      "php"
+    ],
+    "owner": {
+      "name": "spatie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
+    },
+    "stars": 941,
+    "starsDetail": {
+      "total": 933,
+      "week": 3,
+      "month": 8,
+      "year": 80,
+      "updatedAt": 1736060816
+    },
+    "license": "MIT License",
+    "forks": 82,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2024-02-27T12:09:31.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-02-22T19:35:39.000Z",
+    "updatedAt": "2025-02-08T04:34:21.000Z"
+  },
+  {
+    "id": "alexeymezenin/laravel-best-practices",
+    "name": "alexeymezenin/laravel-best-practices",
+    "description": "Laravel best practices",
+    "topics": [
+      "best-practices",
+      "laravel"
+    ],
+    "owner": {
+      "name": "alexeymezenin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4699969?v=4"
+    },
+    "stars": 11641,
+    "starsDetail": {
+      "total": 11514,
+      "week": [
+        116,
+        115,
+        1735456121
+      ],
+      "month": 76,
+      "year": 1296,
+      "updatedAt": 1736060926
+    },
+    "license": null,
+    "forks": 2401,
+    "primaryLanguage": "",
+    "pushedAt": "2024-09-16T09:38:56.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-10-25T07:02:44.000Z",
+    "updatedAt": "2025-02-08T04:34:56.000Z"
+  },
+  {
+    "id": "andersao/l5-repository",
+    "name": "andersao/l5-repository",
+    "description": "Laravel 5 - Repositories to abstract the database layer",
+    "topics": [],
+    "owner": {
+      "name": "andersao",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1131667?v=4"
+    },
+    "stars": 4205,
+    "starsDetail": {
+      "total": 4198,
+      "week": 1,
+      "month": 7,
+      "year": 112,
+      "updatedAt": 1736060878
+    },
+    "license": "MIT License",
+    "forks": 881,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-05-27T06:01:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-02-12T17:07:54.000Z",
+    "updatedAt": "2025-02-08T04:34:39.000Z"
+  },
+  {
+    "id": "antonioribeiro/tracker",
+    "name": "antonioribeiro/tracker",
+    "description": "Laravel Stats Tracker",
+    "topics": [
+      "laravel",
+      "logging",
+      "mobile-detection",
+      "php",
+      "stats",
+      "tracking",
+      "user-tracker",
+      "visitor"
+    ],
+    "owner": {
+      "name": "antonioribeiro",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3182864?v=4"
+    },
+    "stars": 2907,
+    "starsDetail": {
+      "total": 2904,
+      "week": [
+        30,
+        29,
+        1735456018
+      ],
+      "month": 7,
+      "year": 95,
+      "updatedAt": 1736060821
+    },
+    "license": "MIT License",
+    "forks": 595,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2024-01-19T08:11:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-01-17T10:27:18.000Z",
+    "updatedAt": "2025-02-08T04:34:23.000Z"
+  },
+  {
+    "id": "clarkeash/doorman",
+    "name": "clarkeash/doorman",
+    "description": "Limit access to your Laravel applications by using invite codes",
+    "topics": [
+      "doorman",
+      "invite",
+      "laravel",
+      "laravel-package",
+      "php"
+    ],
+    "owner": {
+      "name": "clarkeash",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1612186?v=4"
+    },
+    "stars": 1029,
+    "starsDetail": {
+      "total": 1029,
+      "week": 0,
+      "month": 7,
+      "year": 33,
+      "updatedAt": 1736060791
+    },
+    "license": "MIT License",
+    "forks": 45,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-03-25T22:01:33.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-04-05T17:53:41.000Z",
+    "updatedAt": "2025-02-08T04:34:13.000Z"
+  },
+  {
+    "id": "cmgmyr/laravel-messenger",
+    "name": "cmgmyr/laravel-messenger",
+    "description": "Simple user messaging package for Laravel",
+    "topics": [
+      "composer",
+      "composer-packages",
+      "hacktoberfest",
+      "laravel",
+      "laravel-messenger",
+      "messenger",
+      "package",
+      "php"
+    ],
+    "owner": {
+      "name": "cmgmyr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4693481?v=4"
+    },
+    "stars": 2488,
+    "starsDetail": {
+      "total": 2476,
+      "week": 0,
+      "month": 7,
+      "year": 105,
+      "updatedAt": 1736060817
+    },
+    "license": "MIT License",
+    "forks": 520,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-03-18T02:19:12.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-10-29T17:39:44.000Z",
+    "updatedAt": "2025-02-08T04:34:22.000Z"
+  },
+  {
+    "id": "laravel/envoy",
+    "name": "laravel/envoy",
+    "description": "Elegant SSH tasks for PHP.",
+    "topics": [
+      "laravel",
+      "ssh"
+    ],
+    "owner": {
+      "name": "laravel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/958072?v=4"
+    },
+    "stars": 1586,
+    "starsDetail": {
+      "total": 1583,
+      "week": 2,
+      "month": 7,
+      "year": 56,
+      "updatedAt": 1736060892
+    },
+    "license": "MIT License",
+    "forks": 177,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2025-01-28T15:47:50.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-02-08T18:43:03.000Z",
+    "updatedAt": "2025-02-08T04:34:47.000Z"
+  },
+  {
+    "id": "mpociot/laravel-apidoc-generator",
+    "name": "mpociot/laravel-apidoc-generator",
+    "description": "Laravel API Documentation Generator",
+    "topics": [
+      "laravel",
+      "postman"
+    ],
+    "owner": {
+      "name": "mpociot",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/804684?v=4"
+    },
+    "stars": 3452,
+    "starsDetail": {
+      "total": 3447,
+      "week": 2,
+      "month": 7,
+      "year": 67,
+      "updatedAt": 1736060765
+    },
+    "license": "MIT License",
+    "forks": 610,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2024-05-23T12:14:27.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-05-03T20:20:16.000Z",
+    "updatedAt": "2025-02-08T04:34:03.000Z"
+  },
+  {
+    "id": "rap2hpoutre/laravel-log-viewer",
+    "name": "rap2hpoutre/laravel-log-viewer",
+    "description": ":dromedary_camel: Laravel log viewer",
+    "topics": [
+      "hacktoberfest",
+      "laravel",
+      "laravel-log-viewer",
+      "log",
+      "log-viewer",
+      "lumen",
+      "php"
+    ],
+    "owner": {
+      "name": "rap2hpoutre",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1575946?v=4"
+    },
+    "stars": 3154,
+    "starsDetail": {
+      "total": 3152,
+      "week": 1,
+      "month": 7,
+      "year": 103,
+      "updatedAt": 1736060776
+    },
+    "license": "MIT License",
+    "forks": 375,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2024-03-20T08:51:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-11-23T12:12:09.000Z",
+    "updatedAt": "2025-02-08T04:34:06.000Z"
+  },
+  {
+    "id": "spatie/eloquent-sortable",
+    "name": "spatie/eloquent-sortable",
+    "description": "Sortable behaviour for Eloquent models",
+    "topics": [
+      "eloquent",
+      "laravel",
+      "php",
+      "sort",
+      "trait"
+    ],
+    "owner": {
+      "name": "spatie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
+    },
+    "stars": 1430,
+    "starsDetail": {
+      "total": 1419,
+      "week": 3,
+      "month": 7,
+      "year": 131,
+      "updatedAt": 1736060799
+    },
+    "license": "MIT License",
+    "forks": 139,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2025-01-27T17:25:40.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-07-15T15:58:10.000Z",
+    "updatedAt": "2025-02-08T04:34:17.000Z"
+  },
+  {
+    "id": "akaunting/akaunting",
+    "name": "akaunting/akaunting",
+    "description": "Online Accounting Software",
+    "topics": [
+      "accounting",
+      "akaunting",
+      "balance",
+      "billing",
+      "bookkeeping",
+      "budget",
+      "crm",
+      "erp",
+      "expenses",
+      "finance",
+      "fintech",
+      "invoices",
+      "invoicing",
+      "laravel",
+      "laravel-application",
+      "money",
+      "payments",
+      "payroll",
+      "php"
+    ],
+    "owner": {
+      "name": "akaunting",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26357771?v=4"
+    },
+    "stars": 8343,
+    "starsDetail": {
+      "total": 8228,
+      "week": 18,
+      "month": 67,
+      "year": 1308,
+      "updatedAt": 1736035617
+    },
+    "license": "Other",
+    "forks": 2518,
+    "primaryLanguage": "Vue",
+    "pushedAt": "2025-02-08T00:25:42.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-06-21T14:17:56.000Z",
+    "updatedAt": "2025-02-08T03:50:38.000Z"
+  },
+  {
+    "id": "barryvdh/laravel-ide-helper",
+    "name": "barryvdh/laravel-ide-helper",
+    "description": "IDE Helper for Laravel",
+    "topics": [
+      "autocompletion",
+      "hacktoberfest",
+      "laravel"
+    ],
+    "owner": {
+      "name": "barryvdh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/973269?v=4"
+    },
+    "stars": 14373,
+    "starsDetail": {
+      "total": 14314,
+      "week": [
+        144,
+        143,
+        1735455957
+      ],
+      "month": 67,
+      "year": 866,
+      "updatedAt": 1736060762
+    },
+    "license": "MIT License",
+    "forks": 1175,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2025-02-04T16:49:43.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-03-10T00:12:55.000Z",
+    "updatedAt": "2025-02-08T04:34:01.000Z"
+  },
+  {
+    "id": "Tucker-Eric/EloquentFilter",
+    "name": "Tucker-Eric/EloquentFilter",
+    "description": "An Eloquent Way To Filter Laravel Models And Their Relationships",
+    "topics": [
+      "dynamic-filters",
+      "eloquent",
+      "eloquent-filters",
+      "eloquent-models",
+      "eloquentfilter",
+      "filter",
+      "filter-logic",
+      "laravel",
+      "laravel-filter",
+      "model-filters",
+      "query",
+      "relation-filter"
+    ],
+    "owner": {
+      "name": "Tucker-Eric",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6483755?v=4"
+    },
+    "stars": 1741,
+    "starsDetail": {
+      "total": 1739,
+      "week": 2,
+      "month": 6,
+      "year": 131,
+      "updatedAt": 1736060796
+    },
+    "license": "MIT License",
+    "forks": 122,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-07-09T21:06:58.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-03-04T20:27:24.000Z",
+    "updatedAt": "2025-02-08T04:34:16.000Z"
+  },
+  {
+    "id": "Zizaco/entrust",
+    "name": "Zizaco/entrust",
+    "description": "Role-based Permissions for Laravel 5",
+    "topics": [],
+    "owner": {
+      "name": "Zizaco",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/777635?v=4"
+    },
+    "stars": 6048,
+    "starsDetail": {
+      "total": 6046,
+      "week": 3,
+      "month": 6,
+      "year": 23,
+      "updatedAt": 1736060781
+    },
+    "license": "MIT License",
+    "forks": 1286,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2025-01-08T21:25:21.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-02-07T06:30:20.000Z",
+    "updatedAt": "2025-02-08T04:34:10.000Z"
+  },
+  {
+    "id": "fideloper/TrustedProxy",
+    "name": "fideloper/TrustedProxy",
+    "description": "Laravel Proxy Package for handling sessions when behind load balancers or other intermediaries.",
+    "topics": [],
+    "owner": {
+      "name": "fideloper",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/467411?v=4"
+    },
+    "stars": 7359,
+    "starsDetail": {
+      "total": 7359,
+      "week": 1,
+      "month": 6,
+      "year": 60,
+      "updatedAt": 1736060837
+    },
+    "license": "MIT License",
+    "forks": 126,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-01-09T20:39:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-04-30T20:03:01.000Z",
+    "updatedAt": "2025-02-08T04:34:28.000Z"
+  },
+  {
+    "id": "qcod/laravel-imageup",
+    "name": "qcod/laravel-imageup",
+    "description": "Auto Image & file upload, resize and crop for Laravel eloquent model using Intervention image",
+    "topics": [
+      "eloquent",
+      "image",
+      "image-crop",
+      "image-resize",
+      "laravel",
+      "php",
+      "trait",
+      "upload"
+    ],
+    "owner": {
+      "name": "qcod",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43428613?v=4"
+    },
+    "stars": 765,
+    "starsDetail": {
+      "total": 764,
+      "week": 0,
+      "month": 6,
+      "year": 43,
+      "updatedAt": 1736060845
+    },
+    "license": "MIT License",
+    "forks": 61,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-05-15T01:39:47.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-09-21T11:49:28.000Z",
+    "updatedAt": "2025-02-08T04:34:30.000Z"
+  },
+  {
+    "id": "yajra/laravel-oci8",
+    "name": "yajra/laravel-oci8",
+    "description": "Oracle DB driver for Laravel via OCI8",
+    "topics": [
+      "hacktoberfest",
+      "laravel",
+      "laravel-oci8",
+      "oci8",
+      "oracle",
+      "php"
+    ],
+    "owner": {
+      "name": "yajra",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2687997?v=4"
+    },
+    "stars": 842,
+    "starsDetail": {
+      "total": 840,
+      "week": 0,
+      "month": 6,
+      "year": 49,
+      "updatedAt": 1736060870
+    },
+    "license": "MIT License",
+    "forks": 242,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2025-01-21T02:04:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-11-23T06:01:37.000Z",
+    "updatedAt": "2025-02-08T04:34:37.000Z"
+  },
+  {
+    "id": "dompdf/dompdf",
+    "name": "dompdf/dompdf",
+    "description": "HTML to PDF converter for PHP",
+    "topics": [
+      "css",
+      "dompdf",
+      "font",
+      "html",
+      "html-to-pdf",
+      "pdf-generation",
+      "php"
+    ],
+    "owner": {
+      "name": "dompdf",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2776605?v=4"
+    },
+    "stars": 10701,
+    "starsDetail": {
+      "total": 10633,
+      "week": 11,
+      "month": 59,
+      "year": 673,
+      "updatedAt": 1736060852
+    },
+    "license": "GNU Lesser General Public License v2.1",
+    "forks": 1805,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2025-01-20T21:40:51.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2012-11-12T20:47:16.000Z",
+    "updatedAt": "2025-02-08T04:34:32.000Z"
+  },
+  {
+    "id": "spatie/laravel-permission",
+    "name": "spatie/laravel-permission",
+    "description": "Associate users with roles and permissions",
+    "topics": [
+      "laravel",
+      "permission",
+      "php",
+      "secure"
+    ],
+    "owner": {
+      "name": "spatie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
+    },
+    "stars": 12322,
+    "starsDetail": {
+      "total": 12259,
+      "week": 6,
+      "month": 56,
+      "year": 768,
+      "updatedAt": 1736060786
+    },
+    "license": "MIT License",
+    "forks": 1792,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2025-02-06T19:30:24.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-09-14T22:19:38.000Z",
+    "updatedAt": "2025-02-08T04:34:10.000Z"
+  },
+  {
+    "id": "Intervention/image",
+    "name": "Intervention/image",
+    "description": "PHP Image Processing",
+    "topics": [
+      "gd",
+      "image",
+      "imagick",
+      "intervention",
+      "php"
+    ],
+    "owner": {
+      "name": "Intervention",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3258272?v=4"
+    },
+    "stars": 14058,
+    "starsDetail": {
+      "total": 14007,
+      "week": 15,
+      "month": 54,
+      "year": 615,
+      "updatedAt": 1736060845
+    },
+    "license": "MIT License",
+    "forks": 1493,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2025-02-07T16:16:34.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-01-19T15:05:32.000Z",
+    "updatedAt": "2025-02-08T04:34:30.000Z"
+  },
+  {
+    "id": "JosephSilber/page-cache",
+    "name": "JosephSilber/page-cache",
+    "description": "Caches responses as static files on disk for lightning fast page loads.",
+    "topics": [],
+    "owner": {
+      "name": "JosephSilber",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1403741?v=4"
+    },
+    "stars": 1221,
+    "starsDetail": {
+      "total": 1217,
+      "week": 1,
+      "month": 5,
+      "year": 86,
+      "updatedAt": 1736060826
+    },
+    "license": "MIT License",
+    "forks": 118,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-08-08T12:07:42.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-07-20T01:56:35.000Z",
+    "updatedAt": "2025-02-08T04:34:25.000Z"
+  },
+  {
+    "id": "PHPJunior/laravel-video-chat",
+    "name": "PHPJunior/laravel-video-chat",
+    "description": "Laravel Video Chat using Socket.IO and WebRTC",
+    "topics": [
+      "chat",
+      "laravel",
+      "laravel-5-package",
+      "realtime",
+      "socket-io",
+      "video-chat"
+    ],
+    "owner": {
+      "name": "PHPJunior",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13845077?v=4"
+    },
+    "stars": 812,
+    "starsDetail": {
+      "total": 810,
+      "week": 2,
+      "month": 5,
+      "year": 25,
+      "updatedAt": 1736060837
+    },
+    "license": "MIT License",
+    "forks": 231,
+    "primaryLanguage": "Vue",
+    "pushedAt": "2021-06-02T20:41:31.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-10-21T20:06:33.000Z",
+    "updatedAt": "2025-02-08T04:34:29.000Z"
+  },
+  {
+    "id": "cybercog/laravel-love",
+    "name": "cybercog/laravel-love",
+    "description": "Add Social Reactions to Laravel Eloquent Models. It lets people express how they feel about the content. Fully customizable Weighted Reaction System & Reaction Type System with Like, Dislike and any other custom emotion types. Do you react?",
+    "topics": [
+      "adore",
+      "cog",
+      "election",
+      "eloquent",
+      "emotion",
+      "favorite",
+      "kudo",
+      "laravel",
+      "like",
+      "likeable",
+      "love",
+      "php",
+      "rate",
+      "rating",
+      "reactable",
+      "reacter",
+      "reaction",
+      "social-network",
+      "star",
+      "vote"
+    ],
+    "owner": {
+      "name": "cybercog",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5887416?v=4"
+    },
+    "stars": 1174,
+    "starsDetail": {
+      "total": 1172,
+      "week": 0,
+      "month": 5,
+      "year": 71,
+      "updatedAt": 1736060840
+    },
+    "license": "MIT License",
+    "forks": 72,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2025-01-04T10:29:08.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-01-02T21:21:49.000Z",
+    "updatedAt": "2025-02-08T04:34:29.000Z"
+  },
+  {
+    "id": "santigarcor/laratrust",
+    "name": "santigarcor/laratrust",
+    "description": "Handle roles and permissions in your Laravel application",
+    "topics": [
+      "acl",
+      "admin-panel",
+      "authorization",
+      "laratrust",
+      "laravel",
+      "multiuser",
+      "permissions",
+      "php",
+      "rbac",
+      "roles",
+      "secure",
+      "teams"
+    ],
+    "owner": {
+      "name": "santigarcor",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7565417?v=4"
+    },
+    "stars": 2215,
+    "starsDetail": {
+      "total": 2208,
+      "week": 0,
+      "month": 5,
+      "year": 110,
+      "updatedAt": 1736060783
+    },
+    "license": "MIT License",
+    "forks": 381,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-01-16T15:36:41.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-05-25T19:21:09.000Z",
+    "updatedAt": "2025-02-08T04:34:09.000Z"
+  },
+  {
+    "id": "spatie/laravel-failed-job-monitor",
+    "name": "spatie/laravel-failed-job-monitor",
+    "description": "Get notified when a queued job fails",
+    "topics": [
+      "laravel",
+      "monitor",
+      "notifications",
+      "php",
+      "queue",
+      "slack"
+    ],
+    "owner": {
+      "name": "spatie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
+    },
+    "stars": 924,
+    "starsDetail": {
+      "total": 916,
+      "week": 2,
+      "month": 5,
+      "year": 83,
+      "updatedAt": 1736060902
+    },
+    "license": "MIT License",
+    "forks": 51,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-07-16T07:57:41.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-02-18T12:40:13.000Z",
+    "updatedAt": "2025-02-08T04:34:49.000Z"
+  },
+  {
+    "id": "teamtnt/tntsearch",
+    "name": "teamtnt/tntsearch",
+    "description": "A fully featured full text search engine written in PHP",
+    "topics": [
+      "full-text-search",
+      "fulltext",
+      "fuzzy",
+      "fuzzy-matching",
+      "fuzzy-search",
+      "geo-search",
+      "hacktoberfest",
+      "laravel-scout",
+      "php",
+      "search",
+      "search-engine",
+      "tntsearch"
+    ],
+    "owner": {
+      "name": "teamtnt",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9902562?v=4"
+    },
+    "stars": 3108,
+    "starsDetail": {
+      "total": 3100,
+      "week": 1,
+      "month": 5,
+      "year": 136,
+      "updatedAt": 1736060881
+    },
+    "license": "MIT License",
+    "forks": 293,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2025-02-03T20:44:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-02-26T10:23:57.000Z",
+    "updatedAt": "2025-02-08T04:34:43.000Z"
+  },
+  {
+    "id": "webpatser/laravel-uuid",
+    "name": "webpatser/laravel-uuid",
+    "description": "Laravel package to generate and to validate a UUID according to the RFC 4122 standard. Only support for version 1, 3, 4 and 5 UUID are built-in.",
+    "topics": [
+      "laravel-uuid",
+      "laravel-validation",
+      "php",
+      "uuid"
+    ],
+    "owner": {
+      "name": "webpatser",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25720?v=4"
+    },
+    "stars": 1806,
+    "starsDetail": {
+      "total": 1807,
+      "week": 2,
+      "month": 5,
+      "year": 39,
+      "updatedAt": 1736060830
+    },
+    "license": null,
+    "forks": 151,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2023-12-12T12:48:38.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-09-14T08:35:28.000Z",
+    "updatedAt": "2025-02-08T04:34:27.000Z"
+  },
+  {
+    "id": "pixelfed/pixelfed",
+    "name": "pixelfed/pixelfed",
+    "description": "Photo Sharing. For Everyone.",
+    "topics": [
+      "activitypub",
+      "federation",
+      "fediverse",
+      "laravel",
+      "pixelfed",
+      "social-network"
+    ],
+    "owner": {
+      "name": "pixelfed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38410642?v=4"
+    },
+    "stars": 6328,
+    "starsDetail": {
+      "total": 5719,
+      "week": 8,
+      "month": 44,
+      "year": 550,
+      "updatedAt": 1736060959
+    },
+    "license": "GNU Affero General Public License v3.0",
+    "forks": 741,
+    "primaryLanguage": "Procfile",
+    "pushedAt": "2025-02-07T07:49:18.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-04-17T01:48:45.000Z",
+    "updatedAt": "2025-02-08T04:35:03.000Z"
+  },
+  {
+    "id": "Laravel-Backpack/Base",
+    "name": "Laravel-Backpack/Base",
+    "description": "Until 2018, Backpack v3 used this Base package to offer admin authentication and a blank admin panel using AdminLTE. Backpack v4 no longer uses this package, they're now built-in - use Backpack/CRUD instead.",
+    "topics": [
+      "admin",
+      "adminlte",
+      "laravel"
+    ],
+    "owner": {
+      "name": "Laravel-Backpack",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15017015?v=4"
+    },
+    "stars": 927,
+    "starsDetail": {
+      "total": 926,
+      "week": 0,
+      "month": 4,
+      "year": 43,
+      "updatedAt": 1736060929
+    },
+    "license": "Other",
+    "forks": 269,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2020-10-14T12:10:37.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-02-23T19:11:14.000Z",
+    "updatedAt": "2025-02-08T04:34:58.000Z"
+  },
+  {
+    "id": "LaravelRUS/SleepingOwlAdmin",
+    "name": "LaravelRUS/SleepingOwlAdmin",
+    "description": "🦉 Administrative interface builder for Laravel (Laravel admin)",
+    "topics": [
+      "admin",
+      "backend",
+      "composer",
+      "crud",
+      "laravel",
+      "laravel-admin",
+      "laravel-crud",
+      "package"
+    ],
+    "owner": {
+      "name": "LaravelRUS",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5966874?v=4"
+    },
+    "stars": 811,
+    "starsDetail": {
+      "total": 811,
+      "week": 2,
+      "month": 4,
+      "year": 32,
+      "updatedAt": 1736060961
+    },
+    "license": "MIT License",
+    "forks": 216,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-11-08T17:07:28.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-02-20T07:04:49.000Z",
+    "updatedAt": "2025-02-08T04:35:04.000Z"
+  },
+  {
+    "id": "facade/ignition",
+    "name": "facade/ignition",
+    "description": "A beautiful error page for Laravel apps",
+    "topics": [
+      "error",
+      "exception",
+      "flare",
+      "hacktoberfest",
+      "laravel",
+      "page"
+    ],
+    "owner": {
+      "name": "facade",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51789541?v=4"
+    },
+    "stars": 2086,
+    "starsDetail": {
+      "total": 2085,
+      "week": 1,
+      "month": 4,
+      "year": 32,
+      "updatedAt": 1736060773
+    },
+    "license": "MIT License",
+    "forks": 184,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2023-02-16T02:18:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-08-26T12:35:48.000Z",
+    "updatedAt": "2025-02-08T04:34:06.000Z"
+  },
+  {
+    "id": "francescomalatesta/laravel-api-boilerplate-jwt",
+    "name": "francescomalatesta/laravel-api-boilerplate-jwt",
+    "description": "A Laravel 5.8 API Boilerplate to create a ready-to-use REST API in seconds.",
+    "topics": [
+      "api",
+      "boilerplate",
+      "cors",
+      "dingo",
+      "jwt",
+      "laravel",
+      "rest"
+    ],
+    "owner": {
+      "name": "francescomalatesta",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1940952?v=4"
+    },
+    "stars": 1175,
+    "starsDetail": {
+      "total": 1175,
+      "week": 1,
+      "month": 4,
+      "year": 14,
+      "updatedAt": 1736060934
+    },
+    "license": "MIT License",
+    "forks": 284,
+    "primaryLanguage": "Vue",
+    "pushedAt": "2019-07-10T13:26:42.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-09-06T14:16:31.000Z",
+    "updatedAt": "2025-02-08T04:35:00.000Z"
+  },
+  {
+    "id": "kirkbushell/eloquence",
+    "name": "kirkbushell/eloquence",
+    "description": "A drop-in library for certain database functionality in Laravel, that allows for extra features that may never make it into the main project.",
+    "topics": [],
+    "owner": {
+      "name": "kirkbushell",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65171?v=4"
+    },
+    "stars": 558,
+    "starsDetail": {
+      "total": 555,
+      "week": 1,
+      "month": 4,
+      "year": 45,
+      "updatedAt": 1736060867
+    },
+    "license": "MIT License",
+    "forks": 58,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-06-27T04:58:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-04-23T17:34:09.000Z",
+    "updatedAt": "2025-02-08T04:34:36.000Z"
+  },
+  {
+    "id": "mattstauffer/Torch",
+    "name": "mattstauffer/Torch",
+    "description": "Examples of using each Illuminate component in non-Laravel applications",
+    "topics": [],
+    "owner": {
+      "name": "mattstauffer",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/151829?v=4"
+    },
+    "stars": 1860,
+    "starsDetail": {
+      "total": 1855,
+      "week": 0,
+      "month": 4,
+      "year": 73,
+      "updatedAt": 1736060958
+    },
+    "license": "MIT License",
+    "forks": 212,
+    "primaryLanguage": "Hack",
+    "pushedAt": "2024-01-27T18:07:28.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-08-21T21:10:43.000Z",
+    "updatedAt": "2025-02-08T04:35:03.000Z"
+  },
+  {
+    "id": "mpociot/teamwork",
+    "name": "mpociot/teamwork",
+    "description": "User to Team associations with invitation system for the Laravel Framework",
+    "topics": [],
+    "owner": {
+      "name": "mpociot",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/804684?v=4"
+    },
+    "stars": 1085,
+    "starsDetail": {
+      "total": 1085,
+      "week": 1,
+      "month": 4,
+      "year": 51,
+      "updatedAt": 1736060827
+    },
+    "license": "MIT License",
+    "forks": 170,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2024-06-18T11:47:45.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-07-07T15:07:47.000Z",
+    "updatedAt": "2025-02-08T04:34:26.000Z"
+  },
+  {
+    "id": "pyrocms/pyrocms",
+    "name": "pyrocms/pyrocms",
+    "description": "Pyro is an experienced and powerful Laravel PHP CMS.",
+    "topics": [
+      "cmf",
+      "cms",
+      "framework",
+      "laravel",
+      "php",
+      "platform",
+      "pyrocms"
+    ],
+    "owner": {
+      "name": "pyrocms",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/323921?v=4"
+    },
+    "stars": 3183,
+    "starsDetail": {
+      "total": 3181,
+      "week": 0,
+      "month": 4,
+      "year": 52,
+      "updatedAt": 1736060962
+    },
+    "license": "Other",
+    "forks": 933,
+    "primaryLanguage": "Procfile",
+    "pushedAt": "2024-01-04T03:39:36.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2010-07-06T12:55:25.000Z",
+    "updatedAt": "2025-02-08T04:35:04.000Z"
+  },
+  {
+    "id": "rebing/graphql-laravel",
+    "name": "rebing/graphql-laravel",
+    "description": "Laravel wrapper for Facebook's GraphQL",
+    "topics": [],
+    "owner": {
+      "name": "rebing",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8533161?v=4"
+    },
+    "stars": 2146,
+    "starsDetail": {
+      "total": 2140,
+      "week": 0,
+      "month": 4,
+      "year": 97,
+      "updatedAt": 1736060889
+    },
+    "license": "MIT License",
+    "forks": 268,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2025-02-02T07:30:04.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-09-19T10:28:28.000Z",
+    "updatedAt": "2025-02-08T04:34:45.000Z"
+  },
+  {
+    "id": "spatie/laravel-fractal",
+    "name": "spatie/laravel-fractal",
+    "description": "An easy to use Fractal wrapper built for Laravel and Lumen applications",
+    "topics": [
+      "api",
+      "fractal",
+      "laravel",
+      "lumen",
+      "php",
+      "transform-data"
+    ],
+    "owner": {
+      "name": "spatie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
+    },
+    "stars": 1900,
+    "starsDetail": {
+      "total": 1898,
+      "week": 1,
+      "month": 4,
+      "year": 67,
+      "updatedAt": 1736060885
+    },
+    "license": "MIT License",
+    "forks": 190,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2025-01-27T22:25:56.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-10-06T10:08:35.000Z",
+    "updatedAt": "2025-02-08T04:34:45.000Z"
+  },
+  {
+    "id": "spatie/laravel-newsletter",
+    "name": "spatie/laravel-newsletter",
+    "description": "Manage Mailcoach and MailChimp newsletters in Laravel ",
+    "topics": [
+      "laravel",
+      "mailchimp",
+      "mailchimp-api",
+      "mailcoach",
+      "newsletter",
+      "php"
+    ],
+    "owner": {
+      "name": "spatie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
+    },
+    "stars": 1618,
+    "starsDetail": {
+      "total": 1615,
+      "week": 2,
+      "month": 4,
+      "year": 52,
+      "updatedAt": 1736060916
+    },
+    "license": "MIT License",
+    "forks": 235,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2025-02-03T23:50:17.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-05-04T13:19:53.000Z",
+    "updatedAt": "2025-02-08T04:34:54.000Z"
+  },
+  {
+    "id": "barryvdh/laravel-dompdf",
+    "name": "barryvdh/laravel-dompdf",
+    "description": "A DOMPDF Wrapper for Laravel",
+    "topics": [
+      "hacktoberfest",
+      "laravel",
+      "pdf"
+    ],
+    "owner": {
+      "name": "barryvdh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/973269?v=4"
+    },
+    "stars": 6866,
+    "starsDetail": {
+      "total": 6827,
+      "week": 6,
+      "month": 36,
+      "year": 622,
+      "updatedAt": 1736060852
+    },
+    "license": "MIT License",
+    "forks": 983,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2025-01-22T08:17:15.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-06-23T11:27:07.000Z",
+    "updatedAt": "2025-02-08T04:34:31.000Z"
+  },
+  {
+    "id": "itsgoingd/clockwork",
+    "name": "itsgoingd/clockwork",
+    "description": "Clockwork - php dev tools in your browser - server-side component",
+    "topics": [
+      "clockwork",
+      "debugging",
+      "devtools",
+      "laravel",
+      "logging",
+      "php",
+      "profiling"
+    ],
+    "owner": {
+      "name": "itsgoingd",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/821582?v=4"
+    },
+    "stars": 5753,
+    "starsDetail": {
+      "total": 5738,
+      "week": 3,
+      "month": 34,
+      "year": 462,
+      "updatedAt": 1736060772
+    },
+    "license": "MIT License",
+    "forks": 322,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2025-01-17T03:23:41.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-06-21T23:57:05.000Z",
+    "updatedAt": "2025-02-08T04:34:05.000Z"
+  },
+  {
+    "id": "laravel-zero/laravel-zero",
+    "name": "laravel-zero/laravel-zero",
+    "description": "A PHP framework for console artisans",
+    "topics": [
+      "application",
+      "cli",
+      "command-line",
+      "composer",
+      "console",
+      "console-application",
+      "framework",
+      "hacktoberfest",
+      "illuminate",
+      "laravel",
+      "laravel-zero",
+      "micro-framework",
+      "performance",
+      "php",
+      "shell",
+      "standalone",
+      "symfony",
+      "terminal",
+      "tool",
+      "utility"
+    ],
+    "owner": {
+      "name": "laravel-zero",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31591227?v=4"
+    },
+    "stars": 3761,
+    "starsDetail": {
+      "total": 3742,
+      "week": 15,
+      "month": 34,
+      "year": 301,
+      "updatedAt": 1736060937
+    },
+    "license": null,
+    "forks": 203,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-12-27T14:57:58.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-01-26T19:56:14.000Z",
+    "updatedAt": "2025-02-08T04:35:01.000Z"
+  },
+  {
+    "id": "nWidart/laravel-modules",
+    "name": "nWidart/laravel-modules",
+    "description": "Module Management In Laravel",
+    "topics": [
+      "architecture",
+      "hacktoberfest",
+      "laravel",
+      "laravel-modules",
+      "php"
+    ],
+    "owner": {
+      "name": "nWidart",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/882397?v=4"
+    },
+    "stars": 5655,
+    "starsDetail": {
+      "total": 5605,
+      "week": 9,
+      "month": 34,
+      "year": 556,
+      "updatedAt": 1736060834
+    },
+    "license": "MIT License",
+    "forks": 979,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-12-23T21:15:40.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-06-27T21:01:29.000Z",
+    "updatedAt": "2025-02-08T04:34:27.000Z"
+  },
+  {
+    "id": "owen-it/laravel-auditing",
+    "name": "owen-it/laravel-auditing",
+    "description": "Record the change log from models in Laravel",
+    "topics": [
+      "audit",
+      "auditing",
+      "eloquent",
+      "history",
+      "laravel",
+      "logging",
+      "lumen",
+      "observer",
+      "record",
+      "revision",
+      "tracking"
+    ],
+    "owner": {
+      "name": "owen-it",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13595876?v=4"
+    },
+    "stars": 3121,
+    "starsDetail": {
+      "total": 3098,
+      "week": 11,
+      "month": 32,
+      "year": 306,
+      "updatedAt": 1736060806
+    },
+    "license": "MIT License",
+    "forks": 390,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2025-02-03T14:57:18.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-08-20T11:39:51.000Z",
+    "updatedAt": "2025-02-08T04:34:18.000Z"
+  },
+  {
+    "id": "alefesouza/laravel-vue-boilerplate",
+    "name": "alefesouza/laravel-vue-boilerplate",
+    "description": ":elephant: A Laravel 8 SPA boilerplate with a users CRUD using Vue.js 2.6, GraphQL, Bootstrap 4, TypeScript, Sass, and Pug.",
+    "topics": [
+      "boilerplate",
+      "ci",
+      "docker",
+      "graphql",
+      "laravel",
+      "pug",
+      "pusher",
+      "sass",
+      "typescript",
+      "vue"
+    ],
+    "owner": {
+      "name": "alefesouza",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1693223?v=4"
+    },
+    "stars": 543,
+    "starsDetail": {
+      "total": 543,
+      "week": 1,
+      "month": 3,
+      "year": 9,
+      "updatedAt": 1736035563
+    },
+    "license": "MIT License",
+    "forks": 145,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2021-10-27T18:40:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-12-27T07:54:27.000Z",
+    "updatedAt": "2025-02-08T03:49:31.000Z"
+  },
+  {
+    "id": "dwightwatson/validating",
+    "name": "dwightwatson/validating",
+    "description": "Automatically validating Eloquent models for Laravel",
+    "topics": [
+      "eloquent",
+      "laravel",
+      "php",
+      "validation"
+    ],
+    "owner": {
+      "name": "dwightwatson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1100408?v=4"
+    },
+    "stars": 972,
+    "starsDetail": {
+      "total": 972,
+      "week": 0,
+      "month": 3,
+      "year": 12,
+      "updatedAt": 1736060828
+    },
+    "license": "MIT License",
+    "forks": 76,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-03-13T21:58:46.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-05-16T05:30:24.000Z",
+    "updatedAt": "2025-02-08T04:34:26.000Z"
+  },
+  {
+    "id": "imanghafoori1/laravel-widgetize",
+    "name": "imanghafoori1/laravel-widgetize",
+    "description": "A minimal package to help you make your laravel application cleaner and faster.",
+    "topics": [
+      "design-pattern",
+      "html-minification",
+      "html-minifier",
+      "laravel",
+      "laravel-5-package",
+      "laravel-cache",
+      "laravel-optimization",
+      "laravel-presenter",
+      "laravel-utility",
+      "laravel5",
+      "presenter"
+    ],
+    "owner": {
+      "name": "imanghafoori1",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6961695?v=4"
+    },
+    "stars": 905,
+    "starsDetail": {
+      "total": 904,
+      "week": 1,
+      "month": 3,
+      "year": 10,
+      "updatedAt": 1736060900
+    },
+    "license": "MIT License",
+    "forks": 73,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2024-06-15T08:44:11.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-02-04T18:27:31.000Z",
+    "updatedAt": "2025-02-08T04:34:48.000Z"
+  },
+  {
+    "id": "laravel-enso/enso",
+    "name": "laravel-enso/enso",
+    "description": "Laravel Vue SPA, Bulma themed. For demo login use `admin@laravel-enso.com` & `password` -",
+    "topics": [
+      "admin",
+      "boilerplate",
+      "bulma",
+      "enso",
+      "laravel",
+      "laravel-enso",
+      "spa",
+      "vue",
+      "vue-router",
+      "vuex"
+    ],
+    "owner": {
+      "name": "laravel-enso",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26483909?v=4"
+    },
+    "stars": 1085,
+    "starsDetail": {
+      "total": 1087,
+      "week": 1,
+      "month": 3,
+      "year": 31,
+      "updatedAt": 1736035600
+    },
+    "license": "MIT License",
+    "forks": 279,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2025-01-30T07:18:34.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-06-22T16:39:52.000Z",
+    "updatedAt": "2025-02-08T03:50:19.000Z"
+  },
+  {
+    "id": "recca0120/laravel-terminal",
+    "name": "recca0120/laravel-terminal",
+    "description": "Runs artisan command in web application",
+    "topics": [
+      "artisan",
+      "laravel",
+      "terminal",
+      "web"
+    ],
+    "owner": {
+      "name": "recca0120",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1390554?v=4"
+    },
+    "stars": 862,
+    "starsDetail": {
+      "total": 861,
+      "week": 0,
+      "month": 3,
+      "year": 28,
+      "updatedAt": 1736060777
+    },
+    "license": "MIT License",
+    "forks": 58,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-10-29T20:13:01.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-11-10T06:32:57.000Z",
+    "updatedAt": "2025-02-08T04:34:07.000Z"
+  },
+  {
+    "id": "teamtnt/laravel-scout-tntsearch-driver",
+    "name": "teamtnt/laravel-scout-tntsearch-driver",
+    "description": "Driver for Laravel Scout search package based on https://github.com/teamtnt/tntsearch",
+    "topics": [
+      "hacktoberfest",
+      "laravel",
+      "laravel-package",
+      "laravel-scout",
+      "tntsearch",
+      "tntsearch-driver"
+    ],
+    "owner": {
+      "name": "teamtnt",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9902562?v=4"
+    },
+    "stars": 1114,
+    "starsDetail": {
+      "total": 1105,
+      "week": 1,
+      "month": 3,
+      "year": 37,
+      "updatedAt": 1736060883
+    },
+    "license": "MIT License",
+    "forks": 142,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-08-12T07:27:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-08-13T16:38:52.000Z",
+    "updatedAt": "2025-02-08T04:34:43.000Z"
+  },
+  {
+    "id": "themsaid/laravel-langman",
+    "name": "themsaid/laravel-langman",
+    "description": "Language files manager in your artisan console.",
+    "topics": [],
+    "owner": {
+      "name": "themsaid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4332182?v=4"
+    },
+    "stars": 879,
+    "starsDetail": {
+      "total": 879,
+      "week": 3,
+      "month": 3,
+      "year": 6,
+      "updatedAt": 1736060911
+    },
+    "license": "MIT License",
+    "forks": 167,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-03-30T09:13:29.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-03-30T18:50:26.000Z",
+    "updatedAt": "2025-02-08T04:34:52.000Z"
+  },
+  {
+    "id": "wmhello/laravel_template_with_vue",
+    "name": "wmhello/laravel_template_with_vue",
+    "description": "laravel6和vue-element-admin结合的前后端分离项目模板。包含接口端、管理端、小程序和微信公众号端，绝对是你做外包或者自建项目的首选模板。模板内容包括基础的用户管理和权限管理、日志管理、集成第三方登录，整合workerman框架中的GatewayWorker项目来实现了websocket 做到了消息的实时推送，并在此基础上，实现了聊天室和客服功能；实现低代码开发，能分析数据表内容及其设置，实现自动生成代码。",
+    "topics": [
+      "autoencoder",
+      "chat",
+      "gatewayworker",
+      "manger",
+      "passport",
+      "rbac",
+      "restful-api",
+      "s",
+      "template",
+      "vue-admin-tamplate",
+      "vue-element-admin",
+      "vuejs",
+      "websocket",
+      "workerman"
+    ],
+    "owner": {
+      "name": "wmhello",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6554949?v=4"
+    },
+    "stars": 965,
+    "starsDetail": {
+      "total": 963,
+      "week": 1,
+      "month": 3,
+      "year": 27,
+      "updatedAt": 1736035564
+    },
+    "license": "MIT License",
+    "forks": 269,
+    "primaryLanguage": "Batchfile",
+    "pushedAt": "2023-08-10T10:35:19.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-02-18T02:12:30.000Z",
+    "updatedAt": "2025-02-08T03:49:32.000Z"
+  },
+  {
+    "id": "spatie/laravel-backup",
+    "name": "spatie/laravel-backup",
+    "description": "A package to backup your Laravel app",
+    "topics": [
+      "backup",
+      "database",
+      "devops",
+      "laravel",
+      "php",
+      "zip"
+    ],
+    "owner": {
+      "name": "spatie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
+    },
+    "stars": 5717,
+    "starsDetail": {
+      "total": 5695,
+      "week": 8,
+      "month": 29,
+      "year": 348,
+      "updatedAt": 1736060873
+    },
+    "license": "MIT License",
+    "forks": 768,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2025-02-03T08:50:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-02-17T12:12:41.000Z",
+    "updatedAt": "2025-02-08T04:34:38.000Z"
+  },
+  {
+    "id": "Propaganistas/Laravel-Phone",
+    "name": "Propaganistas/Laravel-Phone",
+    "description": "Phone number functionality for Laravel",
+    "topics": [
+      "laravel",
+      "libphonenumber",
+      "phone",
+      "validation"
+    ],
+    "owner": {
+      "name": "Propaganistas",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6680176?v=4"
+    },
+    "stars": 2812,
+    "starsDetail": {
+      "total": 2790,
+      "week": 3,
+      "month": 28,
+      "year": 463,
+      "updatedAt": 1736060833
+    },
+    "license": "MIT License",
+    "forks": 220,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2025-01-31T12:11:17.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-02-23T22:54:38.000Z",
+    "updatedAt": "2025-02-08T04:34:27.000Z"
+  },
+  {
+    "id": "tymondesigns/jwt-auth",
+    "name": "tymondesigns/jwt-auth",
+    "description": "🔐 JSON Web Token Authentication for Laravel & Lumen",
+    "topics": [
+      "authentication",
+      "jwt",
+      "laravel",
+      "php"
+    ],
+    "owner": {
+      "name": "tymondesigns",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1801923?v=4"
+    },
+    "stars": 11351,
+    "starsDetail": {
+      "total": 11343,
+      "week": 3,
+      "month": 28,
+      "year": 362,
+      "updatedAt": 1736060784
+    },
+    "license": "MIT License",
+    "forks": 1546,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-05-29T11:47:20.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-09-04T21:50:50.000Z",
+    "updatedAt": "2025-02-08T04:34:10.000Z"
+  },
+  {
+    "id": "spatie/laravel-activitylog",
+    "name": "spatie/laravel-activitylog",
+    "description": "Log activity inside your Laravel app",
+    "topics": [
+      "audit",
+      "laravel",
+      "log",
+      "monitoring",
+      "php"
+    ],
+    "owner": {
+      "name": "spatie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
+    },
+    "stars": 5425,
+    "starsDetail": {
+      "total": 5403,
+      "week": 0,
+      "month": 26,
+      "year": 431,
+      "updatedAt": 1736060803
+    },
+    "license": "MIT License",
+    "forks": 717,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2025-01-27T03:21:46.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-06-23T12:17:12.000Z",
+    "updatedAt": "2025-02-08T04:34:18.000Z"
+  },
+  {
+    "id": "spatie/laravel-medialibrary",
+    "name": "spatie/laravel-medialibrary",
+    "description": "Associate files with Eloquent models",
+    "topics": [
+      "eloquent",
+      "hacktoberfest",
+      "images",
+      "laravel",
+      "media",
+      "php",
+      "upload"
+    ],
+    "owner": {
+      "name": "spatie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
+    },
+    "stars": 5836,
+    "starsDetail": {
+      "total": 5820,
+      "week": 3,
+      "month": 26,
+      "year": 386,
+      "updatedAt": 1736060848
+    },
+    "license": "MIT License",
+    "forks": 1082,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2025-02-06T11:57:27.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-04-14T07:20:15.000Z",
+    "updatedAt": "2025-02-08T04:34:31.000Z"
+  },
+  {
+    "id": "microweber/microweber",
+    "name": "microweber/microweber",
+    "description": "Drag and Drop Website Builder and CMS with E-commerce",
+    "topics": [
+      "cms",
+      "content-management",
+      "drag-and-drop",
+      "ecommerce",
+      "javascript",
+      "laravel",
+      "microweber",
+      "php",
+      "shopping-cart",
+      "website-builder"
+    ],
+    "owner": {
+      "name": "microweber",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/281507?v=4"
+    },
+    "stars": 3195,
+    "starsDetail": {
+      "total": 3167,
+      "week": 8,
+      "month": 24,
+      "year": 316,
+      "updatedAt": 1736060968
+    },
+    "license": "MIT License",
+    "forks": 891,
+    "primaryLanguage": "Sass",
+    "pushedAt": "2025-02-07T17:47:41.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2010-10-07T09:04:43.000Z",
+    "updatedAt": "2025-02-08T04:35:06.000Z"
+  },
+  {
+    "id": "octobercms/october",
+    "name": "octobercms/october",
+    "description": "Self-hosted CMS platform based on the Laravel PHP Framework.",
+    "topics": [
+      "backend",
+      "cmf",
+      "cms",
+      "cms-platform",
+      "framework",
+      "laravel",
+      "octobercms",
+      "php",
+      "platform"
+    ],
+    "owner": {
+      "name": "octobercms",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5554805?v=4"
+    },
+    "stars": 11065,
+    "starsDetail": {
+      "total": 11058,
+      "week": 4,
+      "month": 24,
+      "year": 231,
+      "updatedAt": 1736060962
+    },
+    "license": "Other",
+    "forks": 2206,
+    "primaryLanguage": "Hack",
+    "pushedAt": "2025-02-02T03:44:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-11-26T23:30:43.000Z",
+    "updatedAt": "2025-02-08T04:35:04.000Z"
+  },
+  {
+    "id": "404labfr/laravel-impersonate",
+    "name": "404labfr/laravel-impersonate",
+    "description": "Laravel Impersonate is a plugin that allows you to authenticate as your users.",
+    "topics": [
+      "impersonate",
+      "laravel",
+      "laravel-package",
+      "php",
+      "user-management"
+    ],
+    "owner": {
+      "name": "404labfr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22891715?v=4"
+    },
+    "stars": 2075,
+    "starsDetail": {
+      "total": 2053,
+      "week": 4,
+      "month": 23,
+      "year": 207,
+      "updatedAt": 1736060814
+    },
+    "license": null,
+    "forks": 215,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2024-12-25T14:03:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-02-10T17:35:27.000Z",
+    "updatedAt": "2025-02-08T04:34:20.000Z"
+  },
+  {
+    "id": "laravel/telescope",
+    "name": "laravel/telescope",
+    "description": "An elegant debug assistant for the Laravel framework.",
+    "topics": [
+      "debugging",
+      "laravel",
+      "monitoring"
+    ],
+    "owner": {
+      "name": "laravel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/958072?v=4"
+    },
+    "stars": 4942,
+    "starsDetail": {
+      "total": 4920,
+      "week": 4,
+      "month": 22,
+      "year": 323,
+      "updatedAt": 1736060781
+    },
+    "license": "MIT License",
+    "forks": 594,
+    "primaryLanguage": "SCSS",
+    "pushedAt": "2025-02-06T21:31:33.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-08-23T14:34:23.000Z",
+    "updatedAt": "2025-02-08T04:34:09.000Z"
+  },
+  {
+    "id": "mcamara/laravel-localization",
+    "name": "mcamara/laravel-localization",
+    "description": "Easy localization for Laravel",
+    "topics": [
+      "language-selector",
+      "laravel",
+      "laravel-localization",
+      "laravel-package",
+      "php"
+    ],
+    "owner": {
+      "name": "mcamara",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/887052?v=4"
+    },
+    "stars": 3416,
+    "starsDetail": {
+      "total": 3396,
+      "week": 7,
+      "month": 21,
+      "year": 182,
+      "updatedAt": 1736060908
+    },
+    "license": "MIT License",
+    "forks": 510,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-12-21T19:46:10.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-08-25T23:14:30.000Z",
+    "updatedAt": "2025-02-08T04:34:50.000Z"
+  },
+  {
+    "id": "ARCANEDEV/LogViewer",
+    "name": "ARCANEDEV/LogViewer",
+    "description": ":page_with_curl: Provides a log viewer for Laravel",
+    "topics": [
+      "arcanedev",
+      "laravel",
+      "log",
+      "log-viewer",
+      "php",
+      "viewer"
+    ],
+    "owner": {
+      "name": "ARCANEDEV",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9376707?v=4"
+    },
+    "stars": 2377,
+    "starsDetail": {
+      "total": 2375,
+      "week": 1,
+      "month": 2,
+      "year": 51,
+      "updatedAt": 1736060777
+    },
+    "license": "MIT License",
+    "forks": 333,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2024-07-25T13:12:34.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-09-01T14:00:53.000Z",
+    "updatedAt": "2025-02-08T04:34:07.000Z"
+  },
+  {
+    "id": "GrahamCampbell/Laravel-GitHub",
+    "name": "GrahamCampbell/Laravel-GitHub",
+    "description": "A GitHub API bridge for Laravel",
+    "topics": [
+      "hacktoberfest"
+    ],
+    "owner": {
+      "name": "GrahamCampbell",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2829600?v=4"
+    },
+    "stars": 628,
+    "starsDetail": {
+      "total": 626,
+      "week": 2,
+      "month": 2,
+      "year": 52,
+      "updatedAt": 1736060915
+    },
+    "license": "MIT License",
+    "forks": 121,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-03-23T15:29:51.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-07-26T14:55:40.000Z",
+    "updatedAt": "2025-02-08T04:34:54.000Z"
+  },
+  {
+    "id": "Protoqol/Prequel",
+    "name": "Protoqol/Prequel",
+    "description": "Prequel for Laravel. Clear and concise database management. Unfortunately, not actively maintained due to time constraints.",
+    "topics": [
+      "database",
+      "database-management",
+      "developer-tools",
+      "development-environment",
+      "laravel",
+      "php",
+      "prequel",
+      "protoqol"
+    ],
+    "owner": {
+      "name": "Protoqol",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51271600?v=4"
+    },
+    "stars": 1537,
+    "starsDetail": {
+      "total": 1537,
+      "week": 1,
+      "month": 2,
+      "year": 51,
+      "updatedAt": 1736060770
+    },
+    "license": "MIT License",
+    "forks": 99,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2024-03-13T11:14:11.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-06-01T17:54:40.000Z",
+    "updatedAt": "2025-02-08T04:34:05.000Z"
+  },
+  {
+    "id": "REBELinBLUE/deployer",
+    "name": "REBELinBLUE/deployer",
+    "description": "Deployer is a free and open source deployment tool.",
+    "topics": [
+      "deploy",
+      "deployer",
+      "deployment",
+      "laravel",
+      "php",
+      "task-runner",
+      "toolchain",
+      "zero-downtime"
+    ],
+    "owner": {
+      "name": "REBELinBLUE",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2143908?v=4"
+    },
+    "stars": 916,
+    "starsDetail": {
+      "total": 916,
+      "week": 0,
+      "month": 2,
+      "year": 19,
+      "updatedAt": 1736060940
+    },
+    "license": "MIT License",
+    "forks": 185,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2021-11-30T09:55:15.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-04-07T17:55:16.000Z",
+    "updatedAt": "2025-02-08T04:35:01.000Z"
+  },
+  {
+    "id": "arrilot/laravel-widgets",
+    "name": "arrilot/laravel-widgets",
+    "description": "Widgets for Laravel",
+    "topics": [],
+    "owner": {
+      "name": "arrilot",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2826480?v=4"
+    },
+    "stars": 1124,
+    "starsDetail": {
+      "total": 1122,
+      "week": 2,
+      "month": 2,
+      "year": 27,
+      "updatedAt": 1736060840
+    },
+    "license": null,
+    "forks": 113,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-07-11T22:46:09.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-01-09T12:45:34.000Z",
+    "updatedAt": "2025-02-08T04:34:29.000Z"
+  },
+  {
+    "id": "beckenrode/mysql-workbench-export-laravel-5-migrations",
+    "name": "beckenrode/mysql-workbench-export-laravel-5-migrations",
+    "description": "A MySQL Workbench plugin which exports a Model to Laravel 5 Migrations",
+    "topics": [
+      "database-schema",
+      "laravel",
+      "laravel-migration",
+      "mysql-workbench"
+    ],
+    "owner": {
+      "name": "beckenrode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/343855?v=4"
+    },
+    "stars": 897,
+    "starsDetail": {
+      "total": 899,
+      "week": 0,
+      "month": 2,
+      "year": 6,
+      "updatedAt": 1736060766
+    },
+    "license": "MIT License",
+    "forks": 235,
+    "primaryLanguage": "Python",
+    "pushedAt": "2024-06-20T20:59:21.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-06-01T21:12:49.000Z",
+    "updatedAt": "2025-02-08T04:34:03.000Z"
+  },
+  {
+    "id": "cybercog/laravel-ban",
+    "name": "cybercog/laravel-ban",
+    "description": "Laravel Ban simplify blocking and banning Eloquent models.",
+    "topics": [
+      "access",
+      "arrest",
+      "ban",
+      "block",
+      "cog",
+      "eloquent",
+      "forbid",
+      "jail",
+      "justice",
+      "laravel",
+      "package",
+      "php",
+      "prison",
+      "restrict",
+      "sanction",
+      "security",
+      "trait",
+      "user"
+    ],
+    "owner": {
+      "name": "cybercog",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5887416?v=4"
+    },
+    "stars": 1082,
+    "starsDetail": {
+      "total": 1079,
+      "week": 1,
+      "month": 2,
+      "year": 81,
+      "updatedAt": 1736060835
+    },
+    "license": "MIT License",
+    "forks": 65,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-12-04T20:57:49.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-03-05T13:14:48.000Z",
+    "updatedAt": "2025-02-08T04:34:28.000Z"
+  },
+  {
+    "id": "dimsav/laravel-translatable",
+    "name": "dimsav/laravel-translatable",
+    "description": "[Deprecated] A Laravel package for multilingual models",
+    "topics": [
+      "database",
+      "laravel",
+      "laravel-translatable",
+      "translations"
+    ],
+    "owner": {
+      "name": "dimsav",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1785686?v=4"
+    },
+    "stars": 1948,
+    "starsDetail": {
+      "total": 1949,
+      "week": 2,
+      "month": 2,
+      "year": 6,
+      "updatedAt": 1736060911
+    },
+    "license": "MIT License",
+    "forks": 321,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2019-06-18T09:13:26.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-02-03T13:45:13.000Z",
+    "updatedAt": "2025-02-08T04:34:51.000Z"
+  },
+  {
+    "id": "elasticquent/Elasticquent",
+    "name": "elasticquent/Elasticquent",
+    "description": "Maps Laravel Eloquent models to Elasticsearch types",
+    "topics": [
+      "elasticsearch",
+      "eloquent",
+      "eloquent-models",
+      "laravel"
+    ],
+    "owner": {
+      "name": "elasticquent",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12946572?v=4"
+    },
+    "stars": 1358,
+    "starsDetail": {
+      "total": 1357,
+      "week": 1,
+      "month": 2,
+      "year": 26,
+      "updatedAt": 1736060878
+    },
+    "license": "MIT License",
+    "forks": 398,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-05-12T01:16:13.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-06-18T04:30:34.000Z",
+    "updatedAt": "2025-02-08T04:34:41.000Z"
+  },
+  {
+    "id": "grimzy/laravel-mysql-spatial",
+    "name": "grimzy/laravel-mysql-spatial",
+    "description": "MySQL Spatial Data Extension integration with Laravel.",
+    "topics": [
+      "geometry",
+      "laravel",
+      "laravel-5-package",
+      "laravel-6-package",
+      "laravel-7-package",
+      "laravel-8-package",
+      "mysql",
+      "mysql-extension",
+      "spatial",
+      "spatial-functions"
+    ],
+    "owner": {
+      "name": "grimzy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1837678?v=4"
+    },
+    "stars": 797,
+    "starsDetail": {
+      "total": 798,
+      "week": 0,
+      "month": 2,
+      "year": 27,
+      "updatedAt": 1736060877
+    },
+    "license": "Other",
+    "forks": 319,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-05-21T11:31:35.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-03-03T06:36:22.000Z",
+    "updatedAt": "2025-02-08T04:34:40.000Z"
+  },
+  {
+    "id": "imanghafoori1/laravel-heyman",
+    "name": "imanghafoori1/laravel-heyman",
+    "description": "Declarative style of authorization and validation in laravel.",
+    "topics": [
+      "access-control-list",
+      "authorization",
+      "eloquent-validation",
+      "laravel",
+      "laravel-acl",
+      "laravel-authorization",
+      "laravel-eloquent-validation",
+      "laravel-gate",
+      "laravel-package",
+      "laravel-roles",
+      "laravel-roles-permissions",
+      "laravel-validation",
+      "php",
+      "tell-dont-ask"
+    ],
+    "owner": {
+      "name": "imanghafoori1",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6961695?v=4"
+    },
+    "stars": 922,
+    "starsDetail": {
+      "total": 920,
+      "week": 1,
+      "month": 2,
+      "year": 39,
+      "updatedAt": 1736060791
+    },
+    "license": "MIT License",
+    "forks": 37,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-06-15T11:06:30.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-07-04T10:53:12.000Z",
+    "updatedAt": "2025-02-08T04:34:13.000Z"
+  },
+  {
+    "id": "kristijanhusak/laravel-form-builder",
+    "name": "kristijanhusak/laravel-form-builder",
+    "description": "Laravel Form builder for version 5+!",
+    "topics": [
+      "form-builder",
+      "laravel",
+      "laravel-5-package",
+      "laravel-framework",
+      "php"
+    ],
+    "owner": {
+      "name": "kristijanhusak",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1782860?v=4"
+    },
+    "stars": 1709,
+    "starsDetail": {
+      "total": 1706,
+      "week": 0,
+      "month": 2,
+      "year": 47,
+      "updatedAt": 1736060802
+    },
+    "license": "MIT License",
+    "forks": 297,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2025-01-24T02:23:28.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-10-15T22:10:20.000Z",
+    "updatedAt": "2025-02-08T04:34:17.000Z"
+  },
+  {
+    "id": "laracasts/Laravel-5-Generators-Extended",
+    "name": "laracasts/Laravel-5-Generators-Extended",
+    "description": "This package extends the core file generators that are included with Laravel 5",
+    "topics": [],
+    "owner": {
+      "name": "laracasts",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5832706?v=4"
+    },
+    "stars": 2449,
+    "starsDetail": {
+      "total": 2448,
+      "week": 0,
+      "month": 2,
+      "year": 21,
+      "updatedAt": 1736060761
+    },
+    "license": "MIT License",
+    "forks": 347,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-04-03T13:38:31.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-02-26T00:54:26.000Z",
+    "updatedAt": "2025-02-08T04:34:02.000Z"
+  },
+  {
+    "id": "laracasts/PHP-Vars-To-Js-Transformer",
+    "name": "laracasts/PHP-Vars-To-Js-Transformer",
+    "description": "Transform PHP data to JavaScript.",
+    "topics": [],
+    "owner": {
+      "name": "laracasts",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5832706?v=4"
+    },
+    "stars": 2213,
+    "starsDetail": {
+      "total": 2211,
+      "week": 1,
+      "month": 2,
+      "year": 23,
+      "updatedAt": 1736060860
+    },
+    "license": "MIT License",
+    "forks": 217,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-05-30T00:02:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-02-25T18:24:45.000Z",
+    "updatedAt": "2025-02-08T04:34:34.000Z"
+  },
+  {
+    "id": "nahid/talk",
+    "name": "nahid/talk",
+    "description": "Talk is a real-time users messaging and chatting system for Laravel.",
+    "topics": [
+      "conversation",
+      "inbox",
+      "laravel-chat",
+      "laravel-message",
+      "laravel-package",
+      "laravel-talk",
+      "message-threads",
+      "realtime-message",
+      "talk"
+    ],
+    "owner": {
+      "name": "nahid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3167309?v=4"
+    },
+    "stars": 1611,
+    "starsDetail": {
+      "total": 1610,
+      "week": 1,
+      "month": 2,
+      "year": 38,
+      "updatedAt": 1736060818
+    },
+    "license": "MIT License",
+    "forks": 325,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2023-08-06T16:41:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-10-06T08:28:03.000Z",
+    "updatedAt": "2025-02-08T04:34:22.000Z"
+  },
+  {
+    "id": "rocketeers/rocketeer",
+    "name": "rocketeers/rocketeer",
+    "description": "Send your projects up in the clouds",
+    "topics": [
+      "deployment",
+      "php"
+    ],
+    "owner": {
+      "name": "rocketeers",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8466142?v=4"
+    },
+    "stars": 2657,
+    "starsDetail": {
+      "total": 2659,
+      "week": 2,
+      "month": 2,
+      "year": 4,
+      "updatedAt": 1736060921
+    },
+    "license": "MIT License",
+    "forks": 217,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2020-09-05T10:17:17.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-06-22T14:56:22.000Z",
+    "updatedAt": "2025-02-08T04:34:56.000Z"
+  },
+  {
+    "id": "spatie/laravel-blade-javascript",
+    "name": "spatie/laravel-blade-javascript",
+    "description": "A Blade directive to export variables to JavaScript",
+    "topics": [
+      "api",
+      "blade",
+      "javascript",
+      "laravel",
+      "php",
+      "view"
+    ],
+    "owner": {
+      "name": "spatie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
+    },
+    "stars": 622,
+    "starsDetail": {
+      "total": 619,
+      "week": 0,
+      "month": 2,
+      "year": 24,
+      "updatedAt": 1736060862
+    },
+    "license": "MIT License",
+    "forks": 40,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2025-02-06T11:54:07.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-05-28T09:01:52.000Z",
+    "updatedAt": "2025-02-08T04:34:35.000Z"
+  },
+  {
+    "id": "spatie/laravel-tail",
+    "name": "spatie/laravel-tail",
+    "description": "An artisan command to tail your application logs",
+    "topics": [
+      "artisan",
+      "debug",
+      "laravel",
+      "log",
+      "php",
+      "tail"
+    ],
+    "owner": {
+      "name": "spatie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
+    },
+    "stars": 740,
+    "starsDetail": {
+      "total": 740,
+      "week": 2,
+      "month": 2,
+      "year": 11,
+      "updatedAt": 1736060777
+    },
+    "license": "MIT License",
+    "forks": 45,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-02-29T08:27:34.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-02-10T18:50:42.000Z",
+    "updatedAt": "2025-02-08T04:34:08.000Z"
+  },
+  {
+    "id": "unicodeveloper/laravel-hackathon-starter",
+    "name": "unicodeveloper/laravel-hackathon-starter",
+    "description": ":computer: :octocat: A hackathon/MVP boilerplate for laravel web applications. Start your hackathons without hassle.",
+    "topics": [
+      "api",
+      "boilerplate",
+      "demo",
+      "hackathon",
+      "laravel",
+      "mvp",
+      "php",
+      "social-login",
+      "starter",
+      "web-application"
+    ],
+    "owner": {
+      "name": "unicodeveloper",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2946769?v=4"
+    },
+    "stars": 1639,
+    "starsDetail": {
+      "total": 1639,
+      "week": 0,
+      "month": 2,
+      "year": 25,
+      "updatedAt": 1736060927
+    },
+    "license": "MIT License",
+    "forks": 295,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2023-12-14T12:09:30.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-02-08T02:14:29.000Z",
+    "updatedAt": "2025-02-08T04:34:58.000Z"
+  },
+  {
+    "id": "Attendize/Attendize",
+    "name": "Attendize/Attendize",
+    "description": "Attendize is an open-source ticket selling and event management platform built on Laravel.",
+    "topics": [
+      "attendance",
+      "attendize",
+      "door-management",
+      "event-management",
+      "event-registration",
+      "events",
+      "laravel",
+      "sell-tickets",
+      "ticketing",
+      "tickets"
+    ],
+    "owner": {
+      "name": "Attendize",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17337376?v=4"
+    },
+    "stars": 4062,
+    "starsDetail": {
+      "total": 4048,
+      "week": 4,
+      "month": 19,
+      "year": 261,
+      "updatedAt": 1736060947
+    },
+    "license": "Other",
+    "forks": 1194,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-08-20T12:36:09.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-03-03T01:33:10.000Z",
+    "updatedAt": "2025-02-08T04:35:01.000Z"
+  },
+  {
+    "id": "spatie/laravel-analytics",
+    "name": "spatie/laravel-analytics",
+    "description": "A Laravel package to retrieve pageviews and other data from Google Analytics",
+    "topics": [
+      "analytics",
+      "google",
+      "laravel",
+      "php",
+      "statistics"
+    ],
+    "owner": {
+      "name": "spatie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
+    },
+    "stars": 3129,
+    "starsDetail": {
+      "total": 3118,
+      "week": 2,
+      "month": 19,
+      "year": 174,
+      "updatedAt": 1736060914
+    },
+    "license": "MIT License",
+    "forks": 471,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2025-02-03T18:21:26.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-03-12T08:58:50.000Z",
+    "updatedAt": "2025-02-08T04:34:53.000Z"
+  },
+  {
+    "id": "spatie/laravel-responsecache",
+    "name": "spatie/laravel-responsecache",
+    "description": "Speed up a Laravel app by caching the entire response",
+    "topics": [
+      "cache",
+      "laravel",
+      "performance",
+      "php",
+      "varnish"
+    ],
+    "owner": {
+      "name": "spatie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
+    },
+    "stars": 2530,
+    "starsDetail": {
+      "total": 2517,
+      "week": 4,
+      "month": 19,
+      "year": 238,
+      "updatedAt": 1736060903
+    },
+    "license": "MIT License",
+    "forks": 227,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2025-01-27T21:23:19.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-07-16T13:31:04.000Z",
+    "updatedAt": "2025-02-08T04:34:49.000Z"
+  },
+  {
+    "id": "laravel/horizon",
+    "name": "laravel/horizon",
+    "description": "Dashboard and code-driven configuration for Laravel queues.",
+    "topics": [
+      "laravel",
+      "queue"
+    ],
+    "owner": {
+      "name": "laravel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/958072?v=4"
+    },
+    "stars": 3909,
+    "starsDetail": {
+      "total": 3895,
+      "week": 2,
+      "month": 18,
+      "year": 205,
+      "updatedAt": 1736060905
+    },
+    "license": "MIT License",
+    "forks": 665,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-01-31T10:55:18.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-07-14T15:26:27.000Z",
+    "updatedAt": "2025-02-08T04:34:50.000Z"
+  },
+  {
+    "id": "thephpleague/omnipay",
+    "name": "thephpleague/omnipay",
+    "description": "A framework agnostic, multi-gateway payment processing library for PHP 5.6+",
+    "topics": [],
+    "owner": {
+      "name": "thephpleague",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/527621?v=4"
+    },
+    "stars": 5976,
+    "starsDetail": {
+      "total": 5967,
+      "week": 1,
+      "month": 18,
+      "year": 169,
+      "updatedAt": 1736060897
+    },
+    "license": "MIT License",
+    "forks": 929,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-08-12T20:57:09.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2012-09-03T14:35:08.000Z",
+    "updatedAt": "2025-02-08T04:34:47.000Z"
+  },
+  {
+    "id": "z-song/laravel-admin",
+    "name": "z-song/laravel-admin",
+    "description": "Build a full-featured administrative interface in ten minutes",
+    "topics": [
+      "laravel-admin",
+      "model-form",
+      "model-grid",
+      "model-show",
+      "model-tree"
+    ],
+    "owner": {
+      "name": "z-song",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1479100?v=4"
+    },
+    "stars": 11165,
+    "starsDetail": {
+      "total": 11161,
+      "week": 4,
+      "month": 18,
+      "year": 260,
+      "updatedAt": 1736060932
+    },
+    "license": "MIT License",
+    "forks": 2832,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2024-07-03T14:08:34.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-12-30T10:42:57.000Z",
+    "updatedAt": "2025-02-08T04:34:59.000Z"
+  },
+  {
+    "id": "laravel/socialite",
+    "name": "laravel/socialite",
+    "description": "Laravel wrapper around OAuth 1 & OAuth 2 libraries.",
+    "topics": [
+      "laravel",
+      "oauth"
+    ],
+    "owner": {
+      "name": "laravel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/958072?v=4"
+    },
+    "stars": 5621,
+    "starsDetail": {
+      "total": 5596,
+      "week": 2,
+      "month": 17,
+      "year": 231,
+      "updatedAt": 1736060788
+    },
+    "license": "MIT License",
+    "forks": 942,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2025-02-07T22:07:14.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-08-18T02:49:36.000Z",
+    "updatedAt": "2025-02-08T04:34:12.000Z"
+  },
+  {
+    "id": "rap2hpoutre/fast-excel",
+    "name": "rap2hpoutre/fast-excel",
+    "description": "🦉 Fast Excel import/export for Laravel",
+    "topics": [
+      "csv",
+      "excel",
+      "fast",
+      "hacktoberfest",
+      "laravel",
+      "laravel-package",
+      "memory-efficiency",
+      "php",
+      "xlsx"
+    ],
+    "owner": {
+      "name": "rap2hpoutre",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1575946?v=4"
+    },
+    "stars": 2159,
+    "starsDetail": {
+      "total": 2139,
+      "week": 3,
+      "month": 17,
+      "year": 214,
+      "updatedAt": 1736060855
+    },
+    "license": "MIT License",
+    "forks": 253,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-08-20T20:30:23.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-04-05T07:49:06.000Z",
+    "updatedAt": "2025-02-08T04:34:32.000Z"
+  },
+  {
+    "id": "spatie/laravel-translatable",
+    "name": "spatie/laravel-translatable",
+    "description": "Making Eloquent models translatable",
+    "topics": [
+      "eloquent",
+      "i18n",
+      "laravel",
+      "php",
+      "translated-attributes"
+    ],
+    "owner": {
+      "name": "spatie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
+    },
+    "stars": 2288,
+    "starsDetail": {
+      "total": 2273,
+      "week": 3,
+      "month": 17,
+      "year": 176,
+      "updatedAt": 1736060911
+    },
+    "license": "MIT License",
+    "forks": 284,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2025-02-03T08:49:50.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-04-07T11:49:51.000Z",
+    "updatedAt": "2025-02-08T04:34:51.000Z"
+  },
+  {
+    "id": "barryvdh/laravel-debugbar",
+    "name": "barryvdh/laravel-debugbar",
+    "description": "Debugbar for Laravel (Integrates PHP Debug Bar)",
+    "topics": [
+      "debugbar",
+      "developer-tool",
+      "hacktoberfest",
+      "laravel",
+      "profiler",
+      "toolbar"
+    ],
+    "owner": {
+      "name": "barryvdh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/973269?v=4"
+    },
+    "stars": 17855,
+    "starsDetail": {
+      "total": 17662,
+      "week": 31,
+      "month": 166,
+      "year": 2066,
+      "updatedAt": 1736060776
+    },
+    "license": "MIT License",
+    "forks": 1568,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2025-02-04T16:46:21.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-09-05T10:26:54.000Z",
+    "updatedAt": "2025-02-08T04:34:05.000Z"
+  },
+  {
+    "id": "area17/twill",
+    "name": "area17/twill",
+    "description": "Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible. Chat with us on Discord at https://discord.gg/cnWk7EFv8R.",
+    "topics": [
+      "cms",
+      "cms-framework",
+      "content-management-system",
+      "headless-cms",
+      "laravel",
+      "vue"
+    ],
+    "owner": {
+      "name": "area17",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/74475?v=4"
+    },
+    "stars": 3834,
+    "starsDetail": {
+      "total": 3813,
+      "week": 5,
+      "month": 16,
+      "year": 375,
+      "updatedAt": 1736060969
+    },
+    "license": "Apache License 2.0",
+    "forks": 577,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2025-02-06T04:49:18.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-06-29T17:46:46.000Z",
+    "updatedAt": "2025-02-08T04:35:06.000Z"
+  },
+  {
+    "id": "spatie/laravel-tags",
+    "name": "spatie/laravel-tags",
+    "description": "Add tags and taggable behaviour to your Laravel app",
+    "topics": [
+      "database",
+      "eloquent",
+      "laravel",
+      "php",
+      "tags"
+    ],
+    "owner": {
+      "name": "spatie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
+    },
+    "stars": 1653,
+    "starsDetail": {
+      "total": 1645,
+      "week": 2,
+      "month": 16,
+      "year": 137,
+      "updatedAt": 1736060820
+    },
+    "license": "MIT License",
+    "forks": 289,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2025-01-31T14:05:18.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-10-19T08:28:05.000Z",
+    "updatedAt": "2025-02-08T04:34:23.000Z"
+  },
+  {
+    "id": "LavaLite/cms",
+    "name": "LavaLite/cms",
+    "description": "Multilingual PHP CMS built with Laravel  and bootstrap",
+    "topics": [
+      "admin-dashboard",
+      "bootstrap",
+      "cms",
+      "content-management",
+      "content-management-system",
+      "eloquent",
+      "laravel",
+      "laravel-admin",
+      "laravel-cms",
+      "laravel5",
+      "lavalite",
+      "php",
+      "php-cms",
+      "website-builder"
+    ],
+    "owner": {
+      "name": "LavaLite",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6159678?v=4"
+    },
+    "stars": 2864,
+    "starsDetail": {
+      "total": 2866,
+      "week": 5,
+      "month": 15,
+      "year": 160,
+      "updatedAt": 1736060965
+    },
+    "license": null,
+    "forks": 974,
+    "primaryLanguage": "Hack",
+    "pushedAt": "2023-09-28T16:17:55.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-04-21T12:42:15.000Z",
+    "updatedAt": "2025-02-08T04:35:05.000Z"
+  },
+  {
+    "id": "beyondcode/laravel-mailbox",
+    "name": "beyondcode/laravel-mailbox",
+    "description": "Catch incoming emails in your Laravel application",
+    "topics": [
+      "laravel",
+      "mail",
+      "mailgun",
+      "sendgrid"
+    ],
+    "owner": {
+      "name": "beyondcode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38242993?v=4"
+    },
+    "stars": 1064,
+    "starsDetail": {
+      "total": 1055,
+      "week": 6,
+      "month": 15,
+      "year": 74,
+      "updatedAt": 1736060812
+    },
+    "license": "MIT License",
+    "forks": 129,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-05-24T02:04:28.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-01-21T19:36:15.000Z",
+    "updatedAt": "2025-02-08T04:34:20.000Z"
+  },
+  {
+    "id": "Torann/laravel-geoip",
+    "name": "Torann/laravel-geoip",
+    "description": "Determine the geographical location of website visitors based on their IP addresses.",
+    "topics": [],
+    "owner": {
+      "name": "Torann",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1406755?v=4"
+    },
+    "stars": 2139,
+    "starsDetail": {
+      "total": 2129,
+      "week": 3,
+      "month": 14,
+      "year": 124,
+      "updatedAt": 1736060812
+    },
+    "license": "BSD 2-Clause \"Simplified\" License",
+    "forks": 375,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-07-23T17:24:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-12-11T22:22:25.000Z",
+    "updatedAt": "2025-02-08T04:34:20.000Z"
+  },
+  {
+    "id": "cviebrock/eloquent-sluggable",
+    "name": "cviebrock/eloquent-sluggable",
+    "description": "Easy creation of slugs for your Eloquent models in Laravel",
+    "topics": [
+      "eloquent-models",
+      "laravel",
+      "slug"
+    ],
+    "owner": {
+      "name": "cviebrock",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/166810?v=4"
+    },
+    "stars": 3935,
+    "starsDetail": {
+      "total": 3922,
+      "week": 3,
+      "month": 14,
+      "year": 183,
+      "updatedAt": 1736060797
+    },
+    "license": "MIT License",
+    "forks": 460,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-11-29T02:36:46.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-06-05T21:42:39.000Z",
+    "updatedAt": "2025-02-08T04:34:16.000Z"
+  },
+  {
+    "id": "nuwave/lighthouse",
+    "name": "nuwave/lighthouse",
+    "description": "A framework for serving GraphQL from Laravel",
+    "topics": [
+      "graphql",
+      "laravel",
+      "laravel-graphql",
+      "lighthouse-php",
+      "php"
+    ],
+    "owner": {
+      "name": "nuwave",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15846842?v=4"
+    },
+    "stars": 3396,
+    "starsDetail": {
+      "total": 3386,
+      "week": 3,
+      "month": 14,
+      "year": 175,
+      "updatedAt": 1736060891
+    },
+    "license": "MIT License",
+    "forks": 437,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2025-01-17T15:31:51.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-05-29T21:44:38.000Z",
+    "updatedAt": "2025-02-08T04:34:46.000Z"
+  },
+  {
+    "id": "spatie/laravel-collection-macros",
+    "name": "spatie/laravel-collection-macros",
+    "description": "A set of useful Laravel collection macros",
+    "topics": [
+      "collection",
+      "hacktoberfest",
+      "laravel",
+      "macros",
+      "php"
+    ],
+    "owner": {
+      "name": "spatie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
+    },
+    "stars": 1777,
+    "starsDetail": {
+      "total": 1769,
+      "week": 3,
+      "month": 14,
+      "year": 131,
+      "updatedAt": 1736060807
+    },
+    "license": "Other",
+    "forks": 141,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-12-11T09:10:57.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-07-26T13:10:12.000Z",
+    "updatedAt": "2025-02-08T04:34:18.000Z"
+  },
+  {
+    "id": "artesaos/seotools",
+    "name": "artesaos/seotools",
+    "description": "SEO Tools for Laravel",
+    "topics": [
+      "facade",
+      "json-ld",
+      "laravel",
+      "lumen",
+      "meta-tags",
+      "opengraph",
+      "opengraph-tags",
+      "php",
+      "seo",
+      "seo-meta",
+      "seometa",
+      "seotools",
+      "twitter",
+      "webmaster",
+      "webmasters"
+    ],
+    "owner": {
+      "name": "artesaos",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11164074?v=4"
+    },
+    "stars": 3170,
+    "starsDetail": {
+      "total": 3142,
+      "week": 5,
+      "month": 13,
+      "year": 228,
+      "updatedAt": 1736060824
+    },
+    "license": "MIT License",
+    "forks": 504,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-07-15T21:25:56.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-02-23T19:21:45.000Z",
+    "updatedAt": "2025-02-08T04:34:24.000Z"
+  },
+  {
+    "id": "laravolt/avatar",
+    "name": "laravolt/avatar",
+    "description": "Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless. ",
+    "topics": [
+      "avatar",
+      "gravatar",
+      "laravel-package",
+      "php",
+      "php-library"
+    ],
+    "owner": {
+      "name": "laravolt",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13552888?v=4"
+    },
+    "stars": 1930,
+    "starsDetail": {
+      "total": 1922,
+      "week": 4,
+      "month": 13,
+      "year": 134,
+      "updatedAt": 1736060857
+    },
+    "license": "MIT License",
+    "forks": 177,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-10-11T09:18:47.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-10-12T07:01:40.000Z",
+    "updatedAt": "2025-02-08T04:34:33.000Z"
+  },
+  {
+    "id": "lazychaser/laravel-nestedset",
+    "name": "lazychaser/laravel-nestedset",
+    "description": "Effective tree structures in Laravel 4-8",
+    "topics": [
+      "hierarchical-data",
+      "laravel",
+      "menus",
+      "nested-set",
+      "php",
+      "tree-structure",
+      "trees"
+    ],
+    "owner": {
+      "name": "lazychaser",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2094856?v=4"
+    },
+    "stars": 3690,
+    "starsDetail": {
+      "total": 3676,
+      "week": 5,
+      "month": 13,
+      "year": 194,
+      "updatedAt": 1736060866
+    },
+    "license": null,
+    "forks": 470,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-05-17T09:01:25.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-09-28T16:44:21.000Z",
+    "updatedAt": "2025-02-08T04:34:36.000Z"
+  },
+  {
+    "id": "InfyOmLabs/laravel-generator",
+    "name": "InfyOmLabs/laravel-generator",
+    "description": "API and Admin Panel CRUD Generator for Laravel.",
+    "topics": [
+      "api-generator",
+      "crud-generator",
+      "hacktoberfest",
+      "infyom",
+      "infyom-generator",
+      "infyom-laravel-generator",
+      "laravel",
+      "laravel-api-generator",
+      "laravel-curd-generator",
+      "laravel-generator"
+    ],
+    "owner": {
+      "name": "InfyOmLabs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15918954?v=4"
+    },
+    "stars": 3812,
+    "starsDetail": {
+      "total": 3805,
+      "week": 1,
+      "month": 12,
+      "year": 148,
+      "updatedAt": 1736060764
+    },
+    "license": "MIT License",
+    "forks": 822,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2024-05-07T11:06:38.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-02-14T09:38:53.000Z",
+    "updatedAt": "2025-02-08T04:34:02.000Z"
+  },
+  {
+    "id": "VentureCraft/revisionable",
+    "name": "VentureCraft/revisionable",
+    "description": "Easily create a revision history for any laravel model",
+    "topics": [],
+    "owner": {
+      "name": "VentureCraft",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3270712?v=4"
+    },
+    "stars": 2574,
+    "starsDetail": {
+      "total": 2566,
+      "week": 2,
+      "month": 12,
+      "year": 94,
+      "updatedAt": 1736060826
+    },
+    "license": "MIT License",
+    "forks": 349,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-08-06T05:53:46.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-03-06T12:59:11.000Z",
+    "updatedAt": "2025-02-08T04:34:25.000Z"
+  },
+  {
+    "id": "antonioribeiro/google2fa",
+    "name": "antonioribeiro/google2fa",
+    "description": "A One Time Password Authentication package, compatible with Google Authenticator.",
+    "topics": [
+      "2fa",
+      "agnostic",
+      "google2fa",
+      "hacktoberfest",
+      "hacktoberfest-accepted",
+      "php",
+      "two-factor-authentication"
+    ],
+    "owner": {
+      "name": "antonioribeiro",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3182864?v=4"
+    },
+    "stars": 1882,
+    "starsDetail": {
+      "total": 1874,
+      "week": 4,
+      "month": 12,
+      "year": 162,
+      "updatedAt": 1736060788
+    },
+    "license": "MIT License",
+    "forks": 197,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-10-20T12:45:05.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-09-21T16:24:13.000Z",
+    "updatedAt": "2025-02-08T04:34:12.000Z"
+  },
+  {
+    "id": "apiato/apiato",
+    "name": "apiato/apiato",
+    "description": "PHP Framework for building scalable API's on top of Laravel.",
+    "topics": [
+      "api",
+      "api-centric",
+      "api-starter",
+      "api-starter-template",
+      "apiato",
+      "laravel-starter",
+      "php-api",
+      "php-framework",
+      "porto",
+      "starter-app",
+      "starter-kit",
+      "starter-project"
+    ],
+    "owner": {
+      "name": "apiato",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23198877?v=4"
+    },
+    "stars": 3048,
+    "starsDetail": {
+      "total": 3033,
+      "week": 2,
+      "month": 12,
+      "year": 143,
+      "updatedAt": 1736060936
+    },
+    "license": "MIT License",
+    "forks": 483,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-02-08T13:37:29.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-04-17T10:30:15.000Z",
+    "updatedAt": "2025-02-08T17:20:34.000Z"
+  },
+  {
+    "id": "cytopia/devilbox",
+    "name": "cytopia/devilbox",
+    "description": "A modern Docker LAMP stack and MEAN stack for local development",
+    "topics": [
+      "apache",
+      "devilbox",
+      "docker",
+      "docker-compose",
+      "docker-lamp",
+      "lamp",
+      "lamp-stack",
+      "lemp",
+      "lemp-stack",
+      "mariadb",
+      "mean-stack",
+      "mysql",
+      "nginx",
+      "php",
+      "php-docker-stack",
+      "php7",
+      "php71",
+      "php72",
+      "postgresql",
+      "redis"
+    ],
+    "owner": {
+      "name": "cytopia",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12533999?v=4"
+    },
+    "stars": 4432,
+    "starsDetail": {
+      "total": 4411,
+      "week": 2,
+      "month": 12,
+      "year": 202,
+      "updatedAt": 1736060920
+    },
+    "license": "MIT License",
+    "forks": 657,
+    "primaryLanguage": "Batchfile",
+    "pushedAt": "2024-04-19T13:46:30.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-10-07T11:10:05.000Z",
+    "updatedAt": "2025-02-08T04:34:55.000Z"
+  },
+  {
+    "id": "JosephSilber/bouncer",
+    "name": "JosephSilber/bouncer",
+    "description": "Laravel Eloquent roles and abilities.",
+    "topics": [
+      "acl",
+      "auth",
+      "authorization",
+      "eloquent",
+      "laravel",
+      "multitenancy",
+      "permissions",
+      "php",
+      "roles",
+      "security"
+    ],
+    "owner": {
+      "name": "JosephSilber",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1403741?v=4"
+    },
+    "stars": 3471,
+    "starsDetail": {
+      "total": 3467,
+      "week": 3,
+      "month": 11,
+      "year": 161,
+      "updatedAt": 1736060781
+    },
+    "license": "MIT License",
+    "forks": 336,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-06-13T21:28:29.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-09-17T00:34:40.000Z",
+    "updatedAt": "2025-02-08T04:34:09.000Z"
+  },
+  {
+    "id": "barryvdh/laravel-snappy",
+    "name": "barryvdh/laravel-snappy",
+    "description": "Laravel Snappy PDF",
+    "topics": [],
+    "owner": {
+      "name": "barryvdh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/973269?v=4"
+    },
+    "stars": 2667,
+    "starsDetail": {
+      "total": 2655,
+      "week": 2,
+      "month": 11,
+      "year": 176,
+      "updatedAt": 1736060847
+    },
+    "license": "MIT License",
+    "forks": 290,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2024-04-24T14:38:07.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-12-18T12:09:11.000Z",
+    "updatedAt": "2025-02-08T04:34:31.000Z"
+  },
+  {
+    "id": "dingo/api",
+    "name": "dingo/api",
+    "description": "A RESTful API package for the Laravel and Lumen frameworks.",
+    "topics": [],
+    "owner": {
+      "name": "dingo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4798539?v=4"
+    },
+    "stars": 9332,
+    "starsDetail": {
+      "total": 9325,
+      "week": 2,
+      "month": 11,
+      "year": 85,
+      "updatedAt": 1736060888
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 1257,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2022-05-19T22:59:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-04-11T12:31:18.000Z",
+    "updatedAt": "2025-02-08T04:34:44.000Z"
+  },
+  {
+    "id": "mewebstudio/captcha",
+    "name": "mewebstudio/captcha",
+    "description": "Captcha for Laravel 5/6/7/8/9/10/11",
+    "topics": [
+      "captcha",
+      "laravel",
+      "php",
+      "security"
+    ],
+    "owner": {
+      "name": "mewebstudio",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2125733?v=4"
+    },
+    "stars": 2488,
+    "starsDetail": {
+      "total": 2478,
+      "week": 2,
+      "month": 10,
+      "year": 188,
+      "updatedAt": 1736060794
+    },
+    "license": "MIT License",
+    "forks": 453,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-11-05T17:54:18.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-03-27T00:01:06.000Z",
+    "updatedAt": "2025-02-08T04:34:15.000Z"
+  },
+  {
+    "id": "AsgardCms/Platform",
+    "name": "AsgardCms/Platform",
+    "description": "A modular multilingual CMS built with Laravel 5.",
+    "topics": [
+      "asgardcms",
+      "cmf",
+      "cms",
+      "framework",
+      "hacktoberfest",
+      "laravel",
+      "php"
+    ],
+    "owner": {
+      "name": "AsgardCms",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8859068?v=4"
+    },
+    "stars": 783,
+    "starsDetail": {
+      "total": 783,
+      "week": 0,
+      "month": 1,
+      "year": 9,
+      "updatedAt": 1736060965
+    },
+    "license": "MIT License",
+    "forks": 239,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2023-01-20T08:40:26.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-10-11T08:22:27.000Z",
+    "updatedAt": "2025-02-08T04:35:05.000Z"
+  },
+  {
+    "id": "GrafiteInc/Builder",
+    "name": "GrafiteInc/Builder",
+    "description": "Prepare your Laravel apps incredibly fast, with various commands, services, facades and boilerplates. ",
+    "topics": [
+      "api",
+      "billing",
+      "crud",
+      "feature-flags",
+      "laravel",
+      "notifications",
+      "socialite",
+      "starterkit"
+    ],
+    "owner": {
+      "name": "GrafiteInc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/37278177?v=4"
+    },
+    "stars": 987,
+    "starsDetail": {
+      "total": 990,
+      "week": 0,
+      "month": 1,
+      "year": 3,
+      "updatedAt": 1736060922
+    },
+    "license": "MIT License",
+    "forks": 110,
+    "primaryLanguage": "Vue",
+    "pushedAt": "2020-01-10T03:50:54.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-01-15T20:07:15.000Z",
+    "updatedAt": "2025-02-08T04:34:57.000Z"
+  },
+  {
+    "id": "GrahamCampbell/Laravel-Markdown",
+    "name": "GrahamCampbell/Laravel-Markdown",
+    "description": "A CommonMark wrapper for Laravel",
+    "topics": [
+      "hacktoberfest"
+    ],
+    "owner": {
+      "name": "GrahamCampbell",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2829600?v=4"
+    },
+    "stars": 1322,
+    "starsDetail": {
+      "total": 1320,
+      "week": 0,
+      "month": 1,
+      "year": 51,
+      "updatedAt": 1736060814
+    },
+    "license": "MIT License",
+    "forks": 141,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2024-03-17T23:10:12.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-12-10T22:03:54.000Z",
+    "updatedAt": "2025-02-08T04:34:21.000Z"
+  },
+  {
+    "id": "Vuedo/vuedo",
+    "name": "Vuedo/vuedo",
+    "description": "Vuedo is a blog platform, built with Laravel and Vue.js.",
+    "topics": [
+      "blog",
+      "laravel",
+      "vue",
+      "vuejs"
+    ],
+    "owner": {
+      "name": "Vuedo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20322540?v=4"
+    },
+    "stars": 2288,
+    "starsDetail": {
+      "total": 2287,
+      "week": 1,
+      "month": 1,
+      "year": 26,
+      "updatedAt": 1736035582
+    },
+    "license": "MIT License",
+    "forks": 540,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2020-10-01T14:37:45.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-07-15T06:07:07.000Z",
+    "updatedAt": "2025-02-08T03:49:56.000Z"
+  },
+  {
+    "id": "amranidev/scaffold-interface",
+    "name": "amranidev/scaffold-interface",
+    "description": ":rocket: A Smart CRUD Generator For Laravel",
+    "topics": [
+      "crud",
+      "laravel",
+      "php",
+      "scaffold",
+      "scaffold-interface"
+    ],
+    "owner": {
+      "name": "amranidev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12874619?v=4"
+    },
+    "stars": 916,
+    "starsDetail": {
+      "total": 915,
+      "week": 0,
+      "month": 1,
+      "year": 13,
+      "updatedAt": 1736060757
+    },
+    "license": "MIT License",
+    "forks": 136,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2023-03-16T17:54:29.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-11-03T21:32:37.000Z",
+    "updatedAt": "2025-02-08T04:34:01.000Z"
+  },
+  {
+    "id": "anlutro/laravel-settings",
+    "name": "anlutro/laravel-settings",
+    "description": "Persistent settings in Laravel",
+    "topics": [],
+    "owner": {
+      "name": "anlutro",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/163093?v=4"
+    },
+    "stars": 940,
+    "starsDetail": {
+      "total": 941,
+      "week": 1,
+      "month": 1,
+      "year": 35,
+      "updatedAt": 1736060826
+    },
+    "license": "MIT License",
+    "forks": 113,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-06-14T10:47:12.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-01-18T14:00:43.000Z",
+    "updatedAt": "2025-02-08T04:34:25.000Z"
+  },
+  {
+    "id": "awes-io/awes-io",
+    "name": "awes-io/awes-io",
+    "description": "Awes.io // boilerplate based on Vue, Nuxt, TailwindCSS plus Laravel as a backend. 🤟",
+    "topics": [
+      "boilerplate",
+      "crm-platform",
+      "laravel",
+      "nuxt",
+      "pwa",
+      "pwa-boilerplate",
+      "saas-boilerplate",
+      "spa",
+      "ssr",
+      "tailwindcss",
+      "ui-kit",
+      "vue"
+    ],
+    "owner": {
+      "name": "awes-io",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46977755?v=4"
+    },
+    "stars": 854,
+    "starsDetail": {
+      "total": 852,
+      "week": 1,
+      "month": 1,
+      "year": 42,
+      "updatedAt": 1736060792
+    },
+    "license": "MIT License",
+    "forks": 97,
+    "primaryLanguage": "Vue",
+    "pushedAt": "2019-08-09T13:49:10.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-01-23T22:58:17.000Z",
+    "updatedAt": "2025-02-08T04:34:14.000Z"
+  },
+  {
+    "id": "dwightwatson/rememberable",
+    "name": "dwightwatson/rememberable",
+    "description": "Query caching for Laravel",
+    "topics": [
+      "caching",
+      "eloquent",
+      "laravel",
+      "php"
+    ],
+    "owner": {
+      "name": "dwightwatson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1100408?v=4"
+    },
+    "stars": 1123,
+    "starsDetail": {
+      "total": 1122,
+      "week": 1,
+      "month": 1,
+      "year": 41,
+      "updatedAt": 1736060899
+    },
+    "license": "MIT License",
+    "forks": 96,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-06-13T22:18:01.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-03-08T23:56:11.000Z",
+    "updatedAt": "2025-02-08T04:34:48.000Z"
+  },
+  {
+    "id": "dwijitsolutions/laraadmin",
+    "name": "dwijitsolutions/laraadmin",
+    "description": "LaraAdmin is a Open source Laravel Admin Panel / CMS which can be used as Admin Backend, Data Management Tool or CRM boilerplate for Laravel with features like Advanced CRUD Generation, Module Manager, Backups and many more.",
+    "topics": [],
+    "owner": {
+      "name": "dwijitsolutions",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19834726?v=4"
+    },
+    "stars": 1577,
+    "starsDetail": {
+      "total": 1577,
+      "week": 0,
+      "month": 1,
+      "year": 58,
+      "updatedAt": 1736060922
+    },
+    "license": "MIT License",
+    "forks": 538,
+    "primaryLanguage": "SCSS",
+    "pushedAt": "2024-01-05T18:48:42.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-06-23T20:35:32.000Z",
+    "updatedAt": "2025-02-08T04:34:57.000Z"
+  },
+  {
+    "id": "hootlex/laravel-friendships",
+    "name": "hootlex/laravel-friendships",
+    "description": "This package gives Eloquent models the ability to manage their friendships.",
+    "topics": [
+      "eloquent",
+      "friend-groups",
+      "friend-requests",
+      "friendships",
+      "laravel"
+    ],
+    "owner": {
+      "name": "hootlex",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6147968?v=4"
+    },
+    "stars": 704,
+    "starsDetail": {
+      "total": 704,
+      "week": 0,
+      "month": 1,
+      "year": 11,
+      "updatedAt": 1736060828
+    },
+    "license": "MIT License",
+    "forks": 151,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2021-12-28T11:09:56.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-11-19T04:03:53.000Z",
+    "updatedAt": "2025-02-08T04:34:26.000Z"
+  },
+  {
+    "id": "jadjoubran/laravel5-angular-material-starter",
+    "name": "jadjoubran/laravel5-angular-material-starter",
+    "description": "Get started with Laravel 5.3 and AngularJS (material)",
+    "topics": [
+      "angularjs",
+      "laravel",
+      "material",
+      "php"
+    ],
+    "owner": {
+      "name": "jadjoubran",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2265232?v=4"
+    },
+    "stars": 1661,
+    "starsDetail": {
+      "total": 1661,
+      "week": 1,
+      "month": 1,
+      "year": 4,
+      "updatedAt": 1736060923
+    },
+    "license": "MIT License",
+    "forks": 398,
+    "primaryLanguage": "Vue",
+    "pushedAt": "2021-11-01T16:11:09.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-05-02T11:08:20.000Z",
+    "updatedAt": "2025-02-08T04:34:58.000Z"
+  },
+  {
+    "id": "jcc/blog",
+    "name": "jcc/blog",
+    "description": ":star2: PJ Blog is an open source blog built with Laravel and Vue.js.",
+    "topics": [
+      "beautiful",
+      "blog",
+      "laravel",
+      "open-source",
+      "pj-blog",
+      "vue",
+      "vuejs"
+    ],
+    "owner": {
+      "name": "jcc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12684082?v=4"
+    },
+    "stars": 2878,
+    "starsDetail": {
+      "total": 2873,
+      "week": 0,
+      "month": 1,
+      "year": 35,
+      "updatedAt": 1736035583
+    },
+    "license": "MIT License",
+    "forks": 687,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2023-06-08T08:03:30.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-12-27T03:56:51.000Z",
+    "updatedAt": "2025-02-08T03:49:59.000Z"
+  },
+  {
+    "id": "jenssegers/date",
+    "name": "jenssegers/date",
+    "description": "🗓 A library to help you work with dates in multiple languages, based on Carbon.",
+    "topics": [
+      "carbon",
+      "dates",
+      "i18n",
+      "internationalisation",
+      "internationalization"
+    ],
+    "owner": {
+      "name": "jenssegers",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/194377?v=4"
+    },
+    "stars": 1815,
+    "starsDetail": {
+      "total": 1815,
+      "week": 0,
+      "month": 1,
+      "year": 16,
+      "updatedAt": 1736060913
+    },
+    "license": "MIT License",
+    "forks": 246,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2023-12-04T07:46:11.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-04-28T23:48:46.000Z",
+    "updatedAt": "2025-02-08T04:34:52.000Z"
+  },
+  {
+    "id": "kevinkhill/lavacharts",
+    "name": "kevinkhill/lavacharts",
+    "description": "Lavacharts is a graphing / charting library for PHP 5.4+ that wraps Google's Javascript Chart API.",
+    "topics": [
+      "charting-library",
+      "charts",
+      "composer",
+      "google-charts",
+      "graphing",
+      "php"
+    ],
+    "owner": {
+      "name": "kevinkhill",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/266076?v=4"
+    },
+    "stars": 621,
+    "starsDetail": {
+      "total": 621,
+      "week": 1,
+      "month": 1,
+      "year": 7,
+      "updatedAt": 1736060793
+    },
+    "license": "Other",
+    "forks": 140,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-04-26T19:57:44.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-08-29T18:27:11.000Z",
+    "updatedAt": "2025-02-08T04:34:15.000Z"
+  },
+  {
+    "id": "laravel/elixir",
+    "name": "laravel/elixir",
+    "description": "Fluent API for Gulp.",
+    "topics": [],
+    "owner": {
+      "name": "laravel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/958072?v=4"
+    },
+    "stars": 1075,
+    "starsDetail": {
+      "total": 1075,
+      "week": 1,
+      "month": 1,
+      "year": 4,
+      "updatedAt": 1736060891
+    },
+    "license": null,
+    "forks": 249,
+    "primaryLanguage": "CoffeeScript",
+    "pushedAt": "2020-03-30T19:11:15.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-10-03T06:59:04.000Z",
+    "updatedAt": "2025-02-08T04:34:46.000Z"
+  },
+  {
+    "id": "lubusIN/laravel-decomposer",
+    "name": "lubusIN/laravel-decomposer",
+    "description": "⚙️ A Laravel package to decompose your installed packages, their dependencies, your app & server environment",
+    "topics": [
+      "decomposer",
+      "laravel",
+      "laravel-decomposer",
+      "laravel-package"
+    ],
+    "owner": {
+      "name": "lubusIN",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3909640?v=4"
+    },
+    "stars": 524,
+    "starsDetail": {
+      "total": 524,
+      "week": 0,
+      "month": 1,
+      "year": 6,
+      "updatedAt": 1736060767
+    },
+    "license": "MIT License",
+    "forks": 42,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2020-11-02T14:39:31.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-02-17T16:52:39.000Z",
+    "updatedAt": "2025-02-08T04:34:04.000Z"
+  },
+  {
+    "id": "nicolaslopezj/searchable",
+    "name": "nicolaslopezj/searchable",
+    "description": "A php trait to search laravel models",
+    "topics": [
+      "eloquent-models",
+      "laravel",
+      "php",
+      "prioritizing-matches",
+      "search"
+    ],
+    "owner": {
+      "name": "nicolaslopezj",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2042567?v=4"
+    },
+    "stars": 2010,
+    "starsDetail": {
+      "total": 2009,
+      "week": 0,
+      "month": 1,
+      "year": 14,
+      "updatedAt": 1736060881
+    },
+    "license": "MIT License",
+    "forks": 292,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2023-03-17T13:03:08.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-06-17T05:53:45.000Z",
+    "updatedAt": "2025-02-08T04:34:42.000Z"
+  },
+  {
+    "id": "orchestral/tenanti",
+    "name": "orchestral/tenanti",
+    "description": "[Package] Multi-tenant Database Schema Manager for Laravel",
+    "topics": [
+      "database-migrations",
+      "laravel",
+      "php",
+      "tenant"
+    ],
+    "owner": {
+      "name": "orchestral",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2352258?v=4"
+    },
+    "stars": 588,
+    "starsDetail": {
+      "total": 588,
+      "week": 0,
+      "month": 1,
+      "year": 7,
+      "updatedAt": 1736060875
+    },
+    "license": "MIT License",
+    "forks": 53,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2023-06-13T03:36:47.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-03-20T04:27:52.000Z",
+    "updatedAt": "2025-02-08T04:34:39.000Z"
+  },
+  {
+    "id": "proengsoft/laravel-jsvalidation",
+    "name": "proengsoft/laravel-jsvalidation",
+    "description": "Laravel Javascript Validation",
+    "topics": [],
+    "owner": {
+      "name": "proengsoft",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3408704?v=4"
+    },
+    "stars": 1140,
+    "starsDetail": {
+      "total": 1135,
+      "week": 0,
+      "month": 1,
+      "year": 54,
+      "updatedAt": 1736060861
+    },
+    "license": "MIT License",
+    "forks": 175,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-02-06T15:29:36.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-03-15T23:38:26.000Z",
+    "updatedAt": "2025-02-08T04:34:34.000Z"
+  },
+  {
+    "id": "spatie/laravel-pjax",
+    "name": "spatie/laravel-pjax",
+    "description": "A pjax middleware for Laravel",
+    "topics": [
+      "javascript",
+      "laravel",
+      "performance",
+      "php",
+      "pjax"
+    ],
+    "owner": {
+      "name": "spatie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
+    },
+    "stars": 511,
+    "starsDetail": {
+      "total": 511,
+      "week": 1,
+      "month": 1,
+      "year": 6,
+      "updatedAt": 1736060861
+    },
+    "license": "MIT License",
+    "forks": 49,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-03-08T15:14:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-10-16T18:44:31.000Z",
+    "updatedAt": "2025-02-08T04:34:34.000Z"
+  },
+  {
+    "id": "spatie/laravel-uptime-monitor",
+    "name": "spatie/laravel-uptime-monitor",
+    "description": "A powerful and easy to configure uptime and ssl monitor",
+    "topics": [
+      "laravel",
+      "monitoring",
+      "php",
+      "ssl",
+      "uptime-monitor"
+    ],
+    "owner": {
+      "name": "spatie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
+    },
+    "stars": 1033,
+    "starsDetail": {
+      "total": 1028,
+      "week": 0,
+      "month": 1,
+      "year": 47,
+      "updatedAt": 1736060906
+    },
+    "license": "MIT License",
+    "forks": 174,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2025-01-27T14:17:25.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-09-09T06:55:41.000Z",
+    "updatedAt": "2025-02-08T04:34:50.000Z"
+  },
+  {
+    "id": "spiritix/lada-cache",
+    "name": "spiritix/lada-cache",
+    "description": "A Redis based, fully automated and scalable database cache layer for Laravel",
+    "topics": [
+      "cache",
+      "caching",
+      "database",
+      "eloquent",
+      "laravel",
+      "laravel-5-package",
+      "php",
+      "redis"
+    ],
+    "owner": {
+      "name": "spiritix",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2979494?v=4"
+    },
+    "stars": 538,
+    "starsDetail": {
+      "total": 538,
+      "week": 0,
+      "month": 1,
+      "year": 20,
+      "updatedAt": 1736060877
+    },
+    "license": "MIT License",
+    "forks": 69,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2024-06-21T09:26:18.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-10-12T11:51:22.000Z",
+    "updatedAt": "2025-02-08T04:34:40.000Z"
+  },
+  {
+    "id": "stefanzweifel/screeenly",
+    "name": "stefanzweifel/screeenly",
+    "description": "📸  Screenshot as a Service",
+    "topics": [
+      "application",
+      "laravel",
+      "php",
+      "screenshot"
+    ],
+    "owner": {
+      "name": "stefanzweifel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1080923?v=4"
+    },
+    "stars": 509,
+    "starsDetail": {
+      "total": 508,
+      "week": 0,
+      "month": 1,
+      "year": 42,
+      "updatedAt": 1736060949
+    },
+    "license": "MIT License",
+    "forks": 102,
+    "primaryLanguage": "Procfile",
+    "pushedAt": "2022-03-06T10:26:27.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-07-13T18:37:11.000Z",
+    "updatedAt": "2025-02-08T04:35:02.000Z"
+  },
+  {
+    "id": "Adldap2/Adldap2-Laravel",
+    "name": "Adldap2/Adldap2-Laravel",
+    "description": "LDAP Authentication & Management for Laravel",
+    "topics": [
+      "adldap",
+      "auth",
+      "driver",
+      "laravel",
+      "ldap",
+      "ldap-authentication"
+    ],
+    "owner": {
+      "name": "Adldap2",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11871890?v=4"
+    },
+    "stars": 911,
+    "starsDetail": {
+      "total": 911,
+      "week": 0,
+      "month": 0,
+      "year": 4,
+      "updatedAt": 1736060789
+    },
+    "license": "MIT License",
+    "forks": 185,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2023-07-24T20:18:21.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-07-22T13:51:01.000Z",
+    "updatedAt": "2025-02-08T04:34:13.000Z"
+  },
+  {
+    "id": "CodeSleeve/laravel-stapler",
+    "name": "CodeSleeve/laravel-stapler",
+    "description": "Stapler-based file upload package for the Laravel framework.",
+    "topics": [],
+    "owner": {
+      "name": "CodeSleeve",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4665042?v=4"
+    },
+    "stars": 556,
+    "starsDetail": {
+      "total": 555,
+      "week": 0,
+      "month": 0,
+      "year": 2,
+      "updatedAt": 1736060853
+    },
+    "license": "MIT License",
+    "forks": 109,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2018-05-12T15:35:36.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-05-27T15:20:33.000Z",
+    "updatedAt": "2025-02-08T04:34:32.000Z"
+  },
+  {
+    "id": "Intervention/imagecache",
+    "name": "Intervention/imagecache",
+    "description": "Caching extension for the Intervention Image Class",
+    "topics": [],
+    "owner": {
+      "name": "Intervention",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3258272?v=4"
+    },
+    "stars": 635,
+    "starsDetail": {
+      "total": 636,
+      "week": 0,
+      "month": 0,
+      "year": 7,
+      "updatedAt": 1736060897
+    },
+    "license": "MIT License",
+    "forks": 126,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2023-12-09T18:27:48.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-03-09T14:35:48.000Z",
+    "updatedAt": "2025-02-08T04:34:47.000Z"
+  },
+  {
+    "id": "TomLingham/Laravel-Searchy",
+    "name": "TomLingham/Laravel-Searchy",
+    "description": "Unmaintained: Laravel Searchy makes user driven searching easy with fuzzy search, basic string matching and more to come!",
+    "topics": [],
+    "owner": {
+      "name": "TomLingham",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4160665?v=4"
+    },
+    "stars": 535,
+    "starsDetail": {
+      "total": 535,
+      "week": 0,
+      "month": 0,
+      "year": 2,
+      "updatedAt": 1736060884
+    },
+    "license": "MIT License",
+    "forks": 109,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-01-02T12:36:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-07-13T11:07:53.000Z",
+    "updatedAt": "2025-02-08T04:34:44.000Z"
+  },
+  {
+    "id": "aaronlord/laroute",
+    "name": "aaronlord/laroute",
+    "description": "Generate Laravel route URLs from JavaScript.",
+    "topics": [],
+    "owner": {
+      "name": "aaronlord",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1591606?v=4"
+    },
+    "stars": 797,
+    "starsDetail": {
+      "total": 797,
+      "week": 0,
+      "month": 0,
+      "year": 3,
+      "updatedAt": 1736060857
+    },
+    "license": "MIT License",
+    "forks": 142,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2024-03-01T16:19:30.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-03-14T11:37:48.000Z",
+    "updatedAt": "2025-02-08T04:34:33.000Z"
+  },
+  {
+    "id": "aschmelyun/larametrics",
+    "name": "aschmelyun/larametrics",
+    "description": "A self-hosted metrics and notifications platform for Laravel apps",
+    "topics": [
+      "laravel",
+      "laravel-apps",
+      "metrics",
+      "notifications"
+    ],
+    "owner": {
+      "name": "aschmelyun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3395980?v=4"
+    },
+    "stars": 629,
+    "starsDetail": {
+      "total": 628,
+      "week": 0,
+      "month": 0,
+      "year": 2,
+      "updatedAt": 1736060903
+    },
+    "license": "MIT License",
+    "forks": 54,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2023-12-05T01:31:52.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-10-21T19:01:14.000Z",
+    "updatedAt": "2025-02-08T04:34:50.000Z"
+  },
+  {
+    "id": "backup-manager/laravel",
+    "name": "backup-manager/laravel",
+    "description": "Driver to seamlessly integrate the Backup Manager into Laravel applications.",
+    "topics": [],
+    "owner": {
+      "name": "backup-manager",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12810753?v=4"
+    },
+    "stars": 659,
+    "starsDetail": {
+      "total": 654,
+      "week": 0,
+      "month": 0,
+      "year": 10,
+      "updatedAt": 1736060863
+    },
+    "license": "MIT License",
+    "forks": 146,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2021-02-03T11:42:01.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-06-09T08:40:06.000Z",
+    "updatedAt": "2025-02-08T04:34:35.000Z"
+  },
+  {
+    "id": "chrisbjr/api-guard",
+    "name": "chrisbjr/api-guard",
+    "description": "A simple way of authenticating your RESTful APIs with API keys using Laravel",
+    "topics": [],
+    "owner": {
+      "name": "chrisbjr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/571279?v=4"
+    },
+    "stars": 692,
+    "starsDetail": {
+      "total": 691,
+      "week": 0,
+      "month": 0,
+      "year": 2,
+      "updatedAt": 1736060885
+    },
+    "license": "MIT License",
+    "forks": 144,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2020-11-18T09:29:23.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-06-13T09:21:06.000Z",
+    "updatedAt": "2025-02-08T04:34:44.000Z"
+  },
+  {
+    "id": "hootlex/laravel-moderation",
+    "name": "hootlex/laravel-moderation",
+    "description": "A simple Content Moderation System for Laravel 5.* that allows you to Approve or Reject resources like posts, comments, users, etc.",
+    "topics": [
+      "eloquent",
+      "laravel",
+      "laravel-moderation",
+      "moderation"
+    ],
+    "owner": {
+      "name": "hootlex",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6147968?v=4"
+    },
+    "stars": 527,
+    "starsDetail": {
+      "total": 527,
+      "week": 0,
+      "month": 0,
+      "year": 11,
+      "updatedAt": 1736060818
+    },
+    "license": "MIT License",
+    "forks": 66,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2022-03-08T03:42:08.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-01-27T19:22:00.000Z",
+    "updatedAt": "2025-02-08T04:34:22.000Z"
+  },
+  {
+    "id": "ignited/laravel-omnipay",
+    "name": "ignited/laravel-omnipay",
+    "description": "Omnipay for Laravel & Lumen",
+    "topics": [],
+    "owner": {
+      "name": "ignited",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5440808?v=4"
+    },
+    "stars": 510,
+    "starsDetail": {
+      "total": 511,
+      "week": 0,
+      "month": 0,
+      "year": 17,
+      "updatedAt": 1736060894
+    },
+    "license": "MIT License",
+    "forks": 100,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-04-10T12:23:36.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-10-18T00:10:37.000Z",
+    "updatedAt": "2025-02-08T04:34:47.000Z"
+  },
+  {
+    "id": "jarektkaczyk/eloquence",
+    "name": "jarektkaczyk/eloquence",
+    "description": "Extensions for the Eloquent ORM ",
+    "topics": [],
+    "owner": {
+      "name": "jarektkaczyk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6928818?v=4"
+    },
+    "stars": 1087,
+    "starsDetail": {
+      "total": 1087,
+      "week": 0,
+      "month": 0,
+      "year": 3,
+      "updatedAt": 1736060874
+    },
+    "license": "MIT License",
+    "forks": 143,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2023-06-06T18:17:08.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-03-19T02:29:06.000Z",
+    "updatedAt": "2025-02-08T04:34:39.000Z"
+  },
+  {
+    "id": "jrean/laravel-user-verification",
+    "name": "jrean/laravel-user-verification",
+    "description": "PHP package built for Laravel to easily handle a user email verification and validate the email",
+    "topics": [
+      "email-validation",
+      "email-verification",
+      "laravel",
+      "laravel-package",
+      "laravel10",
+      "laravel11",
+      "laravel5",
+      "laravel5-package",
+      "laravel6",
+      "laravel6-package",
+      "laravel7",
+      "laravel8",
+      "laravel9",
+      "user-validation",
+      "user-verification"
+    ],
+    "owner": {
+      "name": "jrean",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5646128?v=4"
+    },
+    "stars": 856,
+    "starsDetail": {
+      "total": 855,
+      "week": 0,
+      "month": 0,
+      "year": 28,
+      "updatedAt": 1736060789
+    },
+    "license": "Other",
+    "forks": 117,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2024-07-03T09:06:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-09-11T04:37:37.000Z",
+    "updatedAt": "2025-02-08T04:34:12.000Z"
+  },
+  {
+    "id": "laravel-doctrine/orm",
+    "name": "laravel-doctrine/orm",
+    "description": "An integration library for Laravel and Doctrine ORM",
+    "topics": [
+      "doctrine",
+      "laravel",
+      "orm"
+    ],
+    "owner": {
+      "name": "laravel-doctrine",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13315966?v=4"
+    },
+    "stars": 830,
+    "starsDetail": {
+      "total": 828,
+      "week": 0,
+      "month": 0,
+      "year": 24,
+      "updatedAt": 1736060871
+    },
+    "license": "MIT License",
+    "forks": 177,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2025-02-02T08:45:57.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-07-13T20:37:59.000Z",
+    "updatedAt": "2025-02-08T04:34:38.000Z"
+  },
+  {
+    "id": "lucadegasperi/oauth2-server-laravel",
+    "name": "lucadegasperi/oauth2-server-laravel",
+    "description": "An OAuth 2.0 bridge for Laravel and Lumen [DEPRECATED FOR LARAVEL 5.3+]",
+    "topics": [],
+    "owner": {
+      "name": "lucadegasperi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/820687?v=4"
+    },
+    "stars": 2364,
+    "starsDetail": {
+      "total": 2364,
+      "week": 0,
+      "month": 0,
+      "year": 6,
+      "updatedAt": 1736060785
+    },
+    "license": "MIT License",
+    "forks": 531,
+    "primaryLanguage": "Gherkin",
+    "pushedAt": "2023-08-18T08:19:05.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-10-03T14:35:38.000Z",
+    "updatedAt": "2025-02-08T04:34:11.000Z"
+  },
+  {
+    "id": "mpociot/laravel-test-factory-helper",
+    "name": "mpociot/laravel-test-factory-helper",
+    "description": "Generate Laravel test factories from your existing models",
+    "topics": [
+      "laravel",
+      "laravel-5-package"
+    ],
+    "owner": {
+      "name": "mpociot",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/804684?v=4"
+    },
+    "stars": 935,
+    "starsDetail": {
+      "total": 935,
+      "week": 0,
+      "month": 0,
+      "year": 11,
+      "updatedAt": 1736060768
+    },
+    "license": null,
+    "forks": 88,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2024-01-18T04:49:12.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-03-26T23:41:49.000Z",
+    "updatedAt": "2025-02-08T04:34:04.000Z"
+  },
+  {
+    "id": "patricktalmadge/bootstrapper",
+    "name": "patricktalmadge/bootstrapper",
+    "description": "Laravel Twitter Bootstrap Bundle",
+    "topics": [],
+    "owner": {
+      "name": "patricktalmadge",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/115163?v=4"
+    },
+    "stars": 561,
+    "starsDetail": {
+      "total": 559,
+      "week": 0,
+      "month": 0,
+      "year": 2,
+      "updatedAt": 1736060793
+    },
+    "license": null,
+    "forks": 129,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2023-08-21T14:18:28.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2012-06-19T05:16:35.000Z",
+    "updatedAt": "2025-02-08T04:34:14.000Z"
+  },
+  {
+    "id": "sleimanx2/plastic",
+    "name": "sleimanx2/plastic",
+    "description": "Plastic is an Elasticsearch ODM and mapper for Laravel. It renders the developer experience more enjoyable while using Elasticsearch, by providing a fluent syntax for mapping, querying, and storing eloquent models.",
+    "topics": [
+      "elasticsearch",
+      "laravel",
+      "php"
+    ],
+    "owner": {
+      "name": "sleimanx2",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5547347?v=4"
+    },
+    "stars": 508,
+    "starsDetail": {
+      "total": 509,
+      "week": 0,
+      "month": 0,
+      "year": 4,
+      "updatedAt": 1736060879
+    },
+    "license": "MIT License",
+    "forks": 109,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2021-03-14T18:24:53.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-05-07T12:09:58.000Z",
+    "updatedAt": "2025-02-08T04:34:41.000Z"
+  },
+  {
+    "id": "someline/someline-starter",
+    "name": "someline/someline-starter",
+    "description": "Someline Starter is a PHP framework for quick building Web Apps and Restful APIs, with modern PHP design pattern foundation.",
+    "topics": [],
+    "owner": {
+      "name": "someline",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12409186?v=4"
+    },
+    "stars": 838,
+    "starsDetail": {
+      "total": 839,
+      "week": 0,
+      "month": 0,
+      "year": 2,
+      "updatedAt": 1736060928
+    },
+    "license": null,
+    "forks": 168,
+    "primaryLanguage": "Vue",
+    "pushedAt": "2020-06-03T08:45:30.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-06-09T12:28:01.000Z",
+    "updatedAt": "2025-02-08T04:34:59.000Z"
+  },
+  {
+    "id": "svenluijten/artisan-view",
+    "name": "svenluijten/artisan-view",
+    "description": "👀 Manage your views in Laravel projects through artisan",
+    "topics": [
+      "artisan",
+      "artisan-command",
+      "blade",
+      "hacktoberfest",
+      "laravel",
+      "laravel-views",
+      "package"
+    ],
+    "owner": {
+      "name": "svenluijten",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11269635?v=4"
+    },
+    "stars": 870,
+    "starsDetail": {
+      "total": 870,
+      "week": 0,
+      "month": 0,
+      "year": 1,
+      "updatedAt": 1736060792
+    },
+    "license": "MIT License",
+    "forks": 118,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2023-09-15T09:51:44.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-04-12T10:50:46.000Z",
+    "updatedAt": "2025-02-08T04:34:14.000Z"
+  },
+  {
+    "id": "vinkla/laravel-hashids",
+    "name": "vinkla/laravel-hashids",
+    "description": "A Hashids bridge for Laravel",
+    "topics": [
+      "composer",
+      "hashids",
+      "laravel",
+      "php"
+    ],
+    "owner": {
+      "name": "vinkla",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/499192?v=4"
+    },
+    "stars": 2004,
+    "starsDetail": {
+      "total": 1994,
+      "week": 0,
+      "month": 0,
+      "year": 64,
+      "updatedAt": 1736060810
+    },
+    "license": "MIT License",
+    "forks": 172,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2025-02-02T11:05:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-02-03T10:18:25.000Z",
+    "updatedAt": "2025-02-08T04:34:20.000Z"
+  },
+  {
+    "id": "voten-co/voten",
+    "name": "voten-co/voten",
+    "description": "The code that powers voten.co",
+    "topics": [
+      "bookmarking",
+      "community",
+      "forum",
+      "laravel",
+      "php",
+      "reddit",
+      "reddit-alternative",
+      "social",
+      "social-bookmarking",
+      "social-network",
+      "vuejs",
+      "websocket"
+    ],
+    "owner": {
+      "name": "voten-co",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28759401?v=4"
+    },
+    "stars": 1260,
+    "starsDetail": {
+      "total": 1261,
+      "week": 0,
+      "month": 0,
+      "year": 10,
+      "updatedAt": 1736035593
+    },
+    "license": "Apache License 2.0",
+    "forks": 228,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2020-06-27T16:38:39.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-05-22T07:13:54.000Z",
+    "updatedAt": "2025-02-08T03:50:09.000Z"
+  },
+  {
+    "id": "ARCANEDEV/noCAPTCHA",
+    "name": "ARCANEDEV/noCAPTCHA",
+    "description": ":passport_control: Helper for Google's new noCAPTCHA (reCAPTCHA v2 & v3)",
+    "topics": [
+      "arcanedev",
+      "google-recaptcha",
+      "laravel",
+      "no-captcha",
+      "recaptcha"
+    ],
+    "owner": {
+      "name": "ARCANEDEV",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9376707?v=4"
+    },
+    "stars": 362,
+    "starsDetail": {
+      "total": 362
+    },
+    "license": "MIT License",
+    "forks": 56,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-04-13T08:34:38.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-01-17T15:25:30.000Z",
+    "updatedAt": "2025-02-08T04:34:24.000Z"
+  },
+  {
+    "id": "ConsoleTVs/Charts",
+    "name": "ConsoleTVs/Charts",
+    "description": "[Deprecated] Charts for Laravel",
+    "topics": [],
+    "owner": {
+      "name": "ConsoleTVs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6124435?v=4"
+    },
+    "stars": 80,
+    "starsDetail": {
+      "total": 80
+    },
+    "license": "MIT License",
+    "forks": 35,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2024-03-13T10:56:33.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2022-08-08T10:45:03.000Z",
+    "updatedAt": "2025-02-08T04:34:15.000Z"
+  },
+  {
+    "id": "GrahamCampbell/Laravel-DigitalOcean",
+    "name": "GrahamCampbell/Laravel-DigitalOcean",
+    "description": "A DigitalOcean API bridge for Laravel",
+    "topics": [
+      "hacktoberfest"
+    ],
+    "owner": {
+      "name": "GrahamCampbell",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2829600?v=4"
+    },
+    "stars": 497,
+    "starsDetail": {
+      "total": 497
+    },
+    "license": "MIT License",
+    "forks": 71,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-03-17T22:29:17.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-07-24T18:17:15.000Z",
+    "updatedAt": "2025-02-08T04:34:53.000Z"
+  },
+  {
+    "id": "Laralum/Laralum",
+    "name": "Laralum/Laralum",
+    "description": "The modular open source laravel administration panel",
+    "topics": [
+      "admin-dashboard",
+      "laravel-5-package"
+    ],
+    "owner": {
+      "name": "Laralum",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22253051?v=4"
+    },
+    "stars": 299,
+    "starsDetail": {
+      "total": 299
+    },
+    "license": "MIT License",
+    "forks": 44,
+    "primaryLanguage": "CSS",
+    "pushedAt": "2018-10-21T16:18:11.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-10-03T19:30:35.000Z",
+    "updatedAt": "2025-02-08T04:35:06.000Z"
+  },
+  {
+    "id": "Maxlab/stacker",
+    "name": "Maxlab/stacker",
+    "description": "Stacker - The environment for local web development, ready for use.",
+    "topics": [
+      "dnsmasq",
+      "docker",
+      "docker-compose",
+      "lamp",
+      "laravel",
+      "mailcatcher",
+      "mysql",
+      "nginx",
+      "pgsql",
+      "php",
+      "php-container",
+      "rad",
+      "redis",
+      "symfony",
+      "symfony3",
+      "workspace",
+      "xampp",
+      "xdebug",
+      "yii2",
+      "zsh"
+    ],
+    "owner": {
+      "name": "Maxlab",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1397425?v=4"
+    },
+    "stars": 365,
+    "starsDetail": {
+      "total": 365
+    },
+    "license": "MIT License",
+    "forks": 23,
+    "primaryLanguage": "Smarty",
+    "pushedAt": "2018-07-15T05:32:12.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-11-20T09:35:35.000Z",
+    "updatedAt": "2025-02-08T04:34:55.000Z"
+  },
+  {
+    "id": "algolia/algoliasearch-laravel",
+    "name": "algolia/algoliasearch-laravel",
+    "description": "[Deprecated] We now recommend using Laravel Scout, see => ",
+    "topics": [
+      "algolia-search",
+      "laravel",
+      "php",
+      "search-engine"
+    ],
+    "owner": {
+      "name": "algolia",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2034458?v=4"
+    },
+    "stars": 238,
+    "starsDetail": {
+      "total": 238
+    },
+    "license": "MIT License",
+    "forks": 52,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2018-03-05T13:40:29.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-05-06T16:16:29.000Z",
+    "updatedAt": "2025-02-08T04:34:41.000Z"
+  },
+  {
+    "id": "artesaos/defender",
+    "name": "artesaos/defender",
+    "description": "Roles & Permissions for Laravel",
+    "topics": [
+      "acl",
+      "acl-library",
+      "defender",
+      "laravel",
+      "middleware",
+      "php",
+      "rbac"
+    ],
+    "owner": {
+      "name": "artesaos",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11164074?v=4"
+    },
+    "stars": 441,
+    "starsDetail": {
+      "total": 441
+    },
+    "license": "MIT License",
+    "forks": 96,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2024-03-01T17:35:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-02-22T20:49:54.000Z",
+    "updatedAt": "2025-02-08T04:34:11.000Z"
+  },
+  {
+    "id": "asvae/laravel-api-tester",
+    "name": "asvae/laravel-api-tester",
+    "description": "Test your routes without hassle",
+    "topics": [],
+    "owner": {
+      "name": "asvae",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5394573?v=4"
+    },
+    "stars": 357,
+    "starsDetail": {
+      "total": 357
+    },
+    "license": "MIT License",
+    "forks": 53,
+    "primaryLanguage": "SCSS",
+    "pushedAt": "2022-07-25T15:28:41.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-07-13T17:35:58.000Z",
+    "updatedAt": "2025-02-08T04:34:08.000Z"
+  },
+  {
+    "id": "franzose/ClosureTable",
+    "name": "franzose/ClosureTable",
+    "description": "Adjacency List’ed Closure Table database design pattern implementation for the Laravel framework.",
+    "topics": [
+      "closure-table",
+      "database",
+      "hierarchical-data",
+      "laravel",
+      "php",
+      "tree"
+    ],
+    "owner": {
+      "name": "franzose",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/708158?v=4"
+    },
+    "stars": 459,
+    "starsDetail": {
+      "total": 459
+    },
+    "license": "MIT License",
+    "forks": 105,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2023-08-19T17:13:45.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-03-04T10:39:39.000Z",
+    "updatedAt": "2025-02-08T04:34:36.000Z"
+  },
+  {
+    "id": "furey/tinx",
+    "name": "furey/tinx",
+    "description": "⛔️ Laravel Tinx is archived and no longer maintained.",
+    "topics": [
+      "archived",
+      "deprecated",
+      "laravel",
+      "laravel-tinker",
+      "obsolete",
+      "php",
+      "tinker"
+    ],
+    "owner": {
+      "name": "furey",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1914481?v=4"
+    },
+    "stars": 449,
+    "starsDetail": {
+      "total": 449
+    },
+    "license": null,
+    "forks": 37,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2019-12-14T14:53:45.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-10-17T14:19:20.000Z",
+    "updatedAt": "2025-02-08T04:34:02.000Z"
+  },
+  {
+    "id": "hasib32/rest-api-with-lumen",
+    "name": "hasib32/rest-api-with-lumen",
+    "description": "Rest API boilerplate for Lumen micro-framework.",
+    "topics": [
+      "boilerplate",
+      "fractal",
+      "laravel",
+      "lumen",
+      "lumen-fractal",
+      "lumen-generator",
+      "lumen-micro-framework",
+      "lumen-php-framework",
+      "oauth2",
+      "php-rest-api",
+      "php7",
+      "rest-api"
+    ],
+    "owner": {
+      "name": "hasib32",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4269203?v=4"
+    },
+    "stars": 487,
+    "starsDetail": {
+      "total": 487
+    },
+    "license": null,
+    "forks": 143,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2018-02-09T15:08:40.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-02-23T21:28:23.000Z",
+    "updatedAt": "2025-02-08T04:35:00.000Z"
+  },
+  {
+    "id": "joselfonseca/laravel-api",
+    "name": "joselfonseca/laravel-api",
+    "description": "Laravel API starter Kit will provide you with the tools for making API's that everyone will love",
+    "topics": [
+      "aglio",
+      "api",
+      "composer",
+      "laravel-api",
+      "passport"
+    ],
+    "owner": {
+      "name": "joselfonseca",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2046653?v=4"
+    },
+    "stars": 424,
+    "starsDetail": {
+      "total": 424
+    },
+    "license": "MIT License",
+    "forks": 117,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2023-02-01T19:26:28.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-02-25T00:51:03.000Z",
+    "updatedAt": "2025-02-08T04:34:58.000Z"
+  },
+  {
+    "id": "keevitaja/linguist",
+    "name": "keevitaja/linguist",
+    "description": "Easy multilingual urls and redirection support for the Laravel framework",
+    "topics": [
+      "estonia",
+      "i18n",
+      "laravel",
+      "linguist",
+      "locales",
+      "localization",
+      "multilingual",
+      "php",
+      "translation"
+    ],
+    "owner": {
+      "name": "keevitaja",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/158787?v=4"
+    },
+    "stars": 190,
+    "starsDetail": {
+      "total": 190
+    },
+    "license": "MIT License",
+    "forks": 15,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2019-09-18T10:58:38.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-07-23T08:02:39.000Z",
+    "updatedAt": "2025-02-08T04:34:52.000Z"
+  },
+  {
+    "id": "laraedit/laraedit-docker",
+    "name": "laraedit/laraedit-docker",
+    "description": "Dockerized version of Laravel Homestead",
+    "topics": [],
+    "owner": {
+      "name": "laraedit",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11468574?v=4"
+    },
+    "stars": 450,
+    "starsDetail": {
+      "total": 450
+    },
+    "license": "MIT License",
+    "forks": 78,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2020-08-05T11:15:50.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-02-03T14:29:29.000Z",
+    "updatedAt": "2025-02-08T04:34:55.000Z"
+  },
+  {
+    "id": "lookitsatravis/listify",
+    "name": "lookitsatravis/listify",
+    "description": "Turn any Eloquent model into a list!",
+    "topics": [],
+    "owner": {
+      "name": "lookitsatravis",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/606978?v=4"
+    },
+    "stars": 134,
+    "starsDetail": {
+      "total": 134
+    },
+    "license": "Other",
+    "forks": 17,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2021-08-02T14:39:03.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-10-09T15:01:28.000Z",
+    "updatedAt": "2025-02-08T04:34:23.000Z"
+  },
+  {
+    "id": "mmanos/laravel-search",
+    "name": "mmanos/laravel-search",
+    "description": "A search package for Laravel 5.",
+    "topics": [],
+    "owner": {
+      "name": "mmanos",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/972055?v=4"
+    },
+    "stars": 352,
+    "starsDetail": {
+      "total": 352
+    },
+    "license": "MIT License",
+    "forks": 57,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2017-06-29T20:13:47.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-05-10T16:19:27.000Z",
+    "updatedAt": "2025-02-08T04:34:41.000Z"
+  },
+  {
+    "id": "recca0120/laravel-tracy",
+    "name": "recca0120/laravel-tracy",
+    "description": "A Laravel Package to integrate Nette Tracy Debugger",
+    "topics": [
+      "debugger",
+      "laravel",
+      "laravel-tracy",
+      "nette-tracy",
+      "php",
+      "tracy"
+    ],
+    "owner": {
+      "name": "recca0120",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1390554?v=4"
+    },
+    "stars": 385,
+    "starsDetail": {
+      "total": 385
+    },
+    "license": "MIT License",
+    "forks": 43,
+    "primaryLanguage": "Hack",
+    "pushedAt": "2023-02-15T14:00:45.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-08-13T13:55:29.000Z",
+    "updatedAt": "2025-02-08T04:34:07.000Z"
+  },
+  {
+    "id": "spatie/laravel-glide",
+    "name": "spatie/laravel-glide",
+    "description": "Easily convert images with Glide",
+    "topics": [
+      "convert",
+      "glide",
+      "image",
+      "laravel",
+      "manipulate",
+      "php"
+    ],
+    "owner": {
+      "name": "spatie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
+    },
+    "stars": 428,
+    "starsDetail": {
+      "total": 428
+    },
+    "license": "MIT License",
+    "forks": 51,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2024-03-23T06:47:43.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-01-19T18:07:18.000Z",
+    "updatedAt": "2025-02-08T04:34:30.000Z"
+  },
+  {
+    "id": "spatie/searchindex",
+    "name": "spatie/searchindex",
+    "description": "Store and retrieve objects from Algolia or Elasticsearch",
+    "topics": [],
+    "owner": {
+      "name": "spatie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7535935?v=4"
+    },
+    "stars": 442,
+    "starsDetail": {
+      "total": 442
+    },
+    "license": "MIT License",
+    "forks": 48,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2022-03-21T15:17:58.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2015-01-15T16:41:31.000Z",
+    "updatedAt": "2025-02-08T04:34:42.000Z"
+  },
+  {
+    "id": "tylercd100/lern",
+    "name": "tylercd100/lern",
+    "description": "LERN is a Laravel 5 package that will record exceptions into a database and will notify you via Email, Pushover or Slack.",
+    "topics": [],
+    "owner": {
+      "name": "tylercd100",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4522226?v=4"
+    },
+    "stars": 440,
+    "starsDetail": {
+      "total": 440
+    },
+    "license": "MIT License",
+    "forks": 37,
+    "primaryLanguage": "Blade",
+    "pushedAt": "2021-12-17T08:33:48.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-03-21T20:39:48.000Z",
+    "updatedAt": "2025-02-08T04:34:07.000Z"
+  },
+  {
+    "id": "vinkla/laravel-translator",
+    "name": "vinkla/laravel-translator",
+    "description": "An Eloquent translator for Laravel",
+    "topics": [
+      "composer",
+      "eloquent",
+      "laravel",
+      "multilingual",
+      "php",
+      "translator"
+    ],
+    "owner": {
+      "name": "vinkla",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/499192?v=4"
+    },
+    "stars": 274,
+    "starsDetail": {
+      "total": 274
+    },
+    "license": "MIT License",
+    "forks": 28,
+    "primaryLanguage": "PHP",
+    "pushedAt": "2021-01-21T13:29:43.000Z",
+    "archived": true,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2014-09-24T14:56:11.000Z",
+    "updatedAt": "2025-02-08T04:34:52.000Z"
+  },
+  {
+    "id": "ziadoz/awesome-php",
+    "name": "ziadoz/awesome-php",
+    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things.",
+    "topics": [
+      "awesome",
+      "awesome-lists",
+      "php",
+      "php-applications",
+      "php-framework",
+      "php-installation",
+      "php-library"
+    ],
+    "owner": {
+      "name": "ziadoz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/645637?v=4"
+    },
+    "stars": 31284,
+    "starsDetail": {
+      "total": 31284
+    },
+    "license": "Do What The F*ck You Want To Public License",
+    "forks": 5095,
+    "primaryLanguage": "",
+    "pushedAt": "2025-01-17T21:00:48.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2013-11-26T03:14:19.000Z",
+    "updatedAt": "2025-02-08T00:44:05.000Z"
+  }
+]
