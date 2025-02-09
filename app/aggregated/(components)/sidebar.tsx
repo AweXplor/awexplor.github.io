@@ -23,6 +23,7 @@ import { PropsWithChildren, useEffect } from "react";
 import { useSnapshot } from "valtio";
 import { MoreItem } from "../[slug]/page";
 import { ExplorerState } from "./state";
+import { usePathname } from "next/navigation";
 
 export const WellMaintainedThresholdEditor = (
   props: PropsWithChildren<{ disabled?: boolean }>
@@ -118,6 +119,8 @@ export const SideBar = (props: {
     }
   }, []);
   const searchEnable = state.search !== "";
+  const pathname = usePathname();
+
   return (
     <>
       <div className="h-full flex flex-col overflow-hidden">
@@ -209,7 +212,7 @@ export const SideBar = (props: {
                     labelPosition="left"
                     label={
                       <div className="flex flex-row items-center gap-2">
-                        <span>Polular only</span>
+                        <span>Popular only</span>
                         <PopularThresholdEditor disabled={searchEnable}>
                           <ActionIcon
                             variant="subtle"
@@ -223,6 +226,23 @@ export const SideBar = (props: {
                       </div>
                     }
                   />
+                  {pathname === "/aggregated/macos" && (
+                    <Switch
+                      disabled={searchEnable}
+                      classNames={{
+                        track: "scale-90",
+                        labelWrapper: "flex-1",
+                        body: "h-9  flex items-center px-1",
+                      }}
+                      checked={state.macosNativeOnly}
+                      onChange={(ev) =>
+                        (ExplorerState.macosNativeOnly =
+                          ev.currentTarget.checked)
+                      }
+                      labelPosition="left"
+                      label="Native MacOS Apps"
+                    />
+                  )}
                 </Stack>
               </Accordion.Panel>
             </Accordion.Item>

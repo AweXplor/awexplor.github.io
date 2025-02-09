@@ -9,7 +9,7 @@ import { CardsList } from "./explorer";
 import { ExplorerState } from "./state";
 import { notifications } from "@mantine/notifications";
 
-export function ExplorerMainContent(props: { url: string }) {
+export function ExplorerMainContent(props: { url: string; slug: string }) {
   const { data } = useSWR(
     props.url,
     async (url) => {
@@ -55,7 +55,7 @@ export function ExplorerMainContent(props: { url: string }) {
   }, []);
   const filtered = useMemo(() => {
     const cur = dayjs();
-    return data.items.filter(({ time, stars, forks }) => {
+    return data.items.filter(({ time, stars, forks, primaryLanguage }) => {
       const wellMaintained = time
         .add(
           state.wellMaintainedThreshold.count,
@@ -67,9 +67,21 @@ export function ExplorerMainContent(props: { url: string }) {
         forks > state.popularThreshold.forksMoreThan;
       if (state.popularOnly && !popular) return false;
       if (state.wellMaintainedOnly && !wellMaintained) return false;
+      if (
+        props.slug === "macos" &&
+        state.macosNativeOnly &&
+        !["Swift", "Objective-C"].includes(primaryLanguage)
+      )
+        return false;
       return true;
     });
-  }, [data.items, state.popularOnly, state.wellMaintainedOnly, state.popularThreshold,state.wellMaintainedThreshold]);
+  }, [
+    data.items,
+    state.popularOnly,
+    state.wellMaintainedOnly,
+    state.popularThreshold,
+    state.wellMaintainedThreshold,
+  ]);
   const sorted = useMemo(() => {
     if (state.search !== "" && searcher.current) {
       const result = searcher.current.search(state.search, {
@@ -89,6 +101,7 @@ export function ExplorerMainContent(props: { url: string }) {
 
 export default function ExplorerMainContentSuspense(props: {
   url: string;
+  slug: string;
   trending: GitHubRepo[];
 }) {
   return (
@@ -107,7 +120,7 @@ export default function ExplorerMainContentSuspense(props: {
         </>
       }
     >
-      <ExplorerMainContent url={props.url} />
+      <ExplorerMainContent url={props.url} slug={props.slug} />
     </Suspense>
   );
 }

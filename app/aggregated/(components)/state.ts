@@ -9,6 +9,7 @@ export const ExplorerState = proxy({
     starsMoreThan: 3000,
     forksMoreThan: 3000
   },
+  macosNativeOnly: true as boolean,
   wellMaintainedThreshold: {
     count: 2,
     unit: 'year' as 'year' | 'month' | 'day'

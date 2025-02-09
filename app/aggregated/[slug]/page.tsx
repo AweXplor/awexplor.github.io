@@ -114,7 +114,7 @@ export default async function AggregatedHome(props: {
           <SidebarDynamic sources={sources} more={more} />
         </AppShellNavbar>
         <AppShellMain>
-          <ContentDynamic url={url} trending={trending} />
+          <ContentDynamic url={url} trending={trending}  slug={params.slug} />
         </AppShellMain>
       </Explorer>
     </>
