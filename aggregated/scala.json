@@ -687,7 +687,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-10-15T19:00:45.000Z",
-    "updatedAt": "2025-02-08T07:52:22.000Z"
+    "updatedAt": "2025-02-09T10:39:42.000Z"
   },
   {
     "id": "scala-ide/scalariform",
@@ -964,7 +964,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-19T11:06:17.000Z",
-    "updatedAt": "2025-02-08T07:52:20.000Z"
+    "updatedAt": "2025-02-09T10:39:39.000Z"
   },
   {
     "id": "finagle/finch",
@@ -1189,7 +1189,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-03-03T14:47:30.000Z",
-    "updatedAt": "2025-02-08T07:52:20.000Z"
+    "updatedAt": "2025-02-09T10:39:40.000Z"
   },
   {
     "id": "scala/scala-async",
@@ -3498,7 +3498,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-05-19T18:39:03.000Z",
-    "updatedAt": "2025-02-08T07:52:21.000Z"
+    "updatedAt": "2025-02-09T10:39:41.000Z"
   },
   {
     "id": "sbt/sbt-native-packager",
@@ -3527,16 +3527,16 @@
       "updatedAt": 1736061055
     },
     "license": "Apache License 2.0",
-    "forks": 446,
+    "forks": 447,
     "primaryLanguage": "D",
-    "pushedAt": "2025-02-05T08:30:08.000Z",
+    "pushedAt": "2025-02-08T19:50:33.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-12-20T02:04:49.000Z",
-    "updatedAt": "2025-02-08T07:52:23.000Z"
+    "updatedAt": "2025-02-09T10:39:43.000Z"
   },
   {
     "id": "scala-graph/scala-graph",
@@ -3727,7 +3727,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-05-16T00:58:21.000Z",
-    "updatedAt": "2025-02-08T07:52:19.000Z"
+    "updatedAt": "2025-02-09T10:39:39.000Z"
   },
   {
     "id": "softwaremill/sttp",
@@ -4626,7 +4626,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-09-05T23:33:02.000Z",
-    "updatedAt": "2025-02-08T07:52:25.000Z"
+    "updatedAt": "2025-02-09T10:39:45.000Z"
   },
   {
     "id": "Atry/fastring",
@@ -4779,7 +4779,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-13T12:06:38.000Z",
-    "updatedAt": "2025-02-08T07:52:19.000Z"
+    "updatedAt": "2025-02-09T10:39:39.000Z"
   },
   {
     "id": "Log4s/log4s",
@@ -5063,7 +5063,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-10T16:28:55.000Z",
-    "updatedAt": "2025-02-08T07:52:23.000Z"
+    "updatedAt": "2025-02-09T10:39:43.000Z"
   },
   {
     "id": "ThoughtWorksInc/sbt-scala-js-map",
@@ -5092,7 +5092,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-12T18:38:07.000Z",
-    "updatedAt": "2025-02-08T07:52:24.000Z"
+    "updatedAt": "2025-02-09T10:39:44.000Z"
   },
   {
     "id": "UdashFramework/udash-core",
@@ -6518,7 +6518,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-05-24T14:08:57.000Z",
-    "updatedAt": "2025-02-08T07:52:22.000Z"
+    "updatedAt": "2025-02-09T10:39:42.000Z"
   },
   {
     "id": "lucidsoftware/relate",
@@ -7344,7 +7344,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-02-08T20:03:06.000Z",
-    "updatedAt": "2025-02-08T07:52:24.000Z"
+    "updatedAt": "2025-02-09T10:39:43.000Z"
   },
   {
     "id": "sake92/sharaf",
@@ -7471,7 +7471,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-10T21:45:29.000Z",
-    "updatedAt": "2025-02-08T07:52:25.000Z"
+    "updatedAt": "2025-02-09T10:39:44.000Z"
   },
   {
     "id": "sbt/sbt-ghpages",
@@ -7500,7 +7500,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-05-16T15:21:19.000Z",
-    "updatedAt": "2025-02-08T07:52:25.000Z"
+    "updatedAt": "2025-02-09T10:39:44.000Z"
   },
   {
     "id": "sbt/sbt-git",
@@ -7553,7 +7553,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-05T16:25:45.000Z",
-    "updatedAt": "2025-02-08T07:52:26.000Z"
+    "updatedAt": "2025-02-09T10:39:45.000Z"
   },
   {
     "id": "sbt/sbt-pgp",
@@ -7578,7 +7578,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-09-08T15:58:10.000Z",
-    "updatedAt": "2025-02-08T07:52:26.000Z"
+    "updatedAt": "2025-02-09T10:39:46.000Z"
   },
   {
     "id": "sbt/sbt-site",
@@ -7617,7 +7617,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-05-16T15:10:10.000Z",
-    "updatedAt": "2025-02-08T04:36:15.000Z"
+    "updatedAt": "2025-02-09T10:39:38.000Z"
   },
   {
     "id": "sbt/sbt-unidoc",
@@ -7664,7 +7664,7 @@
       "total": 397
     },
     "license": "Apache License 2.0",
-    "forks": 82,
+    "forks": 83,
     "primaryLanguage": "Roff",
     "pushedAt": "2025-02-03T00:10:04.000Z",
     "archived": false,
@@ -7673,7 +7673,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-23T07:00:47.000Z",
-    "updatedAt": "2025-02-08T07:52:22.000Z"
+    "updatedAt": "2025-02-09T10:39:41.000Z"
   },
   {
     "id": "scalameta/munit",
@@ -7723,7 +7723,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-10T21:10:13.000Z",
-    "updatedAt": "2025-02-08T07:52:21.000Z"
+    "updatedAt": "2025-02-09T10:39:41.000Z"
   },
   {
     "id": "scalamolecule/molecule",
@@ -8206,7 +8206,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-10-30T21:53:24.000Z",
-    "updatedAt": "2025-02-08T07:52:21.000Z"
+    "updatedAt": "2025-02-09T10:39:40.000Z"
   },
   {
     "id": "typelevel/jawn",
@@ -8364,14 +8364,14 @@
     "license": null,
     "forks": 76,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-02-07T08:14:04.000Z",
+    "pushedAt": "2025-02-08T16:13:50.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-11-19T06:44:58.000Z",
-    "updatedAt": "2025-02-08T07:52:26.000Z"
+    "updatedAt": "2025-02-09T10:39:46.000Z"
   },
   {
     "id": "xerial/sbt-sonatype",
