@@ -2184,7 +2184,7 @@
   {
     "id": "svix/svix-webhooks",
     "name": "svix/svix-webhooks",
-    "description": "The enterprise-ready webhooks service 🦀",
+    "description": "The open source and enterprise-ready webhooks service 🦀",
     "topics": [
       "api",
       "background-jobs",
@@ -2211,7 +2211,7 @@
       "name": "svix",
       "avatarUrl": "https://avatars.githubusercontent.com/u/80175132?v=4"
     },
-    "stars": 2540,
+    "stars": 2543,
     "starsDetail": {
       "total": 2475,
       "week": 14,
@@ -2220,16 +2220,16 @@
       "updatedAt": 1736032446
     },
     "license": "MIT License",
-    "forks": 175,
+    "forks": 176,
     "primaryLanguage": "Just",
-    "pushedAt": "2025-02-09T19:19:28.000Z",
+    "pushedAt": "2025-02-10T18:51:18.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-02-25T13:49:38.000Z",
-    "updatedAt": "2025-02-09T20:18:36.000Z"
+    "updatedAt": "2025-02-10T22:48:36.000Z"
   },
   {
     "id": "mapstruct/mapstruct",
@@ -2912,7 +2912,7 @@
       "name": "facebook",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69631?v=4"
     },
-    "stars": 3696,
+    "stars": 3700,
     "starsDetail": {
       "total": 3649,
       "week": 8,
@@ -2923,14 +2923,14 @@
     "license": "Apache License 2.0",
     "forks": 237,
     "primaryLanguage": "Roff",
-    "pushedAt": "2025-02-09T03:14:27.000Z",
+    "pushedAt": "2025-02-10T22:31:05.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-01-21T20:04:00.000Z",
-    "updatedAt": "2025-02-09T20:13:36.000Z"
+    "updatedAt": "2025-02-10T22:43:35.000Z"
   },
   {
     "id": "shyiko/jabba",
@@ -7253,7 +7253,7 @@
       "name": "OryxProject",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8270649?v=4"
     },
-    "stars": 1782,
+    "stars": 1781,
     "starsDetail": {
       "total": 1783,
       "week": 0,
@@ -7271,7 +7271,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-07-25T20:08:44.000Z",
-    "updatedAt": "2025-02-09T20:09:47.000Z"
+    "updatedAt": "2025-02-10T22:39:45.000Z"
   },
   {
     "id": "RuedigerMoeller/fast-serialization",

@@ -79,7 +79,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-02T06:54:30.000Z",
-    "updatedAt": "2025-02-09T20:18:44.000Z"
+    "updatedAt": "2025-02-10T22:48:45.000Z"
   },
   {
     "id": "echasnovski/mini.nvim",
@@ -132,7 +132,7 @@
       "name": "Saghen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10467983?v=4"
     },
-    "stars": 3295,
+    "stars": 3302,
     "starsDetail": {
       "total": 3152,
       "week": [
@@ -149,7 +149,7 @@
       "updatedAt": 1738072283
     },
     "license": "MIT License",
-    "forks": 180,
+    "forks": 182,
     "primaryLanguage": "Nix",
     "pushedAt": "2025-02-09T19:29:26.000Z",
     "archived": false,
@@ -158,7 +158,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-07-31T01:56:33.000Z",
-    "updatedAt": "2025-02-09T20:12:02.000Z"
+    "updatedAt": "2025-02-10T22:42:00.000Z"
   },
   {
     "id": "nvim-pack/nvim-spectre",
@@ -1119,7 +1119,7 @@
       "name": "ajeetdsouza",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1777663?v=4"
     },
-    "stars": 24751,
+    "stars": 24784,
     "starsDetail": {
       "total": 23998,
       "week": 335,
@@ -1130,14 +1130,14 @@
     "license": "MIT License",
     "forks": 583,
     "primaryLanguage": "Nix",
-    "pushedAt": "2025-01-08T23:06:24.000Z",
+    "pushedAt": "2025-02-09T22:14:02.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-05T13:11:40.000Z",
-    "updatedAt": "2025-02-09T20:12:31.000Z"
+    "updatedAt": "2025-02-10T22:42:30.000Z"
   },
   {
     "id": "yetone/avante.nvim",
@@ -2487,6 +2487,40 @@
     "goImportedBy": null,
     "createdAt": "2020-11-02T05:27:15.000Z",
     "updatedAt": "2025-02-10T09:39:04.000Z"
+  },
+  {
+    "id": "mikavilpas/yazi.nvim",
+    "name": "mikavilpas/yazi.nvim",
+    "description": "A Neovim Plugin for the yazi terminal file manager",
+    "topics": [
+      "neovim",
+      "plugin",
+      "yazi",
+      "yazi-plugin"
+    ],
+    "owner": {
+      "name": "mikavilpas",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/300791?v=4"
+    },
+    "stars": 761,
+    "starsDetail": {
+      "total": 761,
+      "week": 15,
+      "month": 55,
+      "year": 761,
+      "updatedAt": 1739227893
+    },
+    "license": "MIT License",
+    "forks": 28,
+    "primaryLanguage": "Just",
+    "pushedAt": "2025-02-10T22:29:29.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-02-25T13:33:19.000Z",
+    "updatedAt": "2025-02-10T22:35:07.000Z"
   },
   {
     "id": "mrjones2014/smart-splits.nvim",
@@ -5928,7 +5962,7 @@
       "name": "sphamba",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17217484?v=4"
     },
-    "stars": 732,
+    "stars": 737,
     "starsDetail": {
       "total": 612,
       "week": 33,
@@ -5939,14 +5973,14 @@
     "license": "GNU General Public License v3.0",
     "forks": 12,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-02-05T09:19:06.000Z",
+    "pushedAt": "2025-02-10T14:01:36.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-15T10:13:12.000Z",
-    "updatedAt": "2025-02-09T20:14:08.000Z"
+    "updatedAt": "2025-02-10T22:44:07.000Z"
   },
   {
     "id": "MordechaiHadad/bob",
@@ -8812,7 +8846,7 @@
       "name": "casey",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1945?v=4"
     },
-    "stars": 23694,
+    "stars": 23709,
     "starsDetail": {
       "total": 23026,
       "week": 145,
@@ -8821,7 +8855,7 @@
       "updatedAt": 1736031911
     },
     "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 512,
+    "forks": 513,
     "primaryLanguage": "Just",
     "pushedAt": "2025-02-07T18:47:43.000Z",
     "archived": false,
@@ -8830,7 +8864,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-17T06:08:08.000Z",
-    "updatedAt": "2025-02-09T20:13:28.000Z"
+    "updatedAt": "2025-02-10T22:43:27.000Z"
   },
   {
     "id": "LunarVim/LunarVim",
@@ -10129,7 +10163,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-04-30T19:53:34.000Z",
-    "updatedAt": "2025-02-09T20:12:05.000Z"
+    "updatedAt": "2025-02-10T22:42:04.000Z"
   },
   {
     "id": "0xstepit/flow.nvim",
@@ -10613,7 +10647,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-22T05:32:15.000Z",
-    "updatedAt": "2025-02-09T20:05:17.000Z"
+    "updatedAt": "2025-02-10T22:35:14.000Z"
   },
   {
     "id": "Abstract-IDE/Abstract-cs",
@@ -12466,7 +12500,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-27T21:24:03.000Z",
-    "updatedAt": "2025-02-09T20:18:33.000Z"
+    "updatedAt": "2025-02-10T22:48:34.000Z"
   },
   {
     "id": "LucasTavaresA/simpleIndentGuides.nvim",
@@ -12638,14 +12672,14 @@
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "forks": 1,
     "primaryLanguage": "Vim Script",
-    "pushedAt": "2025-02-07T19:04:41.000Z",
+    "pushedAt": "2025-02-10T19:00:46.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-11-28T20:54:57.000Z",
-    "updatedAt": "2025-02-09T20:17:52.000Z"
+    "updatedAt": "2025-02-10T22:47:52.000Z"
   },
   {
     "id": "MisanthropicBit/winmove.nvim",
@@ -12677,7 +12711,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-08-05T07:54:25.000Z",
-    "updatedAt": "2025-02-09T20:17:53.000Z"
+    "updatedAt": "2025-02-10T22:47:53.000Z"
   },
   {
     "id": "Mofiqul/adwaita.nvim",
@@ -14046,7 +14080,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-03-18T23:05:07.000Z",
-    "updatedAt": "2025-02-09T20:17:52.000Z"
+    "updatedAt": "2025-02-10T22:47:53.000Z"
   },
   {
     "id": "ThemerCorp/themer.lua",
@@ -14097,9 +14131,9 @@
       "name": "Thiago4532",
       "avatarUrl": "https://avatars.githubusercontent.com/u/19158283?v=4"
     },
-    "stars": 109,
+    "stars": 112,
     "starsDetail": {
-      "total": 109
+      "total": 112
     },
     "license": "MIT License",
     "forks": 4,
@@ -14111,7 +14145,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-26T15:24:54.000Z",
-    "updatedAt": "2025-02-09T20:11:52.000Z"
+    "updatedAt": "2025-02-10T22:41:51.000Z"
   },
   {
     "id": "TimUntersberger/neofs",
@@ -14689,6 +14723,38 @@
     "goImportedBy": null,
     "createdAt": "2024-10-15T20:28:52.000Z",
     "updatedAt": "2025-02-10T09:40:43.000Z"
+  },
+  {
+    "id": "Yu-Leo/blame-column.nvim",
+    "name": "Yu-Leo/blame-column.nvim",
+    "description": "Neovim plugin for displaying git blame information",
+    "topics": [
+      "git",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ],
+    "owner": {
+      "name": "Yu-Leo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/66430048?v=4"
+    },
+    "stars": 8,
+    "starsDetail": {
+      "total": 8
+    },
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2025-01-24T07:09:41.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2025-01-21T07:48:10.000Z",
+    "updatedAt": "2025-02-10T22:35:10.000Z"
   },
   {
     "id": "Zeioth/distroupdate.nvim",
@@ -15976,7 +16042,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-31T17:59:45.000Z",
-    "updatedAt": "2025-02-09T20:18:45.000Z"
+    "updatedAt": "2025-02-10T22:48:46.000Z"
   },
   {
     "id": "atusy/treemonkey.nvim",
@@ -18126,14 +18192,14 @@
     "license": "MIT License",
     "forks": 0,
     "primaryLanguage": "Lua",
-    "pushedAt": "2025-01-03T07:42:10.000Z",
+    "pushedAt": "2025-02-10T15:11:00.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-14T13:05:29.000Z",
-    "updatedAt": "2025-02-09T20:18:04.000Z"
+    "updatedAt": "2025-02-10T22:48:05.000Z"
   },
   {
     "id": "cxwx/specs.nvim",
@@ -18158,7 +18224,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-19T06:25:01.000Z",
-    "updatedAt": "2025-02-09T20:17:52.000Z"
+    "updatedAt": "2025-02-10T22:47:52.000Z"
   },
   {
     "id": "daltongd/yanklock.nvim",
@@ -18766,7 +18832,7 @@
       "total": 154
     },
     "license": "MIT License",
-    "forks": 6,
+    "forks": 7,
     "primaryLanguage": "Shell",
     "pushedAt": "2025-02-08T22:34:47.000Z",
     "archived": false,
@@ -18775,7 +18841,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-02T14:33:02.000Z",
-    "updatedAt": "2025-02-09T20:11:59.000Z"
+    "updatedAt": "2025-02-10T22:41:58.000Z"
   },
   {
     "id": "dmmulroy/ts-error-translator.nvim",
@@ -20815,21 +20881,21 @@
       "name": "igorlfs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/84649544?v=4"
     },
-    "stars": 216,
+    "stars": 219,
     "starsDetail": {
-      "total": 216
+      "total": 219
     },
     "license": "MIT License",
     "forks": 3,
     "primaryLanguage": "Lua",
-    "pushedAt": "2025-02-09T19:56:47.000Z",
+    "pushedAt": "2025-02-09T23:07:33.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-02T05:09:04.000Z",
-    "updatedAt": "2025-02-09T20:12:02.000Z"
+    "updatedAt": "2025-02-10T22:42:01.000Z"
   },
   {
     "id": "imbacraft/dusk.nvim",
@@ -20965,7 +21031,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-30T17:50:07.000Z",
-    "updatedAt": "2025-02-09T20:18:45.000Z"
+    "updatedAt": "2025-02-10T22:48:46.000Z"
   },
   {
     "id": "isak102/telescope-git-file-history.nvim",
@@ -22380,7 +22446,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-28T23:34:01.000Z",
-    "updatedAt": "2025-02-09T20:18:46.000Z"
+    "updatedAt": "2025-02-10T22:48:47.000Z"
   },
   {
     "id": "koenverburg/peepsight.nvim",
@@ -22622,9 +22688,9 @@
       "name": "laktak",
       "avatarUrl": "https://avatars.githubusercontent.com/u/959858?v=4"
     },
-    "stars": 77,
+    "stars": 81,
     "starsDetail": {
-      "total": 77
+      "total": 81
     },
     "license": "MIT License",
     "forks": 0,
@@ -22636,7 +22702,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-04T20:47:33.000Z",
-    "updatedAt": "2025-02-09T20:12:19.000Z"
+    "updatedAt": "2025-02-10T22:42:18.000Z"
   },
   {
     "id": "lalitmee/cobalt2.nvim",
@@ -22871,7 +22937,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2025-01-22T01:25:24.000Z",
-    "updatedAt": "2025-02-09T20:12:00.000Z"
+    "updatedAt": "2025-02-10T22:41:59.000Z"
   },
   {
     "id": "liangxianzhe/nap.nvim",
@@ -23555,7 +23621,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-02-07T08:09:48.000Z",
-    "updatedAt": "2025-02-09T20:12:16.000Z"
+    "updatedAt": "2025-02-10T22:42:15.000Z"
   },
   {
     "id": "m4xshen/smartcolumn.nvim",
@@ -23858,7 +23924,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-19T10:06:19.000Z",
-    "updatedAt": "2025-02-09T20:18:09.000Z"
+    "updatedAt": "2025-02-10T22:48:09.000Z"
   },
   {
     "id": "mawkler/modicator.nvim",
@@ -24390,21 +24456,21 @@
       "name": "mluders",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7851951?v=4"
     },
-    "stars": 22,
+    "stars": 23,
     "starsDetail": {
-      "total": 22
+      "total": 23
     },
     "license": "MIT License",
     "forks": 0,
     "primaryLanguage": "Lua",
-    "pushedAt": "2025-02-01T01:05:06.000Z",
+    "pushedAt": "2025-02-10T00:20:51.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-06-21T18:34:28.000Z",
-    "updatedAt": "2025-02-09T20:12:12.000Z"
+    "updatedAt": "2025-02-10T22:42:11.000Z"
   },
   {
     "id": "mong8se/actually.nvim",
@@ -24621,7 +24687,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-07-05T11:40:31.000Z",
-    "updatedAt": "2025-02-09T20:18:23.000Z"
+    "updatedAt": "2025-02-10T22:48:23.000Z"
   },
   {
     "id": "nanotee/sqls.nvim",
@@ -24775,9 +24841,9 @@
       "name": "neko-night",
       "avatarUrl": "https://avatars.githubusercontent.com/u/177785156?v=4"
     },
-    "stars": 33,
+    "stars": 34,
     "starsDetail": {
-      "total": 33
+      "total": 34
     },
     "license": "MIT License",
     "forks": 2,
@@ -24789,7 +24855,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-19T19:45:08.000Z",
-    "updatedAt": "2025-02-09T20:11:53.000Z"
+    "updatedAt": "2025-02-10T22:41:52.000Z"
   },
   {
     "id": "neo451/feed.nvim",
@@ -25019,7 +25085,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-04T19:59:43.000Z",
-    "updatedAt": "2025-02-09T20:12:43.000Z"
+    "updatedAt": "2025-02-10T22:42:42.000Z"
   },
   {
     "id": "nikvdp/neomux",
@@ -25981,7 +26047,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-01-28T20:07:38.000Z",
-    "updatedAt": "2025-02-09T20:12:18.000Z"
+    "updatedAt": "2025-02-10T22:42:17.000Z"
   },
   {
     "id": "nvim-zh/colorful-winsep.nvim",
@@ -26935,21 +27001,21 @@
       "name": "philosofonusus",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32138582?v=4"
     },
-    "stars": 116,
+    "stars": 117,
     "starsDetail": {
-      "total": 116
+      "total": 117
     },
     "license": "MIT License",
     "forks": 5,
     "primaryLanguage": "Lua",
-    "pushedAt": "2025-02-08T09:48:51.000Z",
+    "pushedAt": "2025-02-10T20:49:17.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-09T20:24:42.000Z",
-    "updatedAt": "2025-02-09T20:18:10.000Z"
+    "updatedAt": "2025-02-10T22:48:10.000Z"
   },
   {
     "id": "pianocomposer321/consolation.nvim",
@@ -27558,6 +27624,36 @@
     "goImportedBy": null,
     "createdAt": "2024-05-18T02:46:44.000Z",
     "updatedAt": "2025-02-10T09:38:22.000Z"
+  },
+  {
+    "id": "rachartier/tiny-glimmer.nvim",
+    "name": "rachartier/tiny-glimmer.nvim",
+    "description": "A tiny Neovim plugin that adds subtle animations to various operations.",
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ],
+    "owner": {
+      "name": "rachartier",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2057541?v=4"
+    },
+    "stars": 136,
+    "starsDetail": {
+      "total": 136
+    },
+    "license": "MIT License",
+    "forks": 4,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2025-02-06T14:40:23.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2025-01-12T23:03:52.000Z",
+    "updatedAt": "2025-02-10T22:35:09.000Z"
   },
   {
     "id": "rafaelsq/nvim-goc.lua",
@@ -30331,14 +30427,14 @@
     "license": "MIT License",
     "forks": 0,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-02-05T16:58:39.000Z",
+    "pushedAt": "2025-02-10T15:19:21.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-13T15:59:31.000Z",
-    "updatedAt": "2025-02-09T20:12:01.000Z"
+    "updatedAt": "2025-02-10T22:42:00.000Z"
   },
   {
     "id": "theniceboy/nvim-deus",
@@ -31105,6 +31201,7 @@
       "discord-rich-presence",
       "lua",
       "neovim",
+      "neovim-plugin",
       "nvim",
       "plugin",
       "rich-presence",
@@ -31115,9 +31212,9 @@
       "name": "vyfor",
       "avatarUrl": "https://avatars.githubusercontent.com/u/92883017?v=4"
     },
-    "stars": 258,
+    "stars": 260,
     "starsDetail": {
-      "total": 258
+      "total": 260
     },
     "license": "Apache License 2.0",
     "forks": 12,
@@ -31129,7 +31226,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-04-07T15:20:39.000Z",
-    "updatedAt": "2025-02-09T20:11:55.000Z"
+    "updatedAt": "2025-02-10T22:41:54.000Z"
   },
   {
     "id": "willothy/moveline.nvim",
@@ -31376,7 +31473,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-06-20T13:45:33.000Z",
-    "updatedAt": "2025-02-09T20:11:54.000Z"
+    "updatedAt": "2025-02-10T22:41:53.000Z"
   },
   {
     "id": "wurli/split.nvim",
@@ -31407,7 +31504,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-04T16:09:04.000Z",
-    "updatedAt": "2025-02-09T20:18:11.000Z"
+    "updatedAt": "2025-02-10T22:48:11.000Z"
   },
   {
     "id": "wurli/visimatch.nvim",
@@ -31437,7 +31534,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2025-01-11T22:50:40.000Z",
-    "updatedAt": "2025-02-09T20:18:10.000Z"
+    "updatedAt": "2025-02-10T22:48:11.000Z"
   },
   {
     "id": "xeluxee/competitest.nvim",
@@ -31636,21 +31733,21 @@
       "name": "xzbdmw",
       "avatarUrl": "https://avatars.githubusercontent.com/u/97848247?v=4"
     },
-    "stars": 227,
+    "stars": 229,
     "starsDetail": {
-      "total": 227
+      "total": 229
     },
     "license": "MIT License",
     "forks": 8,
     "primaryLanguage": "Lua",
-    "pushedAt": "2025-02-09T18:10:49.000Z",
+    "pushedAt": "2025-02-10T14:12:26.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2025-01-03T06:07:49.000Z",
-    "updatedAt": "2025-02-09T20:11:59.000Z"
+    "updatedAt": "2025-02-10T22:41:57.000Z"
   },
   {
     "id": "ya2s/nvim-cursorline",
@@ -31895,7 +31992,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-10T05:22:23.000Z",
-    "updatedAt": "2025-02-09T20:18:25.000Z"
+    "updatedAt": "2025-02-10T22:48:25.000Z"
   },
   {
     "id": "yonlu/omni.vim",
@@ -32305,7 +32402,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-23T18:26:46.000Z",
-    "updatedAt": "2025-02-09T20:18:01.000Z"
+    "updatedAt": "2025-02-10T22:48:01.000Z"
   },
   {
     "id": "zongben/navimark.nvim",
@@ -32318,9 +32415,9 @@
       "name": "zongben",
       "avatarUrl": "https://avatars.githubusercontent.com/u/119837502?v=4"
     },
-    "stars": 12,
+    "stars": 13,
     "starsDetail": {
-      "total": 12
+      "total": 13
     },
     "license": "MIT License",
     "forks": 1,
@@ -32332,7 +32429,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-30T13:10:27.000Z",
-    "updatedAt": "2025-02-09T20:18:42.000Z"
+    "updatedAt": "2025-02-10T22:48:43.000Z"
   },
   {
     "id": "zongben/proot.nvim",
@@ -32359,7 +32456,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2025-01-16T06:50:13.000Z",
-    "updatedAt": "2025-02-09T20:12:09.000Z"
+    "updatedAt": "2025-02-10T22:42:08.000Z"
   },
   {
     "id": "zootedb0t/citruszest.nvim",
