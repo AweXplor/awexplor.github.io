@@ -246,7 +246,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-10-23T21:03:44.000Z",
-    "updatedAt": "2025-02-13T01:36:11.000Z"
+    "updatedAt": "2025-02-14T04:04:38.000Z"
   },
   {
     "id": "ueberauth/ueberauth",
@@ -3835,38 +3835,6 @@
     "updatedAt": "2025-02-13T18:15:55.000Z"
   },
   {
-    "id": "aaronrenner/phx_gen_auth",
-    "name": "aaronrenner/phx_gen_auth",
-    "description": "An authentication system generator for Phoenix 1.5 applications.",
-    "topics": [
-      "authentication",
-      "phoenix"
-    ],
-    "owner": {
-      "name": "aaronrenner",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/120878?v=4"
-    },
-    "stars": 771,
-    "starsDetail": {
-      "total": 772,
-      "week": 1,
-      "month": 1,
-      "year": 1,
-      "updatedAt": 1736060611
-    },
-    "license": null,
-    "forks": 55,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2021-08-21T07:10:31.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-03-24T20:48:16.000Z",
-    "updatedAt": "2025-02-13T18:09:42.000Z"
-  },
-  {
     "id": "alco/benchfella",
     "name": "alco/benchfella",
     "description": "Microbenchmarking tool for Elixir",
@@ -4452,35 +4420,6 @@
     "updatedAt": "2025-02-13T18:11:17.000Z"
   },
   {
-    "id": "wooga/eredis",
-    "name": "wooga/eredis",
-    "description": "Erlang Redis client",
-    "topics": [],
-    "owner": {
-      "name": "wooga",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/684356?v=4"
-    },
-    "stars": 628,
-    "starsDetail": {
-      "total": 628,
-      "week": 1,
-      "month": 1,
-      "year": 9,
-      "updatedAt": 1736060704
-    },
-    "license": "MIT License",
-    "forks": 281,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2023-03-27T10:48:11.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2011-04-08T09:54:32.000Z",
-    "updatedAt": "2025-02-13T18:13:19.000Z"
-  },
-  {
     "id": "CargoSense/vex",
     "name": "CargoSense/vex",
     "description": "Data Validation for Elixir",
@@ -4540,35 +4479,6 @@
     "goImportedBy": null,
     "createdAt": "2013-08-04T13:52:37.000Z",
     "updatedAt": "2025-02-13T18:12:10.000Z"
-  },
-  {
-    "id": "bitwalker/exrm",
-    "name": "bitwalker/exrm",
-    "description": "Automatically generate a release for your Elixir project!",
-    "topics": [],
-    "owner": {
-      "name": "bitwalker",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/955793?v=4"
-    },
-    "stars": 920,
-    "starsDetail": {
-      "total": 921,
-      "week": 0,
-      "month": 0,
-      "year": 1,
-      "updatedAt": 1736060721
-    },
-    "license": "MIT License",
-    "forks": 110,
-    "primaryLanguage": "Batchfile",
-    "pushedAt": "2018-04-06T20:39:23.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-03-11T17:24:17.000Z",
-    "updatedAt": "2025-02-13T18:13:54.000Z"
   },
   {
     "id": "erlcloud/erlcloud",
@@ -5279,31 +5189,6 @@
     "updatedAt": "2025-02-13T18:10:15.000Z"
   },
   {
-    "id": "BennyHallett/obelisk",
-    "name": "BennyHallett/obelisk",
-    "description": "Static Site Generator written in Elixir.",
-    "topics": [],
-    "owner": {
-      "name": "BennyHallett",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1532218?v=4"
-    },
-    "stars": 392,
-    "starsDetail": {
-      "total": 392
-    },
-    "license": "MIT License",
-    "forks": 34,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2022-08-21T19:46:47.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-07-01T22:35:29.000Z",
-    "updatedAt": "2025-02-13T18:14:05.000Z"
-  },
-  {
     "id": "Betree/atomex",
     "name": "Betree/atomex",
     "description": "🌊 Elixir RSS/ATOM feed builder with a focus on standards compliance, security and extensibility",
@@ -5732,56 +5617,6 @@
     "goImportedBy": null,
     "createdAt": "2018-08-22T13:52:31.000Z",
     "updatedAt": "2025-02-13T18:09:23.000Z"
-  },
-  {
-    "id": "CargoSense/ex_csv",
-    "name": "CargoSense/ex_csv",
-    "description": "CSV for Elixir",
-    "topics": [],
-    "owner": {
-      "name": "CargoSense",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3963271?v=4"
-    },
-    "stars": 46,
-    "starsDetail": {
-      "total": 46
-    },
-    "license": null,
-    "forks": 8,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2016-06-29T22:50:54.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-09-18T06:24:31.000Z",
-    "updatedAt": "2025-02-13T18:10:32.000Z"
-  },
-  {
-    "id": "CargoSense/ex_statsd",
-    "name": "CargoSense/ex_statsd",
-    "description": "StatsD Client for Elixir (EOL: We Recommend Statix)",
-    "topics": [],
-    "owner": {
-      "name": "CargoSense",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3963271?v=4"
-    },
-    "stars": 96,
-    "starsDetail": {
-      "total": 96
-    },
-    "license": null,
-    "forks": 34,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2018-04-12T00:59:17.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-10-02T05:47:04.000Z",
-    "updatedAt": "2025-02-13T18:15:07.000Z"
   },
   {
     "id": "Cirru/parser.ex",
@@ -7101,31 +6936,6 @@
     "updatedAt": "2025-02-13T18:14:22.000Z"
   },
   {
-    "id": "KazuCocoa/ex_parameterized",
-    "name": "KazuCocoa/ex_parameterized",
-    "description": "This library support parameterized test with test_with_params macro.",
-    "topics": [],
-    "owner": {
-      "name": "KazuCocoa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5511591?v=4"
-    },
-    "stars": 29,
-    "starsDetail": {
-      "total": 29
-    },
-    "license": "MIT License",
-    "forks": 7,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2023-11-19T06:57:38.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-09-09T15:09:07.000Z",
-    "updatedAt": "2025-02-13T18:14:18.000Z"
-  },
-  {
     "id": "KazuCocoa/http_proxy",
     "name": "KazuCocoa/http_proxy",
     "description": "http proxy with Elixir. wait request with multi port and forward to each URIs",
@@ -7498,33 +7308,6 @@
     "updatedAt": "2025-02-13T18:15:24.000Z"
   },
   {
-    "id": "MyMedsAndMe/spell",
-    "name": "MyMedsAndMe/spell",
-    "description": "Spell is a Web Application Messaging Protocol (WAMP) client implementation in Elixir. WAMP is an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol: Remote Procedure Calls + Publish & Subscribe: http://wamp.ws/",
-    "topics": [
-      "dev"
-    ],
-    "owner": {
-      "name": "MyMedsAndMe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1699499?v=4"
-    },
-    "stars": 67,
-    "starsDetail": {
-      "total": 67
-    },
-    "license": "Apache License 2.0",
-    "forks": 25,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2023-01-20T11:47:45.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-04-07T15:36:17.000Z",
-    "updatedAt": "2025-02-13T18:12:01.000Z"
-  },
-  {
     "id": "NAISorg/conrex",
     "name": "NAISorg/conrex",
     "description": "An Elixir implementation of the CONREC algorithm for topographic or isochrone maps.",
@@ -7850,6 +7633,31 @@
     "updatedAt": "2025-02-13T18:10:12.000Z"
   },
   {
+    "id": "Nordix/eredis",
+    "name": "Nordix/eredis",
+    "description": "Erlang Redis client. This is an actively maintained fork used and sponsored by Ericsson via Nordix Foundation.",
+    "topics": [],
+    "owner": {
+      "name": "Nordix",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36034376?v=4"
+    },
+    "stars": 40,
+    "starsDetail": {
+      "total": 40
+    },
+    "license": "MIT License",
+    "forks": 24,
+    "primaryLanguage": "Elixir",
+    "pushedAt": "2024-08-16T11:15:05.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-04-24T19:40:43.000Z",
+    "updatedAt": "2025-02-14T03:59:25.000Z"
+  },
+  {
     "id": "OCannings/tf-idf",
     "name": "OCannings/tf-idf",
     "description": "tf-idf elixir",
@@ -8118,37 +7926,6 @@
     "updatedAt": "2025-02-13T18:15:23.000Z"
   },
   {
-    "id": "Recruitee/mix_docker",
-    "name": "Recruitee/mix_docker",
-    "description": "Put your Elixir app production release inside minimal docker image",
-    "topics": [
-      "deployment",
-      "distillery",
-      "docker",
-      "elixir",
-      "mix"
-    ],
-    "owner": {
-      "name": "Recruitee",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20725594?v=4"
-    },
-    "stars": 333,
-    "starsDetail": {
-      "total": 333
-    },
-    "license": "MIT License",
-    "forks": 52,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2018-06-07T16:45:03.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-10-04T10:17:28.000Z",
-    "updatedAt": "2025-02-13T18:13:56.000Z"
-  },
-  {
     "id": "RiverFinancial/bitcoinex",
     "name": "RiverFinancial/bitcoinex",
     "description": "Bitcoin utilities in Elixir",
@@ -8257,38 +8034,6 @@
     "goImportedBy": null,
     "createdAt": "2015-02-01T13:34:50.000Z",
     "updatedAt": "2025-02-13T18:12:40.000Z"
-  },
-  {
-    "id": "SebastianSzturo/kaisuu",
-    "name": "SebastianSzturo/kaisuu",
-    "description": "Japan's Kanji Usage on Twitter in Realtime",
-    "topics": [
-      "elixir",
-      "hex",
-      "japan",
-      "japanese",
-      "tweets",
-      "twitter"
-    ],
-    "owner": {
-      "name": "SebastianSzturo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2699745?v=4"
-    },
-    "stars": 66,
-    "starsDetail": {
-      "total": 66
-    },
-    "license": null,
-    "forks": 2,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2016-02-17T12:08:43.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-02-15T17:37:56.000Z",
-    "updatedAt": "2025-02-13T18:11:02.000Z"
   },
   {
     "id": "SparkPost/elixir-sparkpost",
@@ -9019,31 +8764,6 @@
     "goImportedBy": null,
     "createdAt": "2014-10-06T15:49:24.000Z",
     "updatedAt": "2025-02-13T18:11:19.000Z"
-  },
-  {
-    "id": "adjust/airbax",
-    "name": "adjust/airbax",
-    "description": "Exception tracking from Elixir to Airbrake",
-    "topics": [],
-    "owner": {
-      "name": "adjust",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1327203?v=4"
-    },
-    "stars": 5,
-    "starsDetail": {
-      "total": 5
-    },
-    "license": "ISC License",
-    "forks": 5,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2018-03-21T14:31:19.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-07-17T19:52:59.000Z",
-    "updatedAt": "2025-02-13T18:14:55.000Z"
   },
   {
     "id": "adriankumpf/srtm",
@@ -10270,7 +9990,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-11-03T14:13:19.000Z",
-    "updatedAt": "2025-02-13T01:36:17.000Z"
+    "updatedAt": "2025-02-14T04:04:44.000Z"
   },
   {
     "id": "asiniy/download",
@@ -11070,14 +10790,14 @@
     "license": "Other",
     "forks": 2,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-02-12T21:29:11.000Z",
+    "pushedAt": "2025-02-13T23:59:36.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-25T01:44:18.000Z",
-    "updatedAt": "2025-02-13T01:41:52.000Z"
+    "updatedAt": "2025-02-14T04:10:38.000Z"
   },
   {
     "id": "bayandin/awesome-awesomeness",
@@ -13532,31 +13252,6 @@
     "updatedAt": "2025-02-13T18:12:28.000Z"
   },
   {
-    "id": "crate/craterl",
-    "name": "crate/craterl",
-    "description": "Client Libraries for Erlang",
-    "topics": [],
-    "owner": {
-      "name": "crate",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4048232?v=4"
-    },
-    "stars": 8,
-    "starsDetail": {
-      "total": 8
-    },
-    "license": "Apache License 2.0",
-    "forks": 3,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2015-12-30T13:56:39.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-04-09T21:26:47.000Z",
-    "updatedAt": "2025-02-13T18:13:08.000Z"
-  },
-  {
     "id": "crertel/graphmath",
     "name": "crertel/graphmath",
     "description": "An Elixir library for performing 2D and 3D mathematics.",
@@ -13953,31 +13648,6 @@
     "goImportedBy": null,
     "createdAt": "2015-04-18T19:31:27.000Z",
     "updatedAt": "2025-02-13T18:15:29.000Z"
-  },
-  {
-    "id": "danmcclain/voorhees",
-    "name": "danmcclain/voorhees",
-    "description": "",
-    "topics": [],
-    "owner": {
-      "name": "danmcclain",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/144138?v=4"
-    },
-    "stars": 42,
-    "starsDetail": {
-      "total": 42
-    },
-    "license": "MIT License",
-    "forks": 10,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2016-04-03T23:15:12.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-04-29T15:10:38.000Z",
-    "updatedAt": "2025-02-13T18:15:45.000Z"
   },
   {
     "id": "dantame/sentient",
@@ -14539,35 +14209,6 @@
     "updatedAt": "2025-02-13T18:10:20.000Z"
   },
   {
-    "id": "dm1try/ilexir",
-    "name": "dm1try/ilexir",
-    "description": "Elixir + Neovim = :couple:",
-    "topics": [
-      "elixir",
-      "linter",
-      "neovim"
-    ],
-    "owner": {
-      "name": "dm1try",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/486807?v=4"
-    },
-    "stars": 8,
-    "starsDetail": {
-      "total": 8
-    },
-    "license": null,
-    "forks": 0,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2017-05-07T15:25:00.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-08-24T11:35:14.000Z",
-    "updatedAt": "2025-02-13T18:15:56.000Z"
-  },
-  {
     "id": "dm1try/nvim",
     "name": "dm1try/nvim",
     "description": "write plugins for Neovim using Elixir",
@@ -14678,31 +14319,6 @@
     "goImportedBy": null,
     "createdAt": "2016-02-11T21:46:28.000Z",
     "updatedAt": "2025-02-13T18:12:04.000Z"
-  },
-  {
-    "id": "doomspork/hydra",
-    "name": "doomspork/hydra",
-    "description": "Open source API gateway with integrated cache and data transformations.",
-    "topics": [],
-    "owner": {
-      "name": "doomspork",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/73386?v=4"
-    },
-    "stars": 67,
-    "starsDetail": {
-      "total": 67
-    },
-    "license": "Apache License 2.0",
-    "forks": 5,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2023-03-11T17:35:49.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-12-06T04:50:16.000Z",
-    "updatedAt": "2025-02-13T18:09:25.000Z"
   },
   {
     "id": "drewkerrigan/riak-elixir-client",
@@ -15402,31 +15018,6 @@
     "updatedAt": "2025-02-13T18:12:37.000Z"
   },
   {
-    "id": "elixircnx/parse_elixir_client",
-    "name": "elixircnx/parse_elixir_client",
-    "description": "An Elixir client for the parse.com REST API",
-    "topics": [],
-    "owner": {
-      "name": "elixircnx",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8408725?v=4"
-    },
-    "stars": 5,
-    "starsDetail": {
-      "total": 5
-    },
-    "license": "MIT License",
-    "forks": 3,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2015-07-03T19:54:45.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-08-10T14:26:15.000Z",
-    "updatedAt": "2025-02-13T18:15:20.000Z"
-  },
-  {
     "id": "elixirdrops/kerosene",
     "name": "elixirdrops/kerosene",
     "description": "Pagination for Ecto and Pheonix.",
@@ -15475,31 +15066,6 @@
     "goImportedBy": null,
     "createdAt": "2015-07-31T14:15:36.000Z",
     "updatedAt": "2025-02-13T18:11:23.000Z"
-  },
-  {
-    "id": "eljojo/ex_chain",
-    "name": "eljojo/ex_chain",
-    "description": "Simple Markov Chain written in Elixir",
-    "topics": [],
-    "owner": {
-      "name": "eljojo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/491230?v=4"
-    },
-    "stars": 20,
-    "starsDetail": {
-      "total": 20
-    },
-    "license": null,
-    "forks": 1,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2016-05-19T02:46:34.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-05-13T17:09:34.000Z",
-    "updatedAt": "2025-02-13T18:11:00.000Z"
   },
   {
     "id": "elpassion/sprint-poker",
@@ -15762,31 +15328,6 @@
     "goImportedBy": null,
     "createdAt": "2016-06-30T13:55:35.000Z",
     "updatedAt": "2025-02-13T18:13:01.000Z"
-  },
-  {
-    "id": "epsanchezma/exrm-heroku",
-    "name": "epsanchezma/exrm-heroku",
-    "description": "Publish your Elixir releases to Heroku with ease.",
-    "topics": [],
-    "owner": {
-      "name": "epsanchezma",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7122890?v=4"
-    },
-    "stars": 45,
-    "starsDetail": {
-      "total": 45
-    },
-    "license": "MIT License",
-    "forks": 4,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2015-05-27T22:55:52.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-02-13T22:43:17.000Z",
-    "updatedAt": "2025-02-13T18:13:55.000Z"
   },
   {
     "id": "era/pay",
@@ -18135,31 +17676,6 @@
     "updatedAt": "2025-02-13T18:15:46.000Z"
   },
   {
-    "id": "gushonorato/mechanize",
-    "name": "gushonorato/mechanize",
-    "description": "Build web scrapers and automate interaction with websites in Elixir with ease!",
-    "topics": [],
-    "owner": {
-      "name": "gushonorato",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/369689?v=4"
-    },
-    "stars": 30,
-    "starsDetail": {
-      "total": 30
-    },
-    "license": "MIT License",
-    "forks": 5,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2025-01-02T22:29:41.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2019-05-08T04:56:06.000Z",
-    "updatedAt": "2025-02-13T18:11:59.000Z"
-  },
-  {
     "id": "gutschilla/elixir-navigation-tree",
     "name": "gutschilla/elixir-navigation-tree",
     "description": "A navigation tree representation with helpers to generate HTML out of it - depending of userroles",
@@ -19883,31 +19399,6 @@
     "updatedAt": "2025-02-13T18:12:44.000Z"
   },
   {
-    "id": "joakimk/toniq",
-    "name": "joakimk/toniq",
-    "description": "Simple and reliable background job processing library for Elixir.",
-    "topics": [],
-    "owner": {
-      "name": "joakimk",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13256?v=4"
-    },
-    "stars": 337,
-    "starsDetail": {
-      "total": 337
-    },
-    "license": null,
-    "forks": 25,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2018-09-12T08:31:34.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-06-26T15:21:52.000Z",
-    "updatedAt": "2025-02-13T18:13:52.000Z"
-  },
-  {
     "id": "joaothallis/elixir-auto-test",
     "name": "joaothallis/elixir-auto-test",
     "description": "Run test when file is saved",
@@ -20006,43 +19497,6 @@
     "goImportedBy": null,
     "createdAt": "2015-11-22T16:58:29.000Z",
     "updatedAt": "2025-02-13T18:10:47.000Z"
-  },
-  {
-    "id": "johnhamelink/exrm_deb",
-    "name": "johnhamelink/exrm_deb",
-    "description": "Create a deb for your elixir release with ease",
-    "topics": [
-      "deb",
-      "debian",
-      "deployment",
-      "distillery",
-      "elixir",
-      "elixir-lang",
-      "exrm",
-      "exrm-deb",
-      "hex",
-      "otp",
-      "packaging"
-    ],
-    "owner": {
-      "name": "johnhamelink",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/101739?v=4"
-    },
-    "stars": 76,
-    "starsDetail": {
-      "total": 76
-    },
-    "license": "MIT License",
-    "forks": 13,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2017-08-08T23:57:35.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-02-21T19:40:43.000Z",
-    "updatedAt": "2025-02-13T18:13:54.000Z"
   },
   {
     "id": "jonahoffline/link_shrinkex",
@@ -20154,31 +19608,6 @@
     "goImportedBy": null,
     "createdAt": "2013-05-30T12:36:17.000Z",
     "updatedAt": "2025-02-13T18:14:13.000Z"
-  },
-  {
-    "id": "josevalim/portal",
-    "name": "josevalim/portal",
-    "description": "A tutorial for shooting fault-tolerant portals for distributed data-transfer application in Elixir",
-    "topics": [],
-    "owner": {
-      "name": "josevalim",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9582?v=4"
-    },
-    "stars": 47,
-    "starsDetail": {
-      "total": 47
-    },
-    "license": null,
-    "forks": 14,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2022-02-20T13:50:49.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-06-23T11:53:13.000Z",
-    "updatedAt": "2025-02-13T18:11:05.000Z"
   },
   {
     "id": "joshdholtz/ecto-lazy-float",
@@ -21946,7 +21375,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-05-20T09:20:06.000Z",
-    "updatedAt": "2025-02-13T01:41:49.000Z"
+    "updatedAt": "2025-02-14T04:10:35.000Z"
   },
   {
     "id": "liveforeverx/apix",
@@ -22124,34 +21553,6 @@
     "updatedAt": "2025-02-13T18:11:13.000Z"
   },
   {
-    "id": "lpil/dogma",
-    "name": "lpil/dogma",
-    "description": ":closed_lock_with_key: A code style linter for Elixir",
-    "topics": [
-      "static-analysis",
-      "style-linter"
-    ],
-    "owner": {
-      "name": "lpil",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6134406?v=4"
-    },
-    "stars": 471,
-    "starsDetail": {
-      "total": 471
-    },
-    "license": "Other",
-    "forks": 52,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2019-05-27T10:23:32.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-06-18T12:47:25.000Z",
-    "updatedAt": "2025-02-13T18:10:15.000Z"
-  },
-  {
     "id": "lpil/palette",
     "name": "lpil/palette",
     "description": "A useless library that does stuff the standard library does better.",
@@ -22231,31 +21632,6 @@
     "goImportedBy": null,
     "createdAt": "2016-07-19T16:42:03.000Z",
     "updatedAt": "2025-02-13T18:15:01.000Z"
-  },
-  {
-    "id": "lycus/exmake",
-    "name": "lycus/exmake",
-    "description": "A modern, scriptable, dependency-based build tool loosely based on Make principles.",
-    "topics": [],
-    "owner": {
-      "name": "lycus",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/983184?v=4"
-    },
-    "stars": 17,
-    "starsDetail": {
-      "total": 17
-    },
-    "license": "Other",
-    "forks": 1,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2014-11-27T00:38:21.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2013-08-10T18:56:49.000Z",
-    "updatedAt": "2025-02-13T18:09:53.000Z"
   },
   {
     "id": "ma2gedev/gimei_ex",
@@ -22418,31 +21794,6 @@
     "goImportedBy": null,
     "createdAt": "2015-09-30T14:46:28.000Z",
     "updatedAt": "2025-02-13T18:14:29.000Z"
-  },
-  {
-    "id": "ma2gedev/qiita_ex",
-    "name": "ma2gedev/qiita_ex",
-    "description": "Qiita API v2 Interface for Elixir",
-    "topics": [],
-    "owner": {
-      "name": "ma2gedev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/952100?v=4"
-    },
-    "stars": 7,
-    "starsDetail": {
-      "total": 7
-    },
-    "license": "MIT License",
-    "forks": 0,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2022-12-28T12:54:32.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-12-12T02:36:11.000Z",
-    "updatedAt": "2025-02-13T18:15:23.000Z"
   },
   {
     "id": "maarek/ParsEx",
@@ -24312,7 +23663,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-03-22T17:19:10.000Z",
-    "updatedAt": "2025-02-13T01:42:08.000Z"
+    "updatedAt": "2025-02-14T04:10:56.000Z"
   },
   {
     "id": "mruoss/pluggable",
@@ -25761,31 +25112,6 @@
     "updatedAt": "2025-02-13T18:14:54.000Z"
   },
   {
-    "id": "olhado/dicer",
-    "name": "olhado/dicer",
-    "description": "dice string parser and roller",
-    "topics": [],
-    "owner": {
-      "name": "olhado",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15039?v=4"
-    },
-    "stars": 4,
-    "starsDetail": {
-      "total": 4
-    },
-    "license": "MIT License",
-    "forks": 0,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2015-05-24T01:36:15.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-08-13T00:53:18.000Z",
-    "updatedAt": "2025-02-13T18:14:38.000Z"
-  },
-  {
     "id": "omise/omise-elixir",
     "name": "omise/omise-elixir",
     "description": "Omise Client Library for Elixir",
@@ -26434,31 +25760,6 @@
     "updatedAt": "2025-02-13T18:15:58.000Z"
   },
   {
-    "id": "phoenixframework/ex_conf",
-    "name": "phoenixframework/ex_conf",
-    "description": "Simple Elixir Configuration Management",
-    "topics": [],
-    "owner": {
-      "name": "phoenixframework",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6510388?v=4"
-    },
-    "stars": 35,
-    "starsDetail": {
-      "total": 35
-    },
-    "license": "MIT License",
-    "forks": 6,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2014-08-05T18:42:31.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-02-12T22:11:15.000Z",
-    "updatedAt": "2025-02-13T18:10:22.000Z"
-  },
-  {
     "id": "phoenixframework/phoenix_html",
     "name": "phoenixframework/phoenix_html",
     "description": "Building blocks for working with HTML in Phoenix",
@@ -26798,7 +26099,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-12-27T10:39:42.000Z",
-    "updatedAt": "2025-02-13T01:41:49.000Z"
+    "updatedAt": "2025-02-14T04:10:35.000Z"
   },
   {
     "id": "polleverywhere/chaperon",
@@ -28177,36 +27478,6 @@
     "updatedAt": "2025-02-13T18:13:37.000Z"
   },
   {
-    "id": "rhazdon/blue_bird",
-    "name": "rhazdon/blue_bird",
-    "description": "API Documentation Generator for the Phoenix Framework",
-    "topics": [
-      "api-blueprint",
-      "api-documentation",
-      "documentation-generator",
-      "phoenix-framework"
-    ],
-    "owner": {
-      "name": "rhazdon",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10563183?v=4"
-    },
-    "stars": 58,
-    "starsDetail": {
-      "total": 58
-    },
-    "license": "MIT License",
-    "forks": 13,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2019-11-30T10:32:25.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-05-29T11:16:15.000Z",
-    "updatedAt": "2025-02-13T18:10:58.000Z"
-  },
-  {
     "id": "ricn/librex",
     "name": "ricn/librex",
     "description": "Elixir library to convert office documents to other formats using LibreOffice.",
@@ -28428,31 +27699,6 @@
     "goImportedBy": null,
     "createdAt": "2017-01-07T18:12:25.000Z",
     "updatedAt": "2025-02-13T18:10:04.000Z"
-  },
-  {
-    "id": "rodrigues/red",
-    "name": "rodrigues/red",
-    "description": "",
-    "topics": [],
-    "owner": {
-      "name": "rodrigues",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/128147?v=4"
-    },
-    "stars": 15,
-    "starsDetail": {
-      "total": 15
-    },
-    "license": null,
-    "forks": 1,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2017-08-07T19:03:45.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-05-12T21:11:14.000Z",
-    "updatedAt": "2025-02-13T18:13:30.000Z"
   },
   {
     "id": "romul/airbrake-elixir",
@@ -28784,31 +28030,6 @@
     "goImportedBy": null,
     "createdAt": "2014-12-09T17:42:41.000Z",
     "updatedAt": "2025-02-13T18:11:01.000Z"
-  },
-  {
-    "id": "rubencaro/sshex",
-    "name": "rubencaro/sshex",
-    "description": "Simple SSH helpers for Elixir. SSH is useful, but we all love SSHEx !",
-    "topics": [],
-    "owner": {
-      "name": "rubencaro",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/472823?v=4"
-    },
-    "stars": 160,
-    "starsDetail": {
-      "total": 160
-    },
-    "license": "MIT License",
-    "forks": 26,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2024-10-04T05:13:03.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-02-11T17:40:42.000Z",
-    "updatedAt": "2025-02-13T18:13:03.000Z"
   },
   {
     "id": "rwdaigle/exgen",
@@ -30373,31 +29594,6 @@
     "updatedAt": "2025-02-13T18:10:49.000Z"
   },
   {
-    "id": "smpallen99/exrm-rpm",
-    "name": "smpallen99/exrm-rpm",
-    "description": "Create a rpm for your elixir release with ease",
-    "topics": [],
-    "owner": {
-      "name": "smpallen99",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/891045?v=4"
-    },
-    "stars": 39,
-    "starsDetail": {
-      "total": 39
-    },
-    "license": "MIT License",
-    "forks": 17,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2016-06-14T07:36:24.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-05-22T03:35:27.000Z",
-    "updatedAt": "2025-02-13T18:13:55.000Z"
-  },
-  {
     "id": "solar05/exisbn",
     "name": "solar05/exisbn",
     "description": "ISBN utility library for Elixir.",
@@ -31203,39 +30399,6 @@
     "updatedAt": "2025-02-13T18:13:04.000Z"
   },
   {
-    "id": "suvash/hulaaki",
-    "name": "suvash/hulaaki",
-    "description": "DEPRECATED : An Elixir library (driver) for clients communicating with MQTT brokers(via the MQTT 3.1.1 protocol).",
-    "topics": [
-      "beam",
-      "driver",
-      "elixir",
-      "erlang",
-      "genserver",
-      "messaging",
-      "mqtt"
-    ],
-    "owner": {
-      "name": "suvash",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/144952?v=4"
-    },
-    "stars": 114,
-    "starsDetail": {
-      "total": 114
-    },
-    "license": "MIT License",
-    "forks": 22,
-    "primaryLanguage": "Dockerfile",
-    "pushedAt": "2020-06-21T21:24:42.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2015-03-15T20:32:22.000Z",
-    "updatedAt": "2025-02-13T18:13:49.000Z"
-  },
-  {
     "id": "sviridov/anaphora-elixir",
     "name": "sviridov/anaphora-elixir",
     "description": "The anaphoric macro collection for Elixir",
@@ -31437,7 +30600,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-02-15T07:17:40.000Z",
-    "updatedAt": "2025-02-13T01:30:26.000Z"
+    "updatedAt": "2025-02-14T03:58:49.000Z"
   },
   {
     "id": "synrc/kvs",
@@ -31635,33 +30798,6 @@
     "updatedAt": "2025-02-13T18:15:29.000Z"
   },
   {
-    "id": "taiansu/pipe_to",
-    "name": "taiansu/pipe_to",
-    "description": "The enhanced elixir pipe operator which can specify the target position",
-    "topics": [
-      "elixir"
-    ],
-    "owner": {
-      "name": "taiansu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/241597?v=4"
-    },
-    "stars": 84,
-    "starsDetail": {
-      "total": 84
-    },
-    "license": "Other",
-    "forks": 2,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2021-09-14T15:20:04.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-09-09T18:55:49.000Z",
-    "updatedAt": "2025-02-13T18:12:35.000Z"
-  },
-  {
     "id": "takscape/elixir-array",
     "name": "takscape/elixir-array",
     "description": "An Elixir wrapper library for Erlang's array",
@@ -31710,31 +30846,6 @@
     "goImportedBy": null,
     "createdAt": "2014-09-27T15:02:04.000Z",
     "updatedAt": "2025-02-13T18:13:48.000Z"
-  },
-  {
-    "id": "talentdeficit/jsxn",
-    "name": "talentdeficit/jsxn",
-    "description": "jsx but with maps for people who are into that kind of thing",
-    "topics": [],
-    "owner": {
-      "name": "talentdeficit",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4431?v=4"
-    },
-    "stars": 26,
-    "starsDetail": {
-      "total": 26
-    },
-    "license": "Other",
-    "forks": 11,
-    "primaryLanguage": "Elixir",
-    "pushedAt": "2015-09-30T15:57:14.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2014-04-22T02:46:53.000Z",
-    "updatedAt": "2025-02-13T18:12:19.000Z"
   },
   {
     "id": "talentdeficit/mixunit",
@@ -32769,6 +31880,31 @@
     "updatedAt": "2025-02-13T18:14:35.000Z"
   },
   {
+    "id": "tyre/huffman",
+    "name": "tyre/huffman",
+    "description": "Huffman Coding and Decoding for Elixir",
+    "topics": [],
+    "owner": {
+      "name": "tyre",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1015847?v=4"
+    },
+    "stars": 0,
+    "starsDetail": {
+      "total": 0
+    },
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Elixir",
+    "pushedAt": "2018-03-30T02:54:56.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-03-30T02:45:15.000Z",
+    "updatedAt": "2025-02-14T03:58:44.000Z"
+  },
+  {
     "id": "ueberauth/guardian_db",
     "name": "ueberauth/guardian_db",
     "description": "Guardian DB integration for tracking tokens and ensuring logout cannot be replayed.",
@@ -33266,6 +32402,56 @@
     "goImportedBy": null,
     "createdAt": "2016-11-21T20:07:19.000Z",
     "updatedAt": "2025-02-13T18:15:35.000Z"
+  },
+  {
+    "id": "vegris/once_more",
+    "name": "vegris/once_more",
+    "description": "Simple retries with composable backoff strategies",
+    "topics": [],
+    "owner": {
+      "name": "vegris",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15112489?v=4"
+    },
+    "stars": 5,
+    "starsDetail": {
+      "total": 5
+    },
+    "license": "Apache License 2.0",
+    "forks": 0,
+    "primaryLanguage": "Elixir",
+    "pushedAt": "2025-01-27T13:15:41.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2025-01-27T10:41:06.000Z",
+    "updatedAt": "2025-02-14T04:00:06.000Z"
+  },
+  {
+    "id": "vegris/pachka",
+    "name": "vegris/pachka",
+    "description": "Message batching library for Elixir applications",
+    "topics": [],
+    "owner": {
+      "name": "vegris",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15112489?v=4"
+    },
+    "stars": 13,
+    "starsDetail": {
+      "total": 13
+    },
+    "license": "Apache License 2.0",
+    "forks": 0,
+    "primaryLanguage": "Elixir",
+    "pushedAt": "2025-01-15T14:44:47.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2025-01-14T10:15:44.000Z",
+    "updatedAt": "2025-02-14T04:00:07.000Z"
   },
   {
     "id": "versilov/matrex",
@@ -34261,31 +33447,6 @@
     "updatedAt": "2025-02-13T18:11:03.000Z"
   },
   {
-    "id": "wooga/locker",
-    "name": "wooga/locker",
-    "description": "Atomic distributed \"check and set\" for short-lived keys",
-    "topics": [],
-    "owner": {
-      "name": "wooga",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/684356?v=4"
-    },
-    "stars": 152,
-    "starsDetail": {
-      "total": 152
-    },
-    "license": "MIT License",
-    "forks": 14,
-    "primaryLanguage": "Erlang",
-    "pushedAt": "2019-04-22T15:17:31.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2012-03-06T10:10:59.000Z",
-    "updatedAt": "2025-02-13T18:10:00.000Z"
-  },
-  {
     "id": "woxtu/elixir-mbcs",
     "name": "woxtu/elixir-mbcs",
     "description": "Wrapper for erlang-mbcs",
@@ -34701,36 +33862,6 @@
     "goImportedBy": null,
     "createdAt": "2015-10-06T17:17:45.000Z",
     "updatedAt": "2025-02-13T18:11:45.000Z"
-  },
-  {
-    "id": "ymtszw/hipchat_elixir",
-    "name": "ymtszw/hipchat_elixir",
-    "description": "[DISCONTINUED] HipChat client library for Elixir",
-    "topics": [
-      "elixir",
-      "hipchat",
-      "hipchat-elixir",
-      "hipchat-swagger"
-    ],
-    "owner": {
-      "name": "ymtszw",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4507126?v=4"
-    },
-    "stars": 5,
-    "starsDetail": {
-      "total": 5
-    },
-    "license": "MIT License",
-    "forks": 2,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2019-05-07T03:25:20.000Z",
-    "archived": true,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-12-19T17:54:18.000Z",
-    "updatedAt": "2025-02-13T18:10:05.000Z"
   },
   {
     "id": "yosriady/merkle_tree",

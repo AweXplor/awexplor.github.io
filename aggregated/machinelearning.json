@@ -1125,7 +1125,7 @@
       "name": "LaurentMazare",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1041292?v=4"
     },
-    "stars": 4586,
+    "stars": 4591,
     "starsDetail": {
       "total": 4463,
       "week": 16,
@@ -1143,7 +1143,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-16T21:08:44.000Z",
-    "updatedAt": "2025-02-13T01:38:16.000Z"
+    "updatedAt": "2025-02-14T04:06:45.000Z"
   },
   {
     "id": "trekhleb/homemade-machine-learning",
@@ -1273,7 +1273,7 @@
       "name": "pymc-devs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/81121?v=4"
     },
-    "stars": 8868,
+    "stars": 8870,
     "starsDetail": {
       "total": 8811,
       "week": [
@@ -1295,7 +1295,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-05-05T09:43:50.000Z",
-    "updatedAt": "2025-02-13T01:22:01.000Z"
+    "updatedAt": "2025-02-14T03:50:09.000Z"
   },
   {
     "id": "JuliaStats/GLM.jl",
@@ -2133,7 +2133,7 @@
       "name": "maciejkula",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2392579?v=4"
     },
-    "stars": 630,
+    "stars": 631,
     "starsDetail": {
       "total": 629,
       "week": 0,
@@ -2151,7 +2151,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-03T21:48:17.000Z",
-    "updatedAt": "2025-02-13T01:38:16.000Z"
+    "updatedAt": "2025-02-14T04:06:45.000Z"
   },
   {
     "id": "mit-nlp/MITIE",
@@ -2751,7 +2751,7 @@
       "name": "rust-ml",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50020044?v=4"
     },
-    "stars": 3943,
+    "stars": 3944,
     "starsDetail": {
       "total": 3838,
       "week": 14,
@@ -2769,7 +2769,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-05T07:03:30.000Z",
-    "updatedAt": "2025-02-13T01:38:17.000Z"
+    "updatedAt": "2025-02-14T04:06:46.000Z"
   },
   {
     "id": "madmaze/pytesseract",
@@ -4039,7 +4039,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-26T08:20:56.000Z",
-    "updatedAt": "2025-02-13T01:38:13.000Z"
+    "updatedAt": "2025-02-14T04:06:42.000Z"
   },
   {
     "id": "chaos-genius/chaos_genius",
@@ -4816,6 +4816,56 @@
     "updatedAt": "2025-02-13T14:15:46.000Z"
   },
   {
+    "id": "skforecast/skforecast",
+    "name": "skforecast/skforecast",
+    "description": "Time series forecasting with machine learning models",
+    "topics": [
+      "arima",
+      "autoregressive-forecasting",
+      "backtesting-forecasters",
+      "data-science",
+      "direct-forecasting",
+      "exogenous-predictors",
+      "forecasting",
+      "lightgbm",
+      "lstm-neural-networks",
+      "machine-learning",
+      "multi-series-forecasting",
+      "multi-step-forecasting",
+      "multiple-time-series-forecasting",
+      "probabilistic-forecasting",
+      "python",
+      "quantile-forecasting",
+      "sarimax",
+      "scikit-learn",
+      "time-series",
+      "xgboost"
+    ],
+    "owner": {
+      "name": "skforecast",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/183935963?v=4"
+    },
+    "stars": 1245,
+    "starsDetail": {
+      "total": 1245,
+      "week": 6,
+      "month": 34,
+      "year": 444,
+      "updatedAt": 1739506441
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 149,
+    "primaryLanguage": "Jupyter Notebook",
+    "pushedAt": "2025-02-13T16:04:23.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-02-10T11:40:34.000Z",
+    "updatedAt": "2025-02-14T04:02:39.000Z"
+  },
+  {
     "id": "jupyter/jupyter",
     "name": "jupyter/jupyter",
     "description": "Jupyter metapackage for installation, docs and chat",
@@ -5038,7 +5088,7 @@
       "name": "guillaume-be",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27071604?v=4"
     },
-    "stars": 2737,
+    "stars": 2739,
     "starsDetail": {
       "total": 2705,
       "week": 2,
@@ -5056,7 +5106,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-25T09:40:07.000Z",
-    "updatedAt": "2025-02-13T01:38:14.000Z"
+    "updatedAt": "2025-02-14T04:06:43.000Z"
   },
   {
     "id": "scikit-image/scikit-image",
@@ -6026,7 +6076,7 @@
       "name": "tracel-ai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/111992358?v=4"
     },
-    "stars": 9697,
+    "stars": 9701,
     "starsDetail": {
       "total": 9324,
       "week": 50,
@@ -6035,16 +6085,16 @@
       "updatedAt": 1736032009
     },
     "license": "Apache License 2.0",
-    "forks": 492,
+    "forks": 493,
     "primaryLanguage": "RenderScript",
-    "pushedAt": "2025-02-12T23:34:48.000Z",
+    "pushedAt": "2025-02-13T17:39:32.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-18T23:11:45.000Z",
-    "updatedAt": "2025-02-13T01:38:13.000Z"
+    "updatedAt": "2025-02-14T04:06:43.000Z"
   },
   {
     "id": "leoxiaobin/deep-high-resolution-net.pytorch",
@@ -6155,7 +6205,7 @@
       "name": "huggingface",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4"
     },
-    "stars": 16550,
+    "stars": 16561,
     "starsDetail": {
       "total": 16195,
       "week": 55,
@@ -6164,7 +6214,7 @@
       "updatedAt": 1736032019
     },
     "license": "Apache License 2.0",
-    "forks": 1028,
+    "forks": 1027,
     "primaryLanguage": "RenderScript",
     "pushedAt": "2025-02-08T06:27:16.000Z",
     "archived": false,
@@ -6173,7 +6223,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-06-19T16:06:31.000Z",
-    "updatedAt": "2025-02-13T01:38:15.000Z"
+    "updatedAt": "2025-02-14T04:06:44.000Z"
   },
   {
     "id": "benedekrozemberczki/pytorch_geometric_temporal",
@@ -7782,7 +7832,7 @@
       "updatedAt": 1736035098
     },
     "license": "Other",
-    "forks": 1928,
+    "forks": 1927,
     "primaryLanguage": "Tcl",
     "pushedAt": "2024-10-17T16:32:55.000Z",
     "archived": false,
@@ -7791,7 +7841,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-07-31T19:36:58.000Z",
-    "updatedAt": "2025-02-13T01:21:54.000Z"
+    "updatedAt": "2025-02-14T03:50:01.000Z"
   },
   {
     "id": "clips/pattern",
@@ -7962,7 +8012,7 @@
       "name": "smartcorelib",
       "avatarUrl": "https://avatars.githubusercontent.com/u/70176448?v=4"
     },
-    "stars": 756,
+    "stars": 755,
     "starsDetail": {
       "total": 730,
       "week": 3,
@@ -7980,7 +8030,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-08T05:14:51.000Z",
-    "updatedAt": "2025-02-13T01:38:16.000Z"
+    "updatedAt": "2025-02-14T04:06:46.000Z"
   },
   {
     "id": "SerpentAI/SerpentAI",
@@ -8125,7 +8175,7 @@
       "name": "coreylowman",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7787278?v=4"
     },
-    "stars": 1781,
+    "stars": 1782,
     "starsDetail": {
       "total": 1762,
       "week": 4,
@@ -8143,7 +8193,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-10-12T02:58:54.000Z",
-    "updatedAt": "2025-02-13T01:38:14.000Z"
+    "updatedAt": "2025-02-14T04:06:44.000Z"
   },
   {
     "id": "mljar/mljar-supervised",
@@ -8296,7 +8346,7 @@
       "name": "comet-ml",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31487821?v=4"
     },
-    "stars": 4992,
+    "stars": 5006,
     "starsDetail": {
       "total": 4013,
       "week": 203,
@@ -8305,16 +8355,16 @@
       "updatedAt": 1736085221
     },
     "license": "Apache License 2.0",
-    "forks": 329,
+    "forks": 331,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-02-13T01:10:05.000Z",
+    "pushedAt": "2025-02-13T21:05:20.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-10T12:57:13.000Z",
-    "updatedAt": "2025-02-13T01:34:08.000Z"
+    "updatedAt": "2025-02-14T04:02:34.000Z"
   },
   {
     "id": "CamDavidsonPilon/lifelines",
@@ -9137,7 +9187,7 @@
       "name": "huggingface",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4"
     },
-    "stars": 9364,
+    "stars": 9363,
     "starsDetail": {
       "total": 9220,
       "week": 26,
@@ -9155,7 +9205,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-01T17:52:20.000Z",
-    "updatedAt": "2025-02-13T01:38:15.000Z"
+    "updatedAt": "2025-02-14T04:06:44.000Z"
   },
   {
     "id": "sympy/sympy",
@@ -14190,6 +14240,36 @@
     "updatedAt": "2025-02-13T18:28:51.000Z"
   },
   {
+    "id": "alinapetukhova/textcl",
+    "name": "alinapetukhova/textcl",
+    "description": "Text preprocessing package for use in NLP tasks https://pypi.org/project/textcl/",
+    "topics": [
+      "nlp",
+      "outlier-detection",
+      "text-cleaning",
+      "text-processing"
+    ],
+    "owner": {
+      "name": "alinapetukhova",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14196910?v=4"
+    },
+    "stars": 11,
+    "starsDetail": {
+      "total": 11
+    },
+    "license": "MIT License",
+    "forks": 4,
+    "primaryLanguage": "Python",
+    "pushedAt": "2024-08-09T16:08:59.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-03-11T16:19:57.000Z",
+    "updatedAt": "2025-02-14T04:02:34.000Z"
+  },
+  {
     "id": "alirezamika/evostra",
     "name": "alirezamika/evostra",
     "description": "A fast Evolution Strategy implementation in Python",
@@ -15501,6 +15581,143 @@
     "goImportedBy": null,
     "createdAt": "2015-08-07T06:03:18.000Z",
     "updatedAt": "2025-02-13T18:25:59.000Z"
+  },
+  {
+    "id": "clugen/CluGen.jl",
+    "name": "clugen/CluGen.jl",
+    "description": "Multidimensional cluster generation in Julia",
+    "topics": [
+      "julia",
+      "julia-package",
+      "multidimensional-clusters",
+      "multidimensional-data",
+      "synthetic-clusters",
+      "synthetic-data-generator",
+      "synthetic-dataset-generation"
+    ],
+    "owner": {
+      "name": "clugen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87722629?v=4"
+    },
+    "stars": 8,
+    "starsDetail": {
+      "total": 8
+    },
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Julia",
+    "pushedAt": "2024-06-04T00:28:07.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-08-22T19:46:47.000Z",
+    "updatedAt": "2025-02-14T04:02:19.000Z"
+  },
+  {
+    "id": "clugen/MOCluGen",
+    "name": "clugen/MOCluGen",
+    "description": "Multidimensional cluster generation in MATLAB/Octave",
+    "topics": [
+      "gnu-octave",
+      "gnu-octave-toolbox",
+      "matlab",
+      "matlab-toolbox",
+      "multidimensional-clusters",
+      "multidimensional-data",
+      "octave",
+      "octave-toolbox",
+      "synthetic-clusters",
+      "synthetic-data-generator",
+      "synthetic-dataset-generation"
+    ],
+    "owner": {
+      "name": "clugen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87722629?v=4"
+    },
+    "stars": 4,
+    "starsDetail": {
+      "total": 4
+    },
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "MATLAB",
+    "pushedAt": "2024-08-05T19:08:09.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-08-20T15:16:42.000Z",
+    "updatedAt": "2025-02-14T04:02:26.000Z"
+  },
+  {
+    "id": "clugen/clugenr",
+    "name": "clugen/clugenr",
+    "description": "Multidimensional cluster generation in R",
+    "topics": [
+      "multidimensional-clusters",
+      "multidimensional-data",
+      "r",
+      "r-package",
+      "synthetic-clusters",
+      "synthetic-data-generator",
+      "synthetic-dataset-generation"
+    ],
+    "owner": {
+      "name": "clugen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87722629?v=4"
+    },
+    "stars": 5,
+    "starsDetail": {
+      "total": 5
+    },
+    "license": "Other",
+    "forks": 0,
+    "primaryLanguage": "R",
+    "pushedAt": "2024-08-05T17:51:56.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-08-22T19:52:42.000Z",
+    "updatedAt": "2025-02-14T04:03:04.000Z"
+  },
+  {
+    "id": "clugen/pyclugen",
+    "name": "clugen/pyclugen",
+    "description": "Multidimensional cluster generation in Python",
+    "topics": [
+      "multidimensional-clusters",
+      "multidimensional-data",
+      "python",
+      "python-library",
+      "python3-library",
+      "synthetic-clusters",
+      "synthetic-data-generator",
+      "synthetic-dataset-generation"
+    ],
+    "owner": {
+      "name": "clugen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87722629?v=4"
+    },
+    "stars": 8,
+    "starsDetail": {
+      "total": 8
+    },
+    "license": "MIT License",
+    "forks": 0,
+    "primaryLanguage": "Python",
+    "pushedAt": "2024-10-11T10:48:22.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-08-22T19:52:09.000Z",
+    "updatedAt": "2025-02-14T04:02:49.000Z"
   },
   {
     "id": "cnclabs/proNet-core",
@@ -18998,21 +19215,21 @@
       "name": "milvus-io",
       "avatarUrl": "https://avatars.githubusercontent.com/u/51735404?v=4"
     },
-    "stars": 32363,
+    "stars": 32396,
     "starsDetail": {
-      "total": 32363
+      "total": 32396
     },
     "license": "Apache License 2.0",
-    "forks": 3023,
+    "forks": 3026,
     "primaryLanguage": "Assembly",
-    "pushedAt": "2025-02-12T15:07:40.000Z",
+    "pushedAt": "2025-02-14T04:04:14.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/milvus-io/milvus",
     "goImportedBy": 0,
     "createdAt": "2019-09-16T06:43:43.000Z",
-    "updatedAt": "2025-02-13T01:44:40.000Z"
+    "updatedAt": "2025-02-14T04:13:43.000Z"
   },
   {
     "id": "mindsdb/lightwood",
@@ -19852,21 +20069,21 @@
       "name": "opencv",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5009934?v=4"
     },
-    "stars": 80537,
+    "stars": 80557,
     "starsDetail": {
-      "total": 80537
+      "total": 80557
     },
     "license": "Apache License 2.0",
-    "forks": 55969,
+    "forks": 55971,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-02-12T09:05:03.000Z",
+    "pushedAt": "2025-02-13T18:30:03.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-07-19T09:40:17.000Z",
-    "updatedAt": "2025-02-13T01:26:31.000Z"
+    "updatedAt": "2025-02-14T03:54:52.000Z"
   },
   {
     "id": "oxinabox/DataDeps.jl",

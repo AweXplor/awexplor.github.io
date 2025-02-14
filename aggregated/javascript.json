@@ -7078,35 +7078,6 @@
     "updatedAt": "2025-02-13T11:03:56.000Z"
   },
   {
-    "id": "micro-zoe/micro-app",
-    "name": "micro-zoe/micro-app",
-    "description": "A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架",
-    "topics": [],
-    "owner": {
-      "name": "micro-zoe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/86414403?v=4"
-    },
-    "stars": 13,
-    "starsDetail": {
-      "total": 5583,
-      "week": 19,
-      "month": 62,
-      "year": 957,
-      "updatedAt": 1729329159
-    },
-    "license": "MIT License",
-    "forks": 0,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2024-12-17T03:03:08.000Z",
-    "archived": false,
-    "npmPackage": "",
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2024-12-16T06:56:38.000Z",
-    "updatedAt": "2025-02-12T19:11:18.000Z"
-  },
-  {
     "id": "orkestral/venom",
     "name": "orkestral/venom",
     "description": "Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp.",
@@ -7409,7 +7380,7 @@
       "name": "HeyPuter",
       "avatarUrl": "https://avatars.githubusercontent.com/u/103972607?v=4"
     },
-    "stars": 28028,
+    "stars": 28051,
     "starsDetail": {
       "total": 25432,
       "week": 240,
@@ -7418,16 +7389,16 @@
       "updatedAt": 1729322130
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 2005,
+    "forks": 2006,
     "primaryLanguage": "C",
-    "pushedAt": "2025-02-12T21:43:45.000Z",
+    "pushedAt": "2025-02-14T02:58:08.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2024-03-03T01:44:32.000Z",
-    "updatedAt": "2025-02-13T01:35:26.000Z"
+    "updatedAt": "2025-02-14T04:03:50.000Z"
   },
   {
     "id": "CodeByZach/pace",
@@ -10202,7 +10173,7 @@
       "updatedAt": 1729322720
     },
     "license": null,
-    "forks": 1316,
+    "forks": 1315,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-05-15T12:21:54.000Z",
     "archived": false,
@@ -10211,7 +10182,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-19T06:30:29.000Z",
-    "updatedAt": "2025-02-13T01:25:43.000Z"
+    "updatedAt": "2025-02-14T03:54:02.000Z"
   },
   {
     "id": "blueimp/JavaScript-MD5",
@@ -12767,7 +12738,7 @@
       "name": "tastejs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1733746?v=4"
     },
-    "stars": 28720,
+    "stars": 28718,
     "starsDetail": {
       "total": 28681,
       "week": 4,
@@ -12776,7 +12747,7 @@
       "updatedAt": 1736087135
     },
     "license": "Other",
-    "forks": 13765,
+    "forks": 13764,
     "primaryLanguage": "Shell",
     "pushedAt": "2024-12-27T04:17:02.000Z",
     "archived": false,
@@ -12785,7 +12756,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-06-03T19:56:33.000Z",
-    "updatedAt": "2025-02-13T01:41:41.000Z"
+    "updatedAt": "2025-02-14T04:10:26.000Z"
   },
   {
     "id": "terser/terser",
@@ -13506,7 +13477,7 @@
       "name": "tighten",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5122936?v=4"
     },
-    "stars": 4026,
+    "stars": 4027,
     "starsDetail": {
       "total": 3902,
       "week": 11,
@@ -13524,7 +13495,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-08-02T21:07:04.000Z",
-    "updatedAt": "2025-02-13T01:32:01.000Z"
+    "updatedAt": "2025-02-14T04:00:23.000Z"
   },
   {
     "id": "FrDH/mmenu-js",
@@ -15981,6 +15952,51 @@
     "updatedAt": "2025-02-13T11:07:21.000Z"
   },
   {
+    "id": "DavidHDev/react-bits",
+    "name": "DavidHDev/react-bits",
+    "description": "An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.",
+    "topics": [
+      "3d",
+      "animations",
+      "component-library",
+      "components",
+      "components-library",
+      "components-react",
+      "css-animations",
+      "javascript",
+      "react",
+      "reactjs",
+      "tailwind",
+      "tailwindcss",
+      "ui-components",
+      "ui-library",
+      "web"
+    ],
+    "owner": {
+      "name": "DavidHDev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48634587?v=4"
+    },
+    "stars": 5030,
+    "starsDetail": {
+      "total": 5030,
+      "week": 827,
+      "month": 3723,
+      "year": 5030,
+      "updatedAt": 1739506444
+    },
+    "license": "Other",
+    "forks": 176,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2025-02-13T22:22:01.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-08-06T06:54:54.000Z",
+    "updatedAt": "2025-02-14T03:49:39.000Z"
+  },
+  {
     "id": "aws/aws-sdk-js-v3",
     "name": "aws/aws-sdk-js-v3",
     "description": "Modularized AWS SDK for JavaScript.",
@@ -18307,14 +18323,14 @@
     "license": "MIT License",
     "forks": 1000,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-02-11T02:37:35.000Z",
+    "pushedAt": "2025-02-13T03:53:07.000Z",
     "archived": false,
     "npmPackage": "vue-multiselect",
     "npmLastMonthDownloads": 958056,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-23T13:02:33.000Z",
-    "updatedAt": "2025-02-13T01:25:24.000Z"
+    "updatedAt": "2025-02-14T03:53:43.000Z"
   },
   {
     "id": "xojs/xo",
@@ -22338,7 +22354,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-05T19:05:31.000Z",
-    "updatedAt": "2025-02-13T01:26:38.000Z"
+    "updatedAt": "2025-02-14T03:55:00.000Z"
   },
   {
     "id": "clappr/clappr",
@@ -22682,7 +22698,7 @@
       "name": "mouredev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17043402?v=4"
     },
-    "stars": 4233,
+    "stars": 4255,
     "starsDetail": {
       "total": 3859,
       "week": 53,
@@ -22691,16 +22707,16 @@
       "updatedAt": 1737309561
     },
     "license": "Apache License 2.0",
-    "forks": 667,
+    "forks": 672,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-02-06T12:21:32.000Z",
+    "pushedAt": "2025-02-13T06:57:36.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-07-01T09:30:17.000Z",
-    "updatedAt": "2025-02-13T01:36:12.000Z"
+    "updatedAt": "2025-02-14T04:04:39.000Z"
   },
   {
     "id": "brave/brave-browser",
@@ -24026,7 +24042,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2010-08-03T14:47:36.000Z",
-    "updatedAt": "2025-02-13T01:36:08.000Z"
+    "updatedAt": "2025-02-14T04:04:35.000Z"
   },
   {
     "id": "Haehnchen/crypto-trading-bot",
@@ -24718,7 +24734,7 @@
       "name": "WhiskeySockets",
       "avatarUrl": "https://avatars.githubusercontent.com/u/131354555?v=4"
     },
-    "stars": 4637,
+    "stars": 4654,
     "starsDetail": {
       "total": 4408,
       "week": 61,
@@ -24727,7 +24743,7 @@
       "updatedAt": 1737309561
     },
     "license": "MIT License",
-    "forks": 1597,
+    "forks": 1596,
     "primaryLanguage": "Shell",
     "pushedAt": "2025-02-04T22:48:22.000Z",
     "archived": false,
@@ -24736,7 +24752,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-01-12T20:38:14.000Z",
-    "updatedAt": "2025-02-13T01:36:06.000Z"
+    "updatedAt": "2025-02-14T04:04:32.000Z"
   },
   {
     "id": "fingerprintjs/fingerprintjs",
@@ -34737,7 +34753,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-11-05T14:30:37.000Z",
-    "updatedAt": "2025-02-13T01:25:31.000Z"
+    "updatedAt": "2025-02-14T03:53:51.000Z"
   },
   {
     "id": "waylaidwanderer/node-chatgpt-api",
@@ -45411,12 +45427,12 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 73138,
+    "stars": 73161,
     "starsDetail": {
-      "total": 73138
+      "total": 73161
     },
     "license": null,
-    "forks": 8992,
+    "forks": 8993,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -45425,7 +45441,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2025-02-13T01:26:47.000Z"
+    "updatedAt": "2025-02-14T03:55:10.000Z"
   },
   {
     "id": "EvandroLG/selecting",
@@ -46022,9 +46038,9 @@
       "name": "TanStack",
       "avatarUrl": "https://avatars.githubusercontent.com/u/72518640?v=4"
     },
-    "stars": 43734,
+    "stars": 43753,
     "starsDetail": {
-      "total": 43734
+      "total": 43753
     },
     "license": "MIT License",
     "forks": 3015,
@@ -46036,7 +46052,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-09-10T19:23:58.000Z",
-    "updatedAt": "2025-02-13T01:25:35.000Z"
+    "updatedAt": "2025-02-14T03:53:54.000Z"
   },
   {
     "id": "TheAlgorithms/JavaScript",
@@ -46535,7 +46551,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-04T16:29:42.000Z",
-    "updatedAt": "2025-02-13T01:33:52.000Z"
+    "updatedAt": "2025-02-14T04:02:16.000Z"
   },
   {
     "id": "apache/echarts",
