@@ -4796,6 +4796,41 @@
     "updatedAt": "2025-02-16T18:30:53.000Z"
   },
   {
+    "id": "Automattic/mongoose",
+    "name": "Automattic/mongoose",
+    "description": "MongoDB object modeling designed to work in an asynchronous environment.",
+    "topics": [
+      "mongo",
+      "mongodb",
+      "nodejs",
+      "odm",
+      "orm"
+    ],
+    "owner": {
+      "name": "Automattic",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/887802?v=4"
+    },
+    "stars": 27096,
+    "starsDetail": {
+      "total": 26902,
+      "week": 15,
+      "month": 71,
+      "year": 1171,
+      "updatedAt": 1729334014
+    },
+    "license": "MIT License",
+    "forks": 3854,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2025-02-14T17:56:12.000Z",
+    "archived": false,
+    "npmPackage": "mongoose",
+    "npmLastMonthDownloads": 11928553,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2010-04-06T21:39:05.000Z",
+    "updatedAt": "2025-02-17T05:09:48.000Z"
+  },
+  {
     "id": "Turfjs/turf",
     "name": "Turfjs/turf",
     "description": "A modular geospatial engine written in JavaScript and TypeScript",
@@ -7042,6 +7077,55 @@
     "updatedAt": "2025-02-16T18:33:32.000Z"
   },
   {
+    "id": "drizzle-team/drizzle-orm",
+    "name": "drizzle-team/drizzle-orm",
+    "description": "Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅",
+    "topics": [
+      "bunjs",
+      "d1",
+      "libsql",
+      "litefs",
+      "mysql",
+      "mysql2",
+      "neon",
+      "nodejs",
+      "orm",
+      "postgres",
+      "postgresjs",
+      "postgresql",
+      "sql",
+      "sqlite",
+      "sqlite3",
+      "sqljs",
+      "turso",
+      "typescript",
+      "vercel-postgres"
+    ],
+    "owner": {
+      "name": "drizzle-team",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/108468352?v=4"
+    },
+    "stars": 26316,
+    "starsDetail": {
+      "total": 23854,
+      "week": 137,
+      "month": 621,
+      "year": 10098,
+      "updatedAt": 1729334041
+    },
+    "license": "Apache License 2.0",
+    "forks": 766,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-02-16T11:13:35.000Z",
+    "archived": false,
+    "npmPackage": "drizzle-orm",
+    "npmLastMonthDownloads": 2451088,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-06-24T09:03:05.000Z",
+    "updatedAt": "2025-02-17T05:09:53.000Z"
+  },
+  {
     "id": "GoogleChrome/workbox",
     "name": "GoogleChrome/workbox",
     "description": "📦 Workbox: JavaScript libraries for Progressive Web Apps",
@@ -7380,7 +7464,7 @@
       "name": "HeyPuter",
       "avatarUrl": "https://avatars.githubusercontent.com/u/103972607?v=4"
     },
-    "stars": 28090,
+    "stars": 28109,
     "starsDetail": {
       "total": 25432,
       "week": 240,
@@ -7389,16 +7473,16 @@
       "updatedAt": 1729322130
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 2013,
+    "forks": 2012,
     "primaryLanguage": "C",
-    "pushedAt": "2025-02-15T21:03:00.000Z",
+    "pushedAt": "2025-02-17T03:46:09.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": 0,
     "createdAt": "2024-03-03T01:44:32.000Z",
-    "updatedAt": "2025-02-16T08:59:56.000Z"
+    "updatedAt": "2025-02-17T11:31:04.000Z"
   },
   {
     "id": "CodeByZach/pace",
@@ -10173,7 +10257,7 @@
       "updatedAt": 1729322720
     },
     "license": null,
-    "forks": 1315,
+    "forks": 1316,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2024-05-15T12:21:54.000Z",
     "archived": false,
@@ -10182,7 +10266,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-19T06:30:29.000Z",
-    "updatedAt": "2025-02-16T08:49:36.000Z"
+    "updatedAt": "2025-02-17T11:21:04.000Z"
   },
   {
     "id": "blueimp/JavaScript-MD5",
@@ -12738,7 +12822,7 @@
       "name": "tastejs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1733746?v=4"
     },
-    "stars": 28720,
+    "stars": 28719,
     "starsDetail": {
       "total": 28681,
       "week": 4,
@@ -12747,7 +12831,7 @@
       "updatedAt": 1736087135
     },
     "license": "Other",
-    "forks": 13764,
+    "forks": 13763,
     "primaryLanguage": "Shell",
     "pushedAt": "2024-12-27T04:17:02.000Z",
     "archived": false,
@@ -12756,7 +12840,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-06-03T19:56:33.000Z",
-    "updatedAt": "2025-02-16T09:07:25.000Z"
+    "updatedAt": "2025-02-17T11:37:50.000Z"
   },
   {
     "id": "terser/terser",
@@ -13477,7 +13561,7 @@
       "name": "tighten",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5122936?v=4"
     },
-    "stars": 4029,
+    "stars": 4030,
     "starsDetail": {
       "total": 3902,
       "week": 11,
@@ -13495,7 +13579,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-08-02T21:07:04.000Z",
-    "updatedAt": "2025-02-16T08:56:02.000Z"
+    "updatedAt": "2025-02-17T11:25:27.000Z"
   },
   {
     "id": "FrDH/mmenu-js",
@@ -15976,7 +16060,7 @@
       "name": "DavidHDev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48634587?v=4"
     },
-    "stars": 5223,
+    "stars": 5663,
     "starsDetail": {
       "total": 5030,
       "week": 827,
@@ -15985,16 +16069,16 @@
       "updatedAt": 1739506444
     },
     "license": "Other",
-    "forks": 182,
+    "forks": 197,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-02-15T21:43:51.000Z",
+    "pushedAt": "2025-02-17T09:40:58.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-08-06T06:54:54.000Z",
-    "updatedAt": "2025-02-16T09:00:25.000Z"
+    "updatedAt": "2025-02-17T11:31:29.000Z"
   },
   {
     "id": "aws/aws-sdk-js-v3",
@@ -18321,7 +18405,7 @@
       "updatedAt": 1729322569
     },
     "license": "MIT License",
-    "forks": 1000,
+    "forks": 1001,
     "primaryLanguage": "HTML",
     "pushedAt": "2025-02-14T04:56:50.000Z",
     "archived": false,
@@ -18330,7 +18414,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-23T13:02:33.000Z",
-    "updatedAt": "2025-02-16T08:49:17.000Z"
+    "updatedAt": "2025-02-17T11:20:44.000Z"
   },
   {
     "id": "xojs/xo",
@@ -22336,7 +22420,7 @@
       "name": "chakra-core",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63031548?v=4"
     },
-    "stars": 9155,
+    "stars": 9156,
     "starsDetail": {
       "total": 9119,
       "week": 7,
@@ -22345,7 +22429,7 @@
       "updatedAt": 1729322520
     },
     "license": "MIT License",
-    "forks": 1200,
+    "forks": 1201,
     "primaryLanguage": "CSS",
     "pushedAt": "2024-08-12T08:15:35.000Z",
     "archived": false,
@@ -22354,7 +22438,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-05T19:05:31.000Z",
-    "updatedAt": "2025-02-16T08:50:12.000Z"
+    "updatedAt": "2025-02-17T11:22:04.000Z"
   },
   {
     "id": "clappr/clappr",
@@ -22698,7 +22782,7 @@
       "name": "mouredev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17043402?v=4"
     },
-    "stars": 4278,
+    "stars": 4284,
     "starsDetail": {
       "total": 3859,
       "week": 53,
@@ -22707,7 +22791,7 @@
       "updatedAt": 1737309561
     },
     "license": "Apache License 2.0",
-    "forks": 678,
+    "forks": 680,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2025-02-13T06:57:36.000Z",
     "archived": false,
@@ -22716,7 +22800,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-07-01T09:30:17.000Z",
-    "updatedAt": "2025-02-16T09:01:05.000Z"
+    "updatedAt": "2025-02-17T11:32:01.000Z"
   },
   {
     "id": "brave/brave-browser",
@@ -24024,7 +24108,7 @@
       "name": "0xfe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/241299?v=4"
     },
-    "stars": 3982,
+    "stars": 3985,
     "starsDetail": {
       "total": 3965,
       "week": 4,
@@ -24042,7 +24126,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2010-08-03T14:47:36.000Z",
-    "updatedAt": "2025-02-16T09:00:58.000Z"
+    "updatedAt": "2025-02-17T11:31:55.000Z"
   },
   {
     "id": "Haehnchen/crypto-trading-bot",
@@ -24734,7 +24818,7 @@
       "name": "WhiskeySockets",
       "avatarUrl": "https://avatars.githubusercontent.com/u/131354555?v=4"
     },
-    "stars": 4679,
+    "stars": 4689,
     "starsDetail": {
       "total": 4408,
       "week": 61,
@@ -24743,16 +24827,16 @@
       "updatedAt": 1737309561
     },
     "license": "MIT License",
-    "forks": 1600,
+    "forks": 1604,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-02-15T09:58:45.000Z",
+    "pushedAt": "2025-02-16T23:19:33.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-01-12T20:38:14.000Z",
-    "updatedAt": "2025-02-16T09:00:56.000Z"
+    "updatedAt": "2025-02-17T11:31:53.000Z"
   },
   {
     "id": "fingerprintjs/fingerprintjs",
@@ -24796,6 +24880,50 @@
     "goImportedBy": null,
     "createdAt": "2015-02-11T08:49:54.000Z",
     "updatedAt": "2025-02-17T05:12:59.000Z"
+  },
+  {
+    "id": "kysely-org/kysely",
+    "name": "kysely-org/kysely",
+    "description": "A type-safe typescript SQL query builder",
+    "topics": [
+      "browser",
+      "bun",
+      "database",
+      "deno",
+      "microsoft-sql-server",
+      "mssql",
+      "mysql",
+      "nodejs",
+      "postgresql",
+      "query-builder",
+      "sql",
+      "sqlite",
+      "type-safe",
+      "typescript"
+    ],
+    "owner": {
+      "name": "kysely-org",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/128933455?v=4"
+    },
+    "stars": 11369,
+    "starsDetail": {
+      "total": 11369,
+      "week": 44,
+      "month": 214,
+      "year": 2907,
+      "updatedAt": 1739792482
+    },
+    "license": "MIT License",
+    "forks": 287,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2025-02-16T20:44:26.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-02-22T09:06:55.000Z",
+    "updatedAt": "2025-02-17T11:16:37.000Z"
   },
   {
     "id": "jgraph/drawio",
@@ -34753,7 +34881,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-11-05T14:30:37.000Z",
-    "updatedAt": "2025-02-16T08:49:25.000Z"
+    "updatedAt": "2025-02-17T11:20:52.000Z"
   },
   {
     "id": "waylaidwanderer/node-chatgpt-api",
@@ -37563,6 +37691,56 @@
     "goImportedBy": null,
     "createdAt": "2016-04-15T16:21:12.000Z",
     "updatedAt": "2025-02-16T21:37:54.000Z"
+  },
+  {
+    "id": "mikro-orm/mikro-orm",
+    "name": "mikro-orm/mikro-orm",
+    "description": "TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.",
+    "topics": [
+      "database",
+      "datamapper",
+      "entities",
+      "entity",
+      "identity-map",
+      "javascript",
+      "libsql",
+      "mongodb",
+      "mysql",
+      "nodejs",
+      "orm",
+      "postgre",
+      "postgresql",
+      "sql",
+      "sql-server",
+      "sqlite",
+      "sqlite3",
+      "typescript",
+      "typescript-orm",
+      "unit-of-work"
+    ],
+    "owner": {
+      "name": "mikro-orm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54766168?v=4"
+    },
+    "stars": 8040,
+    "starsDetail": {
+      "total": 7725,
+      "week": 31,
+      "month": 105,
+      "year": 1339,
+      "updatedAt": 1729334031
+    },
+    "license": "MIT License",
+    "forks": 565,
+    "primaryLanguage": "Batchfile",
+    "pushedAt": "2025-02-16T23:14:44.000Z",
+    "archived": false,
+    "npmPackage": "mikro-orm",
+    "npmLastMonthDownloads": 851193,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-03-15T09:21:10.000Z",
+    "updatedAt": "2025-02-17T05:09:51.000Z"
   },
   {
     "id": "tinymce/tinymce",
@@ -45427,12 +45605,12 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 73193,
+    "stars": 73220,
     "starsDetail": {
-      "total": 73193
+      "total": 73220
     },
     "license": null,
-    "forks": 8997,
+    "forks": 9003,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -45441,7 +45619,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2025-02-16T08:50:21.000Z"
+    "updatedAt": "2025-02-17T11:22:13.000Z"
   },
   {
     "id": "EvandroLG/selecting",
@@ -46038,21 +46216,21 @@
       "name": "TanStack",
       "avatarUrl": "https://avatars.githubusercontent.com/u/72518640?v=4"
     },
-    "stars": 43789,
+    "stars": 43806,
     "starsDetail": {
-      "total": 43789
+      "total": 43806
     },
     "license": "MIT License",
     "forks": 3019,
     "primaryLanguage": "CSS",
-    "pushedAt": "2025-02-15T12:16:52.000Z",
+    "pushedAt": "2025-02-16T15:30:46.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-09-10T19:23:58.000Z",
-    "updatedAt": "2025-02-16T08:49:28.000Z"
+    "updatedAt": "2025-02-17T11:20:55.000Z"
   },
   {
     "id": "TheAlgorithms/JavaScript",
@@ -46551,7 +46729,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-04T16:29:42.000Z",
-    "updatedAt": "2025-02-16T08:58:47.000Z"
+    "updatedAt": "2025-02-17T11:29:56.000Z"
   },
   {
     "id": "apache/echarts",
@@ -47249,6 +47427,37 @@
     "goImportedBy": null,
     "createdAt": "2014-06-04T10:55:33.000Z",
     "updatedAt": "2025-02-16T18:15:26.000Z"
+  },
+  {
+    "id": "colinhacks/zod",
+    "name": "colinhacks/zod",
+    "description": "TypeScript-first schema validation with static type inference",
+    "topics": [
+      "runtime-validation",
+      "schema-validation",
+      "static-types",
+      "type-inference",
+      "typescript"
+    ],
+    "owner": {
+      "name": "colinhacks",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3084745?v=4"
+    },
+    "stars": 35577,
+    "starsDetail": {
+      "total": 35577
+    },
+    "license": "MIT License",
+    "forks": 1256,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-02-16T23:43:51.000Z",
+    "archived": false,
+    "npmPackage": "zod",
+    "npmLastMonthDownloads": 58829141,
+    "goPackage": "",
+    "goImportedBy": 0,
+    "createdAt": "2020-03-07T20:59:08.000Z",
+    "updatedAt": "2025-02-17T05:09:35.000Z"
   },
   {
     "id": "crozynski/Fluid-Squares",
@@ -50309,6 +50518,52 @@
     "updatedAt": "2025-02-16T18:31:28.000Z"
   },
   {
+    "id": "prisma/prisma",
+    "name": "prisma/prisma",
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+    "topics": [
+      "cockroachdb",
+      "database",
+      "javascript",
+      "mariadb",
+      "mongo",
+      "mongodb",
+      "mongodb-orm",
+      "mssql",
+      "mysql",
+      "nodejs",
+      "orm",
+      "postgres",
+      "postgresql",
+      "prisma",
+      "prisma-client",
+      "query-builder",
+      "sql-server",
+      "sqlite",
+      "sqlserver",
+      "typescript"
+    ],
+    "owner": {
+      "name": "prisma",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17219288?v=4"
+    },
+    "stars": 41162,
+    "starsDetail": {
+      "total": 41162
+    },
+    "license": "Apache License 2.0",
+    "forks": 1622,
+    "primaryLanguage": "TSQL",
+    "pushedAt": "2025-02-16T18:49:19.000Z",
+    "archived": false,
+    "npmPackage": "prisma",
+    "npmLastMonthDownloads": 10982557,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2019-06-20T13:33:47.000Z",
+    "updatedAt": "2025-02-17T05:09:53.000Z"
+  },
+  {
     "id": "pstadler/the-cube",
     "name": "pstadler/the-cube",
     "description": "The Cube is an experiment with CSS3 transitions.",
@@ -51204,6 +51459,52 @@
     "updatedAt": "2025-02-16T18:31:12.000Z"
   },
   {
+    "id": "typeorm/typeorm",
+    "name": "typeorm/typeorm",
+    "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
+    "topics": [
+      "active-record",
+      "cockroachdb",
+      "data-mapper",
+      "database",
+      "electron",
+      "hacktoberfest",
+      "javascript",
+      "mariadb",
+      "mysql",
+      "oracle",
+      "orm",
+      "postgresql",
+      "react-native",
+      "sap",
+      "sap-hana",
+      "sqlite",
+      "sqlserver",
+      "typeorm",
+      "typescript",
+      "websql"
+    ],
+    "owner": {
+      "name": "typeorm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20165699?v=4"
+    },
+    "stars": 34866,
+    "starsDetail": {
+      "total": 34866
+    },
+    "license": "MIT License",
+    "forks": 6376,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2025-02-14T20:17:09.000Z",
+    "archived": false,
+    "npmPackage": "typeorm",
+    "npmLastMonthDownloads": 9278919,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-02-29T07:41:14.000Z",
+    "updatedAt": "2025-02-17T05:09:51.000Z"
+  },
+  {
     "id": "typicode/husky",
     "name": "typicode/husky",
     "description": "Git hooks made easy 🐶 woof!",
@@ -51515,6 +51816,43 @@
     "goImportedBy": null,
     "createdAt": "2020-08-06T07:54:33.000Z",
     "updatedAt": "2025-02-17T05:11:00.000Z"
+  },
+  {
+    "id": "withastro/astro",
+    "name": "withastro/astro",
+    "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
+    "topics": [
+      "astro",
+      "blog",
+      "browser",
+      "components",
+      "hybrid",
+      "islands",
+      "node",
+      "server",
+      "static",
+      "static-site-generator",
+      "universal"
+    ],
+    "owner": {
+      "name": "withastro",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/44914786?v=4"
+    },
+    "stars": 49158,
+    "starsDetail": {
+      "total": 49158
+    },
+    "license": "Other",
+    "forks": 2617,
+    "primaryLanguage": "SCSS",
+    "pushedAt": "2025-02-17T06:53:25.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-03-15T17:19:47.000Z",
+    "updatedAt": "2025-02-17T11:16:36.000Z"
   },
   {
     "id": "wjcrowcroft/accounting.js",
