@@ -1275,7 +1275,7 @@
       "name": "ecomfe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2268460?v=4"
     },
-    "stars": 9936,
+    "stars": 9939,
     "starsDetail": {
       "total": 9852,
       "week": 14,
@@ -1293,7 +1293,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-17T09:55:24.000Z",
-    "updatedAt": "2025-02-18T13:47:53.000Z"
+    "updatedAt": "2025-02-19T16:25:36.000Z"
   },
   {
     "id": "JetBrains/intellij-plugins",
@@ -2433,7 +2433,7 @@
       "name": "soybeanjs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/119996361?v=4"
     },
-    "stars": 11087,
+    "stars": 11094,
     "starsDetail": {
       "total": 10837,
       "week": 74,
@@ -2442,16 +2442,16 @@
       "updatedAt": 1736450247
     },
     "license": "MIT License",
-    "forks": 1973,
+    "forks": 1975,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-02-11T15:57:31.000Z",
+    "pushedAt": "2025-02-19T02:50:19.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-09-08T16:13:36.000Z",
-    "updatedAt": "2025-02-18T14:08:17.000Z"
+    "updatedAt": "2025-02-19T16:43:42.000Z"
   },
   {
     "id": "jason5ng32/MyIP",
@@ -3654,7 +3654,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-25T18:00:18.000Z",
-    "updatedAt": "2025-02-18T14:07:34.000Z"
+    "updatedAt": "2025-02-19T16:43:03.000Z"
   },
   {
     "id": "vuejs/vitepress",
@@ -4490,7 +4490,7 @@
       "name": "nativescript-vue",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32681046?v=4"
     },
-    "stars": 5412,
+    "stars": 5413,
     "starsDetail": {
       "total": 5413,
       "week": 3,
@@ -4508,7 +4508,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-17T23:49:17.000Z",
-    "updatedAt": "2025-02-18T13:47:23.000Z"
+    "updatedAt": "2025-02-19T16:25:11.000Z"
   },
   {
     "id": "graphieros/vue-data-ui",
@@ -8092,7 +8092,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-04-01T09:24:55.000Z",
-    "updatedAt": "2025-02-18T13:58:00.000Z"
+    "updatedAt": "2025-02-19T16:34:26.000Z"
   },
   {
     "id": "MartinMalinda/vue-concurrency",
@@ -8890,7 +8890,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-03T20:41:03.000Z",
-    "updatedAt": "2025-02-18T14:00:58.000Z"
+    "updatedAt": "2025-02-19T16:37:09.000Z"
   },
   {
     "id": "aaronlamz/navpress",
@@ -10492,14 +10492,14 @@
     "license": "MIT License",
     "forks": 1,
     "primaryLanguage": "PowerShell",
-    "pushedAt": "2025-02-13T14:32:55.000Z",
+    "pushedAt": "2025-02-18T16:54:38.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-07-05T00:17:44.000Z",
-    "updatedAt": "2025-02-18T14:01:08.000Z"
+    "updatedAt": "2025-02-19T16:37:18.000Z"
   },
   {
     "id": "frederikbache/vue-vroom",
@@ -10729,7 +10729,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-02-18T16:00:35.000Z",
-    "updatedAt": "2025-02-18T14:01:06.000Z"
+    "updatedAt": "2025-02-19T16:37:16.000Z"
   },
   {
     "id": "hiyali/vue-smooth-picker",
@@ -10932,9 +10932,9 @@
       "name": "imrofayel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/134688534?v=4"
     },
-    "stars": 116,
+    "stars": 117,
     "starsDetail": {
-      "total": 116
+      "total": 117
     },
     "license": "MIT License",
     "forks": 10,
@@ -10946,7 +10946,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-12T12:55:17.000Z",
-    "updatedAt": "2025-02-18T14:00:55.000Z"
+    "updatedAt": "2025-02-19T16:37:07.000Z"
   },
   {
     "id": "ionic-team/ionic-framework",
@@ -10975,21 +10975,21 @@
       "name": "ionic-team",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3171503?v=4"
     },
-    "stars": 51443,
+    "stars": 51449,
     "starsDetail": {
-      "total": 51443
+      "total": 51449
     },
     "license": "MIT License",
-    "forks": 13486,
+    "forks": 13484,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-02-18T13:56:06.000Z",
+    "pushedAt": "2025-02-19T15:44:37.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-08-20T23:06:02.000Z",
-    "updatedAt": "2025-02-18T13:57:16.000Z"
+    "updatedAt": "2025-02-19T16:33:46.000Z"
   },
   {
     "id": "itsalb3rt/afterman",
@@ -13952,7 +13952,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-08T10:40:58.000Z",
-    "updatedAt": "2025-02-18T14:01:04.000Z"
+    "updatedAt": "2025-02-19T16:37:15.000Z"
   },
   {
     "id": "siaikin/vue-to-print",
@@ -14331,21 +14331,21 @@
       "name": "tailwindlabs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4"
     },
-    "stars": 85734,
+    "stars": 85765,
     "starsDetail": {
-      "total": 85734
+      "total": 85765
     },
     "license": "MIT License",
-    "forks": 4363,
+    "forks": 4368,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-02-18T13:46:51.000Z",
+    "pushedAt": "2025-02-19T15:17:13.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-06T14:59:14.000Z",
-    "updatedAt": "2025-02-18T13:55:43.000Z"
+    "updatedAt": "2025-02-19T16:30:10.000Z"
   },
   {
     "id": "technowledgy/vue-postgrest",
