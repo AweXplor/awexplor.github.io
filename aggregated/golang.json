@@ -6990,7 +6990,7 @@
       "name": "cossacklabs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11052315?v=4"
     },
-    "stars": 1897,
+    "stars": 1899,
     "starsDetail": {
       "total": 1858,
       "week": 0,
@@ -7008,7 +7008,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2015-05-06T13:25:25.000Z",
-    "updatedAt": "2025-02-20T12:41:49.000Z"
+    "updatedAt": "2025-02-21T15:13:28.000Z"
   },
   {
     "id": "dominikh/go-mode.el",
@@ -9654,7 +9654,7 @@
     "goPackage": "github.com/bleenco/abstruse",
     "goImportedBy": 0,
     "createdAt": "2017-03-13T22:31:58.000Z",
-    "updatedAt": "2025-02-20T12:41:48.000Z"
+    "updatedAt": "2025-02-21T15:13:26.000Z"
   },
   {
     "id": "bojanz/currency",
@@ -11627,7 +11627,7 @@
     "goPackage": "github.com/go-eagle/eagle",
     "goImportedBy": 0,
     "createdAt": "2018-07-05T15:18:41.000Z",
-    "updatedAt": "2025-02-20T12:45:51.000Z"
+    "updatedAt": "2025-02-21T15:17:34.000Z"
   },
   {
     "id": "natefinch/lumberjack",
@@ -11764,7 +11764,7 @@
       "name": "claceio",
       "avatarUrl": "https://avatars.githubusercontent.com/u/130697263?v=4"
     },
-    "stars": 569,
+    "stars": 568,
     "starsDetail": {
       "total": 549,
       "week": 4,
@@ -11775,14 +11775,14 @@
     "license": "Apache License 2.0",
     "forks": 11,
     "primaryLanguage": "Python",
-    "pushedAt": "2025-02-19T02:59:33.000Z",
+    "pushedAt": "2025-02-20T22:12:00.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2023-04-13T18:29:51.000Z",
-    "updatedAt": "2025-02-20T12:37:57.000Z"
+    "updatedAt": "2025-02-21T15:09:37.000Z"
   },
   {
     "id": "golang/groupcache",
@@ -17245,7 +17245,7 @@
       "name": "cloudwego",
       "avatarUrl": "https://avatars.githubusercontent.com/u/79236453?v=4"
     },
-    "stars": 5895,
+    "stars": 5898,
     "starsDetail": {
       "total": 5693,
       "week": 117,
@@ -17256,14 +17256,14 @@
     "license": "Apache License 2.0",
     "forks": 557,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-02-19T08:24:10.000Z",
+    "pushedAt": "2025-02-21T02:25:36.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/cloudwego/hertz",
     "goImportedBy": 0,
     "createdAt": "2022-05-12T14:05:09.000Z",
-    "updatedAt": "2025-02-20T12:32:25.000Z"
+    "updatedAt": "2025-02-21T15:04:02.000Z"
   },
   {
     "id": "seaweedfs/seaweedfs",
@@ -21410,7 +21410,7 @@
       "name": "sourcegraph",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3979584?v=4"
     },
-    "stars": 839,
+    "stars": 840,
     "starsDetail": {
       "total": 772,
       "week": 4,
@@ -21428,7 +21428,7 @@
     "goPackage": "github.com/sourcegraph/zoekt",
     "goImportedBy": 23,
     "createdAt": "2018-10-01T20:58:06.000Z",
-    "updatedAt": "2025-02-20T12:38:14.000Z"
+    "updatedAt": "2025-02-21T15:09:54.000Z"
   },
   {
     "id": "spiffe/spire",
@@ -29040,7 +29040,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2019-01-13T02:32:55.000Z",
-    "updatedAt": "2025-02-20T12:43:54.000Z"
+    "updatedAt": "2025-02-21T15:15:35.000Z"
   },
   {
     "id": "CloudyKit/jet",
@@ -38106,7 +38106,7 @@
     "goPackage": "github.com/NicoNex/jet",
     "goImportedBy": 0,
     "createdAt": "2023-07-28T16:35:45.000Z",
-    "updatedAt": "2025-02-20T12:45:42.000Z"
+    "updatedAt": "2025-02-21T15:17:25.000Z"
   },
   {
     "id": "Noooste/azuretls-client",
@@ -43543,7 +43543,7 @@
     "goPackage": "github.com/ashwingopalsamy/uuidcheck",
     "goImportedBy": 0,
     "createdAt": "2024-12-06T11:55:02.000Z",
-    "updatedAt": "2025-02-20T12:40:05.000Z"
+    "updatedAt": "2025-02-21T15:11:47.000Z"
   },
   {
     "id": "askeladdk/prattle",
@@ -44344,9 +44344,9 @@
       "name": "bayandin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/864213?v=4"
     },
-    "stars": 32376,
+    "stars": 32381,
     "starsDetail": {
-      "total": 32376
+      "total": 32381
     },
     "license": null,
     "forks": 3571,
@@ -44358,7 +44358,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-07-08T05:44:19.000Z",
-    "updatedAt": "2025-02-20T12:45:08.000Z"
+    "updatedAt": "2025-02-21T15:16:52.000Z"
   },
   {
     "id": "bdjimmy/gbind",
@@ -44751,7 +44751,7 @@
     "goPackage": "github.com/bitfield/qrand",
     "goImportedBy": 0,
     "createdAt": "2019-11-30T14:35:52.000Z",
-    "updatedAt": "2025-02-20T12:38:13.000Z"
+    "updatedAt": "2025-02-21T15:09:53.000Z"
   },
   {
     "id": "bitfield/uptimerobot",
@@ -46364,14 +46364,14 @@
     "license": "Apache License 2.0",
     "forks": 2,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-02-18T14:09:41.000Z",
+    "pushedAt": "2025-02-20T15:05:02.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/chainifynet/aws-encryption-sdk-go",
     "goImportedBy": 0,
     "createdAt": "2023-10-17T14:14:44.000Z",
-    "updatedAt": "2025-02-20T12:38:15.000Z"
+    "updatedAt": "2025-02-21T15:09:55.000Z"
   },
   {
     "id": "chanced/caps",
@@ -46430,14 +46430,14 @@
     "license": "MIT License",
     "forks": 0,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-02-05T07:33:17.000Z",
+    "pushedAt": "2025-02-20T23:48:49.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/charlievieth/strcase",
     "goImportedBy": 1,
     "createdAt": "2022-12-05T20:42:18.000Z",
-    "updatedAt": "2025-02-20T12:37:57.000Z"
+    "updatedAt": "2025-02-21T15:09:37.000Z"
   },
   {
     "id": "cheng-zhongliang/event",
@@ -47556,21 +47556,21 @@
       "name": "colinhacks",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3084745?v=4"
     },
-    "stars": 35666,
+    "stars": 35690,
     "starsDetail": {
-      "total": 35666
+      "total": 35690
     },
     "license": "MIT License",
-    "forks": 1266,
+    "forks": 1267,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-02-16T23:43:51.000Z",
+    "pushedAt": "2025-02-21T08:18:54.000Z",
     "archived": false,
     "npmPackage": "zod",
     "npmLastMonthDownloads": 58829141,
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2020-03-07T20:59:08.000Z",
-    "updatedAt": "2025-02-20T12:41:24.000Z"
+    "updatedAt": "2025-02-21T15:13:03.000Z"
   },
   {
     "id": "commander-cli/cmd",
@@ -52968,9 +52968,9 @@
       "name": "gaissmai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/422670?v=4"
     },
-    "stars": 54,
+    "stars": 55,
     "starsDetail": {
-      "total": 54
+      "total": 55
     },
     "license": "MIT License",
     "forks": 4,
@@ -52982,7 +52982,7 @@
     "goPackage": "github.com/gaissmai/bart",
     "goImportedBy": 18,
     "createdAt": "2024-01-28T16:41:09.000Z",
-    "updatedAt": "2025-02-20T12:45:48.000Z"
+    "updatedAt": "2025-02-21T15:17:30.000Z"
   },
   {
     "id": "galeone/igor",
@@ -55463,7 +55463,7 @@
     "goPackage": "github.com/gopxl/pixel/v2",
     "goImportedBy": 72,
     "createdAt": "2023-10-06T18:50:53.000Z",
-    "updatedAt": "2025-02-20T12:38:12.000Z"
+    "updatedAt": "2025-02-21T15:09:52.000Z"
   },
   {
     "id": "goradd/got",
@@ -56448,9 +56448,9 @@
       "name": "hashicorp",
       "avatarUrl": "https://avatars.githubusercontent.com/u/761456?v=4"
     },
-    "stars": 18,
+    "stars": 19,
     "starsDetail": {
-      "total": 18
+      "total": 19
     },
     "license": "Mozilla Public License 2.0",
     "forks": 4,
@@ -56462,7 +56462,7 @@
     "goPackage": "github.com/hashicorp/cli",
     "goImportedBy": 31,
     "createdAt": "2023-11-20T20:41:45.000Z",
-    "updatedAt": "2025-02-20T12:38:11.000Z"
+    "updatedAt": "2025-02-21T15:09:51.000Z"
   },
   {
     "id": "hashicorp/go-cleanhttp",
@@ -71040,7 +71040,7 @@
     "goPackage": "github.com/raeperd/kickstart.go",
     "goImportedBy": 0,
     "createdAt": "2023-12-27T17:45:15.000Z",
-    "updatedAt": "2025-02-20T12:40:05.000Z"
+    "updatedAt": "2025-02-21T15:11:46.000Z"
   },
   {
     "id": "rafael-santiago/cherry",
@@ -71773,7 +71773,7 @@
     "goPackage": "github.com/reeflective/console",
     "goImportedBy": 14,
     "createdAt": "2021-04-03T23:52:58.000Z",
-    "updatedAt": "2025-02-20T12:39:41.000Z"
+    "updatedAt": "2025-02-21T15:11:23.000Z"
   },
   {
     "id": "reeflective/readline",
