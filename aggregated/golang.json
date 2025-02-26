@@ -1106,7 +1106,7 @@
       "name": "gobuffalo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/24794651?v=4"
     },
-    "stars": 1469,
+    "stars": 1471,
     "starsDetail": {
       "total": 1457,
       "week": 2,
@@ -1124,7 +1124,7 @@
     "goPackage": "github.com/gobuffalo/pop/v6",
     "goImportedBy": 136,
     "createdAt": "2018-02-07T21:13:46.000Z",
-    "updatedAt": "2025-02-25T11:18:19.000Z"
+    "updatedAt": "2025-02-26T13:53:51.000Z"
   },
   {
     "id": "hashicorp/mdns",
@@ -1508,7 +1508,7 @@
       "name": "skeema",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18493113?v=4"
     },
-    "stars": 1294,
+    "stars": 1295,
     "starsDetail": {
       "total": 1280,
       "week": 1,
@@ -1519,14 +1519,14 @@
     "license": "Apache License 2.0",
     "forks": 101,
     "primaryLanguage": "Go",
-    "pushedAt": "2025-02-22T00:31:08.000Z",
+    "pushedAt": "2025-02-26T04:17:27.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/skeema/skeema",
     "goImportedBy": 0,
     "createdAt": "2016-10-31T23:18:56.000Z",
-    "updatedAt": "2025-02-25T11:18:20.000Z"
+    "updatedAt": "2025-02-26T13:53:52.000Z"
   },
   {
     "id": "tdewolff/canvas",
@@ -13467,7 +13467,7 @@
       "name": "sosedoff",
       "avatarUrl": "https://avatars.githubusercontent.com/u/71051?v=4"
     },
-    "stars": 8754,
+    "stars": 8761,
     "starsDetail": {
       "total": 8700,
       "week": 6,
@@ -13485,7 +13485,7 @@
     "goPackage": "github.com/sosedoff/pgweb",
     "goImportedBy": 0,
     "createdAt": "2014-10-09T01:41:32.000Z",
-    "updatedAt": "2025-02-25T11:18:26.000Z"
+    "updatedAt": "2025-02-26T13:53:59.000Z"
   },
   {
     "id": "go-swagger/go-swagger",
@@ -18657,7 +18657,7 @@
       "name": "prest",
       "avatarUrl": "https://avatars.githubusercontent.com/u/30427128?v=4"
     },
-    "stars": 4290,
+    "stars": 4291,
     "starsDetail": {
       "total": 4263,
       "week": 5,
@@ -18666,16 +18666,16 @@
       "updatedAt": 1736032726
     },
     "license": "MIT License",
-    "forks": 288,
+    "forks": 289,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-02-18T02:18:56.000Z",
+    "pushedAt": "2025-02-26T09:54:17.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/prest/prest",
     "goImportedBy": 0,
     "createdAt": "2016-11-22T05:17:05.000Z",
-    "updatedAt": "2025-02-25T11:18:28.000Z"
+    "updatedAt": "2025-02-26T13:54:01.000Z"
   },
   {
     "id": "spf13/pflag",
@@ -24761,7 +24761,7 @@
     "goPackage": "github.com/rubenv/sql-migrate",
     "goImportedBy": 1657,
     "createdAt": "2014-09-09T07:31:41.000Z",
-    "updatedAt": "2025-02-25T11:18:21.000Z"
+    "updatedAt": "2025-02-26T13:53:53.000Z"
   },
   {
     "id": "smallnest/rpcx",
@@ -28298,7 +28298,7 @@
       "name": "cybertec-postgresql",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9417356?v=4"
     },
-    "stars": 1135,
+    "stars": 1136,
     "starsDetail": {
       "total": 1110,
       "week": 2,
@@ -28316,7 +28316,7 @@
     "goPackage": "github.com/cybertec-postgresql/pg_timetable",
     "goImportedBy": 0,
     "createdAt": "2018-12-19T10:19:51.000Z",
-    "updatedAt": "2025-02-25T11:18:26.000Z"
+    "updatedAt": "2025-02-26T13:53:59.000Z"
   },
   {
     "id": "gorilla/csrf",
@@ -37067,9 +37067,9 @@
       "name": "HDT3213",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12867754?v=4"
     },
-    "stars": 473,
+    "stars": 474,
     "starsDetail": {
-      "total": 473
+      "total": 474
     },
     "license": "Apache License 2.0",
     "forks": 102,
@@ -37081,7 +37081,7 @@
     "goPackage": "github.com/hdt3213/rdb",
     "goImportedBy": 0,
     "createdAt": "2021-11-10T15:14:53.000Z",
-    "updatedAt": "2025-02-25T11:18:27.000Z"
+    "updatedAt": "2025-02-26T13:54:00.000Z"
   },
   {
     "id": "Haraj-backend/hex-monscape",
@@ -42088,9 +42088,9 @@
       "name": "andizzle",
       "avatarUrl": "https://avatars.githubusercontent.com/u/864065?v=4"
     },
-    "stars": 19,
+    "stars": 20,
     "starsDetail": {
-      "total": 19
+      "total": 20
     },
     "license": "MIT License",
     "forks": 2,
@@ -42102,7 +42102,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2017-10-04T03:55:29.000Z",
-    "updatedAt": "2025-02-25T11:18:28.000Z"
+    "updatedAt": "2025-02-26T13:54:01.000Z"
   },
   {
     "id": "andreimerlescu/entpassgen",
@@ -43246,9 +43246,9 @@
       "name": "arthurkushman",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2669610?v=4"
     },
-    "stars": 174,
+    "stars": 175,
     "starsDetail": {
-      "total": 174
+      "total": 175
     },
     "license": "MIT License",
     "forks": 17,
@@ -43260,7 +43260,7 @@
     "goPackage": "github.com/arthurkushman/buildsqlx",
     "goImportedBy": 1,
     "createdAt": "2019-08-18T08:18:21.000Z",
-    "updatedAt": "2025-02-25T11:18:29.000Z"
+    "updatedAt": "2025-02-26T13:54:03.000Z"
   },
   {
     "id": "arthurkushman/pgo",
@@ -44262,9 +44262,9 @@
       "name": "bartventer",
       "avatarUrl": "https://avatars.githubusercontent.com/u/72999113?v=4"
     },
-    "stars": 49,
+    "stars": 50,
     "starsDetail": {
-      "total": 49
+      "total": 50
     },
     "license": "Apache License 2.0",
     "forks": 6,
@@ -44276,7 +44276,7 @@
     "goPackage": "github.com/bartventer/gorm-multitenancy/v8",
     "goImportedBy": 2,
     "createdAt": "2023-12-25T08:22:53.000Z",
-    "updatedAt": "2025-02-25T11:18:26.000Z"
+    "updatedAt": "2025-02-26T13:53:58.000Z"
   },
   {
     "id": "barweiss/go-tuple",
@@ -47396,7 +47396,7 @@
     "goPackage": "github.com/codingconcepts/dg",
     "goImportedBy": 0,
     "createdAt": "2023-05-22T13:04:05.000Z",
-    "updatedAt": "2025-02-25T11:18:24.000Z"
+    "updatedAt": "2025-02-26T13:53:57.000Z"
   },
   {
     "id": "codingconcepts/env",
@@ -47913,7 +47913,7 @@
     "goPackage": "github.com/cristalhq/builq",
     "goImportedBy": 3,
     "createdAt": "2022-06-12T07:34:49.000Z",
-    "updatedAt": "2025-02-25T11:18:30.000Z"
+    "updatedAt": "2025-02-26T13:54:04.000Z"
   },
   {
     "id": "cryptojuice/gobrew",
@@ -53098,9 +53098,9 @@
       "name": "gatewayd-io",
       "avatarUrl": "https://avatars.githubusercontent.com/u/110386076?v=4"
     },
-    "stars": 234,
+    "stars": 235,
     "starsDetail": {
-      "total": 234
+      "total": 235
     },
     "license": "GNU Affero General Public License v3.0",
     "forks": 20,
@@ -53112,7 +53112,7 @@
     "goPackage": "github.com/gatewayd-io/gatewayd",
     "goImportedBy": 0,
     "createdAt": "2022-07-14T18:54:38.000Z",
-    "updatedAt": "2025-02-25T11:18:25.000Z"
+    "updatedAt": "2025-02-26T13:53:58.000Z"
   },
   {
     "id": "gempir/go-twitch-irc",
@@ -57072,7 +57072,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2017-12-11T23:47:38.000Z",
-    "updatedAt": "2025-02-25T11:18:27.000Z"
+    "updatedAt": "2025-02-26T13:54:00.000Z"
   },
   {
     "id": "hidevopsio/hiboot",
@@ -62349,7 +62349,7 @@
     "goPackage": "github.com/liweiyi88/onedump",
     "goImportedBy": 0,
     "createdAt": "2022-09-24T12:56:28.000Z",
-    "updatedAt": "2025-02-25T11:18:26.000Z"
+    "updatedAt": "2025-02-26T13:53:58.000Z"
   },
   {
     "id": "logrange/linker",
@@ -66908,7 +66908,7 @@
       "total": 480
     },
     "license": "Apache License 2.0",
-    "forks": 89,
+    "forks": 88,
     "primaryLanguage": "Makefile",
     "pushedAt": "2025-01-21T07:26:15.000Z",
     "archived": false,
@@ -66917,7 +66917,7 @@
     "goPackage": "github.com/nikepan/clickhouse-bulk",
     "goImportedBy": 0,
     "createdAt": "2017-04-29T10:38:41.000Z",
-    "updatedAt": "2025-02-25T11:18:21.000Z"
+    "updatedAt": "2025-02-26T13:53:54.000Z"
   },
   {
     "id": "nikepan/govkbot",
@@ -67894,7 +67894,7 @@
     "goPackage": "github.com/nullism/bqb",
     "goImportedBy": 21,
     "createdAt": "2021-07-31T17:41:45.000Z",
-    "updatedAt": "2025-02-25T11:18:29.000Z"
+    "updatedAt": "2025-02-26T13:54:02.000Z"
   },
   {
     "id": "nullne/evaluator",
@@ -72566,9 +72566,9 @@
       "name": "rocketlaunchr",
       "avatarUrl": "https://avatars.githubusercontent.com/u/38334898?v=4"
     },
-    "stars": 406,
+    "stars": 407,
     "starsDetail": {
-      "total": 406
+      "total": 407
     },
     "license": "Other",
     "forks": 21,
@@ -72580,7 +72580,7 @@
     "goPackage": "github.com/rocketlaunchr/dbq",
     "goImportedBy": 0,
     "createdAt": "2019-07-11T02:17:33.000Z",
-    "updatedAt": "2025-02-25T11:18:29.000Z"
+    "updatedAt": "2025-02-26T13:54:03.000Z"
   },
   {
     "id": "rocketlaunchr/igo",
@@ -74857,14 +74857,14 @@
     "license": "MIT License",
     "forks": 19,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-02-24T12:05:10.000Z",
+    "pushedAt": "2025-02-26T07:44:44.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/sj14/dbbench",
     "goImportedBy": 0,
     "createdAt": "2018-11-24T13:21:18.000Z",
-    "updatedAt": "2025-02-25T11:18:23.000Z"
+    "updatedAt": "2025-02-26T13:53:56.000Z"
   },
   {
     "id": "skanehira/gjo",
@@ -76049,9 +76049,9 @@
       "name": "sunary",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2399731?v=4"
     },
-    "stars": 117,
+    "stars": 118,
     "starsDetail": {
-      "total": 117
+      "total": 118
     },
     "license": "Other",
     "forks": 13,
@@ -76063,7 +76063,7 @@
     "goPackage": "github.com/sunary/sqlize",
     "goImportedBy": 0,
     "createdAt": "2020-09-08T23:51:14.000Z",
-    "updatedAt": "2025-02-25T11:18:21.000Z"
+    "updatedAt": "2025-02-26T13:53:54.000Z"
   },
   {
     "id": "sunwxg/goshark",
@@ -80033,7 +80033,7 @@
     "goPackage": "vitess.io/vitess",
     "goImportedBy": 0,
     "createdAt": "2023-03-24T04:49:15.000Z",
-    "updatedAt": "2025-02-25T11:18:29.000Z"
+    "updatedAt": "2025-02-26T13:54:02.000Z"
   },
   {
     "id": "whitaker-io/machine",
