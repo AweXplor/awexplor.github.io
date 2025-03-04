@@ -516,7 +516,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-11-23T04:36:38.000Z",
-    "updatedAt": "2025-03-03T19:48:25.000Z"
+    "updatedAt": "2025-03-04T22:18:34.000Z"
   },
   {
     "id": "cosmos/awesome-cosmos",
@@ -1609,7 +1609,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-18T16:58:30.000Z",
-    "updatedAt": "2025-03-03T19:44:40.000Z"
+    "updatedAt": "2025-03-04T22:13:45.000Z"
   },
   {
     "id": "kdeldycke/awesome-engineering-team-management",
@@ -5271,7 +5271,7 @@
       "name": "jorgebucaran",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56996?v=4"
     },
-    "stars": 4371,
+    "stars": 4377,
     "starsDetail": {
       "total": 4278,
       "week": 18,
@@ -5289,7 +5289,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-13T08:37:26.000Z",
-    "updatedAt": "2025-03-03T20:05:34.000Z"
+    "updatedAt": "2025-03-04T22:35:44.000Z"
   },
   {
     "id": "PatrickJS/awesome-angular",
@@ -7779,7 +7779,7 @@
       "name": "inputsh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4890548?v=4"
     },
-    "stars": 3539,
+    "stars": 3541,
     "starsDetail": {
       "total": 3516,
       "week": 9,
@@ -7797,7 +7797,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-31T01:56:17.000Z",
-    "updatedAt": "2025-03-03T19:50:16.000Z"
+    "updatedAt": "2025-03-04T22:19:18.000Z"
   },
   {
     "id": "inputsh/awesome-linux",
@@ -14562,12 +14562,12 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 73502,
+    "stars": 73527,
     "starsDetail": {
-      "total": 73502
+      "total": 73527
     },
     "license": null,
-    "forks": 9014,
+    "forks": 9017,
     "primaryLanguage": "",
     "pushedAt": "2024-07-29T14:21:23.000Z",
     "archived": true,
@@ -14576,7 +14576,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2025-03-03T19:50:18.000Z"
+    "updatedAt": "2025-03-04T22:19:19.000Z"
   },
   {
     "id": "Dvergar/awesome-haxe-gamedev",
@@ -14631,12 +14631,12 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 351550,
+    "stars": 351639,
     "starsDetail": {
-      "total": 351550
+      "total": 351639
     },
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 62908,
+    "forks": 62913,
     "primaryLanguage": "HTML",
     "pushedAt": "2025-02-14T02:09:41.000Z",
     "archived": false,
@@ -14645,7 +14645,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2025-03-03T19:50:17.000Z"
+    "updatedAt": "2025-03-04T22:19:19.000Z"
   },
   {
     "id": "FonduAI/awesome-prompt-injection",
@@ -16124,6 +16124,41 @@
     "updatedAt": "2025-03-04T12:52:31.000Z"
   },
   {
+    "id": "coderabbitai/awesome-coderabbit",
+    "name": "coderabbitai/awesome-coderabbit",
+    "description": "Official awesome-list of CodeRabbit Starters & Resources ⚡️",
+    "topics": [
+      "ai",
+      "awesome",
+      "awesome-list",
+      "code",
+      "codereview",
+      "codereviewer",
+      "engineering",
+      "generative-ai",
+      "pull-requests"
+    ],
+    "owner": {
+      "name": "coderabbitai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/132028505?v=4"
+    },
+    "stars": 26,
+    "starsDetail": {
+      "total": 26
+    },
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 1,
+    "primaryLanguage": "",
+    "pushedAt": "2025-01-19T15:05:02.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-09-24T12:48:57.000Z",
+    "updatedAt": "2025-03-04T22:28:09.000Z"
+  },
+  {
     "id": "collective/awesome-plone",
     "name": "collective/awesome-plone",
     "description": "Add-ons and resources for the CMS Plone",
@@ -17387,9 +17422,9 @@
       "name": "idematos",
       "avatarUrl": "https://avatars.githubusercontent.com/u/30164700?v=4"
     },
-    "stars": 199,
+    "stars": 231,
     "starsDetail": {
-      "total": 199
+      "total": 231
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 5,
@@ -17401,7 +17436,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-03T15:51:41.000Z",
-    "updatedAt": "2025-03-03T19:59:06.000Z"
+    "updatedAt": "2025-03-04T22:28:56.000Z"
   },
   {
     "id": "ildoc/awesome-italy-events",
