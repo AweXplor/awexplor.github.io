@@ -455,7 +455,7 @@
       "name": "thumbor",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6918711?v=4"
     },
-    "stars": 10192,
+    "stars": 10195,
     "starsDetail": {
       "total": 10153,
       "week": 28,
@@ -477,7 +477,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-03-16T17:30:05.000Z",
-    "updatedAt": "2025-03-03T06:22:19.000Z"
+    "updatedAt": "2025-03-04T08:51:03.000Z"
   },
   {
     "id": "eikek/sharry",
@@ -3498,16 +3498,16 @@
       "updatedAt": 1736034855
     },
     "license": "Apache License 2.0",
-    "forks": 712,
+    "forks": 713,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-03-01T06:57:24.000Z",
+    "pushedAt": "2025-03-03T14:05:19.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-23T00:39:03.000Z",
-    "updatedAt": "2025-03-03T06:21:29.000Z"
+    "updatedAt": "2025-03-04T08:50:11.000Z"
   },
   {
     "id": "timvisee/send",
@@ -5332,7 +5332,7 @@
       "name": "sergree",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43672811?v=4"
     },
-    "stars": 1968,
+    "stars": 1969,
     "starsDetail": {
       "total": 1877,
       "week": 11,
@@ -5350,7 +5350,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-09-28T19:21:01.000Z",
-    "updatedAt": "2025-03-03T06:20:58.000Z"
+    "updatedAt": "2025-03-04T08:49:39.000Z"
   },
   {
     "id": "vrana/adminer",
@@ -5614,7 +5614,7 @@
       "name": "openziti",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65675559?v=4"
     },
-    "stars": 3108,
+    "stars": 3112,
     "starsDetail": {
       "total": 2956,
       "week": 12,
@@ -5623,16 +5623,16 @@
       "updatedAt": 1736033686
     },
     "license": "Apache License 2.0",
-    "forks": 178,
+    "forks": 179,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-02-28T18:29:36.000Z",
+    "pushedAt": "2025-03-03T16:26:57.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/openziti/ziti",
     "goImportedBy": 0,
     "createdAt": "2019-11-22T15:27:24.000Z",
-    "updatedAt": "2025-03-03T06:05:47.000Z"
+    "updatedAt": "2025-03-04T08:33:45.000Z"
   },
   {
     "id": "linkwarden/linkwarden",
@@ -14060,14 +14060,14 @@
     "license": "ISC License",
     "forks": 416,
     "primaryLanguage": "SCSS",
-    "pushedAt": "2025-02-28T17:19:10.000Z",
+    "pushedAt": "2025-03-03T16:21:09.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-16T09:43:55.000Z",
-    "updatedAt": "2025-03-03T06:22:01.000Z"
+    "updatedAt": "2025-03-04T08:50:44.000Z"
   },
   {
     "id": "pomerium/pomerium",
@@ -17922,7 +17922,7 @@
   {
     "id": "mindsdb/mindsdb",
     "name": "mindsdb/mindsdb",
-    "description": "AGI's query engine - Platform for building AI that can learn and answer questions over federated data.",
+    "description": "AI's query engine - Platform for building AI that can learn and answer questions over federated data.",
     "topics": [
       "agi",
       "ai",
@@ -17935,7 +17935,7 @@
       "name": "mindsdb",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31035808?v=4"
     },
-    "stars": 27274,
+    "stars": 27275,
     "starsDetail": {
       "total": 27008,
       "week": 31,
@@ -17944,16 +17944,16 @@
       "updatedAt": 1736035107
     },
     "license": "Other",
-    "forks": 4899,
+    "forks": 4902,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-03-02T03:55:39.000Z",
+    "pushedAt": "2025-03-03T15:03:54.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-02T17:56:45.000Z",
-    "updatedAt": "2025-03-03T06:22:29.000Z"
+    "updatedAt": "2025-03-04T08:51:13.000Z"
   },
   {
     "id": "silverbulletmd/silverbullet",
@@ -20168,7 +20168,7 @@
       "name": "wagtail",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23708009?v=4"
     },
-    "stars": 18826,
+    "stars": 18831,
     "starsDetail": {
       "total": 18594,
       "week": 23,
@@ -20177,7 +20177,7 @@
       "updatedAt": 1736034763
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 4020,
+    "forks": 4021,
     "primaryLanguage": "MDX",
     "pushedAt": "2025-02-24T15:17:08.000Z",
     "archived": false,
@@ -20186,7 +20186,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-02-03T12:41:59.000Z",
-    "updatedAt": "2025-03-03T06:21:07.000Z"
+    "updatedAt": "2025-03-04T08:49:49.000Z"
   },
   {
     "id": "gravitational/teleport",
@@ -24501,7 +24501,7 @@
       "name": "beetbox",
       "avatarUrl": "https://avatars.githubusercontent.com/u/15920313?v=4"
     },
-    "stars": 13245,
+    "stars": 13249,
     "starsDetail": {
       "total": 13065,
       "week": 23,
@@ -24510,7 +24510,7 @@
       "updatedAt": 1736034738
     },
     "license": "MIT License",
-    "forks": 1848,
+    "forks": 1849,
     "primaryLanguage": "CSS",
     "pushedAt": "2025-03-03T02:45:30.000Z",
     "archived": false,
@@ -24519,7 +24519,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2010-08-09T23:17:20.000Z",
-    "updatedAt": "2025-03-03T06:20:59.000Z"
+    "updatedAt": "2025-03-04T08:49:41.000Z"
   },
   {
     "id": "healthchecks/healthchecks",
@@ -25336,7 +25336,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-07-27T13:56:30.000Z",
-    "updatedAt": "2025-03-03T06:21:07.000Z"
+    "updatedAt": "2025-03-04T08:49:49.000Z"
   },
   {
     "id": "ovh/utask",
