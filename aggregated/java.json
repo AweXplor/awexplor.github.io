@@ -69,6 +69,44 @@
     "updatedAt": "2025-03-07T19:36:52.000Z"
   },
   {
+    "id": "baomidou/mybatis-plus",
+    "name": "baomidou/mybatis-plus",
+    "description": "An powerful enhanced toolkit of MyBatis for simplify development",
+    "topics": [
+      "mybatis",
+      "mybatis-plus",
+      "mybatis-spring",
+      "mysql",
+      "orm",
+      "orm-framework",
+      "postgresql",
+      "toolkit"
+    ],
+    "owner": {
+      "name": "baomidou",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19258107?v=4"
+    },
+    "stars": 16690,
+    "starsDetail": {
+      "total": 16690,
+      "week": 21,
+      "month": 99,
+      "year": 1293,
+      "updatedAt": 1741413906
+    },
+    "license": "Apache License 2.0",
+    "forks": 4337,
+    "primaryLanguage": "FreeMarker",
+    "pushedAt": "2025-03-07T06:58:48.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-08-18T10:06:53.000Z",
+    "updatedAt": "2025-03-08T05:45:10.000Z"
+  },
+  {
     "id": "oracle/graal",
     "name": "oracle/graal",
     "description": "GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀",
@@ -454,6 +492,39 @@
     "goImportedBy": null,
     "createdAt": "2016-09-09T22:28:14.000Z",
     "updatedAt": "2025-03-07T19:38:31.000Z"
+  },
+  {
+    "id": "sarxos/webcam-capture",
+    "name": "sarxos/webcam-capture",
+    "description": "The goal of this project is to allow integrated or USB-connected webcams to be accessed directly from Java. Using provided libraries users are able to read camera images and detect motion. Main project consist of several sub projects - the root one, which contains required classes, build-in webcam driver compatible with Windows, Linux and Mac OS, which can stream images as fast as your camera can serve them (up to 50 FPS). Main project can be used standalone, but user is able to replace build-in driver with different one - such as OpenIMAJ, GStreamer, V4L4j, JMF, LTI-CIVIL, FMJ, etc.",
+    "topics": [
+      "java",
+      "webcam",
+      "webcam-capture"
+    ],
+    "owner": {
+      "name": "sarxos",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/472658?v=4"
+    },
+    "stars": 2292,
+    "starsDetail": {
+      "total": 2292,
+      "week": 3,
+      "month": 9,
+      "year": 105,
+      "updatedAt": 1741413903
+    },
+    "license": "MIT License",
+    "forks": 1112,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2024-08-21T09:57:03.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2012-05-25T20:26:28.000Z",
+    "updatedAt": "2025-03-08T05:45:08.000Z"
   },
   {
     "id": "stripe/stripe-java",
@@ -2213,7 +2284,7 @@
       "name": "svix",
       "avatarUrl": "https://avatars.githubusercontent.com/u/80175132?v=4"
     },
-    "stars": 2576,
+    "stars": 2577,
     "starsDetail": {
       "total": 2475,
       "week": 14,
@@ -2224,14 +2295,14 @@
     "license": "MIT License",
     "forks": 178,
     "primaryLanguage": "Just",
-    "pushedAt": "2025-03-07T03:29:24.000Z",
+    "pushedAt": "2025-03-07T23:32:55.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-02-25T13:49:38.000Z",
-    "updatedAt": "2025-03-07T03:33:51.000Z"
+    "updatedAt": "2025-03-08T06:02:03.000Z"
   },
   {
     "id": "mapstruct/mapstruct",
@@ -2948,7 +3019,7 @@
       "name": "facebook",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69631?v=4"
     },
-    "stars": 3732,
+    "stars": 3734,
     "starsDetail": {
       "total": 3649,
       "week": 8,
@@ -2957,16 +3028,16 @@
       "updatedAt": 1736031926
     },
     "license": "Apache License 2.0",
-    "forks": 240,
+    "forks": 241,
     "primaryLanguage": "Roff",
-    "pushedAt": "2025-03-07T03:03:32.000Z",
+    "pushedAt": "2025-03-08T03:39:58.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-01-21T20:04:00.000Z",
-    "updatedAt": "2025-03-07T03:28:57.000Z"
+    "updatedAt": "2025-03-08T05:57:15.000Z"
   },
   {
     "id": "shyiko/jabba",
@@ -3694,6 +3765,35 @@
     "goImportedBy": null,
     "createdAt": "2014-05-28T07:53:53.000Z",
     "updatedAt": "2025-03-07T19:39:02.000Z"
+  },
+  {
+    "id": "spring-projects/spring-hateoas",
+    "name": "spring-projects/spring-hateoas",
+    "description": "Spring HATEOAS - Library to support implementing representations for hyper-text driven REST web services.",
+    "topics": [],
+    "owner": {
+      "name": "spring-projects",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/317776?v=4"
+    },
+    "stars": 1049,
+    "starsDetail": {
+      "total": 1049,
+      "week": 0,
+      "month": 3,
+      "year": 37,
+      "updatedAt": 1741413899
+    },
+    "license": "Apache License 2.0",
+    "forks": 473,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-02-14T16:36:43.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2012-05-07T15:18:47.000Z",
+    "updatedAt": "2025-03-08T05:45:01.000Z"
   },
   {
     "id": "yegor256/takes",
@@ -7297,7 +7397,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-07-25T20:08:44.000Z",
-    "updatedAt": "2025-03-07T03:24:43.000Z"
+    "updatedAt": "2025-03-08T05:53:05.000Z"
   },
   {
     "id": "RuedigerMoeller/fast-serialization",
@@ -8622,6 +8722,38 @@
     "goImportedBy": null,
     "createdAt": "2020-02-19T16:42:53.000Z",
     "updatedAt": "2025-03-07T19:37:28.000Z"
+  },
+  {
+    "id": "AutoParams/AutoParams",
+    "name": "AutoParams/AutoParams",
+    "description": "Enhance your TDD experience! AutoParams is a versatile test data generator designed for parameterized tests in Java and Kotlin, drawing inspiration from AutoFixture.",
+    "topics": [
+      "java",
+      "junit5",
+      "kotlin",
+      "parameterized-tests",
+      "tdd",
+      "unit-testing"
+    ],
+    "owner": {
+      "name": "AutoParams",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/114926734?v=4"
+    },
+    "stars": 351,
+    "starsDetail": {
+      "total": 351
+    },
+    "license": "MIT License",
+    "forks": 59,
+    "primaryLanguage": "Kotlin",
+    "pushedAt": "2025-03-02T16:48:12.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2021-03-06T12:48:00.000Z",
+    "updatedAt": "2025-03-08T05:45:13.000Z"
   },
   {
     "id": "BastiaanJansen/jwt-java",
@@ -10114,6 +10246,31 @@
     "updatedAt": "2025-03-07T19:37:29.000Z"
   },
   {
+    "id": "chuigda/vulkan4j",
+    "name": "chuigda/vulkan4j",
+    "description": "Vulkan bindings for Java using Project-Panama (java.lang.foreign) APIs",
+    "topics": [],
+    "owner": {
+      "name": "chuigda",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29348140?v=4"
+    },
+    "stars": 25,
+    "starsDetail": {
+      "total": 25
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 0,
+    "primaryLanguage": "C++",
+    "pushedAt": "2024-12-11T14:16:11.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-09-11T18:15:26.000Z",
+    "updatedAt": "2025-03-08T05:45:00.000Z"
+  },
+  {
     "id": "cleopatra27/chocotea",
     "name": "cleopatra27/chocotea",
     "description": "A library that generates postman collection and integration tests from java code",
@@ -10706,6 +10863,45 @@
     "goImportedBy": null,
     "createdAt": "2011-10-22T15:52:59.000Z",
     "updatedAt": "2025-03-07T19:38:41.000Z"
+  },
+  {
+    "id": "hstsethi/awesome-j2me",
+    "name": "hstsethi/awesome-j2me",
+    "description": "Awesome list about everything related to J2ME, a Java specification for old keypad phones and PDAs.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "hacktoberfest",
+      "hacktoberfest2024",
+      "j2me",
+      "j2me-emulator",
+      "j2me-games",
+      "j2me-platform",
+      "java",
+      "java-platform",
+      "javame",
+      "midp",
+      "resources"
+    ],
+    "owner": {
+      "name": "hstsethi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/107557004?v=4"
+    },
+    "stars": 79,
+    "starsDetail": {
+      "total": 79
+    },
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 7,
+    "primaryLanguage": "Java",
+    "pushedAt": "2025-02-12T09:33:00.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-07-13T03:45:43.000Z",
+    "updatedAt": "2025-03-08T05:45:15.000Z"
   },
   {
     "id": "iluwatar/java-design-patterns",
@@ -11375,6 +11571,42 @@
     "goImportedBy": null,
     "createdAt": "2015-10-29T09:04:40.000Z",
     "updatedAt": "2025-03-07T19:38:38.000Z"
+  },
+  {
+    "id": "lopcode/vips-ffm",
+    "name": "lopcode/vips-ffm",
+    "description": "libvips bindings for Java, Kotlin, and JVM projects using the Foreign Function and Memory API (FFM)",
+    "topics": [
+      "class-file",
+      "ffm",
+      "image-processing",
+      "java",
+      "jep-454",
+      "jep-457",
+      "kotlin",
+      "libvips",
+      "photo-fox",
+      "vips"
+    ],
+    "owner": {
+      "name": "lopcode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/149851?v=4"
+    },
+    "stars": 44,
+    "starsDetail": {
+      "total": 44
+    },
+    "license": "Apache License 2.0",
+    "forks": 4,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2025-03-03T00:24:46.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-08-05T11:44:32.000Z",
+    "updatedAt": "2025-03-08T05:45:01.000Z"
   },
   {
     "id": "lorenzoongithub/nudge4j",
