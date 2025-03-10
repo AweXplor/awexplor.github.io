@@ -2159,6 +2159,31 @@
     "updatedAt": "2025-03-10T00:50:05.000Z"
   },
   {
+    "id": "rdabra/txeo",
+    "name": "rdabra/txeo",
+    "description": "A Modern C++ Wrapper for TensorFlow",
+    "topics": [],
+    "owner": {
+      "name": "rdabra",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/86665159?v=4"
+    },
+    "stars": 46,
+    "starsDetail": {
+      "total": 46
+    },
+    "license": "Other",
+    "forks": 4,
+    "primaryLanguage": "CMake",
+    "pushedAt": "2025-03-09T20:41:33.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2025-01-29T11:17:52.000Z",
+    "updatedAt": "2025-03-10T10:54:45.000Z"
+  },
+  {
     "id": "samjabrahams/tensorflow-white-paper-notes",
     "name": "samjabrahams/tensorflow-white-paper-notes",
     "description": "Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation",
