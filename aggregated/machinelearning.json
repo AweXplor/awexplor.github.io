@@ -1488,7 +1488,7 @@
       "name": "retextjs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16309582?v=4"
     },
-    "stars": 2382,
+    "stars": 2383,
     "starsDetail": {
       "total": 2360,
       "week": 2,
@@ -1506,7 +1506,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-03T22:13:11.000Z",
-    "updatedAt": "2025-03-11T07:00:21.000Z"
+    "updatedAt": "2025-03-12T09:33:16.000Z"
   },
   {
     "id": "stellargraph/stellargraph",
@@ -1910,7 +1910,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-09-30T18:07:03.000Z",
-    "updatedAt": "2025-03-11T07:02:08.000Z"
+    "updatedAt": "2025-03-12T09:35:11.000Z"
   },
   {
     "id": "chainer/chainer",
@@ -3373,7 +3373,7 @@
       "name": "BrainJS",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23732838?v=4"
     },
-    "stars": 14613,
+    "stars": 14614,
     "starsDetail": {
       "total": 14377,
       "week": 11,
@@ -3391,7 +3391,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-13T18:09:44.000Z",
-    "updatedAt": "2025-03-11T06:58:07.000Z"
+    "updatedAt": "2025-03-12T09:30:55.000Z"
   },
   {
     "id": "serengil/retinaface",
@@ -3992,7 +3992,7 @@
       "name": "alibaba",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1961952?v=4"
     },
-    "stars": 2561,
+    "stars": 2562,
     "starsDetail": {
       "total": 2538,
       "week": 0,
@@ -4003,14 +4003,14 @@
     "license": "Apache License 2.0",
     "forks": 209,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-03-11T00:22:32.000Z",
+    "pushedAt": "2025-03-12T00:22:22.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-12-05T02:40:40.000Z",
-    "updatedAt": "2025-03-11T06:58:09.000Z"
+    "updatedAt": "2025-03-12T09:30:57.000Z"
   },
   {
     "id": "autumnai/leaf",
@@ -4542,14 +4542,13 @@
     "name": "qdrant/qdrant",
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
     "topics": [
-      "approximate-nearest-neighbor-search",
+      "ai-search",
+      "ai-search-engine",
       "embeddings-similarity",
-      "hacktoberfest",
       "hnsw",
       "image-search",
       "knn-algorithm",
       "machine-learning",
-      "matching",
       "mlops",
       "nearest-neighbor-search",
       "neural-network",
@@ -4567,7 +4566,7 @@
       "name": "qdrant",
       "avatarUrl": "https://avatars.githubusercontent.com/u/73504361?v=4"
     },
-    "stars": 22389,
+    "stars": 22419,
     "starsDetail": {
       "total": 21207,
       "week": 101,
@@ -4576,16 +4575,16 @@
       "updatedAt": 1736031637
     },
     "license": "Apache License 2.0",
-    "forks": 1532,
+    "forks": 1534,
     "primaryLanguage": "Mermaid",
-    "pushedAt": "2025-03-11T06:56:52.000Z",
+    "pushedAt": "2025-03-12T09:03:19.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-05-30T21:37:01.000Z",
-    "updatedAt": "2025-03-11T07:04:14.000Z"
+    "updatedAt": "2025-03-12T09:37:29.000Z"
   },
   {
     "id": "EpistasisLab/tpot",
@@ -5739,7 +5738,7 @@
       "name": "NaturalNode",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1005344?v=4"
     },
-    "stars": 10724,
+    "stars": 10726,
     "starsDetail": {
       "total": 10597,
       "week": 8,
@@ -5757,7 +5756,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-05-07T02:35:16.000Z",
-    "updatedAt": "2025-03-11T07:00:23.000Z"
+    "updatedAt": "2025-03-12T09:33:18.000Z"
   },
   {
     "id": "oneapi-src/oneDNN",
@@ -9332,7 +9331,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2019-01-13T02:32:55.000Z",
-    "updatedAt": "2025-03-11T07:02:09.000Z"
+    "updatedAt": "2025-03-12T09:35:13.000Z"
   },
   {
     "id": "benedekrozemberczki/karateclub",
@@ -11446,7 +11445,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-01-24T00:59:38.000Z",
-    "updatedAt": "2025-03-11T06:51:02.000Z"
+    "updatedAt": "2025-03-12T09:22:58.000Z"
   },
   {
     "id": "sinhrks/ggfortify",
@@ -14522,7 +14521,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-04-01T20:23:24.000Z",
-    "updatedAt": "2025-03-11T06:51:01.000Z"
+    "updatedAt": "2025-03-12T09:22:56.000Z"
   },
   {
     "id": "asafschers/scoruby",
@@ -14706,7 +14705,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-29T21:00:58.000Z",
-    "updatedAt": "2025-03-11T06:51:05.000Z"
+    "updatedAt": "2025-03-12T09:23:01.000Z"
   },
   {
     "id": "aurelian/ruby-stemmer",
@@ -15052,9 +15051,9 @@
       "name": "blackportal-ai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/189621827?v=4"
     },
-    "stars": 377,
+    "stars": 378,
     "starsDetail": {
-      "total": 377
+      "total": 378
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "forks": 25,
@@ -15066,7 +15065,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-25T12:39:43.000Z",
-    "updatedAt": "2025-03-11T07:04:07.000Z"
+    "updatedAt": "2025-03-12T09:37:22.000Z"
   },
   {
     "id": "breze-no-salt/breze",
@@ -18608,7 +18607,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-07-26T20:02:09.000Z",
-    "updatedAt": "2025-03-11T07:04:00.000Z"
+    "updatedAt": "2025-03-12T09:37:14.000Z"
   },
   {
     "id": "lmcinnes/hdbscan",
@@ -19459,7 +19458,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-24T17:51:43.000Z",
-    "updatedAt": "2025-03-11T07:02:08.000Z"
+    "updatedAt": "2025-03-12T09:35:12.000Z"
   },
   {
     "id": "mrdimosthenis/emel",
