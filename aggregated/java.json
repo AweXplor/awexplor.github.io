@@ -95,7 +95,7 @@
       "updatedAt": 1741413906
     },
     "license": "Apache License 2.0",
-    "forks": 4342,
+    "forks": 4343,
     "primaryLanguage": "FreeMarker",
     "pushedAt": "2025-03-15T13:18:10.000Z",
     "archived": false,
@@ -104,7 +104,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-08-18T10:06:53.000Z",
-    "updatedAt": "2025-03-15T23:33:34.000Z"
+    "updatedAt": "2025-03-17T02:00:27.000Z"
   },
   {
     "id": "oracle/graal",
@@ -524,7 +524,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-05-25T20:26:28.000Z",
-    "updatedAt": "2025-03-15T23:33:33.000Z"
+    "updatedAt": "2025-03-17T02:00:26.000Z"
   },
   {
     "id": "stripe/stripe-java",
@@ -2284,7 +2284,7 @@
       "name": "svix",
       "avatarUrl": "https://avatars.githubusercontent.com/u/80175132?v=4"
     },
-    "stars": 2588,
+    "stars": 2589,
     "starsDetail": {
       "total": 2475,
       "week": 14,
@@ -2295,14 +2295,14 @@
     "license": "MIT License",
     "forks": 179,
     "primaryLanguage": "Just",
-    "pushedAt": "2025-03-14T23:05:52.000Z",
+    "pushedAt": "2025-03-15T23:48:50.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-02-25T13:49:38.000Z",
-    "updatedAt": "2025-03-15T23:40:31.000Z"
+    "updatedAt": "2025-03-17T02:07:24.000Z"
   },
   {
     "id": "mapstruct/mapstruct",
@@ -3019,7 +3019,7 @@
       "name": "facebook",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69631?v=4"
     },
-    "stars": 3745,
+    "stars": 3749,
     "starsDetail": {
       "total": 3649,
       "week": 8,
@@ -3028,16 +3028,16 @@
       "updatedAt": 1736031926
     },
     "license": "Apache License 2.0",
-    "forks": 243,
+    "forks": 244,
     "primaryLanguage": "Roff",
-    "pushedAt": "2025-03-15T22:48:54.000Z",
+    "pushedAt": "2025-03-16T05:12:32.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-01-21T20:04:00.000Z",
-    "updatedAt": "2025-03-15T23:35:45.000Z"
+    "updatedAt": "2025-03-17T02:02:36.000Z"
   },
   {
     "id": "shyiko/jabba",
@@ -3775,7 +3775,7 @@
       "name": "spring-projects",
       "avatarUrl": "https://avatars.githubusercontent.com/u/317776?v=4"
     },
-    "stars": 1049,
+    "stars": 1048,
     "starsDetail": {
       "total": 1049,
       "week": 0,
@@ -3793,7 +3793,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-05-07T15:18:47.000Z",
-    "updatedAt": "2025-03-15T23:33:33.000Z"
+    "updatedAt": "2025-03-17T02:00:25.000Z"
   },
   {
     "id": "yegor256/takes",
@@ -7397,7 +7397,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-07-25T20:08:44.000Z",
-    "updatedAt": "2025-03-15T23:31:26.000Z"
+    "updatedAt": "2025-03-17T01:58:19.000Z"
   },
   {
     "id": "RuedigerMoeller/fast-serialization",
@@ -8753,7 +8753,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-03-06T12:48:00.000Z",
-    "updatedAt": "2025-03-15T23:33:35.000Z"
+    "updatedAt": "2025-03-17T02:00:27.000Z"
   },
   {
     "id": "BastiaanJansen/jwt-java",
@@ -10268,7 +10268,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-11T18:15:26.000Z",
-    "updatedAt": "2025-03-15T23:33:31.000Z"
+    "updatedAt": "2025-03-17T02:00:23.000Z"
   },
   {
     "id": "cleopatra27/chocotea",
@@ -10901,7 +10901,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-07-13T03:45:43.000Z",
-    "updatedAt": "2025-03-15T23:33:35.000Z"
+    "updatedAt": "2025-03-17T02:00:28.000Z"
   },
   {
     "id": "iluwatar/java-design-patterns",
@@ -11598,15 +11598,15 @@
     },
     "license": "Apache License 2.0",
     "forks": 4,
-    "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-03-15T21:46:46.000Z",
+    "primaryLanguage": "C",
+    "pushedAt": "2025-03-16T16:49:26.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-08-05T11:44:32.000Z",
-    "updatedAt": "2025-03-15T23:33:33.000Z"
+    "updatedAt": "2025-03-17T02:00:25.000Z"
   },
   {
     "id": "lorenzoongithub/nudge4j",

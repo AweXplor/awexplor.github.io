@@ -323,6 +323,42 @@
     "updatedAt": "2025-03-16T15:55:38.000Z"
   },
   {
+    "id": "excid3/madmin",
+    "name": "excid3/madmin",
+    "description": "A robust Admin Interface for Ruby on Rails apps",
+    "topics": [
+      "admin",
+      "admin-dashboard",
+      "hacktoberfest",
+      "rails",
+      "ruby",
+      "ruby-on-rails"
+    ],
+    "owner": {
+      "name": "excid3",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67093?v=4"
+    },
+    "stars": 634,
+    "starsDetail": {
+      "total": 634,
+      "week": 4,
+      "month": 9,
+      "year": 137,
+      "updatedAt": 1742177423
+    },
+    "license": "MIT License",
+    "forks": 77,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-03-16T20:58:19.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-09-11T04:02:20.000Z",
+    "updatedAt": "2025-03-17T01:52:12.000Z"
+  },
+  {
     "id": "natalie-lang/natalie",
     "name": "natalie-lang/natalie",
     "description": "a work-in-progress Ruby compiler, written in Ruby and C++",
@@ -15758,7 +15794,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-06T15:34:36.000Z",
-    "updatedAt": "2025-03-15T23:32:59.000Z"
+    "updatedAt": "2025-03-17T01:59:49.000Z"
   },
   {
     "id": "RubyMoney/eu_central_bank",
