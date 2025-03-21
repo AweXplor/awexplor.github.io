@@ -5113,7 +5113,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-02T00:31:38.000Z",
-    "updatedAt": "2025-03-20T09:44:29.000Z"
+    "updatedAt": "2025-03-21T12:17:36.000Z"
   },
   {
     "id": "pbui-project/pbui-main",
@@ -5364,6 +5364,31 @@
     "goImportedBy": null,
     "createdAt": "2019-04-27T18:56:18.000Z",
     "updatedAt": "2025-03-21T02:27:18.000Z"
+  },
+  {
+    "id": "six519/YieArKUNGFUZig",
+    "name": "six519/YieArKUNGFUZig",
+    "description": "A Yie Ar Kung-Fu clone created in Zig with raylib.",
+    "topics": [],
+    "owner": {
+      "name": "six519",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/483547?v=4"
+    },
+    "stars": 4,
+    "starsDetail": {
+      "total": 4
+    },
+    "license": null,
+    "forks": 2,
+    "primaryLanguage": "Zig",
+    "pushedAt": "2025-03-20T09:00:37.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-12-20T23:58:14.000Z",
+    "updatedAt": "2025-03-21T12:06:15.000Z"
   },
   {
     "id": "sjdh02/trOS",
