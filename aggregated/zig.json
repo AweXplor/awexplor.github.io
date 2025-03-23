@@ -1147,6 +1147,39 @@
     "updatedAt": "2025-03-23T07:29:24.000Z"
   },
   {
+    "id": "EzequielRamis/zimdjson",
+    "name": "EzequielRamis/zimdjson",
+    "description": "Parsing gigabytes of JSON per second. Zig port of simdjson with fundamental features.",
+    "topics": [
+      "json",
+      "json-parser",
+      "simd",
+      "simdjson",
+      "zig",
+      "zig-package",
+      "ziglang"
+    ],
+    "owner": {
+      "name": "EzequielRamis",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/44057100?v=4"
+    },
+    "stars": 74,
+    "starsDetail": {
+      "total": 74
+    },
+    "license": "MIT License",
+    "forks": 1,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-03-23T16:53:14.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-11-27T02:33:48.000Z",
+    "updatedAt": "2025-03-23T17:06:53.000Z"
+  },
+  {
     "id": "GrooveStomp/chip8-zig",
     "name": "GrooveStomp/chip8-zig",
     "description": "A CHIP-8 emulator written in Zig",
@@ -5106,14 +5139,14 @@
     "license": "GNU Lesser General Public License v3.0",
     "forks": 1,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-03-02T21:19:56.000Z",
+    "pushedAt": "2025-03-22T18:19:12.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-02T00:31:38.000Z",
-    "updatedAt": "2025-03-22T14:47:47.000Z"
+    "updatedAt": "2025-03-23T17:16:40.000Z"
   },
   {
     "id": "pbui-project/pbui-main",
@@ -5374,12 +5407,12 @@
       "name": "six519",
       "avatarUrl": "https://avatars.githubusercontent.com/u/483547?v=4"
     },
-    "stars": 6,
+    "stars": 7,
     "starsDetail": {
-      "total": 6
+      "total": 7
     },
     "license": null,
-    "forks": 2,
+    "forks": 3,
     "primaryLanguage": "Zig",
     "pushedAt": "2025-03-20T09:00:37.000Z",
     "archived": false,
@@ -5388,7 +5421,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-20T23:58:14.000Z",
-    "updatedAt": "2025-03-22T14:39:22.000Z"
+    "updatedAt": "2025-03-23T17:09:11.000Z"
   },
   {
     "id": "sjdh02/trOS",
