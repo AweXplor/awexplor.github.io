@@ -26,7 +26,7 @@
       "name": "hexops",
       "avatarUrl": "https://avatars.githubusercontent.com/u/19482899?v=4"
     },
-    "stars": 3822,
+    "stars": 3825,
     "starsDetail": {
       "total": 3492,
       "week": 32,
@@ -35,7 +35,7 @@
       "updatedAt": 1736062065
     },
     "license": "Other",
-    "forks": 175,
+    "forks": 174,
     "primaryLanguage": "Shell",
     "pushedAt": "2025-03-16T03:50:55.000Z",
     "archived": false,
@@ -44,7 +44,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-04T17:37:47.000Z",
-    "updatedAt": "2025-03-25T12:25:31.000Z"
+    "updatedAt": "2025-03-26T15:04:22.000Z"
   },
   {
     "id": "zigtools/zls",
@@ -63,7 +63,7 @@
       "name": "zigtools",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65322356?v=4"
     },
-    "stars": 3626,
+    "stars": 3629,
     "starsDetail": {
       "total": 3137,
       "week": 32,
@@ -81,7 +81,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-24T22:19:50.000Z",
-    "updatedAt": "2025-03-25T12:25:30.000Z"
+    "updatedAt": "2025-03-26T15:04:21.000Z"
   },
   {
     "id": "zigzap/zap",
@@ -100,7 +100,7 @@
       "name": "zigzap",
       "avatarUrl": "https://avatars.githubusercontent.com/u/125233599?v=4"
     },
-    "stars": 2805,
+    "stars": 2807,
     "starsDetail": {
       "total": 2484,
       "week": 27,
@@ -109,7 +109,7 @@
       "updatedAt": 1736062075
     },
     "license": "MIT License",
-    "forks": 89,
+    "forks": 90,
     "primaryLanguage": "C#",
     "pushedAt": "2025-03-22T19:28:14.000Z",
     "archived": false,
@@ -118,7 +118,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-01-12T21:36:31.000Z",
-    "updatedAt": "2025-03-25T12:25:52.000Z"
+    "updatedAt": "2025-03-26T15:04:46.000Z"
   },
   {
     "id": "capy-ui/capy",
@@ -141,7 +141,7 @@
       "name": "capy-ui",
       "avatarUrl": "https://avatars.githubusercontent.com/u/110254452?v=4"
     },
-    "stars": 2029,
+    "stars": 2033,
     "starsDetail": {
       "total": 1816,
       "week": 36,
@@ -159,7 +159,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-03-24T11:36:16.000Z",
-    "updatedAt": "2025-03-25T12:25:37.000Z"
+    "updatedAt": "2025-03-26T15:04:29.000Z"
   },
   {
     "id": "ulfjack/ryu",
@@ -188,7 +188,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-14T21:07:38.000Z",
-    "updatedAt": "2025-03-25T12:26:07.000Z"
+    "updatedAt": "2025-03-26T15:05:03.000Z"
   },
   {
     "id": "orhun/linuxwave",
@@ -236,7 +236,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-13T22:57:52.000Z",
-    "updatedAt": "2025-03-25T12:25:16.000Z"
+    "updatedAt": "2025-03-26T15:04:05.000Z"
   },
   {
     "id": "karlseguin/http.zig",
@@ -252,7 +252,7 @@
       "name": "karlseguin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/206480?v=4"
     },
-    "stars": 890,
+    "stars": 893,
     "starsDetail": {
       "total": 655,
       "week": 11,
@@ -270,7 +270,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-13T08:51:53.000Z",
-    "updatedAt": "2025-03-25T12:25:52.000Z"
+    "updatedAt": "2025-03-26T15:04:46.000Z"
   },
   {
     "id": "Hejsil/zig-clap",
@@ -298,7 +298,7 @@
       "updatedAt": 1736062079
     },
     "license": "MIT License",
-    "forks": 74,
+    "forks": 73,
     "primaryLanguage": "Zig",
     "pushedAt": "2025-03-05T16:47:07.000Z",
     "archived": false,
@@ -307,7 +307,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-03-14T13:06:16.000Z",
-    "updatedAt": "2025-03-25T12:26:04.000Z"
+    "updatedAt": "2025-03-26T15:05:00.000Z"
   },
   {
     "id": "floooh/sokol",
@@ -318,7 +318,7 @@
       "name": "floooh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1699414?v=4"
     },
-    "stars": 8009,
+    "stars": 8012,
     "starsDetail": {
       "total": 7424,
       "week": 47,
@@ -329,14 +329,14 @@
     "license": "zlib License",
     "forks": 541,
     "primaryLanguage": "Batchfile",
-    "pushedAt": "2025-03-21T18:29:15.000Z",
+    "pushedAt": "2025-03-26T15:03:36.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-07-14T08:38:25.000Z",
-    "updatedAt": "2025-03-25T12:25:32.000Z"
+    "updatedAt": "2025-03-26T15:04:23.000Z"
   },
   {
     "id": "marler8997/zigup",
@@ -350,7 +350,7 @@
       "name": "marler8997",
       "avatarUrl": "https://avatars.githubusercontent.com/u/304904?v=4"
     },
-    "stars": 970,
+    "stars": 971,
     "starsDetail": {
       "total": 825,
       "week": 10,
@@ -368,7 +368,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-05-30T17:33:47.000Z",
-    "updatedAt": "2025-03-25T12:25:59.000Z"
+    "updatedAt": "2025-03-26T15:04:55.000Z"
   },
   {
     "id": "jmcnamara/libxlsxwriter",
@@ -404,7 +404,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-08T16:36:03.000Z",
-    "updatedAt": "2025-03-25T11:52:26.000Z"
+    "updatedAt": "2025-03-26T14:26:36.000Z"
   },
   {
     "id": "Snektron/vulkan-zig",
@@ -415,7 +415,7 @@
       "name": "Snektron",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5640649?v=4"
     },
-    "stars": 593,
+    "stars": 594,
     "starsDetail": {
       "total": 536,
       "week": 7,
@@ -433,7 +433,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-10-15T10:34:44.000Z",
-    "updatedAt": "2025-03-25T12:25:39.000Z"
+    "updatedAt": "2025-03-26T15:04:31.000Z"
   },
   {
     "id": "ziglang/zig.vim",
@@ -447,7 +447,7 @@
       "name": "ziglang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27973237?v=4"
     },
-    "stars": 509,
+    "stars": 510,
     "starsDetail": {
       "total": 500,
       "week": 6,
@@ -465,7 +465,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-13T09:21:35.000Z",
-    "updatedAt": "2025-03-25T12:25:29.000Z"
+    "updatedAt": "2025-03-26T15:04:20.000Z"
   },
   {
     "id": "fubark/cyber",
@@ -484,7 +484,7 @@
       "name": "fubark",
       "avatarUrl": "https://avatars.githubusercontent.com/u/94020660?v=4"
     },
-    "stars": 1283,
+    "stars": 1282,
     "starsDetail": {
       "total": 1249,
       "week": 3,
@@ -502,7 +502,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-10-31T20:15:21.000Z",
-    "updatedAt": "2025-03-25T12:25:24.000Z"
+    "updatedAt": "2025-03-26T15:04:14.000Z"
   },
   {
     "id": "nektro/zigmod",
@@ -516,7 +516,7 @@
       "name": "nektro",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5464072?v=4"
     },
-    "stars": 831,
+    "stars": 832,
     "starsDetail": {
       "total": 792,
       "week": 5,
@@ -534,7 +534,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-11-09T22:56:32.000Z",
-    "updatedAt": "2025-03-25T12:26:02.000Z"
+    "updatedAt": "2025-03-26T15:04:58.000Z"
   },
   {
     "id": "Vexu/toy-lang",
@@ -566,7 +566,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-20T20:04:53.000Z",
-    "updatedAt": "2025-03-25T12:25:49.000Z"
+    "updatedAt": "2025-03-26T15:04:43.000Z"
   },
   {
     "id": "mitchellh/libxev",
@@ -586,7 +586,7 @@
       "name": "mitchellh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1299?v=4"
     },
-    "stars": 2608,
+    "stars": 2610,
     "starsDetail": {
       "total": 2293,
       "week": 48,
@@ -604,7 +604,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-01-07T19:52:16.000Z",
-    "updatedAt": "2025-03-25T12:25:24.000Z"
+    "updatedAt": "2025-03-26T15:04:14.000Z"
   },
   {
     "id": "andrewrk/libsoundio",
@@ -624,7 +624,7 @@
       "updatedAt": 1736058278
     },
     "license": "MIT License",
-    "forks": 234,
+    "forks": 235,
     "primaryLanguage": "C++",
     "pushedAt": "2025-01-13T00:38:33.000Z",
     "archived": false,
@@ -633,7 +633,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-06-30T21:14:56.000Z",
-    "updatedAt": "2025-03-25T11:49:27.000Z"
+    "updatedAt": "2025-03-26T14:23:11.000Z"
   },
   {
     "id": "ziglang/vscode-zig",
@@ -658,14 +658,14 @@
     "license": "MIT License",
     "forks": 66,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-03-06T13:15:30.000Z",
+    "pushedAt": "2025-03-25T21:34:13.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-07-14T23:02:35.000Z",
-    "updatedAt": "2025-03-25T12:25:28.000Z"
+    "updatedAt": "2025-03-26T15:04:19.000Z"
   },
   {
     "id": "raysan5/raylib",
@@ -694,7 +694,7 @@
       "name": "raysan5",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5766837?v=4"
     },
-    "stars": 25566,
+    "stars": 25587,
     "starsDetail": {
       "total": 24107,
       "week": 174,
@@ -705,14 +705,14 @@
     "license": "zlib License",
     "forks": 2471,
     "primaryLanguage": "Roff",
-    "pushedAt": "2025-03-23T18:13:12.000Z",
+    "pushedAt": "2025-03-25T21:39:13.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-24T15:46:04.000Z",
-    "updatedAt": "2025-03-25T11:50:56.000Z"
+    "updatedAt": "2025-03-26T14:24:51.000Z"
   },
   {
     "id": "mattnite/gyro",
@@ -744,7 +744,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-06-12T20:12:12.000Z",
-    "updatedAt": "2025-03-25T12:26:01.000Z"
+    "updatedAt": "2025-03-26T15:04:57.000Z"
   },
   {
     "id": "00JCIV00/cova",
@@ -770,14 +770,14 @@
     "license": "MIT License",
     "forks": 6,
     "primaryLanguage": "Zig",
-    "pushedAt": "2025-03-21T21:35:15.000Z",
+    "pushedAt": "2025-03-25T22:39:38.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-02T23:42:13.000Z",
-    "updatedAt": "2025-03-25T12:26:04.000Z"
+    "updatedAt": "2025-03-26T15:05:00.000Z"
   },
   {
     "id": "ATTron/astroz",
@@ -821,7 +821,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-06-25T00:35:54.000Z",
-    "updatedAt": "2025-03-25T12:25:47.000Z"
+    "updatedAt": "2025-03-26T15:04:40.000Z"
   },
   {
     "id": "Akuli/curses-minesweeper",
@@ -846,7 +846,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-15T19:25:31.000Z",
-    "updatedAt": "2025-03-25T12:25:34.000Z"
+    "updatedAt": "2025-03-26T15:04:25.000Z"
   },
   {
     "id": "AndreaOrru/zen",
@@ -876,7 +876,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-04T20:02:11.000Z",
-    "updatedAt": "2025-03-25T12:25:16.000Z"
+    "updatedAt": "2025-03-26T15:04:05.000Z"
   },
   {
     "id": "Aransentin/ZWL",
@@ -901,7 +901,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-06-27T23:14:32.000Z",
-    "updatedAt": "2025-03-25T12:25:37.000Z"
+    "updatedAt": "2025-03-26T15:04:29.000Z"
   },
   {
     "id": "Arwalk/ChipZ",
@@ -930,7 +930,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-04-13T14:02:10.000Z",
-    "updatedAt": "2025-03-25T12:25:31.000Z"
+    "updatedAt": "2025-03-26T15:04:22.000Z"
   },
   {
     "id": "Arwalk/zig-protobuf",
@@ -945,9 +945,9 @@
       "name": "Arwalk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4776412?v=4"
     },
-    "stars": 275,
+    "stars": 276,
     "starsDetail": {
-      "total": 275
+      "total": 276
     },
     "license": "MIT License",
     "forks": 34,
@@ -959,7 +959,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-04-30T16:11:03.000Z",
-    "updatedAt": "2025-03-25T12:26:09.000Z"
+    "updatedAt": "2025-03-26T15:05:05.000Z"
   },
   {
     "id": "Avokadoen/zig_vulkan",
@@ -991,7 +991,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-06-14T21:06:28.000Z",
-    "updatedAt": "2025-03-25T12:25:39.000Z"
+    "updatedAt": "2025-03-26T15:04:31.000Z"
   },
   {
     "id": "BarabasGitHub/LZig4",
@@ -1016,7 +1016,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-17T21:57:06.000Z",
-    "updatedAt": "2025-03-25T12:25:10.000Z"
+    "updatedAt": "2025-03-26T15:03:58.000Z"
   },
   {
     "id": "BraedonWooding/Lazy-Zig",
@@ -1041,7 +1041,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-04-30T11:55:18.000Z",
-    "updatedAt": "2025-03-25T12:25:42.000Z"
+    "updatedAt": "2025-03-26T15:04:35.000Z"
   },
   {
     "id": "CurtisFenner/zsmol",
@@ -1066,7 +1066,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-23T00:51:37.000Z",
-    "updatedAt": "2025-03-25T12:25:22.000Z"
+    "updatedAt": "2025-03-26T15:04:12.000Z"
   },
   {
     "id": "DorianXGH/Lukarnel",
@@ -1091,7 +1091,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-21T08:27:49.000Z",
-    "updatedAt": "2025-03-25T12:25:17.000Z"
+    "updatedAt": "2025-03-26T15:04:07.000Z"
   },
   {
     "id": "DutchGhost/ArrayVec",
@@ -1116,7 +1116,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-10T14:03:46.000Z",
-    "updatedAt": "2025-03-25T12:25:11.000Z"
+    "updatedAt": "2025-03-26T15:03:58.000Z"
   },
   {
     "id": "DutchGhost/maybeuninit",
@@ -1144,7 +1144,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-10T18:43:02.000Z",
-    "updatedAt": "2025-03-25T12:25:43.000Z"
+    "updatedAt": "2025-03-26T15:04:35.000Z"
   },
   {
     "id": "EzequielRamis/zimdjson",
@@ -1202,7 +1202,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-18T13:58:53.000Z",
-    "updatedAt": "2025-03-25T12:25:31.000Z"
+    "updatedAt": "2025-03-26T15:04:21.000Z"
   },
   {
     "id": "Hejsil/zig-gc",
@@ -1230,7 +1230,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-11T13:35:09.000Z",
-    "updatedAt": "2025-03-25T12:25:14.000Z"
+    "updatedAt": "2025-03-26T15:04:02.000Z"
   },
   {
     "id": "Hejsil/zig-midi",
@@ -1260,7 +1260,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-17T09:04:10.000Z",
-    "updatedAt": "2025-03-25T12:25:15.000Z"
+    "updatedAt": "2025-03-26T15:04:03.000Z"
   },
   {
     "id": "Himujjal/zig-json5",
@@ -1285,7 +1285,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-10-23T16:55:13.000Z",
-    "updatedAt": "2025-03-25T12:26:03.000Z"
+    "updatedAt": "2025-03-26T15:04:59.000Z"
   },
   {
     "id": "InKryption/comath",
@@ -1310,7 +1310,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-07-16T23:45:18.000Z",
-    "updatedAt": "2025-03-25T12:26:10.000Z"
+    "updatedAt": "2025-03-26T15:05:06.000Z"
   },
   {
     "id": "JakubSzark/zig-string",
@@ -1342,7 +1342,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-09-01T17:06:14.000Z",
-    "updatedAt": "2025-03-25T12:25:12.000Z"
+    "updatedAt": "2025-03-26T15:04:00.000Z"
   },
   {
     "id": "Luukdegram/apple_pie",
@@ -1373,7 +1373,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-06-06T17:14:54.000Z",
-    "updatedAt": "2025-03-25T12:25:49.000Z"
+    "updatedAt": "2025-03-26T15:04:42.000Z"
   },
   {
     "id": "MarioAriasC/zig-support",
@@ -1404,7 +1404,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-10-03T00:12:42.000Z",
-    "updatedAt": "2025-03-25T12:25:27.000Z"
+    "updatedAt": "2025-03-26T15:04:18.000Z"
   },
   {
     "id": "Nelarius/weekend-raytracer-zig",
@@ -1434,7 +1434,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-21T06:12:37.000Z",
-    "updatedAt": "2025-03-25T12:25:40.000Z"
+    "updatedAt": "2025-03-26T15:04:33.000Z"
   },
   {
     "id": "Sahnvour/zig-containers",
@@ -1462,7 +1462,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-04-16T20:57:56.000Z",
-    "updatedAt": "2025-03-25T12:25:12.000Z"
+    "updatedAt": "2025-03-26T15:04:00.000Z"
   },
   {
     "id": "SasLuca/zig-nanoid",
@@ -1500,7 +1500,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-04-18T22:32:31.000Z",
-    "updatedAt": "2025-03-25T12:25:45.000Z"
+    "updatedAt": "2025-03-26T15:04:38.000Z"
   },
   {
     "id": "SpexGuy/Zig-Gltf-Display",
@@ -1525,7 +1525,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-04T20:34:39.000Z",
-    "updatedAt": "2025-03-25T12:25:40.000Z"
+    "updatedAt": "2025-03-26T15:04:33.000Z"
   },
   {
     "id": "Srekel/zig-sparse-set",
@@ -1554,7 +1554,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-15T21:18:21.000Z",
-    "updatedAt": "2025-03-25T12:25:12.000Z"
+    "updatedAt": "2025-03-26T15:04:00.000Z"
   },
   {
     "id": "Stenodyon/blink",
@@ -1579,7 +1579,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-01-20T14:17:20.000Z",
-    "updatedAt": "2025-03-25T12:25:35.000Z"
+    "updatedAt": "2025-03-26T15:04:26.000Z"
   },
   {
     "id": "TM35-Metronome/metronome",
@@ -1609,7 +1609,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-06T19:26:32.000Z",
-    "updatedAt": "2025-03-25T12:25:33.000Z"
+    "updatedAt": "2025-03-26T15:04:24.000Z"
   },
   {
     "id": "TM35-Metronome/tm35-nds",
@@ -1639,7 +1639,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-19T07:41:55.000Z",
-    "updatedAt": "2025-03-25T12:25:33.000Z"
+    "updatedAt": "2025-03-26T15:04:24.000Z"
   },
   {
     "id": "Tetralux/sublime-zig",
@@ -1673,7 +1673,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-06T23:20:42.000Z",
-    "updatedAt": "2025-03-25T12:25:28.000Z"
+    "updatedAt": "2025-03-26T15:04:19.000Z"
   },
   {
     "id": "Vexu/routez",
@@ -1702,7 +1702,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-08T11:33:41.000Z",
-    "updatedAt": "2025-03-25T12:25:51.000Z"
+    "updatedAt": "2025-03-26T15:04:45.000Z"
   },
   {
     "id": "Vexu/zuri",
@@ -1730,7 +1730,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-03T18:03:11.000Z",
-    "updatedAt": "2025-03-25T12:26:07.000Z"
+    "updatedAt": "2025-03-26T15:05:03.000Z"
   },
   {
     "id": "ZeeBoppityZagZiggity/ZBZZ.OS",
@@ -1755,7 +1755,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-21T19:09:49.000Z",
-    "updatedAt": "2025-03-25T12:25:21.000Z"
+    "updatedAt": "2025-03-26T15:04:11.000Z"
   },
   {
     "id": "aherrmann/rules_zig",
@@ -1780,7 +1780,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-01-10T07:38:13.000Z",
-    "updatedAt": "2025-03-25T12:26:00.000Z"
+    "updatedAt": "2025-03-26T15:04:56.000Z"
   },
   {
     "id": "andrewrk/HellOS",
@@ -1808,7 +1808,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-10-26T19:29:35.000Z",
-    "updatedAt": "2025-03-25T12:25:17.000Z"
+    "updatedAt": "2025-03-26T15:04:06.000Z"
   },
   {
     "id": "andrewrk/clashos",
@@ -1838,7 +1838,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-02-03T22:09:14.000Z",
-    "updatedAt": "2025-03-25T12:25:17.000Z"
+    "updatedAt": "2025-03-26T15:04:06.000Z"
   },
   {
     "id": "andrewrk/libchromaprint",
@@ -1863,7 +1863,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-01-16T23:12:05.000Z",
-    "updatedAt": "2025-03-25T12:26:13.000Z"
+    "updatedAt": "2025-03-26T15:05:10.000Z"
   },
   {
     "id": "andrewrk/libgroove",
@@ -1888,7 +1888,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-09-09T02:01:56.000Z",
-    "updatedAt": "2025-03-25T12:26:11.000Z"
+    "updatedAt": "2025-03-26T15:05:08.000Z"
   },
   {
     "id": "andrewrk/libz",
@@ -1913,7 +1913,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-01-07T21:16:05.000Z",
-    "updatedAt": "2025-03-25T12:26:11.000Z"
+    "updatedAt": "2025-03-26T15:05:08.000Z"
   },
   {
     "id": "andrewrk/lua-in-the-browser",
@@ -1942,7 +1942,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-16T23:54:19.000Z",
-    "updatedAt": "2025-03-25T12:25:53.000Z"
+    "updatedAt": "2025-03-26T15:04:48.000Z"
   },
   {
     "id": "andrewrk/tetris",
@@ -1970,7 +1970,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-19T08:04:05.000Z",
-    "updatedAt": "2025-03-25T12:25:34.000Z"
+    "updatedAt": "2025-03-26T15:04:25.000Z"
   },
   {
     "id": "andrewrk/zig-vulkan-triangle",
@@ -1999,7 +1999,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-09T23:26:46.000Z",
-    "updatedAt": "2025-03-25T12:25:39.000Z"
+    "updatedAt": "2025-03-26T15:04:31.000Z"
   },
   {
     "id": "andy5995/zigdeck",
@@ -2032,7 +2032,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-03-11T08:10:46.000Z",
-    "updatedAt": "2025-03-25T12:25:33.000Z"
+    "updatedAt": "2025-03-26T15:04:24.000Z"
   },
   {
     "id": "axgdev/telegram_echobot_zig",
@@ -2057,7 +2057,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-02-11T23:35:39.000Z",
-    "updatedAt": "2025-03-25T12:25:51.000Z"
+    "updatedAt": "2025-03-26T15:04:45.000Z"
   },
   {
     "id": "batiati/IUPforZig",
@@ -2077,9 +2077,9 @@
       "name": "batiati",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5728002?v=4"
     },
-    "stars": 119,
+    "stars": 120,
     "starsDetail": {
-      "total": 119
+      "total": 120
     },
     "license": "The Unlicense",
     "forks": 4,
@@ -2091,7 +2091,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-06-19T23:19:14.000Z",
-    "updatedAt": "2025-03-25T12:25:38.000Z"
+    "updatedAt": "2025-03-26T15:04:30.000Z"
   },
   {
     "id": "batiati/mustache-zig",
@@ -2121,7 +2121,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-02-15T12:52:35.000Z",
-    "updatedAt": "2025-03-25T12:25:56.000Z"
+    "updatedAt": "2025-03-26T15:04:51.000Z"
   },
   {
     "id": "belse-de/zig-tut",
@@ -2146,7 +2146,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-15T19:23:55.000Z",
-    "updatedAt": "2025-03-25T12:26:10.000Z"
+    "updatedAt": "2025-03-26T15:05:07.000Z"
   },
   {
     "id": "bfactory-ai/zignal",
@@ -2168,15 +2168,15 @@
     },
     "license": "MIT License",
     "forks": 4,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2025-03-18T12:22:06.000Z",
+    "primaryLanguage": "Zig",
+    "pushedAt": "2025-03-25T14:09:41.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-04-13T06:47:14.000Z",
-    "updatedAt": "2025-03-25T12:25:44.000Z"
+    "updatedAt": "2025-03-26T15:04:37.000Z"
   },
   {
     "id": "by-nir/aws-lambda-zig",
@@ -2234,7 +2234,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-09-20T13:59:53.000Z",
-    "updatedAt": "2025-03-25T12:26:02.000Z"
+    "updatedAt": "2025-03-26T15:04:58.000Z"
   },
   {
     "id": "chivay/vmt",
@@ -2263,7 +2263,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-07-26T19:23:28.000Z",
-    "updatedAt": "2025-03-25T12:25:17.000Z"
+    "updatedAt": "2025-03-26T15:04:06.000Z"
   },
   {
     "id": "cshenton/learnopengl",
@@ -2288,7 +2288,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-01T23:22:35.000Z",
-    "updatedAt": "2025-03-25T12:25:40.000Z"
+    "updatedAt": "2025-03-26T15:04:32.000Z"
   },
   {
     "id": "dantecatalfamo/9p-zig",
@@ -2322,7 +2322,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-13T05:37:27.000Z",
-    "updatedAt": "2025-03-25T12:25:46.000Z"
+    "updatedAt": "2025-03-26T15:04:39.000Z"
   },
   {
     "id": "dantecatalfamo/OpenCSE",
@@ -2351,7 +2351,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-08-18T06:20:32.000Z",
-    "updatedAt": "2025-03-25T12:25:36.000Z"
+    "updatedAt": "2025-03-26T15:04:28.000Z"
   },
   {
     "id": "dantecatalfamo/brainfuck-zig",
@@ -2380,7 +2380,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-11-27T02:51:06.000Z",
-    "updatedAt": "2025-03-25T12:25:23.000Z"
+    "updatedAt": "2025-03-26T15:04:13.000Z"
   },
   {
     "id": "dantecatalfamo/mruby-zig",
@@ -2411,7 +2411,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-02-22T22:30:35.000Z",
-    "updatedAt": "2025-03-25T12:25:23.000Z"
+    "updatedAt": "2025-03-26T15:04:13.000Z"
   },
   {
     "id": "dantecatalfamo/sndio-zig",
@@ -2443,7 +2443,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-01-28T22:10:16.000Z",
-    "updatedAt": "2025-03-25T12:25:15.000Z"
+    "updatedAt": "2025-03-26T15:04:04.000Z"
   },
   {
     "id": "dantecatalfamo/wren-zig",
@@ -2474,7 +2474,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-04-08T23:38:35.000Z",
-    "updatedAt": "2025-03-25T12:25:23.000Z"
+    "updatedAt": "2025-03-26T15:04:13.000Z"
   },
   {
     "id": "dantecatalfamo/zig-dns",
@@ -2504,7 +2504,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-10-31T02:21:03.000Z",
-    "updatedAt": "2025-03-25T12:25:47.000Z"
+    "updatedAt": "2025-03-26T15:04:40.000Z"
   },
   {
     "id": "dbandstra/oxid",
@@ -2529,7 +2529,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-26T20:49:12.000Z",
-    "updatedAt": "2025-03-25T12:25:37.000Z"
+    "updatedAt": "2025-03-26T15:04:29.000Z"
   },
   {
     "id": "dbandstra/zig-hunk",
@@ -2554,7 +2554,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-26T20:37:51.000Z",
-    "updatedAt": "2025-03-25T12:25:14.000Z"
+    "updatedAt": "2025-03-26T15:04:02.000Z"
   },
   {
     "id": "dbandstra/zig-pcx",
@@ -2579,7 +2579,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-26T20:32:13.000Z",
-    "updatedAt": "2025-03-25T12:25:44.000Z"
+    "updatedAt": "2025-03-26T15:04:37.000Z"
   },
   {
     "id": "dbandstra/zig-wav",
@@ -2604,7 +2604,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-26T20:34:22.000Z",
-    "updatedAt": "2025-03-25T12:25:16.000Z"
+    "updatedAt": "2025-03-26T15:04:04.000Z"
   },
   {
     "id": "donpdonp/zootdeck",
@@ -2633,7 +2633,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-29T22:46:41.000Z",
-    "updatedAt": "2025-03-25T12:25:41.000Z"
+    "updatedAt": "2025-03-26T15:04:34.000Z"
   },
   {
     "id": "ducdetronquito/h11",
@@ -2663,7 +2663,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-28T12:22:04.000Z",
-    "updatedAt": "2025-03-25T12:25:50.000Z"
+    "updatedAt": "2025-03-26T15:04:44.000Z"
   },
   {
     "id": "ducdetronquito/requestz",
@@ -2691,7 +2691,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-07-07T11:37:34.000Z",
-    "updatedAt": "2025-03-25T12:25:50.000Z"
+    "updatedAt": "2025-03-26T15:04:43.000Z"
   },
   {
     "id": "emekoi/deque.zig",
@@ -2746,7 +2746,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-04T01:40:44.000Z",
-    "updatedAt": "2025-03-25T12:25:43.000Z"
+    "updatedAt": "2025-03-26T15:04:36.000Z"
   },
   {
     "id": "euantorano/ip.zig",
@@ -2775,7 +2775,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-04-26T17:44:51.000Z",
-    "updatedAt": "2025-03-25T12:25:48.000Z"
+    "updatedAt": "2025-03-26T15:04:41.000Z"
   },
   {
     "id": "fabioarnold/snake-zig",
@@ -2800,7 +2800,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-07-30T06:01:16.000Z",
-    "updatedAt": "2025-03-25T12:25:35.000Z"
+    "updatedAt": "2025-03-26T15:04:26.000Z"
   },
   {
     "id": "fengb/fundude",
@@ -2829,7 +2829,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-03-20T23:23:56.000Z",
-    "updatedAt": "2025-03-25T12:25:30.000Z"
+    "updatedAt": "2025-03-26T15:04:21.000Z"
   },
   {
     "id": "fengb/zee_alloc",
@@ -2859,7 +2859,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-21T14:23:17.000Z",
-    "updatedAt": "2025-03-25T12:25:13.000Z"
+    "updatedAt": "2025-03-26T15:04:01.000Z"
   },
   {
     "id": "floooh/kc85.zig",
@@ -2887,7 +2887,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-07-02T17:55:53.000Z",
-    "updatedAt": "2025-03-25T12:25:31.000Z"
+    "updatedAt": "2025-03-26T15:04:22.000Z"
   },
   {
     "id": "floooh/pacman.zig",
@@ -2912,7 +2912,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-12-23T18:14:08.000Z",
-    "updatedAt": "2025-03-25T12:25:36.000Z"
+    "updatedAt": "2025-03-26T15:04:27.000Z"
   },
   {
     "id": "floooh/sokol-zig",
@@ -2928,9 +2928,9 @@
       "name": "floooh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1699414?v=4"
     },
-    "stars": 480,
+    "stars": 482,
     "starsDetail": {
-      "total": 480
+      "total": 482
     },
     "license": "zlib License",
     "forks": 61,
@@ -2942,7 +2942,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-05-31T17:10:41.000Z",
-    "updatedAt": "2025-03-25T12:25:32.000Z"
+    "updatedAt": "2025-03-26T15:04:23.000Z"
   },
   {
     "id": "floscodes/zerve",
@@ -2973,7 +2973,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-04-11T17:09:06.000Z",
-    "updatedAt": "2025-03-25T12:25:57.000Z"
+    "updatedAt": "2025-03-26T15:04:52.000Z"
   },
   {
     "id": "frmdstryr/zhp",
@@ -3001,7 +3001,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-12-03T21:11:48.000Z",
-    "updatedAt": "2025-03-25T12:25:52.000Z"
+    "updatedAt": "2025-03-26T15:04:45.000Z"
   },
   {
     "id": "fubark/cosmic",
@@ -3034,7 +3034,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-11-09T22:41:16.000Z",
-    "updatedAt": "2025-03-25T12:25:38.000Z"
+    "updatedAt": "2025-03-26T15:04:30.000Z"
   },
   {
     "id": "gernest/base32",
@@ -3064,7 +3064,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-10-12T07:26:58.000Z",
-    "updatedAt": "2025-03-25T12:26:08.000Z"
+    "updatedAt": "2025-03-26T15:05:05.000Z"
   },
   {
     "id": "ggml-org/llama.cpp",
@@ -3078,21 +3078,21 @@
       "name": "ggml-org",
       "avatarUrl": "https://avatars.githubusercontent.com/u/134263123?v=4"
     },
-    "stars": 77152,
+    "stars": 77224,
     "starsDetail": {
-      "total": 77152
+      "total": 77224
     },
     "license": "MIT License",
-    "forks": 11195,
+    "forks": 11211,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-03-25T12:17:59.000Z",
+    "pushedAt": "2025-03-26T14:49:56.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-10T18:58:00.000Z",
-    "updatedAt": "2025-03-25T12:26:32.000Z"
+    "updatedAt": "2025-03-26T15:05:33.000Z"
   },
   {
     "id": "goto-bus-stop/ziguid",
@@ -3120,7 +3120,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-25T11:59:15.000Z",
-    "updatedAt": "2025-03-25T12:26:04.000Z"
+    "updatedAt": "2025-03-26T15:04:59.000Z"
   },
   {
     "id": "hazeycode/zig-alsa",
@@ -3145,7 +3145,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-02-19T03:22:37.000Z",
-    "updatedAt": "2025-03-25T12:25:15.000Z"
+    "updatedAt": "2025-03-26T15:04:03.000Z"
   },
   {
     "id": "hspak/brightnessztl",
@@ -3173,7 +3173,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-25T03:43:52.000Z",
-    "updatedAt": "2025-03-25T12:25:58.000Z"
+    "updatedAt": "2025-03-26T15:04:53.000Z"
   },
   {
     "id": "hspak/geteltorito-zig",
@@ -3201,7 +3201,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-04T23:07:49.000Z",
-    "updatedAt": "2025-03-25T12:26:18.000Z"
+    "updatedAt": "2025-03-26T15:05:16.000Z"
   },
   {
     "id": "iddev5/inon",
@@ -3231,7 +3231,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-08-03T17:38:22.000Z",
-    "updatedAt": "2025-03-25T12:26:09.000Z"
+    "updatedAt": "2025-03-26T15:05:05.000Z"
   },
   {
     "id": "iguessthislldo/georgios",
@@ -3266,7 +3266,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-12-04T03:49:38.000Z",
-    "updatedAt": "2025-03-25T12:25:18.000Z"
+    "updatedAt": "2025-03-26T15:04:07.000Z"
   },
   {
     "id": "isaachier/ztags",
@@ -3291,7 +3291,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-06-13T20:25:28.000Z",
-    "updatedAt": "2025-03-25T12:25:28.000Z"
+    "updatedAt": "2025-03-26T15:04:18.000Z"
   },
   {
     "id": "jzck/kernel-zig",
@@ -3320,7 +3320,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-10T23:12:21.000Z",
-    "updatedAt": "2025-03-25T12:25:18.000Z"
+    "updatedAt": "2025-03-26T15:04:08.000Z"
   },
   {
     "id": "karlseguin/cache.zig",
@@ -3352,7 +3352,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-28T10:55:45.000Z",
-    "updatedAt": "2025-03-25T12:25:13.000Z"
+    "updatedAt": "2025-03-26T15:04:01.000Z"
   },
   {
     "id": "karlseguin/log.zig",
@@ -3383,7 +3383,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-22T07:49:50.000Z",
-    "updatedAt": "2025-03-25T12:25:46.000Z"
+    "updatedAt": "2025-03-26T15:04:39.000Z"
   },
   {
     "id": "karlseguin/pg.zig",
@@ -3399,9 +3399,9 @@
       "name": "karlseguin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/206480?v=4"
     },
-    "stars": 340,
+    "stars": 341,
     "starsDetail": {
-      "total": 340
+      "total": 341
     },
     "license": "MIT License",
     "forks": 24,
@@ -3413,7 +3413,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-10-26T02:13:32.000Z",
-    "updatedAt": "2025-03-25T12:25:27.000Z"
+    "updatedAt": "2025-03-26T15:04:18.000Z"
   },
   {
     "id": "karlseguin/singleflight.zig",
@@ -3441,7 +3441,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-06-03T10:20:06.000Z",
-    "updatedAt": "2025-03-25T12:25:47.000Z"
+    "updatedAt": "2025-03-26T15:04:39.000Z"
   },
   {
     "id": "karlseguin/websocket.zig",
@@ -3471,7 +3471,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-05-28T14:35:01.000Z",
-    "updatedAt": "2025-03-25T12:25:54.000Z"
+    "updatedAt": "2025-03-26T15:04:48.000Z"
   },
   {
     "id": "karlseguin/zuckdb.zig",
@@ -3502,7 +3502,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-08T09:53:52.000Z",
-    "updatedAt": "2025-03-25T12:25:26.000Z"
+    "updatedAt": "2025-03-26T15:04:17.000Z"
   },
   {
     "id": "kassane/Standalone-Server",
@@ -3530,7 +3530,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-25T12:42:07.000Z",
-    "updatedAt": "2025-03-25T12:26:17.000Z"
+    "updatedAt": "2025-03-26T15:05:14.000Z"
   },
   {
     "id": "kassane/asio",
@@ -3563,7 +3563,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-01T19:22:37.000Z",
-    "updatedAt": "2025-03-25T12:26:13.000Z"
+    "updatedAt": "2025-03-26T15:05:10.000Z"
   },
   {
     "id": "kassane/beast",
@@ -3596,7 +3596,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-04-20T13:21:08.000Z",
-    "updatedAt": "2025-03-25T12:26:15.000Z"
+    "updatedAt": "2025-03-26T15:05:12.000Z"
   },
   {
     "id": "kassane/context",
@@ -3626,7 +3626,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-06-18T17:26:42.000Z",
-    "updatedAt": "2025-03-25T12:26:14.000Z"
+    "updatedAt": "2025-03-26T15:05:11.000Z"
   },
   {
     "id": "kassane/fiber",
@@ -3687,7 +3687,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-04-22T12:47:35.000Z",
-    "updatedAt": "2025-03-25T12:26:14.000Z"
+    "updatedAt": "2025-03-26T15:05:11.000Z"
   },
   {
     "id": "kassane/hana",
@@ -3716,7 +3716,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-11T13:22:00.000Z",
-    "updatedAt": "2025-03-25T12:26:15.000Z"
+    "updatedAt": "2025-03-26T15:05:12.000Z"
   },
   {
     "id": "kassane/intrusive",
@@ -3746,7 +3746,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-06-02T13:53:04.000Z",
-    "updatedAt": "2025-03-25T12:26:15.000Z"
+    "updatedAt": "2025-03-26T15:05:13.000Z"
   },
   {
     "id": "kassane/json",
@@ -3775,7 +3775,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-05-09T18:41:07.000Z",
-    "updatedAt": "2025-03-25T12:26:16.000Z"
+    "updatedAt": "2025-03-26T15:05:14.000Z"
   },
   {
     "id": "kassane/lean4-zig",
@@ -3807,7 +3807,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-08-28T14:59:12.000Z",
-    "updatedAt": "2025-03-25T12:25:46.000Z"
+    "updatedAt": "2025-03-26T15:04:39.000Z"
   },
   {
     "id": "kassane/libbpf",
@@ -3836,7 +3836,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-04-27T16:56:42.000Z",
-    "updatedAt": "2025-03-25T12:26:12.000Z"
+    "updatedAt": "2025-03-26T15:05:10.000Z"
   },
   {
     "id": "kassane/libsigcplusplus",
@@ -3865,7 +3865,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-07-04T18:25:39.000Z",
-    "updatedAt": "2025-03-25T12:26:17.000Z"
+    "updatedAt": "2025-03-26T15:05:16.000Z"
   },
   {
     "id": "kassane/libvlc-zig",
@@ -3897,7 +3897,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-12-08T17:13:15.000Z",
-    "updatedAt": "2025-03-25T12:25:45.000Z"
+    "updatedAt": "2025-03-26T15:04:38.000Z"
   },
   {
     "id": "kassane/libzmq",
@@ -3928,7 +3928,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-02-18T16:15:14.000Z",
-    "updatedAt": "2025-03-25T12:26:17.000Z"
+    "updatedAt": "2025-03-26T15:05:15.000Z"
   },
   {
     "id": "kassane/openssl-zig",
@@ -3961,7 +3961,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-22T15:57:38.000Z",
-    "updatedAt": "2025-03-25T12:26:12.000Z"
+    "updatedAt": "2025-03-26T15:05:08.000Z"
   },
   {
     "id": "kassane/outcome",
@@ -3991,7 +3991,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-04-23T13:24:26.000Z",
-    "updatedAt": "2025-03-25T12:26:16.000Z"
+    "updatedAt": "2025-03-26T15:05:13.000Z"
   },
   {
     "id": "kassane/qml_zig",
@@ -4022,7 +4022,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-12-19T17:33:55.000Z",
-    "updatedAt": "2025-03-25T12:25:40.000Z"
+    "updatedAt": "2025-03-26T15:04:32.000Z"
   },
   {
     "id": "kassane/range-v3",
@@ -4052,7 +4052,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-04-26T13:41:43.000Z",
-    "updatedAt": "2025-03-25T12:26:17.000Z"
+    "updatedAt": "2025-03-26T15:05:15.000Z"
   },
   {
     "id": "kassane/unordered",
@@ -4082,7 +4082,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-07-15T15:22:16.000Z",
-    "updatedAt": "2025-03-25T12:26:15.000Z"
+    "updatedAt": "2025-03-26T15:05:13.000Z"
   },
   {
     "id": "kassane/winpthreads-zigbuild",
@@ -4112,7 +4112,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-03-28T13:48:04.000Z",
-    "updatedAt": "2025-03-25T12:26:12.000Z"
+    "updatedAt": "2025-03-26T15:05:10.000Z"
   },
   {
     "id": "kassane/wolfssl",
@@ -4147,7 +4147,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-06-04T15:27:00.000Z",
-    "updatedAt": "2025-03-25T12:26:12.000Z"
+    "updatedAt": "2025-03-26T15:05:09.000Z"
   },
   {
     "id": "kivikakk/htmlentities.zig",
@@ -4175,7 +4175,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-08-18T07:39:24.000Z",
-    "updatedAt": "2025-03-25T12:25:54.000Z"
+    "updatedAt": "2025-03-26T15:04:48.000Z"
   },
   {
     "id": "kivikakk/koino",
@@ -4204,7 +4204,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-08-12T07:24:47.000Z",
-    "updatedAt": "2025-03-25T12:26:05.000Z"
+    "updatedAt": "2025-03-26T15:05:01.000Z"
   },
   {
     "id": "kivikakk/libpcre.zig",
@@ -4233,7 +4233,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-08-20T04:03:56.000Z",
-    "updatedAt": "2025-03-25T12:26:05.000Z"
+    "updatedAt": "2025-03-26T15:05:01.000Z"
   },
   {
     "id": "kooparse/zalgebra",
@@ -4270,7 +4270,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-10-07T17:15:35.000Z",
-    "updatedAt": "2025-03-25T12:25:36.000Z"
+    "updatedAt": "2025-03-26T15:04:28.000Z"
   },
   {
     "id": "korandoru/setup-zig",
@@ -4299,7 +4299,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-09-09T04:20:25.000Z",
-    "updatedAt": "2025-03-25T12:26:00.000Z"
+    "updatedAt": "2025-03-26T15:04:55.000Z"
   },
   {
     "id": "kprotty/zap",
@@ -4335,7 +4335,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-07-23T16:50:25.000Z",
-    "updatedAt": "2025-03-25T12:25:43.000Z"
+    "updatedAt": "2025-03-26T15:04:36.000Z"
   },
   {
     "id": "kprotty/zefi",
@@ -4360,7 +4360,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-06-19T00:45:20.000Z",
-    "updatedAt": "2025-03-25T12:25:24.000Z"
+    "updatedAt": "2025-03-26T15:04:15.000Z"
   },
   {
     "id": "kristoff-it/redis-cuckoofilter",
@@ -4392,7 +4392,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-07-23T17:28:09.000Z",
-    "updatedAt": "2025-03-25T12:25:25.000Z"
+    "updatedAt": "2025-03-26T15:04:15.000Z"
   },
   {
     "id": "kristoff-it/zig-cuckoofilter",
@@ -4426,7 +4426,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-12T18:17:24.000Z",
-    "updatedAt": "2025-03-25T12:25:11.000Z"
+    "updatedAt": "2025-03-26T15:03:59.000Z"
   },
   {
     "id": "kristoff-it/zig-okredis",
@@ -4443,9 +4443,9 @@
       "name": "kristoff-it",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1950733?v=4"
     },
-    "stars": 232,
+    "stars": 231,
     "starsDetail": {
-      "total": 232
+      "total": 231
     },
     "license": "MIT License",
     "forks": 19,
@@ -4457,7 +4457,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-21T17:53:43.000Z",
-    "updatedAt": "2025-03-25T12:25:25.000Z"
+    "updatedAt": "2025-03-26T15:04:16.000Z"
   },
   {
     "id": "kubkon/zacho",
@@ -4485,7 +4485,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-08-26T19:38:17.000Z",
-    "updatedAt": "2025-03-25T12:25:59.000Z"
+    "updatedAt": "2025-03-26T15:04:54.000Z"
   },
   {
     "id": "kubkon/zig-ios-example",
@@ -4510,7 +4510,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-08-06T10:37:09.000Z",
-    "updatedAt": "2025-03-25T12:26:19.000Z"
+    "updatedAt": "2025-03-26T15:05:17.000Z"
   },
   {
     "id": "kubkon/zig-yaml",
@@ -4539,7 +4539,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-05-31T20:06:47.000Z",
-    "updatedAt": "2025-03-25T12:26:06.000Z"
+    "updatedAt": "2025-03-26T15:05:01.000Z"
   },
   {
     "id": "leroycep/sqlite-zig",
@@ -4564,7 +4564,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-02-13T09:24:20.000Z",
-    "updatedAt": "2025-03-25T12:25:26.000Z"
+    "updatedAt": "2025-03-26T15:04:16.000Z"
   },
   {
     "id": "lun-4/zigdig",
@@ -4593,7 +4593,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-12T05:39:02.000Z",
-    "updatedAt": "2025-03-25T12:25:48.000Z"
+    "updatedAt": "2025-03-26T15:04:41.000Z"
   },
   {
     "id": "lun-4/ziget",
@@ -4621,7 +4621,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-09T20:08:58.000Z",
-    "updatedAt": "2025-03-25T12:25:51.000Z"
+    "updatedAt": "2025-03-26T15:04:44.000Z"
   },
   {
     "id": "marijnfs/zigtimsort",
@@ -4646,7 +4646,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-12T22:37:41.000Z",
-    "updatedAt": "2025-03-25T12:25:11.000Z"
+    "updatedAt": "2025-03-26T15:03:59.000Z"
   },
   {
     "id": "markfirmware/zig-bare-metal-microbit",
@@ -4675,7 +4675,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-09T16:48:00.000Z",
-    "updatedAt": "2025-03-25T12:25:19.000Z"
+    "updatedAt": "2025-03-26T15:04:08.000Z"
   },
   {
     "id": "markfirmware/zig-bare-metal-raspberry-pi",
@@ -4704,7 +4704,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-09-20T02:55:23.000Z",
-    "updatedAt": "2025-03-25T12:25:19.000Z"
+    "updatedAt": "2025-03-26T15:04:08.000Z"
   },
   {
     "id": "marler8997/netpunch",
@@ -4729,7 +4729,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-16T16:39:20.000Z",
-    "updatedAt": "2025-03-25T12:25:48.000Z"
+    "updatedAt": "2025-03-26T15:04:41.000Z"
   },
   {
     "id": "mattnite/ezpkg",
@@ -4754,7 +4754,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-08-20T07:42:44.000Z",
-    "updatedAt": "2025-03-25T12:26:02.000Z"
+    "updatedAt": "2025-03-26T15:04:59.000Z"
   },
   {
     "id": "mdsteele/ziegfried",
@@ -4781,7 +4781,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-07-27T15:05:42.000Z",
-    "updatedAt": "2025-03-25T12:25:13.000Z"
+    "updatedAt": "2025-03-26T15:04:01.000Z"
   },
   {
     "id": "meheleventyone/zig-wasm-test",
@@ -4811,7 +4811,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-20T22:10:38.000Z",
-    "updatedAt": "2025-03-25T12:25:54.000Z"
+    "updatedAt": "2025-03-26T15:04:49.000Z"
   },
   {
     "id": "momumi/x86-zig",
@@ -4836,7 +4836,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-02-02T05:02:44.000Z",
-    "updatedAt": "2025-03-25T12:26:18.000Z"
+    "updatedAt": "2025-03-26T15:05:16.000Z"
   },
   {
     "id": "mqttiotstuff/iotmonitor",
@@ -4872,7 +4872,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-12T12:21:38.000Z",
-    "updatedAt": "2025-03-25T12:26:19.000Z"
+    "updatedAt": "2025-03-26T15:05:17.000Z"
   },
   {
     "id": "natecraddock/ziglua",
@@ -4891,21 +4891,21 @@
       "name": "natecraddock",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7967463?v=4"
     },
-    "stars": 338,
+    "stars": 337,
     "starsDetail": {
-      "total": 338
+      "total": 337
     },
     "license": "MIT License",
     "forks": 50,
     "primaryLanguage": "Lua",
-    "pushedAt": "2025-03-21T20:34:03.000Z",
+    "pushedAt": "2025-03-26T04:26:12.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-06-02T04:37:17.000Z",
-    "updatedAt": "2025-03-25T12:25:42.000Z"
+    "updatedAt": "2025-03-26T15:04:34.000Z"
   },
   {
     "id": "nine-lives-later/zzmq",
@@ -4936,7 +4936,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-02-17T10:06:10.000Z",
-    "updatedAt": "2025-03-25T12:25:53.000Z"
+    "updatedAt": "2025-03-26T15:04:47.000Z"
   },
   {
     "id": "nix-community/zon2nix",
@@ -4967,7 +4967,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-08-08T19:18:56.000Z",
-    "updatedAt": "2025-03-25T12:26:03.000Z"
+    "updatedAt": "2025-03-26T15:04:59.000Z"
   },
   {
     "id": "nrdmn/ilo_license_key",
@@ -4996,7 +4996,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-05-14T20:44:28.000Z",
-    "updatedAt": "2025-03-25T12:26:19.000Z"
+    "updatedAt": "2025-03-26T15:05:17.000Z"
   },
   {
     "id": "nrdmn/uefi-examples",
@@ -5024,7 +5024,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-09-28T20:05:53.000Z",
-    "updatedAt": "2025-03-25T12:25:19.000Z"
+    "updatedAt": "2025-03-26T15:04:08.000Z"
   },
   {
     "id": "nrdmn/uefi-paint",
@@ -5052,7 +5052,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-02T22:06:30.000Z",
-    "updatedAt": "2025-03-25T12:25:19.000Z"
+    "updatedAt": "2025-03-26T15:04:09.000Z"
   },
   {
     "id": "olexij-christian/zgtk3",
@@ -5077,7 +5077,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-08-04T20:02:00.000Z",
-    "updatedAt": "2025-03-25T12:25:42.000Z"
+    "updatedAt": "2025-03-26T15:04:34.000Z"
   },
   {
     "id": "oven-sh/bun",
@@ -5101,21 +5101,21 @@
       "name": "oven-sh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/108928776?v=4"
     },
-    "stars": 77032,
+    "stars": 77052,
     "starsDetail": {
-      "total": 77032
+      "total": 77052
     },
     "license": "Other",
-    "forks": 2982,
+    "forks": 2983,
     "primaryLanguage": "AMPL",
-    "pushedAt": "2025-03-25T11:42:49.000Z",
+    "pushedAt": "2025-03-26T11:46:37.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-04-14T00:48:17.000Z",
-    "updatedAt": "2025-03-25T12:25:21.000Z"
+    "updatedAt": "2025-03-26T15:04:11.000Z"
   },
   {
     "id": "pblischak/zprob",
@@ -5175,7 +5175,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-01-15T17:15:19.000Z",
-    "updatedAt": "2025-03-25T12:25:57.000Z"
+    "updatedAt": "2025-03-26T15:04:53.000Z"
   },
   {
     "id": "prime31/zig-upaya",
@@ -5200,7 +5200,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-07-27T02:51:01.000Z",
-    "updatedAt": "2025-03-25T12:25:38.000Z"
+    "updatedAt": "2025-03-26T15:04:30.000Z"
   },
   {
     "id": "rafaelbreno/zig-os",
@@ -5228,7 +5228,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-02-06T22:08:21.000Z",
-    "updatedAt": "2025-03-25T12:25:20.000Z"
+    "updatedAt": "2025-03-26T15:04:09.000Z"
   },
   {
     "id": "remeh/statsd-zig",
@@ -5253,7 +5253,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-30T20:56:14.000Z",
-    "updatedAt": "2025-03-25T12:25:49.000Z"
+    "updatedAt": "2025-03-26T15:04:42.000Z"
   },
   {
     "id": "rsepassi/zigcoro",
@@ -5264,9 +5264,9 @@
       "name": "rsepassi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1115739?v=4"
     },
-    "stars": 229,
+    "stars": 230,
     "starsDetail": {
-      "total": 229
+      "total": 230
     },
     "license": "BSD Zero Clause License",
     "forks": 18,
@@ -5278,7 +5278,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-08-24T19:33:19.000Z",
-    "updatedAt": "2025-03-25T12:25:24.000Z"
+    "updatedAt": "2025-03-26T15:04:15.000Z"
   },
   {
     "id": "ryoppippi/zigcv",
@@ -5300,14 +5300,14 @@
     "license": "MIT License",
     "forks": 16,
     "primaryLanguage": "TypeScript",
-    "pushedAt": "2025-03-25T04:52:24.000Z",
+    "pushedAt": "2025-03-26T09:08:56.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-08-21T08:11:05.000Z",
-    "updatedAt": "2025-03-25T12:25:42.000Z"
+    "updatedAt": "2025-03-26T15:04:35.000Z"
   },
   {
     "id": "sam701/zig-cli",
@@ -5336,7 +5336,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-03-09T17:55:00.000Z",
-    "updatedAt": "2025-03-25T12:26:04.000Z"
+    "updatedAt": "2025-03-26T15:05:01.000Z"
   },
   {
     "id": "shritesh/zig-wasm-dom",
@@ -5366,7 +5366,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-04-19T02:28:22.000Z",
-    "updatedAt": "2025-03-25T12:25:55.000Z"
+    "updatedAt": "2025-03-26T15:04:49.000Z"
   },
   {
     "id": "shritesh/zigfmt-web",
@@ -5396,7 +5396,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-04-27T18:56:18.000Z",
-    "updatedAt": "2025-03-25T12:25:55.000Z"
+    "updatedAt": "2025-03-26T15:04:50.000Z"
   },
   {
     "id": "six519/YieArKUNGFUZig",
@@ -5451,7 +5451,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-02-07T21:09:49.000Z",
-    "updatedAt": "2025-03-25T12:25:20.000Z"
+    "updatedAt": "2025-03-26T15:04:10.000Z"
   },
   {
     "id": "skunkwerks/zamqp",
@@ -5476,7 +5476,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-12-19T08:55:58.000Z",
-    "updatedAt": "2025-03-25T12:25:53.000Z"
+    "updatedAt": "2025-03-26T15:04:47.000Z"
   },
   {
     "id": "squeek502/zua",
@@ -5505,7 +5505,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-12-17T07:44:03.000Z",
-    "updatedAt": "2025-03-25T12:25:22.000Z"
+    "updatedAt": "2025-03-26T15:04:11.000Z"
   },
   {
     "id": "sreehax/zig-ini",
@@ -5533,7 +5533,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-06-27T07:43:16.000Z",
-    "updatedAt": "2025-03-25T12:26:06.000Z"
+    "updatedAt": "2025-03-26T15:05:02.000Z"
   },
   {
     "id": "suirad/Seal",
@@ -5562,7 +5562,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-26T07:07:54.000Z",
-    "updatedAt": "2025-03-25T12:25:14.000Z"
+    "updatedAt": "2025-03-26T15:04:02.000Z"
   },
   {
     "id": "thejoshwolfe/hexdump-zip",
@@ -5587,7 +5587,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-09-17T22:21:32.000Z",
-    "updatedAt": "2025-03-25T12:25:58.000Z"
+    "updatedAt": "2025-03-26T15:04:54.000Z"
   },
   {
     "id": "thejoshwolfe/legend-of-swarkland",
@@ -5612,7 +5612,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-01-31T05:30:56.000Z",
-    "updatedAt": "2025-03-25T12:25:35.000Z"
+    "updatedAt": "2025-03-26T15:04:26.000Z"
   },
   {
     "id": "tiehuis/zig-raytrace",
@@ -5639,7 +5639,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-12T08:07:43.000Z",
-    "updatedAt": "2025-03-25T12:25:41.000Z"
+    "updatedAt": "2025-03-26T15:04:33.000Z"
   },
   {
     "id": "tiehuis/zig-regex",
@@ -5668,7 +5668,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-18T00:00:07.000Z",
-    "updatedAt": "2025-03-25T12:26:06.000Z"
+    "updatedAt": "2025-03-26T15:05:03.000Z"
   },
   {
     "id": "tiehuis/zig-ryu",
@@ -5695,7 +5695,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-01T10:13:14.000Z",
-    "updatedAt": "2025-03-25T12:26:06.000Z"
+    "updatedAt": "2025-03-26T15:05:03.000Z"
   },
   {
     "id": "tiehuis/zstack",
@@ -5722,7 +5722,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-16T09:47:24.000Z",
-    "updatedAt": "2025-03-25T12:25:35.000Z"
+    "updatedAt": "2025-03-26T15:04:26.000Z"
   },
   {
     "id": "tldr-pages/tldr",
@@ -5754,21 +5754,21 @@
       "name": "tldr-pages",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7366472?v=4"
     },
-    "stars": 54392,
+    "stars": 54425,
     "starsDetail": {
-      "total": 54392
+      "total": 54425
     },
     "license": "Other",
     "forks": 4396,
     "primaryLanguage": "CSS",
-    "pushedAt": "2025-03-25T09:45:56.000Z",
+    "pushedAt": "2025-03-26T04:38:15.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-12-08T07:34:43.000Z",
-    "updatedAt": "2025-03-25T12:25:58.000Z"
+    "updatedAt": "2025-03-26T15:04:53.000Z"
   },
   {
     "id": "tralamazza/embedded_zig",
@@ -5797,7 +5797,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-18T23:15:47.000Z",
-    "updatedAt": "2025-03-25T12:25:21.000Z"
+    "updatedAt": "2025-03-26T15:04:10.000Z"
   },
   {
     "id": "truemedian/zfetch",
@@ -5825,7 +5825,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-12-29T00:33:51.000Z",
-    "updatedAt": "2025-03-25T12:25:49.000Z"
+    "updatedAt": "2025-03-26T15:04:43.000Z"
   },
   {
     "id": "vbrusca/ZigMatrixUtils",
@@ -5854,7 +5854,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-03-14T12:32:39.000Z",
-    "updatedAt": "2025-03-25T12:25:44.000Z"
+    "updatedAt": "2025-03-26T15:04:37.000Z"
   },
   {
     "id": "vbrusca/ZigSdlGameTemplate",
@@ -5884,7 +5884,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-04-12T14:09:32.000Z",
-    "updatedAt": "2025-03-25T12:26:20.000Z"
+    "updatedAt": "2025-03-26T15:05:18.000Z"
   },
   {
     "id": "vezel-dev/zig-sdk",
@@ -5916,7 +5916,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-06-13T05:19:25.000Z",
-    "updatedAt": "2025-03-25T12:26:01.000Z"
+    "updatedAt": "2025-03-26T15:04:56.000Z"
   },
   {
     "id": "vi/zigmkv",
@@ -5948,7 +5948,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-10-03T06:43:19.000Z",
-    "updatedAt": "2025-03-25T12:26:08.000Z"
+    "updatedAt": "2025-03-26T15:05:04.000Z"
   },
   {
     "id": "vrischmann/zig-cassandra",
@@ -5977,7 +5977,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-22T18:39:13.000Z",
-    "updatedAt": "2025-03-25T12:25:26.000Z"
+    "updatedAt": "2025-03-26T15:04:17.000Z"
   },
   {
     "id": "vrischmann/zig-sqlite",
@@ -5991,9 +5991,9 @@
       "name": "vrischmann",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1916079?v=4"
     },
-    "stars": 454,
+    "stars": 456,
     "starsDetail": {
-      "total": 454
+      "total": 456
     },
     "license": "MIT License",
     "forks": 63,
@@ -6005,7 +6005,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-12-12T01:45:21.000Z",
-    "updatedAt": "2025-03-25T12:25:26.000Z"
+    "updatedAt": "2025-03-26T15:04:17.000Z"
   },
   {
     "id": "wendigojaeger/ZigGBA",
@@ -6020,9 +6020,9 @@
       "name": "wendigojaeger",
       "avatarUrl": "https://avatars.githubusercontent.com/u/46852732?v=4"
     },
-    "stars": 374,
+    "stars": 375,
     "starsDetail": {
-      "total": 374
+      "total": 375
     },
     "license": "MIT License",
     "forks": 15,
@@ -6034,7 +6034,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-12-08T23:29:41.000Z",
-    "updatedAt": "2025-03-25T12:25:33.000Z"
+    "updatedAt": "2025-03-26T15:04:24.000Z"
   },
   {
     "id": "weskoerber/kewpie",
@@ -6063,7 +6063,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-02-10T18:28:15.000Z",
-    "updatedAt": "2025-03-25T12:26:10.000Z"
+    "updatedAt": "2025-03-26T15:05:06.000Z"
   },
   {
     "id": "weskoerber/mac_address",
@@ -6092,7 +6092,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-17T01:52:16.000Z",
-    "updatedAt": "2025-03-25T12:25:59.000Z"
+    "updatedAt": "2025-03-26T15:04:54.000Z"
   },
   {
     "id": "weskoerber/zvm",
@@ -6121,7 +6121,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-02-07T20:24:24.000Z",
-    "updatedAt": "2025-03-25T12:26:00.000Z"
+    "updatedAt": "2025-03-26T15:04:56.000Z"
   },
   {
     "id": "winksaville/zig-parse-args",
@@ -6146,7 +6146,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-09-04T01:57:15.000Z",
-    "updatedAt": "2025-03-25T12:26:08.000Z"
+    "updatedAt": "2025-03-26T15:05:04.000Z"
   },
   {
     "id": "winksaville/zig-parse-number",
@@ -6171,7 +6171,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-17T05:27:32.000Z",
-    "updatedAt": "2025-03-25T12:26:08.000Z"
+    "updatedAt": "2025-03-26T15:05:05.000Z"
   },
   {
     "id": "ynuwenhof/zigbraten",
@@ -6196,7 +6196,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-02-20T15:00:06.000Z",
-    "updatedAt": "2025-03-25T12:26:20.000Z"
+    "updatedAt": "2025-03-26T15:05:18.000Z"
   },
   {
     "id": "yvt/zig-armv8m-test",
@@ -6228,7 +6228,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-27T15:32:08.000Z",
-    "updatedAt": "2025-03-25T12:25:21.000Z"
+    "updatedAt": "2025-03-26T15:04:11.000Z"
   },
   {
     "id": "zighelp/zighelp",
@@ -6253,7 +6253,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-08-19T09:50:36.000Z",
-    "updatedAt": "2025-03-25T12:26:10.000Z"
+    "updatedAt": "2025-03-26T15:05:08.000Z"
   },
   {
     "id": "ziglang/sublime-zig-language",
@@ -6281,7 +6281,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-01-20T13:16:19.000Z",
-    "updatedAt": "2025-03-25T12:25:28.000Z"
+    "updatedAt": "2025-03-26T15:04:19.000Z"
   },
   {
     "id": "ziglang/zig-mode",
@@ -6309,7 +6309,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-04-04T12:05:22.000Z",
-    "updatedAt": "2025-03-25T12:25:29.000Z"
+    "updatedAt": "2025-03-26T15:04:20.000Z"
   },
   {
     "id": "ziglibs/known-folders",
@@ -6338,7 +6338,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-05-18T21:48:43.000Z",
-    "updatedAt": "2025-03-25T12:25:45.000Z"
+    "updatedAt": "2025-03-26T15:04:37.000Z"
   },
   {
     "id": "ziglibs/s2s",
@@ -6355,9 +6355,9 @@
       "name": "ziglibs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65570835?v=4"
     },
-    "stars": 139,
+    "stars": 140,
     "starsDetail": {
-      "total": 139
+      "total": 140
     },
     "license": "MIT License",
     "forks": 24,
@@ -6369,7 +6369,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-02-21T08:07:25.000Z",
-    "updatedAt": "2025-03-25T12:25:10.000Z"
+    "updatedAt": "2025-03-26T15:03:58.000Z"
   },
   {
     "id": "zigtools/zpm",
@@ -6397,7 +6397,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-05-21T01:21:42.000Z",
-    "updatedAt": "2025-03-25T12:26:02.000Z"
+    "updatedAt": "2025-03-26T15:04:57.000Z"
   },
   {
     "id": "zigwasm/wasm-zig",
@@ -6428,7 +6428,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-05-26T07:47:12.000Z",
-    "updatedAt": "2025-03-25T12:25:55.000Z"
+    "updatedAt": "2025-03-26T15:04:50.000Z"
   },
   {
     "id": "zigwasm/wasmer-zig",
@@ -6459,7 +6459,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-05-25T14:29:51.000Z",
-    "updatedAt": "2025-03-25T12:25:55.000Z"
+    "updatedAt": "2025-03-26T15:04:51.000Z"
   },
   {
     "id": "zigwasm/wasmtime-zig",
@@ -6490,7 +6490,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-05-14T17:44:48.000Z",
-    "updatedAt": "2025-03-25T12:25:56.000Z"
+    "updatedAt": "2025-03-26T15:04:51.000Z"
   },
   {
     "id": "zon-dev/zinc",
@@ -6520,9 +6520,9 @@
       "name": "zon-dev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/163546630?v=4"
     },
-    "stars": 93,
+    "stars": 94,
     "starsDetail": {
-      "total": 93
+      "total": 94
     },
     "license": "MIT License",
     "forks": 6,
@@ -6534,6 +6534,6 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-03-19T12:40:08.000Z",
-    "updatedAt": "2025-03-25T12:25:57.000Z"
+    "updatedAt": "2025-03-26T15:04:52.000Z"
   }
 ]
