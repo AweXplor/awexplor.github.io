@@ -356,7 +356,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-09-11T04:02:20.000Z",
-    "updatedAt": "2025-03-25T22:06:56.000Z"
+    "updatedAt": "2025-03-27T00:44:13.000Z"
   },
   {
     "id": "natalie-lang/natalie",
@@ -15794,7 +15794,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-07-06T15:34:36.000Z",
-    "updatedAt": "2025-03-25T22:06:20.000Z"
+    "updatedAt": "2025-03-27T00:43:37.000Z"
   },
   {
     "id": "RubyMoney/eu_central_bank",
@@ -20495,6 +20495,31 @@
     "goImportedBy": null,
     "createdAt": "2008-04-11T02:19:47.000Z",
     "updatedAt": "2025-03-26T14:36:02.000Z"
+  },
+  {
+    "id": "railsbp/rails_best_practices",
+    "name": "railsbp/rails_best_practices",
+    "description": "Proton bugbounty POC",
+    "topics": [],
+    "owner": {
+      "name": "railsbp",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/193387805?v=4"
+    },
+    "stars": 0,
+    "starsDetail": {
+      "total": 0
+    },
+    "license": null,
+    "forks": 0,
+    "primaryLanguage": "",
+    "pushedAt": "2025-03-26T07:07:09.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2025-03-26T07:06:32.000Z",
+    "updatedAt": "2025-03-27T00:36:22.000Z"
   },
   {
     "id": "railsware/global",
