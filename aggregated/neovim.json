@@ -1994,7 +1994,7 @@
       "name": "supermaven-inc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/127350487?v=4"
     },
-    "stars": 959,
+    "stars": 960,
     "starsDetail": {
       "total": 825,
       "week": 5,
@@ -2003,7 +2003,7 @@
       "updatedAt": 1736087020
     },
     "license": "MIT License",
-    "forks": 45,
+    "forks": 46,
     "primaryLanguage": "Lua",
     "pushedAt": "2024-10-07T15:28:50.000Z",
     "archived": false,
@@ -2012,7 +2012,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-08T17:37:53.000Z",
-    "updatedAt": "2025-04-04T14:41:54.000Z"
+    "updatedAt": "2025-04-05T17:27:19.000Z"
   },
   {
     "id": "rcarriga/nvim-dap-ui",
@@ -2697,7 +2697,7 @@
       "name": "nvim-java",
       "avatarUrl": "https://avatars.githubusercontent.com/u/150328080?v=4"
     },
-    "stars": 1150,
+    "stars": 1153,
     "starsDetail": {
       "total": 979,
       "week": 16,
@@ -2706,7 +2706,7 @@
       "updatedAt": 1736087094
     },
     "license": "MIT License",
-    "forks": 52,
+    "forks": 53,
     "primaryLanguage": "Makefile",
     "pushedAt": "2025-02-17T02:09:06.000Z",
     "archived": false,
@@ -2715,7 +2715,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-11-10T10:40:56.000Z",
-    "updatedAt": "2025-04-04T14:48:19.000Z"
+    "updatedAt": "2025-04-05T17:32:28.000Z"
   },
   {
     "id": "catgoose/nvim-colorizer.lua",
@@ -5064,7 +5064,7 @@
       "name": "sxyazi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17523360?v=4"
     },
-    "stars": 23750,
+    "stars": 23781,
     "starsDetail": {
       "total": 19940,
       "week": 539,
@@ -5075,14 +5075,14 @@
     "license": "MIT License",
     "forks": 524,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-04-04T12:01:38.000Z",
+    "pushedAt": "2025-04-05T14:05:41.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-07-08T11:45:55.000Z",
-    "updatedAt": "2025-04-04T14:49:01.000Z"
+    "updatedAt": "2025-04-05T17:33:05.000Z"
   },
   {
     "id": "Mofiqul/vscode.nvim",
@@ -5547,7 +5547,7 @@
       "name": "TaDaa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/657951?v=4"
     },
-    "stars": 607,
+    "stars": 606,
     "starsDetail": {
       "total": 577,
       "week": 3,
@@ -5565,7 +5565,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-01-07T17:47:35.000Z",
-    "updatedAt": "2025-04-04T14:38:29.000Z"
+    "updatedAt": "2025-04-05T17:24:47.000Z"
   },
   {
     "id": "projekt0n/github-nvim-theme",
@@ -10448,7 +10448,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-14T03:54:21.000Z",
-    "updatedAt": "2025-04-04T14:30:49.000Z"
+    "updatedAt": "2025-04-05T17:19:16.000Z"
   },
   {
     "id": "2KAbhishek/markit.nvim",
@@ -10500,7 +10500,7 @@
     },
     "stars": 250,
     "starsDetail": {
-      "total": 249
+      "total": 250
     },
     "license": "GNU General Public License v3.0",
     "forks": 3,
@@ -10540,14 +10540,14 @@
     "license": "GNU General Public License v3.0",
     "forks": 2,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-03-30T20:45:52.000Z",
+    "pushedAt": "2025-04-05T16:51:20.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-26T05:07:45.000Z",
-    "updatedAt": "2025-04-04T11:26:17.000Z"
+    "updatedAt": "2025-04-05T17:17:04.000Z"
   },
   {
     "id": "2KAbhishek/tdo.nvim",
@@ -10616,7 +10616,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-15T00:49:34.000Z",
-    "updatedAt": "2025-04-04T11:26:18.000Z"
+    "updatedAt": "2025-04-05T17:17:05.000Z"
   },
   {
     "id": "2KAbhishek/termim.nvim",
@@ -10674,14 +10674,14 @@
     "license": "GNU General Public License v3.0",
     "forks": 1,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-04-02T05:55:19.000Z",
+    "pushedAt": "2025-04-05T16:52:39.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-01T11:03:21.000Z",
-    "updatedAt": "2025-04-04T11:26:16.000Z"
+    "updatedAt": "2025-04-05T17:17:04.000Z"
   },
   {
     "id": "2nthony/vitesse.nvim",
@@ -11632,7 +11632,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-10T11:51:30.000Z",
-    "updatedAt": "2025-04-04T14:30:48.000Z"
+    "updatedAt": "2025-04-05T17:19:15.000Z"
   },
   {
     "id": "Dan7h3x/signup.nvim",
@@ -11661,7 +11661,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-03T09:50:30.000Z",
-    "updatedAt": "2025-04-04T14:30:47.000Z"
+    "updatedAt": "2025-04-05T17:19:15.000Z"
   },
   {
     "id": "DanilaMihailov/beacon.nvim",
@@ -11675,9 +11675,9 @@
       "name": "DanilaMihailov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1163040?v=4"
     },
-    "stars": 479,
+    "stars": 480,
     "starsDetail": {
-      "total": 479
+      "total": 480
     },
     "license": null,
     "forks": 12,
@@ -11689,7 +11689,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-06-23T14:15:07.000Z",
-    "updatedAt": "2025-04-04T14:48:21.000Z"
+    "updatedAt": "2025-04-05T17:32:29.000Z"
   },
   {
     "id": "Darazaki/indent-o-matic",
@@ -12145,7 +12145,7 @@
     },
     "stars": 126,
     "starsDetail": {
-      "total": 125
+      "total": 126
     },
     "license": "MIT License",
     "forks": 11,
@@ -12464,7 +12464,7 @@
     },
     "stars": 264,
     "starsDetail": {
-      "total": 262
+      "total": 264
     },
     "license": "GNU General Public License v3.0",
     "forks": 21,
@@ -12847,7 +12847,7 @@
     },
     "stars": 443,
     "starsDetail": {
-      "total": 442
+      "total": 443
     },
     "license": "MIT License",
     "forks": 15,
@@ -13278,7 +13278,7 @@
     },
     "stars": 458,
     "starsDetail": {
-      "total": 457
+      "total": 458
     },
     "license": "MIT License",
     "forks": 11,
@@ -13309,7 +13309,7 @@
     },
     "stars": 336,
     "starsDetail": {
-      "total": 335
+      "total": 336
     },
     "license": "GNU General Public License v2.0",
     "forks": 13,
@@ -13563,7 +13563,7 @@
     },
     "stars": 328,
     "starsDetail": {
-      "total": 327
+      "total": 328
     },
     "license": "Apache License 2.0",
     "forks": 3,
@@ -13794,7 +13794,7 @@
     },
     "stars": 469,
     "starsDetail": {
-      "total": 468
+      "total": 469
     },
     "license": null,
     "forks": 19,
@@ -14037,7 +14037,7 @@
     },
     "stars": 76,
     "starsDetail": {
-      "total": 75
+      "total": 76
     },
     "license": "GNU General Public License v2.0",
     "forks": 0,
@@ -14071,7 +14071,7 @@
     },
     "stars": 192,
     "starsDetail": {
-      "total": 188
+      "total": 192
     },
     "license": "MIT License",
     "forks": 18,
@@ -14713,7 +14713,7 @@
     },
     "stars": 298,
     "starsDetail": {
-      "total": 297
+      "total": 298
     },
     "license": "MIT License",
     "forks": 19,
@@ -16018,7 +16018,7 @@
     },
     "stars": 392,
     "starsDetail": {
-      "total": 391
+      "total": 392
     },
     "license": "MIT License",
     "forks": 18,
@@ -16077,7 +16077,7 @@
     },
     "stars": 366,
     "starsDetail": {
-      "total": 365
+      "total": 366
     },
     "license": "MIT License",
     "forks": 40,
@@ -16131,7 +16131,7 @@
     },
     "stars": 108,
     "starsDetail": {
-      "total": 109
+      "total": 108
     },
     "license": null,
     "forks": 5,
@@ -16330,7 +16330,7 @@
     },
     "stars": 195,
     "starsDetail": {
-      "total": 194
+      "total": 195
     },
     "license": "MIT License",
     "forks": 4,
@@ -16590,7 +16590,7 @@
     },
     "stars": 452,
     "starsDetail": {
-      "total": 451
+      "total": 452
     },
     "license": "GNU General Public License v3.0",
     "forks": 13,
@@ -17185,7 +17185,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-06-01T10:52:25.000Z",
-    "updatedAt": "2025-04-04T14:41:23.000Z"
+    "updatedAt": "2025-04-05T17:26:54.000Z"
   },
   {
     "id": "calind/selenized.nvim",
@@ -17232,7 +17232,7 @@
     },
     "stars": 141,
     "starsDetail": {
-      "total": 142
+      "total": 141
     },
     "license": "Apache License 2.0",
     "forks": 14,
@@ -17561,7 +17561,7 @@
     },
     "stars": 165,
     "starsDetail": {
-      "total": 164
+      "total": 165
     },
     "license": "MIT License",
     "forks": 3,
@@ -17589,7 +17589,7 @@
     },
     "stars": 232,
     "starsDetail": {
-      "total": 231
+      "total": 232
     },
     "license": "MIT License",
     "forks": 3,
@@ -17739,7 +17739,7 @@
     },
     "stars": 469,
     "starsDetail": {
-      "total": 467
+      "total": 469
     },
     "license": "MIT License",
     "forks": 9,
@@ -17938,7 +17938,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-09T01:47:44.000Z",
-    "updatedAt": "2025-04-04T14:38:31.000Z"
+    "updatedAt": "2025-04-05T17:24:48.000Z"
   },
   {
     "id": "clojure-vim/jazz.nvim",
@@ -18077,7 +18077,7 @@
     },
     "stars": 180,
     "starsDetail": {
-      "total": 179
+      "total": 180
     },
     "license": "MIT License",
     "forks": 11,
@@ -18435,7 +18435,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-05T12:27:56.000Z",
-    "updatedAt": "2025-04-04T14:48:22.000Z"
+    "updatedAt": "2025-04-05T17:32:30.000Z"
   },
   {
     "id": "csessh/stopinsert.nvim",
@@ -18662,7 +18662,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-30T12:08:53.000Z",
-    "updatedAt": "2025-04-04T14:38:51.000Z"
+    "updatedAt": "2025-04-05T17:25:02.000Z"
   },
   {
     "id": "danielpieper/telescope-tmuxinator.nvim",
@@ -18802,7 +18802,7 @@
     },
     "stars": 224,
     "starsDetail": {
-      "total": 223
+      "total": 224
     },
     "license": "GNU General Public License v3.0",
     "forks": 28,
@@ -19351,7 +19351,7 @@
     },
     "stars": 359,
     "starsDetail": {
-      "total": 358
+      "total": 359
     },
     "license": "MIT License",
     "forks": 13,
@@ -19877,7 +19877,7 @@
     },
     "stars": 47,
     "starsDetail": {
-      "total": 46
+      "total": 47
     },
     "license": "MIT License",
     "forks": 3,
@@ -19910,7 +19910,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/194548533?v=4"
     },
     "stars": 296,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 296
+    },
     "license": "GNU General Public License v3.0",
     "forks": 12,
     "primaryLanguage": "Nix",
@@ -20047,7 +20049,7 @@
     },
     "stars": 355,
     "starsDetail": {
-      "total": 354
+      "total": 355
     },
     "license": "GNU General Public License v3.0",
     "forks": 6,
@@ -20886,7 +20888,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-27T10:47:42.000Z",
-    "updatedAt": "2025-04-04T14:38:30.000Z"
+    "updatedAt": "2025-04-05T17:24:47.000Z"
   },
   {
     "id": "gsuuon/model.nvim",
@@ -21233,7 +21235,7 @@
     },
     "stars": 256,
     "starsDetail": {
-      "total": 255
+      "total": 256
     },
     "license": "MIT License",
     "forks": 13,
@@ -21607,7 +21609,7 @@
     },
     "stars": 294,
     "starsDetail": {
-      "total": 292
+      "total": 294
     },
     "license": "MIT License",
     "forks": 14,
@@ -22326,7 +22328,7 @@
     },
     "stars": 399,
     "starsDetail": {
-      "total": 398
+      "total": 399
     },
     "license": "MIT License",
     "forks": 3,
@@ -22438,7 +22440,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-24T23:16:29.000Z",
-    "updatedAt": "2025-04-04T14:41:22.000Z"
+    "updatedAt": "2025-04-05T17:26:54.000Z"
   },
   {
     "id": "jvgrootveld/telescope-zoxide",
@@ -23285,7 +23287,7 @@
     },
     "stars": 180,
     "starsDetail": {
-      "total": 179
+      "total": 180
     },
     "license": null,
     "forks": 13,
@@ -24332,7 +24334,7 @@
     },
     "stars": 85,
     "starsDetail": {
-      "total": 84
+      "total": 85
     },
     "license": "MIT License",
     "forks": 2,
@@ -24767,7 +24769,7 @@
     },
     "stars": 273,
     "starsDetail": {
-      "total": 271
+      "total": 273
     },
     "license": null,
     "forks": 4,
@@ -24956,7 +24958,7 @@
     },
     "stars": 469,
     "starsDetail": {
-      "total": 465
+      "total": 469
     },
     "license": "GNU General Public License v3.0",
     "forks": 24,
@@ -24987,7 +24989,7 @@
     },
     "stars": 174,
     "starsDetail": {
-      "total": 171
+      "total": 174
     },
     "license": "GNU General Public License v3.0",
     "forks": 5,
@@ -25457,7 +25459,7 @@
     },
     "stars": 313,
     "starsDetail": {
-      "total": 312
+      "total": 313
     },
     "license": "MIT License",
     "forks": 23,
@@ -25559,7 +25561,7 @@
     },
     "stars": 150,
     "starsDetail": {
-      "total": 149
+      "total": 150
     },
     "license": "GNU General Public License v3.0",
     "forks": 1,
@@ -25621,7 +25623,7 @@
     },
     "stars": 88384,
     "starsDetail": {
-      "total": 88365
+      "total": 88384
     },
     "license": "Other",
     "forks": 5991,
@@ -25789,7 +25791,7 @@
     },
     "stars": 160,
     "starsDetail": {
-      "total": 159
+      "total": 160
     },
     "license": "MIT License",
     "forks": 4,
@@ -26573,7 +26575,7 @@
     },
     "stars": 274,
     "starsDetail": {
-      "total": 273
+      "total": 274
     },
     "license": "MIT License",
     "forks": 10,
@@ -26891,7 +26893,7 @@
     },
     "stars": 228,
     "starsDetail": {
-      "total": 227
+      "total": 228
     },
     "license": "MIT License",
     "forks": 14,
@@ -27368,7 +27370,7 @@
     },
     "stars": 349,
     "starsDetail": {
-      "total": 348
+      "total": 349
     },
     "license": "MIT License",
     "forks": 15,
@@ -27684,7 +27686,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-03-05T10:38:20.000Z",
-    "updatedAt": "2025-04-04T14:38:35.000Z"
+    "updatedAt": "2025-04-05T17:24:50.000Z"
   },
   {
     "id": "pgosar/CyberNvim",
@@ -28015,7 +28017,7 @@
     },
     "stars": 145,
     "starsDetail": {
-      "total": 144
+      "total": 145
     },
     "license": "Apache License 2.0",
     "forks": 6,
@@ -28086,7 +28088,7 @@
     },
     "stars": 311,
     "starsDetail": {
-      "total": 310
+      "total": 311
     },
     "license": "MIT License",
     "forks": 5,
@@ -28755,7 +28757,7 @@
     },
     "stars": 354,
     "starsDetail": {
-      "total": 353
+      "total": 354
     },
     "license": "MIT License",
     "forks": 5,
@@ -28972,7 +28974,7 @@
     },
     "stars": 348,
     "starsDetail": {
-      "total": 347
+      "total": 348
     },
     "license": "Other",
     "forks": 15,
@@ -29321,7 +29323,7 @@
     },
     "stars": 135,
     "starsDetail": {
-      "total": 134
+      "total": 135
     },
     "license": null,
     "forks": 4,
@@ -29688,7 +29690,7 @@
     },
     "stars": 137,
     "starsDetail": {
-      "total": 138
+      "total": 137
     },
     "license": "MIT License",
     "forks": 1,
@@ -30067,7 +30069,7 @@
     },
     "stars": 218,
     "starsDetail": {
-      "total": 217
+      "total": 218
     },
     "license": "Apache License 2.0",
     "forks": 5,
@@ -30142,7 +30144,7 @@
     },
     "stars": 395,
     "starsDetail": {
-      "total": 394
+      "total": 395
     },
     "license": "MIT License",
     "forks": 19,
@@ -30314,7 +30316,7 @@
     },
     "stars": 79,
     "starsDetail": {
-      "total": 78
+      "total": 79
     },
     "license": "MIT License",
     "forks": 2,
@@ -30510,7 +30512,7 @@
     },
     "stars": 287,
     "starsDetail": {
-      "total": 286
+      "total": 287
     },
     "license": "Apache License 2.0",
     "forks": 6,
@@ -30632,7 +30634,7 @@
     },
     "stars": 177,
     "starsDetail": {
-      "total": 178
+      "total": 177
     },
     "license": "MIT License",
     "forks": 7,
@@ -31531,7 +31533,7 @@
     },
     "stars": 156,
     "starsDetail": {
-      "total": 155
+      "total": 156
     },
     "license": null,
     "forks": 7,
@@ -31605,7 +31607,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-11T00:23:26.000Z",
-    "updatedAt": "2025-04-04T14:41:19.000Z"
+    "updatedAt": "2025-04-05T17:26:51.000Z"
   },
   {
     "id": "tris203/hawtkeys.nvim",
@@ -31760,7 +31762,7 @@
     },
     "stars": 110,
     "starsDetail": {
-      "total": 109
+      "total": 110
     },
     "license": "MIT License",
     "forks": 5,
@@ -32416,7 +32418,7 @@
     },
     "stars": 471,
     "starsDetail": {
-      "total": 470
+      "total": 471
     },
     "license": "GNU Lesser General Public License v3.0",
     "forks": 26,
@@ -32969,7 +32971,7 @@
     },
     "stars": 161,
     "starsDetail": {
-      "total": 160
+      "total": 161
     },
     "license": "Mozilla Public License 2.0",
     "forks": 8,
@@ -33039,7 +33041,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-09T12:27:53.000Z",
-    "updatedAt": "2025-04-04T14:30:48.000Z"
+    "updatedAt": "2025-04-05T17:19:15.000Z"
   },
   {
     "id": "you-n-g/simplegpt.nvim",
