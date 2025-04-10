@@ -477,7 +477,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-03-16T17:30:05.000Z",
-    "updatedAt": "2025-04-09T20:37:07.000Z"
+    "updatedAt": "2025-04-10T23:08:39.000Z"
   },
   {
     "id": "eikek/sharry",
@@ -3500,7 +3500,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-23T00:39:03.000Z",
-    "updatedAt": "2025-04-09T20:36:19.000Z"
+    "updatedAt": "2025-04-10T23:07:49.000Z"
   },
   {
     "id": "timvisee/send",
@@ -5344,7 +5344,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-09-28T19:21:01.000Z",
-    "updatedAt": "2025-04-09T20:35:48.000Z"
+    "updatedAt": "2025-04-10T23:07:17.000Z"
   },
   {
     "id": "vrana/adminer",
@@ -5609,7 +5609,7 @@
       "name": "openziti",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65675559?v=4"
     },
-    "stars": 3222,
+    "stars": 3227,
     "starsDetail": {
       "total": 2956,
       "week": 12,
@@ -5620,14 +5620,14 @@
     "license": "Apache License 2.0",
     "forks": 180,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-04-09T20:16:33.000Z",
+    "pushedAt": "2025-04-10T19:45:52.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/openziti/ziti",
     "goImportedBy": 0,
     "createdAt": "2019-11-22T15:27:24.000Z",
-    "updatedAt": "2025-04-09T20:20:30.000Z"
+    "updatedAt": "2025-04-10T22:52:11.000Z"
   },
   {
     "id": "linkwarden/linkwarden",
@@ -14248,7 +14248,7 @@
       "name": "modoboa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10832897?v=4"
     },
-    "stars": 3202,
+    "stars": 3204,
     "starsDetail": {
       "total": 3098,
       "week": 4,
@@ -14266,7 +14266,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-16T09:43:55.000Z",
-    "updatedAt": "2025-04-09T20:36:50.000Z"
+    "updatedAt": "2025-04-10T23:08:21.000Z"
   },
   {
     "id": "pomerium/pomerium",
@@ -18341,7 +18341,7 @@
       "name": "mindsdb",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31035808?v=4"
     },
-    "stars": 27657,
+    "stars": 27672,
     "starsDetail": {
       "total": 27008,
       "week": 31,
@@ -18350,16 +18350,16 @@
       "updatedAt": 1736035107
     },
     "license": "Other",
-    "forks": 4956,
+    "forks": 4955,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-04-09T19:04:21.000Z",
+    "pushedAt": "2025-04-10T22:57:42.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-02T17:56:45.000Z",
-    "updatedAt": "2025-04-09T20:37:16.000Z"
+    "updatedAt": "2025-04-10T23:08:48.000Z"
   },
   {
     "id": "silverbulletmd/silverbullet",
@@ -20614,7 +20614,7 @@
       "name": "wagtail",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23708009?v=4"
     },
-    "stars": 19048,
+    "stars": 19051,
     "starsDetail": {
       "total": 18594,
       "week": 23,
@@ -20623,16 +20623,16 @@
       "updatedAt": 1736034763
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 4055,
+    "forks": 4056,
     "primaryLanguage": "MDX",
-    "pushedAt": "2025-04-09T18:19:32.000Z",
+    "pushedAt": "2025-04-10T19:25:25.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-02-03T12:41:59.000Z",
-    "updatedAt": "2025-04-09T20:35:57.000Z"
+    "updatedAt": "2025-04-10T23:07:26.000Z"
   },
   {
     "id": "gravitational/teleport",
@@ -25018,7 +25018,7 @@
       "name": "beetbox",
       "avatarUrl": "https://avatars.githubusercontent.com/u/15920313?v=4"
     },
-    "stars": 13380,
+    "stars": 13382,
     "starsDetail": {
       "total": 13065,
       "week": 23,
@@ -25027,16 +25027,16 @@
       "updatedAt": 1736034738
     },
     "license": "MIT License",
-    "forks": 1865,
+    "forks": 1866,
     "primaryLanguage": "CSS",
-    "pushedAt": "2025-04-09T09:26:08.000Z",
+    "pushedAt": "2025-04-09T21:01:06.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2010-08-09T23:17:20.000Z",
-    "updatedAt": "2025-04-09T20:35:49.000Z"
+    "updatedAt": "2025-04-10T23:07:18.000Z"
   },
   {
     "id": "karakeep-app/karakeep",
@@ -25944,7 +25944,7 @@
       "name": "indico",
       "avatarUrl": "https://avatars.githubusercontent.com/u/715236?v=4"
     },
-    "stars": 1859,
+    "stars": 1860,
     "starsDetail": {
       "total": 1798,
       "week": 2,
@@ -25962,7 +25962,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-07-27T13:56:30.000Z",
-    "updatedAt": "2025-04-09T20:35:57.000Z"
+    "updatedAt": "2025-04-10T23:07:26.000Z"
   },
   {
     "id": "ovh/utask",
