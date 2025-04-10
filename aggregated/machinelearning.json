@@ -1506,7 +1506,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-03T22:13:11.000Z",
-    "updatedAt": "2025-04-09T01:18:50.000Z"
+    "updatedAt": "2025-04-10T03:55:01.000Z"
   },
   {
     "id": "stellargraph/stellargraph",
@@ -1910,7 +1910,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-09-30T18:07:03.000Z",
-    "updatedAt": "2025-04-09T01:20:48.000Z"
+    "updatedAt": "2025-04-10T03:56:43.000Z"
   },
   {
     "id": "chainer/chainer",
@@ -3373,7 +3373,7 @@
       "name": "BrainJS",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23732838?v=4"
     },
-    "stars": 14651,
+    "stars": 14652,
     "starsDetail": {
       "total": 14377,
       "week": 11,
@@ -3391,7 +3391,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-13T18:09:44.000Z",
-    "updatedAt": "2025-04-09T01:16:27.000Z"
+    "updatedAt": "2025-04-10T03:52:53.000Z"
   },
   {
     "id": "serengil/retinaface",
@@ -3992,7 +3992,7 @@
       "name": "alibaba",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1961952?v=4"
     },
-    "stars": 2570,
+    "stars": 2571,
     "starsDetail": {
       "total": 2538,
       "week": 0,
@@ -4003,14 +4003,14 @@
     "license": "Apache License 2.0",
     "forks": 209,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-04-09T00:23:10.000Z",
+    "pushedAt": "2025-04-10T00:23:13.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-12-05T02:40:40.000Z",
-    "updatedAt": "2025-04-09T01:16:28.000Z"
+    "updatedAt": "2025-04-10T03:52:54.000Z"
   },
   {
     "id": "autumnai/leaf",
@@ -4566,7 +4566,7 @@
       "name": "qdrant",
       "avatarUrl": "https://avatars.githubusercontent.com/u/73504361?v=4"
     },
-    "stars": 22921,
+    "stars": 22949,
     "starsDetail": {
       "total": 21207,
       "week": 101,
@@ -4575,16 +4575,16 @@
       "updatedAt": 1736031637
     },
     "license": "Apache License 2.0",
-    "forks": 1577,
+    "forks": 1578,
     "primaryLanguage": "Mermaid",
-    "pushedAt": "2025-04-08T20:52:51.000Z",
+    "pushedAt": "2025-04-09T22:51:29.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-05-30T21:37:01.000Z",
-    "updatedAt": "2025-04-09T01:23:06.000Z"
+    "updatedAt": "2025-04-10T03:58:45.000Z"
   },
   {
     "id": "EpistasisLab/tpot",
@@ -5815,7 +5815,7 @@
       "name": "NaturalNode",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1005344?v=4"
     },
-    "stars": 10744,
+    "stars": 10746,
     "starsDetail": {
       "total": 10597,
       "week": 8,
@@ -5833,7 +5833,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-05-07T02:35:16.000Z",
-    "updatedAt": "2025-04-09T01:18:52.000Z"
+    "updatedAt": "2025-04-10T03:55:03.000Z"
   },
   {
     "id": "neuml/txtai",
@@ -9342,7 +9342,7 @@
       "name": "BayesWitnesses",
       "avatarUrl": "https://avatars.githubusercontent.com/u/46638712?v=4"
     },
-    "stars": 2871,
+    "stars": 2872,
     "starsDetail": {
       "total": 2833,
       "week": 1,
@@ -9360,7 +9360,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2019-01-13T02:32:55.000Z",
-    "updatedAt": "2025-04-09T01:20:49.000Z"
+    "updatedAt": "2025-04-10T03:56:44.000Z"
   },
   {
     "id": "benedekrozemberczki/karateclub",
@@ -11445,7 +11445,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-01-24T00:59:38.000Z",
-    "updatedAt": "2025-04-09T01:09:08.000Z"
+    "updatedAt": "2025-04-10T03:46:07.000Z"
   },
   {
     "id": "sinhrks/ggfortify",
@@ -11746,7 +11746,7 @@
     },
     "stars": 34297,
     "starsDetail": {
-      "total": 34296
+      "total": 34297
     },
     "license": "Other",
     "forks": 18641,
@@ -11825,7 +11825,7 @@
     },
     "stars": 32254,
     "starsDetail": {
-      "total": 32240
+      "total": 32254
     },
     "license": "Other",
     "forks": 7935,
@@ -12724,7 +12724,7 @@
     },
     "stars": 142,
     "starsDetail": {
-      "total": 141
+      "total": 142
     },
     "license": "Other",
     "forks": 16,
@@ -14087,7 +14087,7 @@
     },
     "stars": 54531,
     "starsDetail": {
-      "total": 54518
+      "total": 54531
     },
     "license": "MIT License",
     "forks": 13586,
@@ -14521,7 +14521,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-04-01T20:23:24.000Z",
-    "updatedAt": "2025-04-09T01:09:12.000Z"
+    "updatedAt": "2025-04-10T03:46:10.000Z"
   },
   {
     "id": "asafschers/scoruby",
@@ -14705,7 +14705,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-29T21:00:58.000Z",
-    "updatedAt": "2025-04-09T01:09:12.000Z"
+    "updatedAt": "2025-04-10T03:46:10.000Z"
   },
   {
     "id": "aurelian/ruby-stemmer",
@@ -15058,14 +15058,14 @@
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "forks": 26,
     "primaryLanguage": "Metal",
-    "pushedAt": "2025-04-08T18:31:32.000Z",
+    "pushedAt": "2025-04-09T08:35:58.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-25T12:39:43.000Z",
-    "updatedAt": "2025-04-09T01:23:09.000Z"
+    "updatedAt": "2025-04-10T03:58:48.000Z"
   },
   {
     "id": "breze-no-salt/breze",
@@ -16621,7 +16621,7 @@
     },
     "stars": 31350,
     "starsDetail": {
-      "total": 31339
+      "total": 31350
     },
     "license": "MIT License",
     "forks": 4492,
@@ -16704,7 +16704,7 @@
     },
     "stars": 31691,
     "starsDetail": {
-      "total": 31680
+      "total": 31691
     },
     "license": "Apache License 2.0",
     "forks": 7627,
@@ -17216,7 +17216,7 @@
     },
     "stars": 117,
     "starsDetail": {
-      "total": 118
+      "total": 117
     },
     "license": null,
     "forks": 4,
@@ -17257,7 +17257,7 @@
     },
     "stars": 37364,
     "starsDetail": {
-      "total": 37344
+      "total": 37364
     },
     "license": "Apache License 2.0",
     "forks": 2839,
@@ -17414,7 +17414,7 @@
     },
     "stars": 40749,
     "starsDetail": {
-      "total": 40745
+      "total": 40749
     },
     "license": "Apache License 2.0",
     "forks": 4491,
@@ -17595,7 +17595,7 @@
     },
     "stars": 142689,
     "starsDetail": {
-      "total": 142625
+      "total": 142689
     },
     "license": "Apache License 2.0",
     "forks": 28588,
@@ -18607,7 +18607,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-07-26T20:02:09.000Z",
-    "updatedAt": "2025-04-09T01:22:57.000Z"
+    "updatedAt": "2025-04-10T03:58:37.000Z"
   },
   {
     "id": "lmcinnes/hdbscan",
@@ -19251,7 +19251,7 @@
     },
     "stars": 462,
     "starsDetail": {
-      "total": 461
+      "total": 462
     },
     "license": "GNU General Public License v3.0",
     "forks": 94,
@@ -19333,7 +19333,7 @@
     },
     "stars": 430,
     "starsDetail": {
-      "total": 429
+      "total": 430
     },
     "license": "MIT License",
     "forks": 90,
@@ -19458,7 +19458,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-24T17:51:43.000Z",
-    "updatedAt": "2025-04-09T01:20:48.000Z"
+    "updatedAt": "2025-04-10T03:56:43.000Z"
   },
   {
     "id": "mrdimosthenis/emel",
@@ -19477,7 +19477,7 @@
     },
     "stars": 106,
     "starsDetail": {
-      "total": 107
+      "total": 106
     },
     "license": null,
     "forks": 5,
@@ -21230,7 +21230,7 @@
     },
     "stars": 258,
     "starsDetail": {
-      "total": 259
+      "total": 258
     },
     "license": "Apache License 2.0",
     "forks": 49,
@@ -21991,7 +21991,7 @@
     },
     "stars": 424,
     "starsDetail": {
-      "total": 423
+      "total": 424
     },
     "license": "Apache License 2.0",
     "forks": 40,
@@ -22024,7 +22024,7 @@
     },
     "stars": 66018,
     "starsDetail": {
-      "total": 65985
+      "total": 66018
     },
     "license": "Apache License 2.0",
     "forks": 9804,

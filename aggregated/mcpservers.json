@@ -123,6 +123,35 @@
     "updatedAt": "2025-04-09T23:41:45.000Z"
   },
   {
+    "id": "supabase-community/supabase-mcp",
+    "name": "supabase-community/supabase-mcp",
+    "description": "Connect Supabase to your AI assistants",
+    "topics": [],
+    "owner": {
+      "name": "supabase-community",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87650496?v=4"
+    },
+    "stars": 941,
+    "starsDetail": {
+      "total": 941,
+      "week": 831,
+      "month": 872,
+      "year": 941,
+      "updatedAt": 1744257565
+    },
+    "license": "Apache License 2.0",
+    "forks": 53,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-04-09T05:41:26.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-12-20T23:52:42.000Z",
+    "updatedAt": "2025-04-09T23:40:30.000Z"
+  },
+  {
     "id": "mrexodia/ida-pro-mcp",
     "name": "mrexodia/ida-pro-mcp",
     "description": "MCP Server for IDA Pro",
@@ -764,6 +793,35 @@
     "goImportedBy": null,
     "createdAt": "2025-02-13T02:55:06.000Z",
     "updatedAt": "2025-04-09T23:41:49.000Z"
+  },
+  {
+    "id": "suekou/mcp-notion-server",
+    "name": "suekou/mcp-notion-server",
+    "description": "",
+    "topics": [],
+    "owner": {
+      "name": "suekou",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/136655880?v=4"
+    },
+    "stars": 521,
+    "starsDetail": {
+      "total": 521,
+      "week": 98,
+      "month": 349,
+      "year": 521,
+      "updatedAt": 1744257564
+    },
+    "license": "MIT License",
+    "forks": 87,
+    "primaryLanguage": "JavaScript",
+    "pushedAt": "2025-04-09T03:48:08.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-11-30T10:01:30.000Z",
+    "updatedAt": "2025-04-09T23:43:14.000Z"
   },
   {
     "id": "MarkusPfundstein/mcp-obsidian",
@@ -1571,7 +1629,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/56202351?v=4"
     },
     "stars": 1,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 1
+    },
     "license": "MIT License",
     "forks": 0,
     "primaryLanguage": "JavaScript",
@@ -1604,7 +1664,7 @@
     },
     "stars": 49,
     "starsDetail": {
-      "total": 48
+      "total": 49
     },
     "license": null,
     "forks": 7,
@@ -1629,7 +1689,7 @@
     },
     "stars": 29,
     "starsDetail": {
-      "total": 28
+      "total": 29
     },
     "license": null,
     "forks": 3,
@@ -1654,7 +1714,7 @@
     },
     "stars": 67,
     "starsDetail": {
-      "total": 65
+      "total": 67
     },
     "license": null,
     "forks": 9,
@@ -1686,7 +1746,7 @@
     },
     "stars": 28,
     "starsDetail": {
-      "total": 27
+      "total": 28
     },
     "license": "MIT License",
     "forks": 5,
@@ -1715,7 +1775,7 @@
     },
     "stars": 25,
     "starsDetail": {
-      "total": 24
+      "total": 25
     },
     "license": "MIT License",
     "forks": 4,
@@ -1740,7 +1800,7 @@
     },
     "stars": 5,
     "starsDetail": {
-      "total": 3
+      "total": 5
     },
     "license": "Apache License 2.0",
     "forks": 3,
@@ -1765,7 +1825,7 @@
     },
     "stars": 131,
     "starsDetail": {
-      "total": 128
+      "total": 131
     },
     "license": "MIT License",
     "forks": 14,
@@ -1815,7 +1875,7 @@
     },
     "stars": 24,
     "starsDetail": {
-      "total": 22
+      "total": 24
     },
     "license": null,
     "forks": 5,
@@ -1890,7 +1950,7 @@
     },
     "stars": 15,
     "starsDetail": {
-      "total": 14
+      "total": 15
     },
     "license": "MIT License",
     "forks": 2,
@@ -1915,7 +1975,7 @@
     },
     "stars": 99,
     "starsDetail": {
-      "total": 97
+      "total": 99
     },
     "license": "MIT License",
     "forks": 9,
@@ -1940,7 +2000,7 @@
     },
     "stars": 24,
     "starsDetail": {
-      "total": 23
+      "total": 24
     },
     "license": "MIT License",
     "forks": 1,
@@ -1965,7 +2025,7 @@
     },
     "stars": 31,
     "starsDetail": {
-      "total": 30
+      "total": 31
     },
     "license": "MIT License",
     "forks": 2,
@@ -2045,7 +2105,7 @@
     },
     "stars": 35,
     "starsDetail": {
-      "total": 33
+      "total": 35
     },
     "license": "MIT License",
     "forks": 5,
@@ -2073,7 +2133,7 @@
     },
     "stars": 144,
     "starsDetail": {
-      "total": 138
+      "total": 144
     },
     "license": "MIT License",
     "forks": 25,
@@ -2098,7 +2158,7 @@
     },
     "stars": 48,
     "starsDetail": {
-      "total": 45
+      "total": 48
     },
     "license": "MIT License",
     "forks": 4,
@@ -2123,7 +2183,7 @@
     },
     "stars": 141,
     "starsDetail": {
-      "total": 138
+      "total": 141
     },
     "license": "Apache License 2.0",
     "forks": 32,
@@ -2158,7 +2218,7 @@
     },
     "stars": 323,
     "starsDetail": {
-      "total": 307
+      "total": 323
     },
     "license": "MIT License",
     "forks": 38,
@@ -2182,7 +2242,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/175457154?v=4"
     },
     "stars": 4,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 4
+    },
     "license": null,
     "forks": 0,
     "primaryLanguage": "JavaScript",
@@ -2210,7 +2272,7 @@
     },
     "stars": 244,
     "starsDetail": {
-      "total": 234
+      "total": 244
     },
     "license": "MIT License",
     "forks": 23,
@@ -2235,7 +2297,7 @@
     },
     "stars": 30,
     "starsDetail": {
-      "total": 29
+      "total": 30
     },
     "license": "MIT License",
     "forks": 4,
@@ -2315,7 +2377,7 @@
     },
     "stars": 338,
     "starsDetail": {
-      "total": 326
+      "total": 338
     },
     "license": "MIT License",
     "forks": 39,
@@ -2340,7 +2402,7 @@
     },
     "stars": 29,
     "starsDetail": {
-      "total": 28
+      "total": 29
     },
     "license": "MIT License",
     "forks": 1,
@@ -2368,7 +2430,7 @@
     },
     "stars": 93,
     "starsDetail": {
-      "total": 83
+      "total": 93
     },
     "license": "MIT License",
     "forks": 6,
@@ -2392,7 +2454,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/105574020?v=4"
     },
     "stars": 8,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 8
+    },
     "license": "Apache License 2.0",
     "forks": 1,
     "primaryLanguage": "Python",
@@ -2437,7 +2501,7 @@
     },
     "stars": 29,
     "starsDetail": {
-      "total": 27
+      "total": 29
     },
     "license": "MIT License",
     "forks": 1,
@@ -2491,7 +2555,7 @@
     },
     "stars": 9,
     "starsDetail": {
-      "total": 8
+      "total": 9
     },
     "license": null,
     "forks": 4,
@@ -2546,7 +2610,7 @@
     },
     "stars": 38,
     "starsDetail": {
-      "total": 36
+      "total": 38
     },
     "license": "Apache License 2.0",
     "forks": 2,
@@ -2576,7 +2640,7 @@
     },
     "stars": 35,
     "starsDetail": {
-      "total": 31
+      "total": 35
     },
     "license": "Apache License 2.0",
     "forks": 1,
@@ -2601,7 +2665,7 @@
     },
     "stars": 7,
     "starsDetail": {
-      "total": 6
+      "total": 7
     },
     "license": "MIT License",
     "forks": 1,
@@ -2651,7 +2715,7 @@
     },
     "stars": 16,
     "starsDetail": {
-      "total": 15
+      "total": 16
     },
     "license": null,
     "forks": 6,
@@ -2701,7 +2765,7 @@
     },
     "stars": 8,
     "starsDetail": {
-      "total": 7
+      "total": 8
     },
     "license": null,
     "forks": 2,
@@ -2726,7 +2790,7 @@
     },
     "stars": 36,
     "starsDetail": {
-      "total": 34
+      "total": 36
     },
     "license": null,
     "forks": 5,
@@ -2751,7 +2815,7 @@
     },
     "stars": 3,
     "starsDetail": {
-      "total": 2
+      "total": 3
     },
     "license": null,
     "forks": 0,
@@ -2801,7 +2865,7 @@
     },
     "stars": 17,
     "starsDetail": {
-      "total": 16
+      "total": 17
     },
     "license": null,
     "forks": 3,
@@ -2851,7 +2915,7 @@
     },
     "stars": 7,
     "starsDetail": {
-      "total": 6
+      "total": 7
     },
     "license": "MIT License",
     "forks": 1,
@@ -2876,7 +2940,7 @@
     },
     "stars": 55,
     "starsDetail": {
-      "total": 54
+      "total": 55
     },
     "license": "MIT License",
     "forks": 10,
@@ -2901,7 +2965,7 @@
     },
     "stars": 244,
     "starsDetail": {
-      "total": 237
+      "total": 244
     },
     "license": "MIT License",
     "forks": 55,
@@ -2951,7 +3015,7 @@
     },
     "stars": 60,
     "starsDetail": {
-      "total": 59
+      "total": 60
     },
     "license": "MIT License",
     "forks": 12,
@@ -2976,7 +3040,7 @@
     },
     "stars": 27,
     "starsDetail": {
-      "total": 26
+      "total": 27
     },
     "license": "MIT License",
     "forks": 3,
@@ -3080,7 +3144,7 @@
     },
     "stars": 8,
     "starsDetail": {
-      "total": 7
+      "total": 8
     },
     "license": "MIT License",
     "forks": 3,
@@ -3263,7 +3327,7 @@
     },
     "stars": 55,
     "starsDetail": {
-      "total": 53
+      "total": 55
     },
     "license": "MIT License",
     "forks": 12,
@@ -3288,7 +3352,7 @@
     },
     "stars": 207,
     "starsDetail": {
-      "total": 201
+      "total": 207
     },
     "license": "MIT License",
     "forks": 24,
@@ -3313,7 +3377,7 @@
     },
     "stars": 91,
     "starsDetail": {
-      "total": 90
+      "total": 91
     },
     "license": "MIT License",
     "forks": 19,
@@ -3344,7 +3408,7 @@
     },
     "stars": 16,
     "starsDetail": {
-      "total": 15
+      "total": 16
     },
     "license": "MIT License",
     "forks": 1,
@@ -3369,7 +3433,7 @@
     },
     "stars": 58,
     "starsDetail": {
-      "total": 57
+      "total": 58
     },
     "license": "Apache License 2.0",
     "forks": 1,
@@ -3399,7 +3463,7 @@
     },
     "stars": 87,
     "starsDetail": {
-      "total": 83
+      "total": 87
     },
     "license": "MIT License",
     "forks": 8,
@@ -3449,7 +3513,7 @@
     },
     "stars": 22,
     "starsDetail": {
-      "total": 21
+      "total": 22
     },
     "license": "MIT License",
     "forks": 5,
@@ -3479,7 +3543,7 @@
     },
     "stars": 22,
     "starsDetail": {
-      "total": 21
+      "total": 22
     },
     "license": "MIT License",
     "forks": 4,
@@ -3533,7 +3597,7 @@
     },
     "stars": 40,
     "starsDetail": {
-      "total": 38
+      "total": 40
     },
     "license": "MIT License",
     "forks": 1,
@@ -3614,7 +3678,7 @@
     },
     "stars": 53,
     "starsDetail": {
-      "total": 47
+      "total": 53
     },
     "license": "MIT License",
     "forks": 15,
@@ -3639,7 +3703,7 @@
     },
     "stars": 29,
     "starsDetail": {
-      "total": 28
+      "total": 29
     },
     "license": "MIT License",
     "forks": 6,
@@ -3689,7 +3753,7 @@
     },
     "stars": 6,
     "starsDetail": {
-      "total": 0
+      "total": 6
     },
     "license": "Apache License 2.0",
     "forks": 0,
@@ -3772,7 +3836,7 @@
     },
     "stars": 48,
     "starsDetail": {
-      "total": 46
+      "total": 48
     },
     "license": "MIT License",
     "forks": 5,
@@ -3800,7 +3864,7 @@
     },
     "stars": 22,
     "starsDetail": {
-      "total": 21
+      "total": 22
     },
     "license": "MIT License",
     "forks": 7,
@@ -3854,7 +3918,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/4744830?v=4"
     },
     "stars": 8,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 8
+    },
     "license": "MIT License",
     "forks": 3,
     "primaryLanguage": "Go",
@@ -3878,7 +3944,7 @@
     },
     "stars": 43,
     "starsDetail": {
-      "total": 41
+      "total": 43
     },
     "license": "MIT License",
     "forks": 9,
@@ -3906,7 +3972,7 @@
     },
     "stars": 28,
     "starsDetail": {
-      "total": 27
+      "total": 28
     },
     "license": "MIT License",
     "forks": 6,
@@ -3936,7 +4002,7 @@
     },
     "stars": 127,
     "starsDetail": {
-      "total": 125
+      "total": 127
     },
     "license": "MIT License",
     "forks": 15,
@@ -3965,7 +4031,7 @@
     },
     "stars": 132,
     "starsDetail": {
-      "total": 130
+      "total": 132
     },
     "license": "MIT License",
     "forks": 18,
@@ -3990,7 +4056,7 @@
     },
     "stars": 39,
     "starsDetail": {
-      "total": 34
+      "total": 39
     },
     "license": "GNU General Public License v3.0",
     "forks": 3,
@@ -4136,7 +4202,7 @@
     },
     "stars": 54,
     "starsDetail": {
-      "total": 53
+      "total": 54
     },
     "license": "MIT License",
     "forks": 5,
@@ -4175,7 +4241,7 @@
     },
     "stars": 54,
     "starsDetail": {
-      "total": 51
+      "total": 54
     },
     "license": "MIT License",
     "forks": 6,
@@ -4228,7 +4294,7 @@
     },
     "stars": 41,
     "starsDetail": {
-      "total": 40
+      "total": 41
     },
     "license": "Apache License 2.0",
     "forks": 3,
@@ -4303,7 +4369,7 @@
     },
     "stars": 283,
     "starsDetail": {
-      "total": 281
+      "total": 283
     },
     "license": "MIT License",
     "forks": 28,
@@ -4378,7 +4444,7 @@
     },
     "stars": 58,
     "starsDetail": {
-      "total": 56
+      "total": 58
     },
     "license": "MIT License",
     "forks": 10,
@@ -4489,7 +4555,7 @@
     },
     "stars": 16,
     "starsDetail": {
-      "total": 15
+      "total": 16
     },
     "license": "Apache License 2.0",
     "forks": 2,
@@ -4514,7 +4580,7 @@
     },
     "stars": 146,
     "starsDetail": {
-      "total": 141
+      "total": 146
     },
     "license": "Apache License 2.0",
     "forks": 14,
@@ -4539,7 +4605,7 @@
     },
     "stars": 104,
     "starsDetail": {
-      "total": 103
+      "total": 104
     },
     "license": "Apache License 2.0",
     "forks": 10,
@@ -4614,7 +4680,7 @@
     },
     "stars": 23,
     "starsDetail": {
-      "total": 19
+      "total": 23
     },
     "license": "MIT License",
     "forks": 5,
@@ -4643,7 +4709,7 @@
     },
     "stars": 193,
     "starsDetail": {
-      "total": 187
+      "total": 193
     },
     "license": "MIT License",
     "forks": 18,
@@ -4674,7 +4740,7 @@
     },
     "stars": 16,
     "starsDetail": {
-      "total": 15
+      "total": 16
     },
     "license": "MIT License",
     "forks": 3,
@@ -4774,7 +4840,7 @@
     },
     "stars": 168,
     "starsDetail": {
-      "total": 163
+      "total": 168
     },
     "license": "MIT License",
     "forks": 52,
@@ -4799,7 +4865,7 @@
     },
     "stars": 170,
     "starsDetail": {
-      "total": 154
+      "total": 170
     },
     "license": "MIT License",
     "forks": 30,
@@ -4824,7 +4890,7 @@
     },
     "stars": 27,
     "starsDetail": {
-      "total": 26
+      "total": 27
     },
     "license": "MIT License",
     "forks": 14,
@@ -4859,7 +4925,7 @@
     },
     "stars": 55,
     "starsDetail": {
-      "total": 51
+      "total": 55
     },
     "license": "GNU Affero General Public License v3.0",
     "forks": 10,
@@ -4940,7 +5006,7 @@
     },
     "stars": 77,
     "starsDetail": {
-      "total": 74
+      "total": 77
     },
     "license": "MIT License",
     "forks": 11,
@@ -4965,7 +5031,7 @@
     },
     "stars": 58,
     "starsDetail": {
-      "total": 57
+      "total": 58
     },
     "license": "MIT License",
     "forks": 7,
@@ -5040,7 +5106,7 @@
     },
     "stars": 93,
     "starsDetail": {
-      "total": 89
+      "total": 93
     },
     "license": null,
     "forks": 13,
@@ -5079,7 +5145,7 @@
     },
     "stars": 181,
     "starsDetail": {
-      "total": 174
+      "total": 181
     },
     "license": "MIT License",
     "forks": 23,
@@ -5139,7 +5205,7 @@
     },
     "stars": 46,
     "starsDetail": {
-      "total": 44
+      "total": 46
     },
     "license": "MIT License",
     "forks": 2,
@@ -5183,7 +5249,7 @@
     },
     "stars": 226,
     "starsDetail": {
-      "total": 221
+      "total": 226
     },
     "license": "Apache License 2.0",
     "forks": 16,
@@ -5214,7 +5280,7 @@
     },
     "stars": 13,
     "starsDetail": {
-      "total": 9
+      "total": 13
     },
     "license": "MIT License",
     "forks": 0,
@@ -5272,7 +5338,7 @@
     },
     "stars": 68,
     "starsDetail": {
-      "total": 67
+      "total": 68
     },
     "license": "Apache License 2.0",
     "forks": 11,
@@ -5297,7 +5363,7 @@
     },
     "stars": 261,
     "starsDetail": {
-      "total": 251
+      "total": 261
     },
     "license": "GNU General Public License v3.0",
     "forks": 30,
@@ -5329,7 +5395,7 @@
     },
     "stars": 216,
     "starsDetail": {
-      "total": 189
+      "total": 216
     },
     "license": "MIT License",
     "forks": 22,
@@ -5359,7 +5425,7 @@
     },
     "stars": 36,
     "starsDetail": {
-      "total": 30
+      "total": 36
     },
     "license": "Apache License 2.0",
     "forks": 4,
@@ -5384,7 +5450,7 @@
     },
     "stars": 19,
     "starsDetail": {
-      "total": 18
+      "total": 19
     },
     "license": "MIT License",
     "forks": 2,
@@ -5434,7 +5500,7 @@
     },
     "stars": 89,
     "starsDetail": {
-      "total": 86
+      "total": 89
     },
     "license": "Apache License 2.0",
     "forks": 16,
@@ -5465,7 +5531,7 @@
     },
     "stars": 181,
     "starsDetail": {
-      "total": 177
+      "total": 181
     },
     "license": "Apache License 2.0",
     "forks": 15,
@@ -5494,7 +5560,7 @@
     },
     "stars": 153,
     "starsDetail": {
-      "total": 151
+      "total": 153
     },
     "license": "MIT License",
     "forks": 38,
@@ -5548,7 +5614,7 @@
     },
     "stars": 61,
     "starsDetail": {
-      "total": 59
+      "total": 61
     },
     "license": "MIT License",
     "forks": 8,
@@ -5578,7 +5644,7 @@
     },
     "stars": 269,
     "starsDetail": {
-      "total": 261
+      "total": 269
     },
     "license": "MIT License",
     "forks": 75,
@@ -5603,7 +5669,7 @@
     },
     "stars": 7,
     "starsDetail": {
-      "total": 4
+      "total": 7
     },
     "license": "MIT License",
     "forks": 1,
@@ -5628,7 +5694,7 @@
     },
     "stars": 19,
     "starsDetail": {
-      "total": 17
+      "total": 19
     },
     "license": "MIT License",
     "forks": 3,
@@ -5682,7 +5748,7 @@
     },
     "stars": 3,
     "starsDetail": {
-      "total": 2
+      "total": 3
     },
     "license": null,
     "forks": 0,
@@ -5741,7 +5807,7 @@
     },
     "stars": 6,
     "starsDetail": {
-      "total": 5
+      "total": 6
     },
     "license": null,
     "forks": 0,
@@ -5773,7 +5839,7 @@
     },
     "stars": 41,
     "starsDetail": {
-      "total": 39
+      "total": 41
     },
     "license": "MIT License",
     "forks": 10,
@@ -5798,7 +5864,7 @@
     },
     "stars": 18,
     "starsDetail": {
-      "total": 16
+      "total": 18
     },
     "license": "MIT License",
     "forks": 5,
@@ -5823,7 +5889,7 @@
     },
     "stars": 200,
     "starsDetail": {
-      "total": 195
+      "total": 200
     },
     "license": "MIT License",
     "forks": 31,
@@ -5873,7 +5939,7 @@
     },
     "stars": 4,
     "starsDetail": {
-      "total": 2
+      "total": 4
     },
     "license": "Apache License 2.0",
     "forks": 3,
@@ -5931,7 +5997,7 @@
     },
     "stars": 299,
     "starsDetail": {
-      "total": 282
+      "total": 299
     },
     "license": "MIT License",
     "forks": 19,
@@ -5956,7 +6022,7 @@
     },
     "stars": 45,
     "starsDetail": {
-      "total": 43
+      "total": 45
     },
     "license": "MIT License",
     "forks": 12,
@@ -6006,7 +6072,7 @@
     },
     "stars": 52,
     "starsDetail": {
-      "total": 50
+      "total": 52
     },
     "license": "MIT License",
     "forks": 5,
@@ -6070,7 +6136,7 @@
     },
     "stars": 243,
     "starsDetail": {
-      "total": 241
+      "total": 243
     },
     "license": "MIT License",
     "forks": 14,
@@ -6148,7 +6214,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/114778675?v=4"
     },
     "stars": 0,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 0
+    },
     "license": null,
     "forks": 1,
     "primaryLanguage": "JavaScript",
@@ -6172,7 +6240,7 @@
     },
     "stars": 28,
     "starsDetail": {
-      "total": 23
+      "total": 28
     },
     "license": "GNU General Public License v3.0",
     "forks": 10,
@@ -6230,7 +6298,7 @@
     },
     "stars": 65,
     "starsDetail": {
-      "total": 64
+      "total": 65
     },
     "license": "MIT License",
     "forks": 4,
@@ -6308,7 +6376,7 @@
     },
     "stars": 64,
     "starsDetail": {
-      "total": 62
+      "total": 64
     },
     "license": "MIT License",
     "forks": 14,
@@ -6333,7 +6401,7 @@
     },
     "stars": 10,
     "starsDetail": {
-      "total": 9
+      "total": 10
     },
     "license": null,
     "forks": 1,
@@ -6437,7 +6505,7 @@
     },
     "stars": 432,
     "starsDetail": {
-      "total": 408
+      "total": 432
     },
     "license": "Apache License 2.0",
     "forks": 30,
@@ -6474,7 +6542,7 @@
     },
     "stars": 159,
     "starsDetail": {
-      "total": 153
+      "total": 159
     },
     "license": "MIT License",
     "forks": 21,
@@ -6534,7 +6602,7 @@
     },
     "stars": 122,
     "starsDetail": {
-      "total": 120
+      "total": 122
     },
     "license": "MIT License",
     "forks": 18,
@@ -6566,7 +6634,7 @@
     },
     "stars": 30,
     "starsDetail": {
-      "total": 29
+      "total": 30
     },
     "license": null,
     "forks": 11,
@@ -6625,7 +6693,7 @@
     },
     "stars": 208,
     "starsDetail": {
-      "total": 191
+      "total": 208
     },
     "license": "MIT License",
     "forks": 20,
@@ -6654,7 +6722,7 @@
     },
     "stars": 101,
     "starsDetail": {
-      "total": 100
+      "total": 101
     },
     "license": "MIT License",
     "forks": 11,
@@ -6679,7 +6747,7 @@
     },
     "stars": 35,
     "starsDetail": {
-      "total": 34
+      "total": 35
     },
     "license": "MIT License",
     "forks": 8,
@@ -6762,7 +6830,7 @@
     },
     "stars": 19,
     "starsDetail": {
-      "total": 17
+      "total": 19
     },
     "license": null,
     "forks": 3,
@@ -6837,7 +6905,7 @@
     },
     "stars": 7,
     "starsDetail": {
-      "total": 5
+      "total": 7
     },
     "license": null,
     "forks": 0,
@@ -6897,7 +6965,7 @@
     },
     "stars": 79,
     "starsDetail": {
-      "total": 77
+      "total": 79
     },
     "license": "Apache License 2.0",
     "forks": 6,
@@ -6938,7 +7006,7 @@
     },
     "stars": 24,
     "starsDetail": {
-      "total": 22
+      "total": 24
     },
     "license": "Apache License 2.0",
     "forks": 2,
@@ -7013,7 +7081,7 @@
     },
     "stars": 46,
     "starsDetail": {
-      "total": 45
+      "total": 46
     },
     "license": "MIT License",
     "forks": 8,
@@ -7038,7 +7106,7 @@
     },
     "stars": 61,
     "starsDetail": {
-      "total": 60
+      "total": 61
     },
     "license": "MIT License",
     "forks": 11,
@@ -7063,7 +7131,7 @@
     },
     "stars": 28,
     "starsDetail": {
-      "total": 27
+      "total": 28
     },
     "license": null,
     "forks": 2,
@@ -7113,7 +7181,7 @@
     },
     "stars": 49,
     "starsDetail": {
-      "total": 48
+      "total": 49
     },
     "license": null,
     "forks": 12,
@@ -7138,7 +7206,7 @@
     },
     "stars": 21,
     "starsDetail": {
-      "total": 20
+      "total": 21
     },
     "license": "MIT License",
     "forks": 5,
@@ -7217,7 +7285,7 @@
     },
     "stars": 56,
     "starsDetail": {
-      "total": 52
+      "total": 56
     },
     "license": "MIT License",
     "forks": 4,
@@ -7309,7 +7377,7 @@
     },
     "stars": 24,
     "starsDetail": {
-      "total": 11
+      "total": 24
     },
     "license": "MIT License",
     "forks": 2,
@@ -7333,7 +7401,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/5583954?v=4"
     },
     "stars": 0,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 0
+    },
     "license": null,
     "forks": 0,
     "primaryLanguage": "JavaScript",
@@ -7376,7 +7446,7 @@
     },
     "stars": 267,
     "starsDetail": {
-      "total": 263
+      "total": 267
     },
     "license": "MIT License",
     "forks": 22,
@@ -7405,7 +7475,7 @@
     },
     "stars": 50,
     "starsDetail": {
-      "total": 49
+      "total": 50
     },
     "license": "MIT License",
     "forks": 7,
@@ -7455,7 +7525,7 @@
     },
     "stars": 415,
     "starsDetail": {
-      "total": 413
+      "total": 415
     },
     "license": null,
     "forks": 46,
@@ -7505,7 +7575,7 @@
     },
     "stars": 162,
     "starsDetail": {
-      "total": 161
+      "total": 162
     },
     "license": "MIT License",
     "forks": 6,
@@ -7587,7 +7657,7 @@
     },
     "stars": 57,
     "starsDetail": {
-      "total": 55
+      "total": 57
     },
     "license": "MIT License",
     "forks": 11,
@@ -7612,7 +7682,7 @@
     },
     "stars": 70,
     "starsDetail": {
-      "total": 67
+      "total": 70
     },
     "license": "MIT License",
     "forks": 10,
@@ -7662,7 +7732,7 @@
     },
     "stars": 13,
     "starsDetail": {
-      "total": 12
+      "total": 13
     },
     "license": "MIT License",
     "forks": 4,
@@ -7723,7 +7793,7 @@
     },
     "stars": 111,
     "starsDetail": {
-      "total": 104
+      "total": 111
     },
     "license": "MIT License",
     "forks": 12,
@@ -7748,7 +7818,7 @@
     },
     "stars": 125,
     "starsDetail": {
-      "total": 120
+      "total": 125
     },
     "license": "MIT License",
     "forks": 19,
@@ -7781,7 +7851,7 @@
     },
     "stars": 15,
     "starsDetail": {
-      "total": 14
+      "total": 15
     },
     "license": "MIT License",
     "forks": 2,
@@ -7806,7 +7876,7 @@
     },
     "stars": 10,
     "starsDetail": {
-      "total": 9
+      "total": 10
     },
     "license": "MIT License",
     "forks": 3,
@@ -7836,7 +7906,7 @@
     },
     "stars": 13,
     "starsDetail": {
-      "total": 12
+      "total": 13
     },
     "license": "MIT License",
     "forks": 3,
@@ -7865,7 +7935,7 @@
     },
     "stars": 93,
     "starsDetail": {
-      "total": 92
+      "total": 93
     },
     "license": "MIT License",
     "forks": 9,
@@ -7890,7 +7960,7 @@
     },
     "stars": 12,
     "starsDetail": {
-      "total": 11
+      "total": 12
     },
     "license": "MIT License",
     "forks": 2,
@@ -7915,7 +7985,7 @@
     },
     "stars": 14,
     "starsDetail": {
-      "total": 13
+      "total": 14
     },
     "license": "MIT License",
     "forks": 6,
@@ -7940,7 +8010,7 @@
     },
     "stars": 1,
     "starsDetail": {
-      "total": 0
+      "total": 1
     },
     "license": "MIT License",
     "forks": 0,
@@ -7965,7 +8035,7 @@
     },
     "stars": 5,
     "starsDetail": {
-      "total": 4
+      "total": 5
     },
     "license": "MIT License",
     "forks": 2,
@@ -8040,7 +8110,7 @@
     },
     "stars": 12,
     "starsDetail": {
-      "total": 11
+      "total": 12
     },
     "license": "MIT License",
     "forks": 1,
@@ -8190,7 +8260,7 @@
     },
     "stars": 9,
     "starsDetail": {
-      "total": 8
+      "total": 9
     },
     "license": null,
     "forks": 2,
@@ -8290,7 +8360,7 @@
     },
     "stars": 9,
     "starsDetail": {
-      "total": 8
+      "total": 9
     },
     "license": "MIT License",
     "forks": 3,
@@ -8315,7 +8385,7 @@
     },
     "stars": 7,
     "starsDetail": {
-      "total": 6
+      "total": 7
     },
     "license": "MIT License",
     "forks": 1,
@@ -8422,7 +8492,7 @@
     },
     "stars": 44,
     "starsDetail": {
-      "total": 42
+      "total": 44
     },
     "license": "MIT License",
     "forks": 6,
@@ -8455,7 +8525,7 @@
     },
     "stars": 46,
     "starsDetail": {
-      "total": 44
+      "total": 46
     },
     "license": "MIT License",
     "forks": 9,
@@ -8565,7 +8635,7 @@
     },
     "stars": 20,
     "starsDetail": {
-      "total": 19
+      "total": 20
     },
     "license": "MIT License",
     "forks": 1,
@@ -8594,7 +8664,7 @@
     },
     "stars": 92,
     "starsDetail": {
-      "total": 91
+      "total": 92
     },
     "license": "Apache License 2.0",
     "forks": 8,
@@ -8622,7 +8692,7 @@
     },
     "stars": 64,
     "starsDetail": {
-      "total": 63
+      "total": 64
     },
     "license": "Apache License 2.0",
     "forks": 7,
@@ -8653,7 +8723,7 @@
     },
     "stars": 174,
     "starsDetail": {
-      "total": 173
+      "total": 174
     },
     "license": "Apache License 2.0",
     "forks": 21,
@@ -8708,7 +8778,7 @@
     },
     "stars": 110,
     "starsDetail": {
-      "total": 106
+      "total": 110
     },
     "license": "MIT License",
     "forks": 8,
@@ -8742,7 +8812,7 @@
     },
     "stars": 75,
     "starsDetail": {
-      "total": 72
+      "total": 75
     },
     "license": "Apache License 2.0",
     "forks": 19,
@@ -8817,7 +8887,7 @@
     },
     "stars": 191,
     "starsDetail": {
-      "total": 184
+      "total": 191
     },
     "license": "MIT License",
     "forks": 27,
@@ -8842,7 +8912,7 @@
     },
     "stars": 8,
     "starsDetail": {
-      "total": 7
+      "total": 8
     },
     "license": "MIT License",
     "forks": 2,
@@ -8874,7 +8944,7 @@
     },
     "stars": 170,
     "starsDetail": {
-      "total": 165
+      "total": 170
     },
     "license": "MIT License",
     "forks": 28,
@@ -8937,7 +9007,7 @@
     },
     "stars": 15,
     "starsDetail": {
-      "total": 14
+      "total": 15
     },
     "license": "MIT License",
     "forks": 7,
@@ -8962,7 +9032,7 @@
     },
     "stars": 81,
     "starsDetail": {
-      "total": 79
+      "total": 81
     },
     "license": null,
     "forks": 12,
@@ -9012,7 +9082,7 @@
     },
     "stars": 35,
     "starsDetail": {
-      "total": 34
+      "total": 35
     },
     "license": "MIT License",
     "forks": 7,
@@ -9045,7 +9115,7 @@
     },
     "stars": 47174,
     "starsDetail": {
-      "total": 46043
+      "total": 47174
     },
     "license": "MIT License",
     "forks": 2223,
@@ -9095,7 +9165,7 @@
     },
     "stars": 33648,
     "starsDetail": {
-      "total": 32998
+      "total": 33648
     },
     "license": "MIT License",
     "forks": 3587,
@@ -9126,7 +9196,7 @@
     },
     "stars": 19,
     "starsDetail": {
-      "total": 18
+      "total": 19
     },
     "license": "MIT License",
     "forks": 1,
@@ -9235,7 +9305,7 @@
     },
     "stars": 218,
     "starsDetail": {
-      "total": 217
+      "total": 218
     },
     "license": "MIT License",
     "forks": 44,
@@ -9266,7 +9336,7 @@
     },
     "stars": 4,
     "starsDetail": {
-      "total": 3
+      "total": 4
     },
     "license": "MIT License",
     "forks": 1,
@@ -9316,7 +9386,7 @@
     },
     "stars": 193,
     "starsDetail": {
-      "total": 187
+      "total": 193
     },
     "license": "MIT License",
     "forks": 46,
@@ -9376,7 +9446,7 @@
     },
     "stars": 1,
     "starsDetail": {
-      "total": 0
+      "total": 1
     },
     "license": "MIT License",
     "forks": 0,
@@ -9458,7 +9528,7 @@
     },
     "stars": 70,
     "starsDetail": {
-      "total": 67
+      "total": 70
     },
     "license": "MIT License",
     "forks": 14,
@@ -9537,7 +9607,7 @@
     },
     "stars": 130,
     "starsDetail": {
-      "total": 127
+      "total": 130
     },
     "license": "Creative Commons Attribution Share Alike 4.0 International",
     "forks": 16,
@@ -9587,7 +9657,7 @@
     },
     "stars": 71,
     "starsDetail": {
-      "total": 68
+      "total": 71
     },
     "license": "MIT License",
     "forks": 23,
@@ -9618,7 +9688,7 @@
     },
     "stars": 491,
     "starsDetail": {
-      "total": 463
+      "total": 491
     },
     "license": "GNU General Public License v2.0",
     "forks": 31,
@@ -9643,7 +9713,7 @@
     },
     "stars": 14,
     "starsDetail": {
-      "total": 13
+      "total": 14
     },
     "license": "MIT License",
     "forks": 5,
@@ -9818,7 +9888,7 @@
     },
     "stars": 93,
     "starsDetail": {
-      "total": 92
+      "total": 93
     },
     "license": null,
     "forks": 17,
@@ -9868,7 +9938,7 @@
     },
     "stars": 82,
     "starsDetail": {
-      "total": 80
+      "total": 82
     },
     "license": "BSD 2-Clause \"Simplified\" License",
     "forks": 11,
@@ -9948,7 +10018,7 @@
     },
     "stars": 43,
     "starsDetail": {
-      "total": 42
+      "total": 43
     },
     "license": null,
     "forks": 1,
@@ -9973,7 +10043,7 @@
     },
     "stars": 97,
     "starsDetail": {
-      "total": 96
+      "total": 97
     },
     "license": "MIT License",
     "forks": 16,
@@ -10006,7 +10076,7 @@
     },
     "stars": 412,
     "starsDetail": {
-      "total": 406
+      "total": 412
     },
     "license": "Apache License 2.0",
     "forks": 48,
@@ -10036,7 +10106,7 @@
     },
     "stars": 24,
     "starsDetail": {
-      "total": 23
+      "total": 24
     },
     "license": "MIT License",
     "forks": 3,
@@ -10063,7 +10133,7 @@
     },
     "stars": 75,
     "starsDetail": {
-      "total": 73
+      "total": 75
     },
     "license": "Apache License 2.0",
     "forks": 19,
@@ -10091,7 +10161,7 @@
     },
     "stars": 86,
     "starsDetail": {
-      "total": 84
+      "total": 86
     },
     "license": "Apache License 2.0",
     "forks": 23,
@@ -10216,7 +10286,7 @@
     },
     "stars": 3,
     "starsDetail": {
-      "total": 2
+      "total": 3
     },
     "license": null,
     "forks": 0,
@@ -10241,7 +10311,7 @@
     },
     "stars": 145,
     "starsDetail": {
-      "total": 140
+      "total": 145
     },
     "license": "MIT License",
     "forks": 13,
@@ -10316,7 +10386,7 @@
     },
     "stars": 241,
     "starsDetail": {
-      "total": 238
+      "total": 241
     },
     "license": "MIT License",
     "forks": 28,
@@ -10341,7 +10411,7 @@
     },
     "stars": 16,
     "starsDetail": {
-      "total": 14
+      "total": 16
     },
     "license": "MIT License",
     "forks": 1,
@@ -10391,7 +10461,7 @@
     },
     "stars": 121,
     "starsDetail": {
-      "total": 120
+      "total": 121
     },
     "license": "Apache License 2.0",
     "forks": 10,
@@ -10499,7 +10569,7 @@
     },
     "stars": 12,
     "starsDetail": {
-      "total": 11
+      "total": 12
     },
     "license": "MIT License",
     "forks": 3,
@@ -10524,7 +10594,7 @@
     },
     "stars": 5,
     "starsDetail": {
-      "total": 3
+      "total": 5
     },
     "license": null,
     "forks": 1,
@@ -10549,7 +10619,7 @@
     },
     "stars": 283,
     "starsDetail": {
-      "total": 274
+      "total": 283
     },
     "license": "MIT License",
     "forks": 41,
@@ -10574,7 +10644,7 @@
     },
     "stars": 45,
     "starsDetail": {
-      "total": 41
+      "total": 45
     },
     "license": "MIT License",
     "forks": 11,
@@ -10599,7 +10669,7 @@
     },
     "stars": 137,
     "starsDetail": {
-      "total": 135
+      "total": 137
     },
     "license": "Mozilla Public License 2.0",
     "forks": 23,
@@ -10666,7 +10736,7 @@
     },
     "stars": 69,
     "starsDetail": {
-      "total": 68
+      "total": 69
     },
     "license": null,
     "forks": 5,
@@ -10704,7 +10774,7 @@
     },
     "stars": 68,
     "starsDetail": {
-      "total": 67
+      "total": 68
     },
     "license": "MIT License",
     "forks": 12,
@@ -10737,7 +10807,7 @@
     },
     "stars": 97,
     "starsDetail": {
-      "total": 95
+      "total": 97
     },
     "license": "MIT License",
     "forks": 7,
@@ -10801,7 +10871,7 @@
     },
     "stars": 15,
     "starsDetail": {
-      "total": 13
+      "total": 15
     },
     "license": "MIT License",
     "forks": 2,
@@ -10857,7 +10927,7 @@
     },
     "stars": 18,
     "starsDetail": {
-      "total": 9
+      "total": 18
     },
     "license": "MIT License",
     "forks": 0,
@@ -10890,7 +10960,7 @@
     },
     "stars": 17,
     "starsDetail": {
-      "total": 16
+      "total": 17
     },
     "license": "Apache License 2.0",
     "forks": 4,
@@ -10917,7 +10987,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/29760937?v=4"
     },
     "stars": 78,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 78
+    },
     "license": "MIT License",
     "forks": 10,
     "primaryLanguage": "Dockerfile",
@@ -10970,7 +11042,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/2044558?v=4"
     },
     "stars": 30,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 30
+    },
     "license": "Apache License 2.0",
     "forks": 5,
     "primaryLanguage": "Makefile",
@@ -10994,7 +11068,7 @@
     },
     "stars": 77,
     "starsDetail": {
-      "total": 76
+      "total": 77
     },
     "license": "MIT License",
     "forks": 7,
@@ -11024,7 +11098,7 @@
     },
     "stars": 102,
     "starsDetail": {
-      "total": 101
+      "total": 102
     },
     "license": "MIT License",
     "forks": 17,
@@ -11054,7 +11128,7 @@
     },
     "stars": 373,
     "starsDetail": {
-      "total": 358
+      "total": 373
     },
     "license": "MIT License",
     "forks": 50,
@@ -11084,7 +11158,7 @@
     },
     "stars": 148,
     "starsDetail": {
-      "total": 147
+      "total": 148
     },
     "license": "Apache License 2.0",
     "forks": 24,
@@ -11109,7 +11183,7 @@
     },
     "stars": 18,
     "starsDetail": {
-      "total": 16
+      "total": 18
     },
     "license": "BSD 2-Clause \"Simplified\" License",
     "forks": 1,
@@ -11134,7 +11208,7 @@
     },
     "stars": 82,
     "starsDetail": {
-      "total": 81
+      "total": 82
     },
     "license": "MIT License",
     "forks": 3,
@@ -11163,7 +11237,7 @@
     },
     "stars": 223,
     "starsDetail": {
-      "total": 219
+      "total": 223
     },
     "license": "MIT License",
     "forks": 29,
@@ -11176,54 +11250,6 @@
     "goImportedBy": null,
     "createdAt": "2024-12-01T07:00:54.000Z",
     "updatedAt": "2025-04-09T23:41:14.000Z"
-  },
-  {
-    "id": "suekou/mcp-notion-server",
-    "name": "suekou/mcp-notion-server",
-    "description": "",
-    "topics": [],
-    "owner": {
-      "name": "suekou",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/136655880?v=4"
-    },
-    "stars": 521,
-    "starsDetail": {
-      "total": 495
-    },
-    "license": "MIT License",
-    "forks": 87,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-04-09T03:48:08.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2024-11-30T10:01:30.000Z",
-    "updatedAt": "2025-04-09T23:43:14.000Z"
-  },
-  {
-    "id": "supabase-community/supabase-mcp",
-    "name": "supabase-community/supabase-mcp",
-    "description": "Connect Supabase to your AI assistants",
-    "topics": [],
-    "owner": {
-      "name": "supabase-community",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/87650496?v=4"
-    },
-    "stars": 941,
-    "starsDetail": null,
-    "license": "Apache License 2.0",
-    "forks": 53,
-    "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-04-09T05:41:26.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2024-12-20T23:52:42.000Z",
-    "updatedAt": "2025-04-09T23:40:30.000Z"
   },
   {
     "id": "tacticlaunch/mcp-linear",
@@ -11241,7 +11267,7 @@
     },
     "stars": 37,
     "starsDetail": {
-      "total": 35
+      "total": 37
     },
     "license": "MIT License",
     "forks": 3,
@@ -11266,7 +11292,7 @@
     },
     "stars": 7,
     "starsDetail": {
-      "total": 6
+      "total": 7
     },
     "license": "MIT License",
     "forks": 1,
@@ -11316,7 +11342,7 @@
     },
     "stars": 13,
     "starsDetail": {
-      "total": 12
+      "total": 13
     },
     "license": "Apache License 2.0",
     "forks": 0,
@@ -11341,7 +11367,7 @@
     },
     "stars": 187,
     "starsDetail": {
-      "total": 183
+      "total": 187
     },
     "license": "Apache License 2.0",
     "forks": 8,
@@ -11484,7 +11510,7 @@
     },
     "stars": 38,
     "starsDetail": {
-      "total": 35
+      "total": 38
     },
     "license": "MIT License",
     "forks": 4,
@@ -11587,7 +11613,7 @@
     },
     "stars": 59,
     "starsDetail": {
-      "total": 57
+      "total": 59
     },
     "license": "MIT License",
     "forks": 17,
@@ -11612,7 +11638,7 @@
     },
     "stars": 68,
     "starsDetail": {
-      "total": 67
+      "total": 68
     },
     "license": "MIT License",
     "forks": 11,
@@ -11707,7 +11733,7 @@
     },
     "stars": 58,
     "starsDetail": {
-      "total": 55
+      "total": 58
     },
     "license": "MIT License",
     "forks": 2,
@@ -11735,7 +11761,7 @@
     },
     "stars": 35,
     "starsDetail": {
-      "total": 33
+      "total": 35
     },
     "license": "MIT License",
     "forks": 4,
@@ -11764,7 +11790,7 @@
     },
     "stars": 141,
     "starsDetail": {
-      "total": 136
+      "total": 141
     },
     "license": "MIT License",
     "forks": 23,
@@ -11821,7 +11847,7 @@
     },
     "stars": 77,
     "starsDetail": {
-      "total": 75
+      "total": 77
     },
     "license": "GNU General Public License v3.0",
     "forks": 16,
@@ -11871,7 +11897,7 @@
     },
     "stars": 7,
     "starsDetail": {
-      "total": 6
+      "total": 7
     },
     "license": null,
     "forks": 2,
@@ -11904,7 +11930,7 @@
     },
     "stars": 174,
     "starsDetail": {
-      "total": 167
+      "total": 174
     },
     "license": "MIT License",
     "forks": 30,
@@ -11939,7 +11965,7 @@
     },
     "stars": 92,
     "starsDetail": {
-      "total": 90
+      "total": 92
     },
     "license": "MIT License",
     "forks": 13,
@@ -11964,7 +11990,7 @@
     },
     "stars": 10,
     "starsDetail": {
-      "total": 9
+      "total": 10
     },
     "license": "Apache License 2.0",
     "forks": 1,
@@ -12019,7 +12045,7 @@
     },
     "stars": 222,
     "starsDetail": {
-      "total": 219
+      "total": 222
     },
     "license": "GNU General Public License v3.0",
     "forks": 17,
@@ -12044,7 +12070,7 @@
     },
     "stars": 32,
     "starsDetail": {
-      "total": 31
+      "total": 32
     },
     "license": "MIT License",
     "forks": 6,
@@ -12069,7 +12095,7 @@
     },
     "stars": 46,
     "starsDetail": {
-      "total": 45
+      "total": 46
     },
     "license": "MIT License",
     "forks": 7,
@@ -12100,7 +12126,7 @@
     },
     "stars": 9,
     "starsDetail": {
-      "total": 8
+      "total": 9
     },
     "license": "MIT License",
     "forks": 0,
@@ -12248,7 +12274,7 @@
     },
     "stars": 244,
     "starsDetail": {
-      "total": 235
+      "total": 244
     },
     "license": null,
     "forks": 35,
@@ -12358,7 +12384,7 @@
     },
     "stars": 22,
     "starsDetail": {
-      "total": 20
+      "total": 22
     },
     "license": null,
     "forks": 3,
@@ -12390,7 +12416,7 @@
     },
     "stars": 176,
     "starsDetail": {
-      "total": 171
+      "total": 176
     },
     "license": "MIT License",
     "forks": 28,
