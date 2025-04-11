@@ -532,16 +532,16 @@
       "updatedAt": 1736031653
     },
     "license": "Apache License 2.0",
-    "forks": 174,
+    "forks": 175,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-04-07T14:29:40.000Z",
+    "pushedAt": "2025-04-10T23:19:02.000Z",
     "archived": false,
     "npmPackage": "usearch",
     "npmLastMonthDownloads": 6713,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-02-22T09:20:20.000Z",
-    "updatedAt": "2025-04-10T03:58:50.000Z"
+    "updatedAt": "2025-04-11T06:32:07.000Z"
   },
   {
     "id": "apache/brpc",
@@ -4234,7 +4234,7 @@
       "name": "cossacklabs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11052315?v=4"
     },
-    "stars": 1910,
+    "stars": 1911,
     "starsDetail": {
       "total": 1858,
       "week": 0,
@@ -4252,7 +4252,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2015-05-06T13:25:25.000Z",
-    "updatedAt": "2025-04-10T03:54:48.000Z"
+    "updatedAt": "2025-04-11T06:27:44.000Z"
   },
   {
     "id": "cpputest/cpputest",
@@ -4754,7 +4754,7 @@
       "name": "jnv",
       "avatarUrl": "https://avatars.githubusercontent.com/u/616767?v=4"
     },
-    "stars": 10291,
+    "stars": 10295,
     "starsDetail": {
       "total": 10087,
       "week": 13,
@@ -4772,7 +4772,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-11-14T22:25:24.000Z",
-    "updatedAt": "2025-04-10T03:57:52.000Z"
+    "updatedAt": "2025-04-11T06:31:04.000Z"
   },
   {
     "id": "mlpack/mlpack",
@@ -7559,7 +7559,7 @@
       "name": "fastfloat",
       "avatarUrl": "https://avatars.githubusercontent.com/u/74873565?v=4"
     },
-    "stars": 1730,
+    "stars": 1732,
     "starsDetail": {
       "total": 1665,
       "week": 7,
@@ -7577,7 +7577,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-10-19T16:00:53.000Z",
-    "updatedAt": "2025-04-10T03:46:12.000Z"
+    "updatedAt": "2025-04-11T06:18:25.000Z"
   },
   {
     "id": "ggerganov/imtui",
@@ -13279,6 +13279,40 @@
     "updatedAt": "2025-04-11T02:30:48.000Z"
   },
   {
+    "id": "tomolt/libschrift",
+    "name": "tomolt/libschrift",
+    "description": "A lightweight TrueType font rendering library",
+    "topics": [
+      "c",
+      "library",
+      "suckless",
+      "truetype"
+    ],
+    "owner": {
+      "name": "tomolt",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6959624?v=4"
+    },
+    "stars": 500,
+    "starsDetail": {
+      "total": 500,
+      "week": 1,
+      "month": 2,
+      "year": 80,
+      "updatedAt": 1744353159
+    },
+    "license": "ISC License",
+    "forks": 37,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2024-03-25T19:26:35.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-04-04T15:34:02.000Z",
+    "updatedAt": "2025-04-11T02:32:25.000Z"
+  },
+  {
     "id": "yhirose/cpp-httplib",
     "name": "yhirose/cpp-httplib",
     "description": "A C++ header-only HTTP/HTTPS server and client library",
@@ -14766,7 +14800,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-09-04T11:48:34.000Z",
-    "updatedAt": "2025-04-10T03:53:03.000Z"
+    "updatedAt": "2025-04-11T06:25:51.000Z"
   },
   {
     "id": "ZigRazor/CXXGraph",
@@ -17452,7 +17486,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2019-01-13T02:32:55.000Z",
-    "updatedAt": "2025-04-10T03:56:44.000Z"
+    "updatedAt": "2025-04-11T06:29:50.000Z"
   },
   {
     "id": "KratosMultiphysics/Kratos",
@@ -18020,7 +18054,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-21T04:39:40.000Z",
-    "updatedAt": "2025-04-10T03:54:09.000Z"
+    "updatedAt": "2025-04-11T06:27:01.000Z"
   },
   {
     "id": "catchorg/Catch2",
@@ -20295,7 +20329,7 @@
     },
     "stars": 34299,
     "starsDetail": {
-      "total": 34297
+      "total": 34299
     },
     "license": "Other",
     "forks": 18640,
@@ -21064,7 +21098,7 @@
     },
     "stars": 309,
     "starsDetail": {
-      "total": 308
+      "total": 309
     },
     "license": "Other",
     "forks": 18,
@@ -21201,7 +21235,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-10-21T03:19:26.000Z",
-    "updatedAt": "2025-04-10T03:51:22.000Z"
+    "updatedAt": "2025-04-11T06:24:01.000Z"
   },
   {
     "id": "Privatehive/libONVIF",
@@ -21428,7 +21462,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-04-02T16:11:36.000Z",
-    "updatedAt": "2025-04-10T03:58:31.000Z"
+    "updatedAt": "2025-04-11T06:31:47.000Z"
   },
   {
     "id": "Tencent/BqLog",
@@ -21458,7 +21492,7 @@
     },
     "stars": 309,
     "starsDetail": {
-      "total": 308
+      "total": 309
     },
     "license": "Other",
     "forks": 27,
@@ -21868,7 +21902,7 @@
     },
     "stars": 469,
     "starsDetail": {
-      "total": 468
+      "total": 469
     },
     "license": "Other",
     "forks": 88,
@@ -22410,7 +22444,7 @@
     },
     "stars": 12,
     "starsDetail": {
-      "total": 11
+      "total": 12
     },
     "license": "MIT License",
     "forks": 2,
@@ -22465,12 +22499,12 @@
       "name": "bayandin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/864213?v=4"
     },
-    "stars": 32490,
+    "stars": 32495,
     "starsDetail": {
-      "total": 32490
+      "total": 32495
     },
     "license": null,
-    "forks": 3573,
+    "forks": 3572,
     "primaryLanguage": "Ruby",
     "pushedAt": "2024-06-02T22:46:41.000Z",
     "archived": false,
@@ -22479,7 +22513,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-07-08T05:44:19.000Z",
-    "updatedAt": "2025-04-10T03:57:53.000Z"
+    "updatedAt": "2025-04-11T06:31:05.000Z"
   },
   {
     "id": "beached/daw_json_link",
@@ -22545,7 +22579,7 @@
     },
     "stars": 271,
     "starsDetail": {
-      "total": 270
+      "total": 271
     },
     "license": "MIT License",
     "forks": 47,
@@ -23117,7 +23151,7 @@
     },
     "stars": 476,
     "starsDetail": {
-      "total": 475
+      "total": 476
     },
     "license": "MIT License",
     "forks": 120,
@@ -23327,7 +23361,7 @@
     },
     "stars": 347,
     "starsDetail": {
-      "total": 346
+      "total": 347
     },
     "license": "MIT License",
     "forks": 176,
@@ -23810,7 +23844,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-04-30T23:12:52.000Z",
-    "updatedAt": "2025-04-10T03:53:01.000Z"
+    "updatedAt": "2025-04-11T06:25:49.000Z"
   },
   {
     "id": "erikerlandson/st_tree",
@@ -23918,7 +23952,7 @@
     },
     "stars": 34237,
     "starsDetail": {
-      "total": 34216
+      "total": 34237
     },
     "license": "MIT License",
     "forks": 3832,
@@ -24079,7 +24113,7 @@
     },
     "stars": 96018,
     "starsDetail": {
-      "total": 95961
+      "total": 96018
     },
     "license": "MIT License",
     "forks": 22114,
@@ -24104,7 +24138,7 @@
     },
     "stars": 35848,
     "starsDetail": {
-      "total": 35842
+      "total": 35848
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "forks": 10333,
@@ -24208,7 +24242,7 @@
     },
     "stars": 38054,
     "starsDetail": {
-      "total": 38049
+      "total": 38054
     },
     "license": "Other",
     "forks": 13024,
@@ -24283,7 +24317,7 @@
     },
     "stars": 42845,
     "starsDetail": {
-      "total": 42840
+      "total": 42845
     },
     "license": "Apache License 2.0",
     "forks": 10736,
@@ -24377,7 +24411,7 @@
     },
     "stars": 324,
     "starsDetail": {
-      "total": 323
+      "total": 324
     },
     "license": "GNU Affero General Public License v3.0",
     "forks": 24,
@@ -24434,7 +24468,7 @@
     },
     "stars": 43522,
     "starsDetail": {
-      "total": 43514
+      "total": 43522
     },
     "license": "Other",
     "forks": 5468,
@@ -24905,7 +24939,7 @@
     },
     "stars": 46108,
     "starsDetail": {
-      "total": 46102
+      "total": 46108
     },
     "license": "MIT License",
     "forks": 10651,
@@ -25138,7 +25172,7 @@
     },
     "stars": 446,
     "starsDetail": {
-      "total": 445
+      "total": 446
     },
     "license": "Other",
     "forks": 96,
@@ -25429,7 +25463,7 @@
     },
     "stars": 461,
     "starsDetail": {
-      "total": 460
+      "total": 461
     },
     "license": "Other",
     "forks": 132,
@@ -25682,7 +25716,7 @@
     },
     "stars": 494,
     "starsDetail": {
-      "total": 495
+      "total": 494
     },
     "license": "Other",
     "forks": 49,
@@ -25957,7 +25991,7 @@
     },
     "stars": 240,
     "starsDetail": {
-      "total": 239
+      "total": 240
     },
     "license": "Apache License 2.0",
     "forks": 51,
@@ -25988,7 +26022,7 @@
     },
     "stars": 302,
     "starsDetail": {
-      "total": 301
+      "total": 302
     },
     "license": "Other",
     "forks": 23,
@@ -26140,7 +26174,7 @@
     },
     "stars": 400,
     "starsDetail": {
-      "total": 399
+      "total": 400
     },
     "license": "Apache License 2.0",
     "forks": 8,
@@ -26255,7 +26289,7 @@
     },
     "stars": 45160,
     "starsDetail": {
-      "total": 45134
+      "total": 45160
     },
     "license": "MIT License",
     "forks": 6933,
@@ -26451,7 +26485,7 @@
     },
     "stars": 92267,
     "starsDetail": {
-      "total": 92244
+      "total": 92267
     },
     "license": null,
     "forks": 5893,
@@ -26636,7 +26670,7 @@
     },
     "stars": 67229,
     "starsDetail": {
-      "total": 67187
+      "total": 67229
     },
     "license": "Other",
     "forks": 15670,
@@ -26729,7 +26763,7 @@
     },
     "stars": 384,
     "starsDetail": {
-      "total": 383
+      "total": 384
     },
     "license": null,
     "forks": 20,
@@ -27070,7 +27104,7 @@
     },
     "stars": 290,
     "starsDetail": {
-      "total": 289
+      "total": 290
     },
     "license": "MIT License",
     "forks": 30,
@@ -27430,36 +27464,6 @@
     "goImportedBy": null,
     "createdAt": "2018-03-04T11:58:09.000Z",
     "updatedAt": "2025-04-10T10:24:11.000Z"
-  },
-  {
-    "id": "tomolt/libschrift",
-    "name": "tomolt/libschrift",
-    "description": "A lightweight TrueType font rendering library",
-    "topics": [
-      "c",
-      "library",
-      "suckless",
-      "truetype"
-    ],
-    "owner": {
-      "name": "tomolt",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6959624?v=4"
-    },
-    "stars": 500,
-    "starsDetail": {
-      "total": 499
-    },
-    "license": "ISC License",
-    "forks": 37,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2024-03-25T19:26:35.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-04-04T15:34:02.000Z",
-    "updatedAt": "2025-04-11T02:32:25.000Z"
   },
   {
     "id": "ukoethe/vigra",
