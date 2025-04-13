@@ -1184,7 +1184,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-06-10T19:23:59.000Z",
-    "updatedAt": "2025-04-12T15:43:59.000Z"
+    "updatedAt": "2025-04-13T18:25:40.000Z"
   },
   {
     "id": "riok/mapperly",
@@ -1518,7 +1518,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-12-02T05:15:37.000Z",
-    "updatedAt": "2025-04-12T15:26:05.000Z"
+    "updatedAt": "2025-04-13T18:10:14.000Z"
   },
   {
     "id": "realm/realm-dotnet",
@@ -2453,7 +2453,7 @@
       "name": "DapperLib",
       "avatarUrl": "https://avatars.githubusercontent.com/u/83077457?v=4"
     },
-    "stars": 17825,
+    "stars": 17827,
     "starsDetail": {
       "total": 17655,
       "week": 12,
@@ -2471,7 +2471,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-04-14T08:42:59.000Z",
-    "updatedAt": "2025-04-12T15:44:03.000Z"
+    "updatedAt": "2025-04-13T18:25:44.000Z"
   },
   {
     "id": "pythonnet/pythonnet",
@@ -3525,7 +3525,7 @@
       "name": "ZGGSONG",
       "avatarUrl": "https://avatars.githubusercontent.com/u/49741009?v=4"
     },
-    "stars": 3454,
+    "stars": 3464,
     "starsDetail": {
       "total": 2797,
       "week": 35,
@@ -3534,16 +3534,16 @@
       "updatedAt": 1738072281
     },
     "license": "MIT License",
-    "forks": 205,
+    "forks": 206,
     "primaryLanguage": "C",
-    "pushedAt": "2025-04-10T10:06:02.000Z",
+    "pushedAt": "2025-04-13T07:53:41.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-12-17T13:40:24.000Z",
-    "updatedAt": "2025-04-12T15:45:11.000Z"
+    "updatedAt": "2025-04-13T18:26:43.000Z"
   },
   {
     "id": "Azure/azure-powershell",
@@ -3724,7 +3724,7 @@
       "name": "devlooped",
       "avatarUrl": "https://avatars.githubusercontent.com/u/61533818?v=4"
     },
-    "stars": 6119,
+    "stars": 6120,
     "starsDetail": {
       "total": 6009,
       "week": 10,
@@ -3742,7 +3742,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-03-11T21:09:02.000Z",
-    "updatedAt": "2025-04-12T15:44:04.000Z"
+    "updatedAt": "2025-04-13T18:25:45.000Z"
   },
   {
     "id": "dotnet/orleans",
@@ -3859,7 +3859,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-02-25T20:54:32.000Z",
-    "updatedAt": "2025-04-12T15:26:05.000Z"
+    "updatedAt": "2025-04-13T18:10:14.000Z"
   },
   {
     "id": "belav/csharpier",
@@ -3959,7 +3959,7 @@
       "name": "Taiizor",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41683699?v=4"
     },
-    "stars": 685,
+    "stars": 690,
     "starsDetail": {
       "total": 603,
       "week": 16,
@@ -3977,7 +3977,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-06-21T23:46:15.000Z",
-    "updatedAt": "2025-04-12T15:45:17.000Z"
+    "updatedAt": "2025-04-13T18:26:49.000Z"
   },
   {
     "id": "dotnet/reactive",
@@ -4085,7 +4085,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-17T16:07:56.000Z",
-    "updatedAt": "2025-04-12T15:43:58.000Z"
+    "updatedAt": "2025-04-13T18:25:40.000Z"
   },
   {
     "id": "CollaboratingPlatypus/PetaPoco",
@@ -4691,7 +4691,7 @@
       "updatedAt": 1743132997
     },
     "license": "MIT License",
-    "forks": 678,
+    "forks": 677,
     "primaryLanguage": "Batchfile",
     "pushedAt": "2025-04-12T14:39:14.000Z",
     "archived": false,
@@ -4700,7 +4700,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-08-27T07:28:47.000Z",
-    "updatedAt": "2025-04-12T15:43:55.000Z"
+    "updatedAt": "2025-04-13T18:25:36.000Z"
   },
   {
     "id": "khellang/Scrutor",
@@ -6850,7 +6850,7 @@
       "name": "dotnet",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9141961?v=4"
     },
-    "stars": 2864,
+    "stars": 2865,
     "starsDetail": {
       "total": 2838,
       "week": 3,
@@ -6859,16 +6859,16 @@
       "updatedAt": 1743132995
     },
     "license": "MIT License",
-    "forks": 1110,
+    "forks": 1111,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-04-12T14:56:10.000Z",
+    "pushedAt": "2025-04-13T13:19:53.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-07-22T21:26:02.000Z",
-    "updatedAt": "2025-04-12T15:43:52.000Z"
+    "updatedAt": "2025-04-13T18:25:34.000Z"
   },
   {
     "id": "ChangemakerStudios/Papercut-SMTP",
@@ -7035,7 +7035,7 @@
       "name": "itext",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5889165?v=4"
     },
-    "stars": 1774,
+    "stars": 1776,
     "starsDetail": {
       "total": 1766,
       "week": 9,
@@ -7053,7 +7053,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-16T14:34:03.000Z",
-    "updatedAt": "2025-04-12T15:44:01.000Z"
+    "updatedAt": "2025-04-13T18:25:42.000Z"
   },
   {
     "id": "ExcelDataReader/ExcelDataReader",
@@ -7548,7 +7548,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-05-11T13:40:49.000Z",
-    "updatedAt": "2025-04-12T15:43:55.000Z"
+    "updatedAt": "2025-04-13T18:25:37.000Z"
   },
   {
     "id": "QuantConnect/Lean",
@@ -7631,7 +7631,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-05-29T13:47:01.000Z",
-    "updatedAt": "2025-04-12T15:44:00.000Z"
+    "updatedAt": "2025-04-13T18:25:41.000Z"
   },
   {
     "id": "fluentribbon/Fluent.Ribbon",
@@ -7703,7 +7703,7 @@
       "name": "CommunityToolkit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41346473?v=4"
     },
-    "stars": 5970,
+    "stars": 5971,
     "starsDetail": {
       "total": 5919,
       "week": 6,
@@ -7721,7 +7721,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-06-17T21:29:46.000Z",
-    "updatedAt": "2025-04-12T15:32:49.000Z"
+    "updatedAt": "2025-04-13T18:16:18.000Z"
   },
   {
     "id": "grpc/grpc-dotnet",
@@ -10259,7 +10259,7 @@
       "name": "git-ecosystem",
       "avatarUrl": "https://avatars.githubusercontent.com/u/64464614?v=4"
     },
-    "stars": 7469,
+    "stars": 7471,
     "starsDetail": {
       "total": 7393,
       "week": 27,
@@ -10268,7 +10268,7 @@
       "updatedAt": 1743132999
     },
     "license": "Other",
-    "forks": 2051,
+    "forks": 2055,
     "primaryLanguage": "PowerShell",
     "pushedAt": "2025-03-31T20:55:12.000Z",
     "archived": false,
@@ -10277,7 +10277,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-11-20T14:50:07.000Z",
-    "updatedAt": "2025-04-12T15:43:54.000Z"
+    "updatedAt": "2025-04-13T18:25:36.000Z"
   },
   {
     "id": "dotnet/roslyn-analyzers",
@@ -12095,7 +12095,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-16T08:35:01.000Z",
-    "updatedAt": "2025-04-12T15:45:16.000Z"
+    "updatedAt": "2025-04-13T18:26:48.000Z"
   },
   {
     "id": "Countly/countly-sdk-windows",
@@ -14166,21 +14166,21 @@
       "name": "dotnet",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9141961?v=4"
     },
-    "stars": 36441,
+    "stars": 36448,
     "starsDetail": {
-      "total": 36441
+      "total": 36448
     },
     "license": "MIT License",
-    "forks": 10291,
+    "forks": 10292,
     "primaryLanguage": "SCSS",
-    "pushedAt": "2025-04-12T10:57:08.000Z",
+    "pushedAt": "2025-04-13T18:18:41.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-03-11T06:09:42.000Z",
-    "updatedAt": "2025-04-12T15:43:52.000Z"
+    "updatedAt": "2025-04-13T18:25:33.000Z"
   },
   {
     "id": "dropbox/dropbox-sdk-dotnet",
@@ -14455,9 +14455,9 @@
       "name": "friflo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6030520?v=4"
     },
-    "stars": 287,
+    "stars": 288,
     "starsDetail": {
-      "total": 287
+      "total": 288
     },
     "license": "MIT License",
     "forks": 29,
@@ -14469,7 +14469,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-07-24T09:07:32.000Z",
-    "updatedAt": "2025-04-12T15:43:53.000Z"
+    "updatedAt": "2025-04-13T18:25:34.000Z"
   },
   {
     "id": "friflo/Friflo.Json.Fliox",
@@ -15108,9 +15108,9 @@
       "name": "lofcz",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10260230?v=4"
     },
-    "stars": 52,
+    "stars": 53,
     "starsDetail": {
-      "total": 52
+      "total": 53
     },
     "license": "MIT License",
     "forks": 0,
@@ -15122,7 +15122,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2025-01-07T12:46:49.000Z",
-    "updatedAt": "2025-04-12T15:45:39.000Z"
+    "updatedAt": "2025-04-13T18:27:09.000Z"
   },
   {
     "id": "lofcz/LlmTornado",
@@ -15153,21 +15153,21 @@
       "name": "lofcz",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10260230?v=4"
     },
-    "stars": 105,
+    "stars": 106,
     "starsDetail": {
-      "total": 105
+      "total": 106
     },
     "license": "MIT License",
     "forks": 21,
     "primaryLanguage": "C#",
-    "pushedAt": "2025-04-10T13:00:52.000Z",
+    "pushedAt": "2025-04-13T13:32:35.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-10-08T14:09:43.000Z",
-    "updatedAt": "2025-04-12T15:45:32.000Z"
+    "updatedAt": "2025-04-13T18:27:03.000Z"
   },
   {
     "id": "m31coding/M31.FluentAPI",
@@ -15804,7 +15804,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-27T14:03:01.000Z",
-    "updatedAt": "2025-04-12T15:45:41.000Z"
+    "updatedAt": "2025-04-13T18:27:11.000Z"
   },
   {
     "id": "stratdev3/SimpleW",
