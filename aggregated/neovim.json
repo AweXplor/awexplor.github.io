@@ -824,7 +824,7 @@
       "name": "skim-rs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/187454154?v=4"
     },
-    "stars": 5594,
+    "stars": 5598,
     "starsDetail": {
       "total": 5309,
       "week": 18,
@@ -842,7 +842,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-05-29T06:24:46.000Z",
-    "updatedAt": "2025-04-11T22:07:48.000Z"
+    "updatedAt": "2025-04-13T01:00:07.000Z"
   },
   {
     "id": "3rd/image.nvim",
@@ -6213,7 +6213,7 @@
       "name": "cweill",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2343711?v=4"
     },
-    "stars": 5048,
+    "stars": 5049,
     "starsDetail": {
       "total": 4987,
       "week": 4,
@@ -6222,7 +6222,7 @@
       "updatedAt": 1736033510
     },
     "license": "Apache License 2.0",
-    "forks": 346,
+    "forks": 345,
     "primaryLanguage": "Go",
     "pushedAt": "2023-09-12T00:02:48.000Z",
     "archived": false,
@@ -6231,7 +6231,7 @@
     "goPackage": "github.com/cweill/gotests",
     "goImportedBy": 35,
     "createdAt": "2016-01-19T05:06:02.000Z",
-    "updatedAt": "2025-04-11T22:20:25.000Z"
+    "updatedAt": "2025-04-13T01:12:27.000Z"
   },
   {
     "id": "gelguy/wilder.nvim",
@@ -7466,7 +7466,7 @@
       "updatedAt": 1736087119
     },
     "license": "MIT License",
-    "forks": 36,
+    "forks": 37,
     "primaryLanguage": "Makefile",
     "pushedAt": "2025-04-11T13:46:29.000Z",
     "archived": false,
@@ -7475,7 +7475,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-08-24T17:13:20.000Z",
-    "updatedAt": "2025-04-11T22:08:15.000Z"
+    "updatedAt": "2025-04-13T01:00:34.000Z"
   },
   {
     "id": "hrsh7th/nvim-cmp",
