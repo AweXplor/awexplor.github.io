@@ -482,6 +482,41 @@
     "updatedAt": "2025-04-14T10:58:52.000Z"
   },
   {
+    "id": "milanglacier/minuet-ai.nvim",
+    "name": "milanglacier/minuet-ai.nvim",
+    "description": "💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.",
+    "topics": [
+      "ai",
+      "code-completion",
+      "llm",
+      "neovim",
+      "neovim-plugin"
+    ],
+    "owner": {
+      "name": "milanglacier",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45728125?v=4"
+    },
+    "stars": 502,
+    "starsDetail": {
+      "total": 502,
+      "week": 30,
+      "month": 94,
+      "year": 502,
+      "updatedAt": 1744641888
+    },
+    "license": "GNU General Public License v3.0",
+    "forks": 24,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2025-04-13T19:34:52.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2024-07-20T19:37:55.000Z",
+    "updatedAt": "2025-04-14T10:58:23.000Z"
+  },
+  {
     "id": "stevearc/quicker.nvim",
     "name": "stevearc/quicker.nvim",
     "description": "Improved UI and workflow for the Neovim quickfix",
@@ -1994,7 +2029,7 @@
       "name": "supermaven-inc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/127350487?v=4"
     },
-    "stars": 979,
+    "stars": 980,
     "starsDetail": {
       "total": 825,
       "week": 5,
@@ -2003,7 +2038,7 @@
       "updatedAt": 1736087020
     },
     "license": "MIT License",
-    "forks": 50,
+    "forks": 49,
     "primaryLanguage": "Lua",
     "pushedAt": "2024-10-07T15:28:50.000Z",
     "archived": false,
@@ -2012,7 +2047,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-08T17:37:53.000Z",
-    "updatedAt": "2025-04-13T12:01:40.000Z"
+    "updatedAt": "2025-04-14T14:38:29.000Z"
   },
   {
     "id": "rcarriga/nvim-dap-ui",
@@ -2697,7 +2732,7 @@
       "name": "nvim-java",
       "avatarUrl": "https://avatars.githubusercontent.com/u/150328080?v=4"
     },
-    "stars": 1165,
+    "stars": 1167,
     "starsDetail": {
       "total": 979,
       "week": 16,
@@ -2706,7 +2741,7 @@
       "updatedAt": 1736087094
     },
     "license": "MIT License",
-    "forks": 53,
+    "forks": 52,
     "primaryLanguage": "Makefile",
     "pushedAt": "2025-02-17T02:09:06.000Z",
     "archived": false,
@@ -2715,7 +2750,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-11-10T10:40:56.000Z",
-    "updatedAt": "2025-04-13T12:06:54.000Z"
+    "updatedAt": "2025-04-14T14:43:47.000Z"
   },
   {
     "id": "catgoose/nvim-colorizer.lua",
@@ -5064,7 +5099,7 @@
       "name": "sxyazi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17523360?v=4"
     },
-    "stars": 24047,
+    "stars": 24077,
     "starsDetail": {
       "total": 19940,
       "week": 539,
@@ -5082,7 +5117,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-07-08T11:45:55.000Z",
-    "updatedAt": "2025-04-13T12:07:33.000Z"
+    "updatedAt": "2025-04-14T14:44:26.000Z"
   },
   {
     "id": "Mofiqul/vscode.nvim",
@@ -5547,7 +5582,7 @@
       "name": "TaDaa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/657951?v=4"
     },
-    "stars": 607,
+    "stars": 609,
     "starsDetail": {
       "total": 577,
       "week": 3,
@@ -5565,7 +5600,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-01-07T17:47:35.000Z",
-    "updatedAt": "2025-04-13T11:59:03.000Z"
+    "updatedAt": "2025-04-14T14:35:49.000Z"
   },
   {
     "id": "projekt0n/github-nvim-theme",
@@ -10406,14 +10441,14 @@
     "license": "GNU General Public License v3.0",
     "forks": 0,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-03-30T20:46:14.000Z",
+    "pushedAt": "2025-04-13T14:55:27.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-14T03:54:21.000Z",
-    "updatedAt": "2025-04-13T11:53:12.000Z"
+    "updatedAt": "2025-04-14T14:29:51.000Z"
   },
   {
     "id": "2KAbhishek/markit.nvim",
@@ -10498,21 +10533,21 @@
       "name": "2KAbhishek",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25423853?v=4"
     },
-    "stars": 70,
+    "stars": 71,
     "starsDetail": {
-      "total": 70
+      "total": 71
     },
     "license": "GNU General Public License v3.0",
     "forks": 0,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-04-05T22:52:22.000Z",
+    "pushedAt": "2025-04-13T14:52:49.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-26T05:07:45.000Z",
-    "updatedAt": "2025-04-13T11:50:51.000Z"
+    "updatedAt": "2025-04-14T14:27:27.000Z"
   },
   {
     "id": "2KAbhishek/tdo.nvim",
@@ -10581,7 +10616,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-15T00:49:34.000Z",
-    "updatedAt": "2025-04-13T11:50:52.000Z"
+    "updatedAt": "2025-04-14T14:27:28.000Z"
   },
   {
     "id": "2KAbhishek/termim.nvim",
@@ -10639,14 +10674,14 @@
     "license": "GNU General Public License v3.0",
     "forks": 1,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-04-06T00:44:15.000Z",
+    "pushedAt": "2025-04-13T14:44:00.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-01T11:03:21.000Z",
-    "updatedAt": "2025-04-13T11:50:50.000Z"
+    "updatedAt": "2025-04-14T14:27:27.000Z"
   },
   {
     "id": "2nthony/vitesse.nvim",
@@ -11597,7 +11632,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-10T11:51:30.000Z",
-    "updatedAt": "2025-04-13T11:53:12.000Z"
+    "updatedAt": "2025-04-14T14:29:51.000Z"
   },
   {
     "id": "Dan7h3x/signup.nvim",
@@ -11626,7 +11661,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-03T09:50:30.000Z",
-    "updatedAt": "2025-04-13T11:53:11.000Z"
+    "updatedAt": "2025-04-14T14:29:50.000Z"
   },
   {
     "id": "DanilaMihailov/beacon.nvim",
@@ -11640,9 +11675,9 @@
       "name": "DanilaMihailov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1163040?v=4"
     },
-    "stars": 493,
+    "stars": 497,
     "starsDetail": {
-      "total": 493
+      "total": 497
     },
     "license": null,
     "forks": 12,
@@ -11654,7 +11689,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-06-23T14:15:07.000Z",
-    "updatedAt": "2025-04-13T12:06:55.000Z"
+    "updatedAt": "2025-04-14T14:43:49.000Z"
   },
   {
     "id": "Darazaki/indent-o-matic",
@@ -17147,7 +17182,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-06-01T10:52:25.000Z",
-    "updatedAt": "2025-04-13T12:01:13.000Z"
+    "updatedAt": "2025-04-14T14:38:02.000Z"
   },
   {
     "id": "calind/selenized.nvim",
@@ -17886,9 +17921,9 @@
       "name": "claydugo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14915070?v=4"
     },
-    "stars": 8,
+    "stars": 9,
     "starsDetail": {
-      "total": 8
+      "total": 9
     },
     "license": null,
     "forks": 2,
@@ -17900,7 +17935,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-09T01:47:44.000Z",
-    "updatedAt": "2025-04-13T11:59:07.000Z"
+    "updatedAt": "2025-04-14T14:35:52.000Z"
   },
   {
     "id": "clojure-vim/jazz.nvim",
@@ -18397,7 +18432,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-05T12:27:56.000Z",
-    "updatedAt": "2025-04-13T12:06:55.000Z"
+    "updatedAt": "2025-04-14T14:43:50.000Z"
   },
   {
     "id": "csessh/stopinsert.nvim",
@@ -18624,7 +18659,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-30T12:08:53.000Z",
-    "updatedAt": "2025-04-13T11:59:19.000Z"
+    "updatedAt": "2025-04-14T14:36:05.000Z"
   },
   {
     "id": "danielpieper/telescope-tmuxinator.nvim",
@@ -20852,7 +20887,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-27T10:47:42.000Z",
-    "updatedAt": "2025-04-13T11:59:07.000Z"
+    "updatedAt": "2025-04-14T14:35:52.000Z"
   },
   {
     "id": "gsuuon/model.nvim",
@@ -22508,7 +22543,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-24T23:16:29.000Z",
-    "updatedAt": "2025-04-13T12:01:12.000Z"
+    "updatedAt": "2025-04-14T14:38:01.000Z"
   },
   {
     "id": "jvgrootveld/telescope-zoxide",
@@ -25039,37 +25074,6 @@
     "goImportedBy": null,
     "createdAt": "2024-04-08T14:28:41.000Z",
     "updatedAt": "2025-04-14T11:00:23.000Z"
-  },
-  {
-    "id": "milanglacier/minuet-ai.nvim",
-    "name": "milanglacier/minuet-ai.nvim",
-    "description": "💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.",
-    "topics": [
-      "ai",
-      "code-completion",
-      "llm",
-      "neovim",
-      "neovim-plugin"
-    ],
-    "owner": {
-      "name": "milanglacier",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/45728125?v=4"
-    },
-    "stars": 502,
-    "starsDetail": {
-      "total": 498
-    },
-    "license": "GNU General Public License v3.0",
-    "forks": 24,
-    "primaryLanguage": "Lua",
-    "pushedAt": "2025-04-13T19:34:52.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2024-07-20T19:37:55.000Z",
-    "updatedAt": "2025-04-14T10:58:23.000Z"
   },
   {
     "id": "milanglacier/yarepl.nvim",
@@ -27810,7 +27814,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-03-05T10:38:20.000Z",
-    "updatedAt": "2025-04-13T11:59:09.000Z"
+    "updatedAt": "2025-04-14T14:35:54.000Z"
   },
   {
     "id": "pewpewnor/pilot.nvim",
@@ -31761,7 +31765,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-11T00:23:26.000Z",
-    "updatedAt": "2025-04-13T12:01:10.000Z"
+    "updatedAt": "2025-04-14T14:37:59.000Z"
   },
   {
     "id": "tris203/hawtkeys.nvim",
@@ -33195,7 +33199,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-09T12:27:53.000Z",
-    "updatedAt": "2025-04-13T11:53:12.000Z"
+    "updatedAt": "2025-04-14T14:29:50.000Z"
   },
   {
     "id": "you-n-g/simplegpt.nvim",
