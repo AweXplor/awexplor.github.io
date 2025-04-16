@@ -2029,7 +2029,7 @@
       "name": "supermaven-inc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/127350487?v=4"
     },
-    "stars": 982,
+    "stars": 984,
     "starsDetail": {
       "total": 825,
       "week": 5,
@@ -2047,7 +2047,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-08T17:37:53.000Z",
-    "updatedAt": "2025-04-15T17:20:14.000Z"
+    "updatedAt": "2025-04-16T20:00:59.000Z"
   },
   {
     "id": "rcarriga/nvim-dap-ui",
@@ -2750,7 +2750,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-11-10T10:40:56.000Z",
-    "updatedAt": "2025-04-15T17:25:15.000Z"
+    "updatedAt": "2025-04-16T20:05:44.000Z"
   },
   {
     "id": "catgoose/nvim-colorizer.lua",
@@ -4505,6 +4505,38 @@
     "updatedAt": "2025-04-16T16:21:18.000Z"
   },
   {
+    "id": "DanilaMihailov/beacon.nvim",
+    "name": "DanilaMihailov/beacon.nvim",
+    "description": "Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is",
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ],
+    "owner": {
+      "name": "DanilaMihailov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1163040?v=4"
+    },
+    "stars": 500,
+    "starsDetail": {
+      "total": 500,
+      "week": 14,
+      "month": 33,
+      "year": 214,
+      "updatedAt": 1744833999
+    },
+    "license": null,
+    "forks": 12,
+    "primaryLanguage": "Lua",
+    "pushedAt": "2024-06-25T06:03:46.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2020-06-23T14:15:07.000Z",
+    "updatedAt": "2025-04-16T20:05:46.000Z"
+  },
+  {
     "id": "folke/twilight.nvim",
     "name": "folke/twilight.nvim",
     "description": "🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.",
@@ -5099,7 +5131,7 @@
       "name": "sxyazi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17523360?v=4"
     },
-    "stars": 24101,
+    "stars": 24143,
     "starsDetail": {
       "total": 19940,
       "week": 539,
@@ -5110,14 +5142,14 @@
     "license": "MIT License",
     "forks": 526,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-04-13T07:09:15.000Z",
+    "pushedAt": "2025-04-16T12:22:06.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-07-08T11:45:55.000Z",
-    "updatedAt": "2025-04-15T17:25:51.000Z"
+    "updatedAt": "2025-04-16T20:06:18.000Z"
   },
   {
     "id": "Mofiqul/vscode.nvim",
@@ -5600,7 +5632,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-01-07T17:47:35.000Z",
-    "updatedAt": "2025-04-15T17:17:44.000Z"
+    "updatedAt": "2025-04-16T19:58:38.000Z"
   },
   {
     "id": "projekt0n/github-nvim-theme",
@@ -10434,9 +10466,9 @@
       "name": "2KAbhishek",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25423853?v=4"
     },
-    "stars": 21,
+    "stars": 22,
     "starsDetail": {
-      "total": 21
+      "total": 22
     },
     "license": "GNU General Public License v3.0",
     "forks": 0,
@@ -10448,7 +10480,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-14T03:54:21.000Z",
-    "updatedAt": "2025-04-15T17:12:05.000Z"
+    "updatedAt": "2025-04-16T19:53:23.000Z"
   },
   {
     "id": "2KAbhishek/markit.nvim",
@@ -10547,7 +10579,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-26T05:07:45.000Z",
-    "updatedAt": "2025-04-15T17:09:48.000Z"
+    "updatedAt": "2025-04-16T19:51:18.000Z"
   },
   {
     "id": "2KAbhishek/tdo.nvim",
@@ -10616,7 +10648,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-15T00:49:34.000Z",
-    "updatedAt": "2025-04-15T17:09:49.000Z"
+    "updatedAt": "2025-04-16T19:51:18.000Z"
   },
   {
     "id": "2KAbhishek/termim.nvim",
@@ -10681,7 +10713,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-01T11:03:21.000Z",
-    "updatedAt": "2025-04-15T17:09:48.000Z"
+    "updatedAt": "2025-04-16T19:51:18.000Z"
   },
   {
     "id": "2nthony/vitesse.nvim",
@@ -11632,7 +11664,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-10T11:51:30.000Z",
-    "updatedAt": "2025-04-15T17:12:04.000Z"
+    "updatedAt": "2025-04-16T19:53:23.000Z"
   },
   {
     "id": "Dan7h3x/signup.nvim",
@@ -11661,35 +11693,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-03T09:50:30.000Z",
-    "updatedAt": "2025-04-15T17:12:03.000Z"
-  },
-  {
-    "id": "DanilaMihailov/beacon.nvim",
-    "name": "DanilaMihailov/beacon.nvim",
-    "description": "Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is",
-    "topics": [
-      "neovim",
-      "neovim-plugin"
-    ],
-    "owner": {
-      "name": "DanilaMihailov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1163040?v=4"
-    },
-    "stars": 499,
-    "starsDetail": {
-      "total": 499
-    },
-    "license": null,
-    "forks": 12,
-    "primaryLanguage": "Lua",
-    "pushedAt": "2024-06-25T06:03:46.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2020-06-23T14:15:07.000Z",
-    "updatedAt": "2025-04-15T17:25:16.000Z"
+    "updatedAt": "2025-04-16T19:53:22.000Z"
   },
   {
     "id": "Darazaki/indent-o-matic",
@@ -17243,7 +17247,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-06-01T10:52:25.000Z",
-    "updatedAt": "2025-04-15T17:19:49.000Z"
+    "updatedAt": "2025-04-16T20:00:35.000Z"
   },
   {
     "id": "calind/selenized.nvim",
@@ -17996,7 +18000,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-09T01:47:44.000Z",
-    "updatedAt": "2025-04-15T17:17:47.000Z"
+    "updatedAt": "2025-04-16T19:58:41.000Z"
   },
   {
     "id": "clojure-vim/jazz.nvim",
@@ -18493,7 +18497,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-05T12:27:56.000Z",
-    "updatedAt": "2025-04-15T17:25:17.000Z"
+    "updatedAt": "2025-04-16T20:05:46.000Z"
   },
   {
     "id": "csessh/stopinsert.nvim",
@@ -18720,7 +18724,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-30T12:08:53.000Z",
-    "updatedAt": "2025-04-15T17:17:58.000Z"
+    "updatedAt": "2025-04-16T19:58:51.000Z"
   },
   {
     "id": "danielpieper/telescope-tmuxinator.nvim",
@@ -19996,7 +20000,7 @@
     },
     "stars": 317,
     "starsDetail": {
-      "total": 310
+      "total": 317
     },
     "license": "GNU General Public License v3.0",
     "forks": 12,
@@ -21003,7 +21007,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-27T10:47:42.000Z",
-    "updatedAt": "2025-04-15T17:17:46.000Z"
+    "updatedAt": "2025-04-16T19:58:39.000Z"
   },
   {
     "id": "gsuuon/model.nvim",
@@ -22659,7 +22663,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-24T23:16:29.000Z",
-    "updatedAt": "2025-04-15T17:19:48.000Z"
+    "updatedAt": "2025-04-16T20:00:35.000Z"
   },
   {
     "id": "jvgrootveld/telescope-zoxide",
@@ -27930,7 +27934,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-03-05T10:38:20.000Z",
-    "updatedAt": "2025-04-15T17:17:48.000Z"
+    "updatedAt": "2025-04-16T19:58:41.000Z"
   },
   {
     "id": "pewpewnor/pilot.nvim",
@@ -31560,7 +31564,7 @@
     },
     "stars": 196,
     "starsDetail": {
-      "total": 193
+      "total": 196
     },
     "license": "MIT License",
     "forks": 6,
@@ -31911,7 +31915,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-11T00:23:26.000Z",
-    "updatedAt": "2025-04-15T17:19:46.000Z"
+    "updatedAt": "2025-04-16T20:00:33.000Z"
   },
   {
     "id": "tris203/hawtkeys.nvim",
@@ -33380,7 +33384,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-09T12:27:53.000Z",
-    "updatedAt": "2025-04-15T17:12:04.000Z"
+    "updatedAt": "2025-04-16T19:53:23.000Z"
   },
   {
     "id": "you-n-g/simplegpt.nvim",
