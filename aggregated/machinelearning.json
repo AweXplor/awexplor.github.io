@@ -1506,7 +1506,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-03T22:13:11.000Z",
-    "updatedAt": "2025-04-16T20:02:15.000Z"
+    "updatedAt": "2025-04-17T22:43:16.000Z"
   },
   {
     "id": "stellargraph/stellargraph",
@@ -1910,7 +1910,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-09-30T18:07:03.000Z",
-    "updatedAt": "2025-04-16T20:03:59.000Z"
+    "updatedAt": "2025-04-17T22:45:09.000Z"
   },
   {
     "id": "chainer/chainer",
@@ -3373,7 +3373,7 @@
       "name": "BrainJS",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23732838?v=4"
     },
-    "stars": 14656,
+    "stars": 14661,
     "starsDetail": {
       "total": 14377,
       "week": 11,
@@ -3391,7 +3391,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-13T18:09:44.000Z",
-    "updatedAt": "2025-04-16T20:00:03.000Z"
+    "updatedAt": "2025-04-17T22:40:55.000Z"
   },
   {
     "id": "serengil/retinaface",
@@ -4003,14 +4003,14 @@
     "license": "Apache License 2.0",
     "forks": 209,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-04-16T00:23:53.000Z",
+    "pushedAt": "2025-04-17T00:23:30.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-12-05T02:40:40.000Z",
-    "updatedAt": "2025-04-16T20:00:05.000Z"
+    "updatedAt": "2025-04-17T22:40:57.000Z"
   },
   {
     "id": "autumnai/leaf",
@@ -4566,7 +4566,7 @@
       "name": "qdrant",
       "avatarUrl": "https://avatars.githubusercontent.com/u/73504361?v=4"
     },
-    "stars": 23059,
+    "stars": 23078,
     "starsDetail": {
       "total": 21207,
       "week": 101,
@@ -4575,16 +4575,16 @@
       "updatedAt": 1736031637
     },
     "license": "Apache License 2.0",
-    "forks": 1581,
+    "forks": 1582,
     "primaryLanguage": "Mermaid",
-    "pushedAt": "2025-04-16T19:52:26.000Z",
+    "pushedAt": "2025-04-17T21:32:11.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-05-30T21:37:01.000Z",
-    "updatedAt": "2025-04-16T20:06:04.000Z"
+    "updatedAt": "2025-04-17T22:47:30.000Z"
   },
   {
     "id": "EpistasisLab/tpot",
@@ -5815,7 +5815,7 @@
       "name": "NaturalNode",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1005344?v=4"
     },
-    "stars": 10745,
+    "stars": 10747,
     "starsDetail": {
       "total": 10597,
       "week": 8,
@@ -5833,7 +5833,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-05-07T02:35:16.000Z",
-    "updatedAt": "2025-04-16T20:02:17.000Z"
+    "updatedAt": "2025-04-17T22:43:18.000Z"
   },
   {
     "id": "neuml/txtai",
@@ -9342,7 +9342,7 @@
       "name": "BayesWitnesses",
       "avatarUrl": "https://avatars.githubusercontent.com/u/46638712?v=4"
     },
-    "stars": 2872,
+    "stars": 2874,
     "starsDetail": {
       "total": 2833,
       "week": 1,
@@ -9360,7 +9360,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2019-01-13T02:32:55.000Z",
-    "updatedAt": "2025-04-16T20:03:59.000Z"
+    "updatedAt": "2025-04-17T22:45:10.000Z"
   },
   {
     "id": "benedekrozemberczki/karateclub",
@@ -11445,7 +11445,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-01-24T00:59:38.000Z",
-    "updatedAt": "2025-04-16T19:53:19.000Z"
+    "updatedAt": "2025-04-17T22:33:34.000Z"
   },
   {
     "id": "sinhrks/ggfortify",
@@ -11825,7 +11825,7 @@
     },
     "stars": 32302,
     "starsDetail": {
-      "total": 32295
+      "total": 32302
     },
     "license": "Other",
     "forks": 7937,
@@ -12470,7 +12470,7 @@
     },
     "stars": 451,
     "starsDetail": {
-      "total": 450
+      "total": 451
     },
     "license": "Other",
     "forks": 98,
@@ -14087,7 +14087,7 @@
     },
     "stars": 54598,
     "starsDetail": {
-      "total": 54592
+      "total": 54598
     },
     "license": "MIT License",
     "forks": 13591,
@@ -14521,7 +14521,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-04-01T20:23:24.000Z",
-    "updatedAt": "2025-04-16T19:53:20.000Z"
+    "updatedAt": "2025-04-17T22:33:36.000Z"
   },
   {
     "id": "asafschers/scoruby",
@@ -14705,7 +14705,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-29T21:00:58.000Z",
-    "updatedAt": "2025-04-16T19:53:20.000Z"
+    "updatedAt": "2025-04-17T22:33:35.000Z"
   },
   {
     "id": "aurelian/ruby-stemmer",
@@ -14919,7 +14919,7 @@
     },
     "stars": 220,
     "starsDetail": {
-      "total": 219
+      "total": 220
     },
     "license": "MIT License",
     "forks": 35,
@@ -15040,32 +15040,30 @@
     "topics": [
       "blackportal",
       "blackportal-ai",
-      "deep-learning",
       "delta",
       "machine-learning",
       "ml",
-      "neural-network",
       "rust"
     ],
     "owner": {
       "name": "blackportal-ai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/189621827?v=4"
     },
-    "stars": 383,
+    "stars": 384,
     "starsDetail": {
-      "total": 383
+      "total": 384
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "forks": 27,
     "primaryLanguage": "Rust",
-    "pushedAt": "2025-04-16T13:44:51.000Z",
+    "pushedAt": "2025-04-17T18:11:04.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-25T12:39:43.000Z",
-    "updatedAt": "2025-04-16T20:06:08.000Z"
+    "updatedAt": "2025-04-17T22:47:35.000Z"
   },
   {
     "id": "breze-no-salt/breze",
@@ -15217,7 +15215,7 @@
     },
     "stars": 287,
     "starsDetail": {
-      "total": 286
+      "total": 287
     },
     "license": "Other",
     "forks": 35,
@@ -16621,7 +16619,7 @@
     },
     "stars": 31397,
     "starsDetail": {
-      "total": 31395
+      "total": 31397
     },
     "license": "MIT License",
     "forks": 4494,
@@ -16704,7 +16702,7 @@
     },
     "stars": 31765,
     "starsDetail": {
-      "total": 31751
+      "total": 31765
     },
     "license": "Apache License 2.0",
     "forks": 7638,
@@ -17257,7 +17255,7 @@
     },
     "stars": 37515,
     "starsDetail": {
-      "total": 37500
+      "total": 37515
     },
     "license": "Apache License 2.0",
     "forks": 2855,
@@ -17414,7 +17412,7 @@
     },
     "stars": 40783,
     "starsDetail": {
-      "total": 40774
+      "total": 40783
     },
     "license": "Apache License 2.0",
     "forks": 4494,
@@ -17595,7 +17593,7 @@
     },
     "stars": 143111,
     "starsDetail": {
-      "total": 143054
+      "total": 143111
     },
     "license": "Apache License 2.0",
     "forks": 28673,
@@ -18607,7 +18605,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-07-26T20:02:09.000Z",
-    "updatedAt": "2025-04-16T20:05:58.000Z"
+    "updatedAt": "2025-04-17T22:47:24.000Z"
   },
   {
     "id": "lmcinnes/hdbscan",
@@ -19458,7 +19456,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-11-24T17:51:43.000Z",
-    "updatedAt": "2025-04-16T20:03:59.000Z"
+    "updatedAt": "2025-04-17T22:45:09.000Z"
   },
   {
     "id": "mrdimosthenis/emel",
@@ -21396,7 +21394,7 @@
     },
     "stars": 474,
     "starsDetail": {
-      "total": 473
+      "total": 474
     },
     "license": "MIT License",
     "forks": 101,
@@ -22024,7 +22022,7 @@
     },
     "stars": 66218,
     "starsDetail": {
-      "total": 66184
+      "total": 66218
     },
     "license": "Apache License 2.0",
     "forks": 9830,
@@ -22335,7 +22333,7 @@
     },
     "stars": 424,
     "starsDetail": {
-      "total": 423
+      "total": 424
     },
     "license": "Other",
     "forks": 194,
