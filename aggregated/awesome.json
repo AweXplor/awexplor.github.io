@@ -516,7 +516,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-11-23T04:36:38.000Z",
-    "updatedAt": "2025-04-18T04:55:30.000Z"
+    "updatedAt": "2025-04-19T07:30:00.000Z"
   },
   {
     "id": "cosmos/awesome-cosmos",
@@ -1623,7 +1623,7 @@
       "name": "analysis-tools-dev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62759712?v=4"
     },
-    "stars": 13728,
+    "stars": 13731,
     "starsDetail": {
       "total": 13470,
       "week": 16,
@@ -1641,7 +1641,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-18T16:58:30.000Z",
-    "updatedAt": "2025-04-18T04:50:33.000Z"
+    "updatedAt": "2025-04-19T07:27:18.000Z"
   },
   {
     "id": "kdeldycke/awesome-engineering-team-management",
@@ -5341,7 +5341,7 @@
       "name": "jorgebucaran",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56996?v=4"
     },
-    "stars": 4450,
+    "stars": 4451,
     "starsDetail": {
       "total": 4278,
       "week": 18,
@@ -5359,7 +5359,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-13T08:37:26.000Z",
-    "updatedAt": "2025-04-18T05:14:05.000Z"
+    "updatedAt": "2025-04-19T07:50:19.000Z"
   },
   {
     "id": "PatrickJS/awesome-angular",
@@ -7886,7 +7886,7 @@
       "name": "inputsh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4890548?v=4"
     },
-    "stars": 3567,
+    "stars": 3568,
     "starsDetail": {
       "total": 3516,
       "week": 9,
@@ -7904,7 +7904,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-31T01:56:17.000Z",
-    "updatedAt": "2025-04-18T04:56:15.000Z"
+    "updatedAt": "2025-04-19T07:30:44.000Z"
   },
   {
     "id": "inputsh/awesome-linux",
@@ -14604,9 +14604,9 @@
       "name": "DanailMinchev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7883702?v=4"
     },
-    "stars": 29,
+    "stars": 30,
     "starsDetail": {
-      "total": 29
+      "total": 30
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 4,
@@ -14618,7 +14618,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2025-01-03T09:58:40.000Z",
-    "updatedAt": "2025-04-18T05:06:17.000Z"
+    "updatedAt": "2025-04-19T07:42:42.000Z"
   },
   {
     "id": "DataDaoDe/awesome-foss-apps",
@@ -14702,9 +14702,9 @@
       "name": "DopplerHQ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
-    "stars": 74380,
+    "stars": 74391,
     "starsDetail": {
-      "total": 74380
+      "total": 74391
     },
     "license": null,
     "forks": 9057,
@@ -14716,7 +14716,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-28T09:48:17.000Z",
-    "updatedAt": "2025-04-18T04:56:17.000Z"
+    "updatedAt": "2025-04-19T07:30:45.000Z"
   },
   {
     "id": "Dvergar/awesome-haxe-gamedev",
@@ -14771,21 +14771,21 @@
       "name": "EbookFoundation",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
-    "stars": 355041,
+    "stars": 355157,
     "starsDetail": {
-      "total": 355041
+      "total": 355157
     },
     "license": "Creative Commons Attribution 4.0 International",
-    "forks": 63179,
+    "forks": 63188,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-04-14T14:41:05.000Z",
+    "pushedAt": "2025-04-18T22:55:08.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-10-11T06:50:37.000Z",
-    "updatedAt": "2025-04-18T04:56:16.000Z"
+    "updatedAt": "2025-04-19T07:30:45.000Z"
   },
   {
     "id": "FonduAI/awesome-prompt-injection",
@@ -16296,7 +16296,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-24T12:48:57.000Z",
-    "updatedAt": "2025-04-18T05:07:18.000Z"
+    "updatedAt": "2025-04-19T07:43:41.000Z"
   },
   {
     "id": "collective/awesome-plone",
@@ -19302,6 +19302,31 @@
     "goImportedBy": null,
     "createdAt": "2015-03-18T21:06:26.000Z",
     "updatedAt": "2025-04-19T01:11:07.000Z"
+  },
+  {
+    "id": "roaldnefs/awesome-prometheus",
+    "name": "roaldnefs/awesome-prometheus",
+    "description": "A curated list of awesome Prometheus resources, projects and tools.",
+    "topics": [],
+    "owner": {
+      "name": "roaldnefs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6523325?v=4"
+    },
+    "stars": 0,
+    "starsDetail": {
+      "total": 0
+    },
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 0,
+    "primaryLanguage": "",
+    "pushedAt": "2024-07-30T18:33:53.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2025-04-18T11:42:21.000Z",
+    "updatedAt": "2025-04-19T07:42:24.000Z"
   },
   {
     "id": "robinrodricks/awesome-actionscript3",
