@@ -779,7 +779,7 @@
     "goPackage": "mvdan.cc/sh/v3",
     "goImportedBy": 0,
     "createdAt": "2016-01-16T08:39:09.000Z",
-    "updatedAt": "2025-04-19T17:08:38.000Z"
+    "updatedAt": "2025-04-20T19:46:45.000Z"
   },
   {
     "id": "TomWright/dasel",
@@ -810,7 +810,7 @@
       "name": "TomWright",
       "avatarUrl": "https://avatars.githubusercontent.com/u/935867?v=4"
     },
-    "stars": 7408,
+    "stars": 7410,
     "starsDetail": {
       "total": 7273,
       "week": 13,
@@ -828,7 +828,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-09-22T10:33:56.000Z",
-    "updatedAt": "2025-04-19T17:07:03.000Z"
+    "updatedAt": "2025-04-20T19:45:19.000Z"
   },
   {
     "id": "andreafabrizi/Dropbox-Uploader",
@@ -1314,7 +1314,7 @@
     "goPackage": "github.com/gsamokovarov/jump",
     "goImportedBy": 0,
     "createdAt": "2015-08-16T22:07:17.000Z",
-    "updatedAt": "2025-04-19T17:10:17.000Z"
+    "updatedAt": "2025-04-20T19:48:12.000Z"
   },
   {
     "id": "jarun/imgp",
@@ -1619,7 +1619,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-03-02T13:03:21.000Z",
-    "updatedAt": "2025-04-19T17:11:29.000Z"
+    "updatedAt": "2025-04-20T19:49:18.000Z"
   },
   {
     "id": "kellyjonbrazil/jc",
@@ -2479,7 +2479,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2015-12-19T16:57:26.000Z",
-    "updatedAt": "2025-04-19T17:09:37.000Z"
+    "updatedAt": "2025-04-20T19:47:37.000Z"
   },
   {
     "id": "torakiki/sejda",
@@ -2853,7 +2853,7 @@
     "goPackage": "github.com/achannarasappa/ticker/v4",
     "goImportedBy": 0,
     "createdAt": "2021-01-24T03:50:46.000Z",
-    "updatedAt": "2025-04-19T17:01:07.000Z"
+    "updatedAt": "2025-04-20T19:40:07.000Z"
   },
   {
     "id": "LuRsT/hr",
@@ -3084,7 +3084,7 @@
       "name": "mislav",
       "avatarUrl": "https://avatars.githubusercontent.com/u/887?v=4"
     },
-    "stars": 22917,
+    "stars": 22918,
     "starsDetail": {
       "total": 22843,
       "week": 6,
@@ -3102,7 +3102,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-12-05T22:15:25.000Z",
-    "updatedAt": "2025-04-19T17:10:49.000Z"
+    "updatedAt": "2025-04-20T19:48:41.000Z"
   },
   {
     "id": "chubin/wttr.in",
@@ -4210,7 +4210,7 @@
       "name": "ok-borg",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22381039?v=4"
     },
-    "stars": 1605,
+    "stars": 1606,
     "starsDetail": {
       "total": 1605,
       "week": 1,
@@ -4219,7 +4219,7 @@
       "updatedAt": 1736061567
     },
     "license": "Apache License 2.0",
-    "forks": 56,
+    "forks": 57,
     "primaryLanguage": "Makefile",
     "pushedAt": "2018-02-07T19:40:06.000Z",
     "archived": true,
@@ -4228,7 +4228,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-09-10T20:20:42.000Z",
-    "updatedAt": "2025-04-19T17:13:45.000Z"
+    "updatedAt": "2025-04-20T19:51:18.000Z"
   },
   {
     "id": "rauchg/spot",
@@ -5186,7 +5186,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-02-08T17:13:19.000Z",
-    "updatedAt": "2025-04-19T17:06:13.000Z"
+    "updatedAt": "2025-04-20T19:44:34.000Z"
   },
   {
     "id": "shellspec/shellspec",
@@ -5795,7 +5795,7 @@
     "goPackage": "github.com/msoap/shell2http",
     "goImportedBy": 0,
     "createdAt": "2015-03-11T19:39:09.000Z",
-    "updatedAt": "2025-04-19T17:13:35.000Z"
+    "updatedAt": "2025-04-20T19:51:09.000Z"
   },
   {
     "id": "raylee/tldr-sh-client",
@@ -7863,21 +7863,21 @@
       "name": "junegunn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/700826?v=4"
     },
-    "stars": 69517,
+    "stars": 69535,
     "starsDetail": {
-      "total": 69517
+      "total": 69535
     },
     "license": "MIT License",
-    "forks": 2500,
+    "forks": 2501,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-04-18T12:18:09.000Z",
+    "pushedAt": "2025-04-20T02:42:30.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/junegunn/fzf",
     "goImportedBy": 0,
     "createdAt": "2013-10-23T16:04:23.000Z",
-    "updatedAt": "2025-04-19T17:09:50.000Z"
+    "updatedAt": "2025-04-20T19:47:48.000Z"
   },
   {
     "id": "keithrbennett/wifiwand",
