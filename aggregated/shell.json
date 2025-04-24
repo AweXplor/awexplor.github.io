@@ -761,7 +761,7 @@
       "name": "mvdan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3576549?v=4"
     },
-    "stars": 7669,
+    "stars": 7671,
     "starsDetail": {
       "total": 7419,
       "week": 17,
@@ -772,14 +772,14 @@
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "forks": 363,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-04-22T19:03:37.000Z",
+    "pushedAt": "2025-04-23T21:28:45.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": "mvdan.cc/sh/v3",
     "goImportedBy": 0,
     "createdAt": "2016-01-16T08:39:09.000Z",
-    "updatedAt": "2025-04-23T00:59:24.000Z"
+    "updatedAt": "2025-04-24T03:39:12.000Z"
   },
   {
     "id": "TomWright/dasel",
@@ -810,7 +810,7 @@
       "name": "TomWright",
       "avatarUrl": "https://avatars.githubusercontent.com/u/935867?v=4"
     },
-    "stars": 7420,
+    "stars": 7424,
     "starsDetail": {
       "total": 7273,
       "week": 13,
@@ -828,7 +828,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-09-22T10:33:56.000Z",
-    "updatedAt": "2025-04-23T00:58:01.000Z"
+    "updatedAt": "2025-04-24T03:37:51.000Z"
   },
   {
     "id": "andreafabrizi/Dropbox-Uploader",
@@ -1314,7 +1314,7 @@
     "goPackage": "github.com/gsamokovarov/jump",
     "goImportedBy": 0,
     "createdAt": "2015-08-16T22:07:17.000Z",
-    "updatedAt": "2025-04-23T01:00:50.000Z"
+    "updatedAt": "2025-04-24T03:40:37.000Z"
   },
   {
     "id": "jarun/imgp",
@@ -1601,7 +1601,7 @@
       "name": "xo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/30761128?v=4"
     },
-    "stars": 9339,
+    "stars": 9340,
     "starsDetail": {
       "total": 9151,
       "week": 7,
@@ -1619,7 +1619,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-03-02T13:03:21.000Z",
-    "updatedAt": "2025-04-23T01:01:55.000Z"
+    "updatedAt": "2025-04-24T03:41:40.000Z"
   },
   {
     "id": "kellyjonbrazil/jc",
@@ -2479,7 +2479,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2015-12-19T16:57:26.000Z",
-    "updatedAt": "2025-04-23T01:00:15.000Z"
+    "updatedAt": "2025-04-24T03:40:02.000Z"
   },
   {
     "id": "torakiki/sejda",
@@ -2835,7 +2835,7 @@
       "name": "achannarasappa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1489983?v=4"
     },
-    "stars": 5174,
+    "stars": 5185,
     "starsDetail": {
       "total": 5048,
       "week": 8,
@@ -2853,7 +2853,7 @@
     "goPackage": "github.com/achannarasappa/ticker/v4",
     "goImportedBy": 0,
     "createdAt": "2021-01-24T03:50:46.000Z",
-    "updatedAt": "2025-04-23T00:52:49.000Z"
+    "updatedAt": "2025-04-24T03:32:47.000Z"
   },
   {
     "id": "LuRsT/hr",
@@ -3084,7 +3084,7 @@
       "name": "mislav",
       "avatarUrl": "https://avatars.githubusercontent.com/u/887?v=4"
     },
-    "stars": 22921,
+    "stars": 22922,
     "starsDetail": {
       "total": 22843,
       "week": 6,
@@ -3102,7 +3102,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-12-05T22:15:25.000Z",
-    "updatedAt": "2025-04-23T01:01:19.000Z"
+    "updatedAt": "2025-04-24T03:41:05.000Z"
   },
   {
     "id": "chubin/wttr.in",
@@ -4228,7 +4228,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-09-10T20:20:42.000Z",
-    "updatedAt": "2025-04-23T01:03:54.000Z"
+    "updatedAt": "2025-04-24T03:43:37.000Z"
   },
   {
     "id": "rauchg/spot",
@@ -5186,7 +5186,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-02-08T17:13:19.000Z",
-    "updatedAt": "2025-04-23T00:57:16.000Z"
+    "updatedAt": "2025-04-24T03:37:07.000Z"
   },
   {
     "id": "shellspec/shellspec",
@@ -5795,7 +5795,7 @@
     "goPackage": "github.com/msoap/shell2http",
     "goImportedBy": 0,
     "createdAt": "2015-03-11T19:39:09.000Z",
-    "updatedAt": "2025-04-23T01:03:44.000Z"
+    "updatedAt": "2025-04-24T03:43:27.000Z"
   },
   {
     "id": "raylee/tldr-sh-client",
@@ -7863,12 +7863,12 @@
       "name": "junegunn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/700826?v=4"
     },
-    "stars": 69598,
+    "stars": 69624,
     "starsDetail": {
-      "total": 69598
+      "total": 69624
     },
     "license": "MIT License",
-    "forks": 2503,
+    "forks": 2504,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2025-04-22T12:55:34.000Z",
     "archived": false,
@@ -7877,7 +7877,7 @@
     "goPackage": "github.com/junegunn/fzf",
     "goImportedBy": 0,
     "createdAt": "2013-10-23T16:04:23.000Z",
-    "updatedAt": "2025-04-23T01:00:26.000Z"
+    "updatedAt": "2025-04-24T03:40:14.000Z"
   },
   {
     "id": "keithrbennett/wifiwand",
