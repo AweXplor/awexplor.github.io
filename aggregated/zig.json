@@ -371,6 +371,40 @@
     "updatedAt": "2025-04-25T13:48:29.000Z"
   },
   {
+    "id": "floooh/sokol-zig",
+    "name": "floooh/sokol-zig",
+    "description": "Zig bindings for the sokol headers (https://github.com/floooh/sokol)",
+    "topics": [
+      "crossplatform",
+      "sokol",
+      "zig",
+      "zig-package"
+    ],
+    "owner": {
+      "name": "floooh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1699414?v=4"
+    },
+    "stars": 502,
+    "starsDetail": {
+      "total": 502,
+      "week": 7,
+      "month": 26,
+      "year": 232,
+      "updatedAt": 1745601240
+    },
+    "license": "zlib License",
+    "forks": 63,
+    "primaryLanguage": "HTML",
+    "pushedAt": "2025-04-22T06:59:24.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-05-31T17:10:41.000Z",
+    "updatedAt": "2025-04-25T13:48:01.000Z"
+  },
+  {
     "id": "jmcnamara/libxlsxwriter",
     "name": "jmcnamara/libxlsxwriter",
     "description": "A C library for creating Excel XLSX files.",
@@ -2249,7 +2283,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-02-26T22:31:14.000Z",
-    "updatedAt": "2025-04-24T14:32:54.000Z"
+    "updatedAt": "2025-04-25T17:13:03.000Z"
   },
   {
     "id": "cheetah/asdf-zig",
@@ -2761,7 +2795,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-12-24T05:14:32.000Z",
-    "updatedAt": "2025-04-24T14:17:07.000Z"
+    "updatedAt": "2025-04-25T16:58:48.000Z"
   },
   {
     "id": "emekoi/log.zig",
@@ -2953,36 +2987,6 @@
     "goImportedBy": null,
     "createdAt": "2020-12-23T18:14:08.000Z",
     "updatedAt": "2025-04-25T13:48:05.000Z"
-  },
-  {
-    "id": "floooh/sokol-zig",
-    "name": "floooh/sokol-zig",
-    "description": "Zig bindings for the sokol headers (https://github.com/floooh/sokol)",
-    "topics": [
-      "crossplatform",
-      "sokol",
-      "zig",
-      "zig-package"
-    ],
-    "owner": {
-      "name": "floooh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1699414?v=4"
-    },
-    "stars": 502,
-    "starsDetail": {
-      "total": 499
-    },
-    "license": "zlib License",
-    "forks": 63,
-    "primaryLanguage": "HTML",
-    "pushedAt": "2025-04-22T06:59:24.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-05-31T17:10:41.000Z",
-    "updatedAt": "2025-04-25T13:48:01.000Z"
   },
   {
     "id": "floscodes/zerve",
@@ -3698,7 +3702,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-06-19T16:54:23.000Z",
-    "updatedAt": "2025-04-24T14:16:54.000Z"
+    "updatedAt": "2025-04-25T16:58:35.000Z"
   },
   {
     "id": "kassane/fmt",
