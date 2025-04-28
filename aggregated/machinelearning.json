@@ -152,7 +152,7 @@
       "name": "spotify",
       "avatarUrl": "https://avatars.githubusercontent.com/u/251374?v=4"
     },
-    "stars": 13698,
+    "stars": 13701,
     "starsDetail": {
       "total": 13385,
       "week": 27,
@@ -170,7 +170,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-04-01T20:29:40.000Z",
-    "updatedAt": "2025-04-27T15:03:11.000Z"
+    "updatedAt": "2025-04-28T17:41:14.000Z"
   },
   {
     "id": "evidentlyai/evidently",
@@ -679,7 +679,7 @@
       "updatedAt": 1736035298
     },
     "license": "GNU General Public License v2.0",
-    "forks": 877,
+    "forks": 876,
     "primaryLanguage": "Shell",
     "pushedAt": "2023-02-24T19:00:26.000Z",
     "archived": true,
@@ -688,7 +688,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-07-08T19:32:34.000Z",
-    "updatedAt": "2025-04-27T15:03:58.000Z"
+    "updatedAt": "2025-04-28T17:41:45.000Z"
   },
   {
     "id": "uxlfoundation/scikit-learn-intelex",
@@ -927,7 +927,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-19T23:43:18.000Z",
-    "updatedAt": "2025-04-27T14:47:21.000Z"
+    "updatedAt": "2025-04-28T17:28:14.000Z"
   },
   {
     "id": "apache/mahout",
@@ -2798,7 +2798,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2010-10-27T23:02:49.000Z",
-    "updatedAt": "2025-04-27T15:00:44.000Z"
+    "updatedAt": "2025-04-28T17:39:52.000Z"
   },
   {
     "id": "Xtra-Computing/thundersvm",
@@ -3205,7 +3205,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-12-03T16:06:17.000Z",
-    "updatedAt": "2025-04-27T14:51:58.000Z"
+    "updatedAt": "2025-04-28T17:32:17.000Z"
   },
   {
     "id": "ml-explore/mlx",
@@ -4535,7 +4535,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-05-03T20:52:12.000Z",
-    "updatedAt": "2025-04-27T14:47:18.000Z"
+    "updatedAt": "2025-04-28T17:28:13.000Z"
   },
   {
     "id": "qdrant/qdrant",
@@ -4718,16 +4718,16 @@
       "updatedAt": 1736035092
     },
     "license": "Apache License 2.0",
-    "forks": 2014,
+    "forks": 2013,
     "primaryLanguage": "Ruby",
-    "pushedAt": "2025-04-27T00:40:57.000Z",
+    "pushedAt": "2025-04-28T00:44:42.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-03-03T16:08:07.000Z",
-    "updatedAt": "2025-04-27T15:02:45.000Z"
+    "updatedAt": "2025-04-28T17:40:55.000Z"
   },
   {
     "id": "stanfordnlp/CoreNLP",
@@ -4812,7 +4812,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-08-22T10:43:47.000Z",
-    "updatedAt": "2025-04-27T14:47:20.000Z"
+    "updatedAt": "2025-04-28T17:28:14.000Z"
   },
   {
     "id": "skforecast/skforecast",
@@ -6056,7 +6056,7 @@
       "name": "pyqtgraph",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5440571?v=4"
     },
-    "stars": 4063,
+    "stars": 4065,
     "starsDetail": {
       "total": 3937,
       "week": 11,
@@ -6065,7 +6065,7 @@
       "updatedAt": 1736034880
     },
     "license": "Other",
-    "forks": 1116,
+    "forks": 1117,
     "primaryLanguage": "Shell",
     "pushedAt": "2025-04-08T13:20:20.000Z",
     "archived": false,
@@ -6074,7 +6074,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-09-12T07:18:21.000Z",
-    "updatedAt": "2025-04-27T15:01:08.000Z"
+    "updatedAt": "2025-04-28T17:40:02.000Z"
   },
   {
     "id": "tracel-ai/burn",
@@ -6372,7 +6372,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-05T06:41:07.000Z",
-    "updatedAt": "2025-04-27T15:02:55.000Z"
+    "updatedAt": "2025-04-28T17:41:03.000Z"
   },
   {
     "id": "pgmpy/pgmpy",
@@ -6567,7 +6567,7 @@
       "name": "DLR-RM",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25227811?v=4"
     },
-    "stars": 10490,
+    "stars": 10500,
     "starsDetail": {
       "total": 9461,
       "week": 59,
@@ -6576,7 +6576,7 @@
       "updatedAt": 1736034942
     },
     "license": "MIT License",
-    "forks": 1826,
+    "forks": 1828,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2025-04-23T09:54:03.000Z",
     "archived": false,
@@ -6585,7 +6585,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-05-05T05:52:26.000Z",
-    "updatedAt": "2025-04-27T15:01:38.000Z"
+    "updatedAt": "2025-04-28T17:40:16.000Z"
   },
   {
     "id": "pyg-team/pytorch_geometric",
@@ -6797,7 +6797,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-03-27T21:52:53.000Z",
-    "updatedAt": "2025-04-27T14:47:17.000Z"
+    "updatedAt": "2025-04-28T17:28:12.000Z"
   },
   {
     "id": "Lasagne/Lasagne",
@@ -7809,7 +7809,7 @@
       "name": "mindsdb",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31035808?v=4"
     },
-    "stars": 27836,
+    "stars": 27846,
     "starsDetail": {
       "total": 27008,
       "week": 31,
@@ -7818,16 +7818,16 @@
       "updatedAt": 1736035107
     },
     "license": "Other",
-    "forks": 4960,
+    "forks": 4961,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-04-27T13:35:22.000Z",
+    "pushedAt": "2025-04-28T17:23:58.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-08-02T17:56:45.000Z",
-    "updatedAt": "2025-04-27T15:02:47.000Z"
+    "updatedAt": "2025-04-28T17:40:57.000Z"
   },
   {
     "id": "VowpalWabbit/vowpal_wabbit",
@@ -7888,7 +7888,7 @@
       "name": "clips",
       "avatarUrl": "https://avatars.githubusercontent.com/u/765924?v=4"
     },
-    "stars": 8810,
+    "stars": 8809,
     "starsDetail": {
       "total": 8765,
       "week": 2,
@@ -7906,7 +7906,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-05-03T15:29:01.000Z",
-    "updatedAt": "2025-04-27T15:02:51.000Z"
+    "updatedAt": "2025-04-28T17:40:59.000Z"
   },
   {
     "id": "sjwhitworth/golearn",
@@ -8286,7 +8286,7 @@
       "name": "vispy",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3934254?v=4"
     },
-    "stars": 3415,
+    "stars": 3416,
     "starsDetail": {
       "total": 3343,
       "week": 5,
@@ -8297,14 +8297,14 @@
     "license": "Other",
     "forks": 622,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-04-22T14:18:04.000Z",
+    "pushedAt": "2025-04-28T15:24:57.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-03-21T18:43:22.000Z",
-    "updatedAt": "2025-04-27T15:01:09.000Z"
+    "updatedAt": "2025-04-28T17:40:03.000Z"
   },
   {
     "id": "infiniflow/infinity",
@@ -8440,7 +8440,7 @@
       "name": "Theano",
       "avatarUrl": "https://avatars.githubusercontent.com/u/970517?v=4"
     },
-    "stars": 9946,
+    "stars": 9947,
     "starsDetail": {
       "total": 9911,
       "week": 5,
@@ -8458,7 +8458,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-08-10T03:48:06.000Z",
-    "updatedAt": "2025-04-27T15:01:40.000Z"
+    "updatedAt": "2025-04-28T17:40:16.000Z"
   },
   {
     "id": "capitalone/datacompy",
@@ -8513,7 +8513,7 @@
       "name": "isnowfy",
       "avatarUrl": "https://avatars.githubusercontent.com/u/596274?v=4"
     },
-    "stars": 6541,
+    "stars": 6542,
     "starsDetail": {
       "total": 6463,
       "week": 3,
@@ -8531,7 +8531,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-11-26T11:46:56.000Z",
-    "updatedAt": "2025-04-27T15:02:54.000Z"
+    "updatedAt": "2025-04-28T17:41:02.000Z"
   },
   {
     "id": "liuliu/ccv",
@@ -9027,7 +9027,7 @@
       "name": "quantopian",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1393215?v=4"
     },
-    "stars": 18414,
+    "stars": 18415,
     "starsDetail": {
       "total": 17889,
       "week": 24,
@@ -9045,7 +9045,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-10-19T15:50:29.000Z",
-    "updatedAt": "2025-04-27T15:03:28.000Z"
+    "updatedAt": "2025-04-28T17:41:24.000Z"
   },
   {
     "id": "fastai/fastai",
@@ -9250,7 +9250,7 @@
       "name": "sympy",
       "avatarUrl": "https://avatars.githubusercontent.com/u/260832?v=4"
     },
-    "stars": 13566,
+    "stars": 13570,
     "starsDetail": {
       "total": 13171,
       "week": 17,
@@ -9259,16 +9259,16 @@
       "updatedAt": 1736035209
     },
     "license": "Other",
-    "forks": 4669,
+    "forks": 4667,
     "primaryLanguage": "Scheme",
-    "pushedAt": "2025-04-27T11:39:45.000Z",
+    "pushedAt": "2025-04-28T12:35:27.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2010-04-30T20:37:14.000Z",
-    "updatedAt": "2025-04-27T15:03:28.000Z"
+    "updatedAt": "2025-04-28T17:41:23.000Z"
   },
   {
     "id": "statsmodels/statsmodels",
@@ -9302,16 +9302,16 @@
       "updatedAt": 1736035203
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 3256,
+    "forks": 3257,
     "primaryLanguage": "C",
-    "pushedAt": "2025-04-14T12:39:53.000Z",
+    "pushedAt": "2025-04-28T11:28:56.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-06-12T17:04:50.000Z",
-    "updatedAt": "2025-04-27T15:03:25.000Z"
+    "updatedAt": "2025-04-28T17:41:23.000Z"
   },
   {
     "id": "BayesWitnesses/m2cgen",
@@ -9410,7 +9410,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-12-05T17:35:56.000Z",
-    "updatedAt": "2025-04-27T15:03:26.000Z"
+    "updatedAt": "2025-04-28T17:41:23.000Z"
   },
   {
     "id": "golang/geo",
@@ -9691,7 +9691,7 @@
       "name": "bokeh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8440965?v=4"
     },
-    "stars": 19803,
+    "stars": 19807,
     "starsDetail": {
       "total": 19508,
       "week": 21,
@@ -9700,16 +9700,16 @@
       "updatedAt": 1736034867
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 4216,
+    "forks": 4215,
     "primaryLanguage": "CSS",
-    "pushedAt": "2025-04-27T11:19:50.000Z",
+    "pushedAt": "2025-04-28T08:00:34.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-03-26T15:40:01.000Z",
-    "updatedAt": "2025-04-27T15:01:01.000Z"
+    "updatedAt": "2025-04-28T17:39:59.000Z"
   },
   {
     "id": "dmlc/xgboost",
@@ -9727,7 +9727,7 @@
       "name": "dmlc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11508361?v=4"
     },
-    "stars": 26866,
+    "stars": 26868,
     "starsDetail": {
       "total": 26451,
       "week": 22,
@@ -9745,7 +9745,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-02-06T17:28:03.000Z",
-    "updatedAt": "2025-04-27T15:02:46.000Z"
+    "updatedAt": "2025-04-28T17:40:56.000Z"
   },
   {
     "id": "eriklindernoren/ML-From-Scratch",
@@ -10165,7 +10165,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-30T02:07:45.000Z",
-    "updatedAt": "2025-04-27T15:02:51.000Z"
+    "updatedAt": "2025-04-28T17:41:00.000Z"
   },
   {
     "id": "baidu-research/warp-ctc",
@@ -14427,21 +14427,21 @@
       "name": "apache",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47359?v=4"
     },
-    "stars": 41005,
+    "stars": 41011,
     "starsDetail": {
-      "total": 41005
+      "total": 41011
     },
     "license": "Apache License 2.0",
-    "forks": 28512,
+    "forks": 28513,
     "primaryLanguage": "ReScript",
-    "pushedAt": "2025-04-27T12:20:56.000Z",
+    "pushedAt": "2025-04-28T15:09:23.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-02-25T08:00:08.000Z",
-    "updatedAt": "2025-04-27T15:01:49.000Z"
+    "updatedAt": "2025-04-28T17:40:21.000Z"
   },
   {
     "id": "aria42/flare",
@@ -18287,21 +18287,21 @@
       "name": "keras-team",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34455048?v=4"
     },
-    "stars": 62928,
+    "stars": 62935,
     "starsDetail": {
-      "total": 62928
+      "total": 62935
     },
     "license": "Apache License 2.0",
-    "forks": 19576,
+    "forks": 19577,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-04-26T22:02:33.000Z",
+    "pushedAt": "2025-04-28T17:33:51.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-03-28T00:35:42.000Z",
-    "updatedAt": "2025-04-27T15:01:37.000Z"
+    "updatedAt": "2025-04-28T17:40:15.000Z"
   },
   {
     "id": "kevincobain2000/jProcessing",
@@ -20035,9 +20035,9 @@
       "name": "openai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4"
     },
-    "stars": 35867,
+    "stars": 35874,
     "starsDetail": {
-      "total": 35867
+      "total": 35874
     },
     "license": "Other",
     "forks": 8660,
@@ -20049,7 +20049,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-04-27T14:59:16.000Z",
-    "updatedAt": "2025-04-27T15:02:44.000Z"
+    "updatedAt": "2025-04-28T17:40:55.000Z"
   },
   {
     "id": "opencv/opencv",
@@ -20584,21 +20584,21 @@
       "name": "pytorch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/21003710?v=4"
     },
-    "stars": 89430,
+    "stars": 89471,
     "starsDetail": {
-      "total": 89430
+      "total": 89471
     },
     "license": "Other",
-    "forks": 23979,
+    "forks": 23983,
     "primaryLanguage": "Vim Script",
-    "pushedAt": "2025-04-27T14:25:38.000Z",
+    "pushedAt": "2025-04-28T17:39:41.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-08-13T05:26:41.000Z",
-    "updatedAt": "2025-04-27T15:01:39.000Z"
+    "updatedAt": "2025-04-28T17:40:16.000Z"
   },
   {
     "id": "queryverse/ReadStat.jl",
@@ -20723,21 +20723,21 @@
       "name": "ray-project",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22125274?v=4"
     },
-    "stars": 36781,
+    "stars": 36805,
     "starsDetail": {
-      "total": 36781
+      "total": 36805
     },
     "license": "Apache License 2.0",
-    "forks": 6248,
+    "forks": 6247,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-04-27T04:31:07.000Z",
+    "pushedAt": "2025-04-28T17:17:18.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-10-25T19:38:30.000Z",
-    "updatedAt": "2025-04-27T15:01:50.000Z"
+    "updatedAt": "2025-04-28T17:40:22.000Z"
   },
   {
     "id": "reactorsh/ambrosia",
@@ -21738,21 +21738,21 @@
       "name": "streamlit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45109972?v=4"
     },
-    "stars": 39056,
+    "stars": 39073,
     "starsDetail": {
-      "total": 39056
+      "total": 39073
     },
     "license": "Apache License 2.0",
-    "forks": 3415,
+    "forks": 3418,
     "primaryLanguage": "CSS",
-    "pushedAt": "2025-04-27T12:41:16.000Z",
+    "pushedAt": "2025-04-28T17:37:08.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-24T00:14:52.000Z",
-    "updatedAt": "2025-04-27T14:59:31.000Z"
+    "updatedAt": "2025-04-28T17:39:13.000Z"
   },
   {
     "id": "sudachen/go-dnn",
@@ -21943,21 +21943,21 @@
       "name": "tensorflow",
       "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4"
     },
-    "stars": 189668,
+    "stars": 189687,
     "starsDetail": {
-      "total": 189668
+      "total": 189687
     },
     "license": "Apache License 2.0",
     "forks": 74647,
     "primaryLanguage": "Vim Snippet",
-    "pushedAt": "2025-04-27T10:38:13.000Z",
+    "pushedAt": "2025-04-28T17:36:01.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-11-07T01:19:20.000Z",
-    "updatedAt": "2025-04-27T15:00:28.000Z"
+    "updatedAt": "2025-04-28T17:39:46.000Z"
   },
   {
     "id": "terrytangyuan/distributed-ml-patterns",
@@ -22504,7 +22504,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-08T02:13:50.000Z",
-    "updatedAt": "2025-04-27T14:47:17.000Z"
+    "updatedAt": "2025-04-28T17:28:12.000Z"
   },
   {
     "id": "vollmerm/fungp",
