@@ -761,7 +761,7 @@
       "name": "mvdan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3576549?v=4"
     },
-    "stars": 7682,
+    "stars": 7702,
     "starsDetail": {
       "total": 7419,
       "week": 17,
@@ -770,7 +770,7 @@
       "updatedAt": 1736033330
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 361,
+    "forks": 360,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2025-04-23T21:28:45.000Z",
     "archived": false,
@@ -779,7 +779,7 @@
     "goPackage": "mvdan.cc/sh/v3",
     "goImportedBy": 0,
     "createdAt": "2016-01-16T08:39:09.000Z",
-    "updatedAt": "2025-04-28T14:10:14.000Z"
+    "updatedAt": "2025-05-08T05:23:15.000Z"
   },
   {
     "id": "TomWright/dasel",
@@ -810,7 +810,7 @@
       "name": "TomWright",
       "avatarUrl": "https://avatars.githubusercontent.com/u/935867?v=4"
     },
-    "stars": 7439,
+    "stars": 7449,
     "starsDetail": {
       "total": 7273,
       "week": 13,
@@ -819,7 +819,7 @@
       "updatedAt": 1736087263
     },
     "license": "MIT License",
-    "forks": 144,
+    "forks": 146,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2025-03-28T08:21:28.000Z",
     "archived": false,
@@ -828,7 +828,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-09-22T10:33:56.000Z",
-    "updatedAt": "2025-04-28T14:08:38.000Z"
+    "updatedAt": "2025-05-08T05:21:38.000Z"
   },
   {
     "id": "andreafabrizi/Dropbox-Uploader",
@@ -1296,7 +1296,7 @@
       "name": "gsamokovarov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/604618?v=4"
     },
-    "stars": 1839,
+    "stars": 1842,
     "starsDetail": {
       "total": 1807,
       "week": 0,
@@ -1314,7 +1314,7 @@
     "goPackage": "github.com/gsamokovarov/jump",
     "goImportedBy": 0,
     "createdAt": "2015-08-16T22:07:17.000Z",
-    "updatedAt": "2025-04-28T14:11:58.000Z"
+    "updatedAt": "2025-05-08T05:25:00.000Z"
   },
   {
     "id": "jarun/imgp",
@@ -1427,7 +1427,7 @@
       "name": "sds",
       "avatarUrl": "https://avatars.githubusercontent.com/u/677877?v=4"
     },
-    "stars": 3948,
+    "stars": 3950,
     "starsDetail": {
       "total": 3925,
       "week": 3,
@@ -1445,7 +1445,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-03-24T09:56:15.000Z",
-    "updatedAt": "2025-04-29T07:14:12.000Z"
+    "updatedAt": "2025-05-08T05:02:13.000Z"
   },
   {
     "id": "aristocratos/btop",
@@ -1601,7 +1601,7 @@
       "name": "xo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/30761128?v=4"
     },
-    "stars": 9351,
+    "stars": 9358,
     "starsDetail": {
       "total": 9151,
       "week": 7,
@@ -1610,7 +1610,7 @@
       "updatedAt": 1736061606
     },
     "license": "MIT License",
-    "forks": 363,
+    "forks": 362,
     "primaryLanguage": "TSQL",
     "pushedAt": "2025-04-12T22:58:34.000Z",
     "archived": false,
@@ -1619,7 +1619,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-03-02T13:03:21.000Z",
-    "updatedAt": "2025-04-28T14:13:17.000Z"
+    "updatedAt": "2025-05-08T05:26:18.000Z"
   },
   {
     "id": "kellyjonbrazil/jc",
@@ -2461,7 +2461,7 @@
       "name": "tmrts",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5067495?v=4"
     },
-    "stars": 1734,
+    "stars": 1731,
     "starsDetail": {
       "total": 1729,
       "week": 2,
@@ -2479,7 +2479,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2015-12-19T16:57:26.000Z",
-    "updatedAt": "2025-04-28T14:11:12.000Z"
+    "updatedAt": "2025-05-08T05:24:17.000Z"
   },
   {
     "id": "torakiki/sejda",
@@ -2835,7 +2835,7 @@
       "name": "achannarasappa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1489983?v=4"
     },
-    "stars": 5194,
+    "stars": 5204,
     "starsDetail": {
       "total": 5048,
       "week": 8,
@@ -2844,7 +2844,7 @@
       "updatedAt": 1736032879
     },
     "license": "GNU General Public License v3.0",
-    "forks": 283,
+    "forks": 282,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2025-03-19T00:54:04.000Z",
     "archived": false,
@@ -2853,7 +2853,7 @@
     "goPackage": "github.com/achannarasappa/ticker/v4",
     "goImportedBy": 0,
     "createdAt": "2021-01-24T03:50:46.000Z",
-    "updatedAt": "2025-04-28T14:02:27.000Z"
+    "updatedAt": "2025-05-08T05:15:26.000Z"
   },
   {
     "id": "LuRsT/hr",
@@ -3084,7 +3084,7 @@
       "name": "mislav",
       "avatarUrl": "https://avatars.githubusercontent.com/u/887?v=4"
     },
-    "stars": 22920,
+    "stars": 22912,
     "starsDetail": {
       "total": 22843,
       "week": 6,
@@ -3093,7 +3093,7 @@
       "updatedAt": 1736087296
     },
     "license": "MIT License",
-    "forks": 2196,
+    "forks": 2197,
     "primaryLanguage": "Dockerfile",
     "pushedAt": "2024-02-02T21:00:44.000Z",
     "archived": false,
@@ -3102,7 +3102,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2009-12-05T22:15:25.000Z",
-    "updatedAt": "2025-04-28T14:12:38.000Z"
+    "updatedAt": "2025-05-08T05:25:35.000Z"
   },
   {
     "id": "chubin/wttr.in",
@@ -3762,7 +3762,7 @@
       "name": "klaudiosinani",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12670537?v=4"
     },
-    "stars": 9051,
+    "stars": 9056,
     "starsDetail": {
       "total": 8997,
       "week": 6,
@@ -3780,7 +3780,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-12T05:37:22.000Z",
-    "updatedAt": "2025-04-28T10:57:51.000Z"
+    "updatedAt": "2025-05-08T05:11:55.000Z"
   },
   {
     "id": "Miserlou/Loop",
@@ -4228,7 +4228,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-09-10T20:20:42.000Z",
-    "updatedAt": "2025-04-28T14:15:27.000Z"
+    "updatedAt": "2025-05-08T05:28:40.000Z"
   },
   {
     "id": "rauchg/spot",
@@ -4668,7 +4668,7 @@
       "name": "facebook",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69631?v=4"
     },
-    "stars": 5161,
+    "stars": 5164,
     "starsDetail": {
       "total": 5144,
       "week": 7,
@@ -4686,7 +4686,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-05-01T03:05:54.000Z",
-    "updatedAt": "2025-04-28T17:39:48.000Z"
+    "updatedAt": "2025-05-08T05:53:12.000Z"
   },
   {
     "id": "direnv/direnv",
@@ -5186,7 +5186,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-02-08T17:13:19.000Z",
-    "updatedAt": "2025-04-28T14:07:45.000Z"
+    "updatedAt": "2025-05-08T05:20:43.000Z"
   },
   {
     "id": "shellspec/shellspec",
@@ -5600,7 +5600,7 @@
       "name": "beetbox",
       "avatarUrl": "https://avatars.githubusercontent.com/u/15920313?v=4"
     },
-    "stars": 13441,
+    "stars": 13466,
     "starsDetail": {
       "total": 13065,
       "week": 23,
@@ -5609,16 +5609,16 @@
       "updatedAt": 1736034738
     },
     "license": "MIT License",
-    "forks": 1871,
+    "forks": 1873,
     "primaryLanguage": "CSS",
-    "pushedAt": "2025-04-27T13:17:54.000Z",
+    "pushedAt": "2025-05-08T03:10:26.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2010-08-09T23:17:20.000Z",
-    "updatedAt": "2025-04-28T17:39:24.000Z"
+    "updatedAt": "2025-05-08T05:52:47.000Z"
   },
   {
     "id": "ducaale/xh",
@@ -5777,7 +5777,7 @@
       "name": "msoap",
       "avatarUrl": "https://avatars.githubusercontent.com/u/844117?v=4"
     },
-    "stars": 1401,
+    "stars": 1402,
     "starsDetail": {
       "total": 1363,
       "week": 1,
@@ -5795,7 +5795,7 @@
     "goPackage": "github.com/msoap/shell2http",
     "goImportedBy": 0,
     "createdAt": "2015-03-11T19:39:09.000Z",
-    "updatedAt": "2025-04-28T14:15:16.000Z"
+    "updatedAt": "2025-05-08T05:28:28.000Z"
   },
   {
     "id": "raylee/tldr-sh-client",
@@ -7863,21 +7863,21 @@
       "name": "junegunn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/700826?v=4"
     },
-    "stars": 69736,
+    "stars": 69958,
     "starsDetail": {
       "total": 69736
     },
     "license": "MIT License",
-    "forks": 2504,
+    "forks": 2506,
     "primaryLanguage": "Dockerfile",
-    "pushedAt": "2025-04-27T15:27:51.000Z",
+    "pushedAt": "2025-05-04T10:00:08.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": "github.com/junegunn/fzf",
     "goImportedBy": 0,
     "createdAt": "2013-10-23T16:04:23.000Z",
-    "updatedAt": "2025-04-28T14:11:25.000Z"
+    "updatedAt": "2025-05-08T05:24:31.000Z"
   },
   {
     "id": "keithrbennett/wifiwand",
@@ -8581,12 +8581,12 @@
       "name": "nvbn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1114542?v=4"
     },
-    "stars": 91675,
+    "stars": 91791,
     "starsDetail": {
       "total": 91675
     },
     "license": "MIT License",
-    "forks": 3682,
+    "forks": 3684,
     "primaryLanguage": "Batchfile",
     "pushedAt": "2024-07-19T14:56:13.000Z",
     "archived": false,
@@ -8595,7 +8595,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-04-08T15:08:04.000Z",
-    "updatedAt": "2025-04-28T17:39:48.000Z"
+    "updatedAt": "2025-05-08T05:53:13.000Z"
   },
   {
     "id": "odb/shml",
