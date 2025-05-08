@@ -1228,6 +1228,46 @@
     "updatedAt": "2025-05-08T10:13:10.000Z"
   },
   {
+    "id": "alexk111/awesome-bitcoin-payment-processors",
+    "name": "alexk111/awesome-bitcoin-payment-processors",
+    "description": "🌟 A curated list of Bitcoin payment processors enabling merchants, businesses and nonprofits to accept Bitcoin payments.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "bitcoin",
+      "bitcoin-payment",
+      "btc",
+      "lightning",
+      "lightning-network",
+      "payment-processing",
+      "payment-processors"
+    ],
+    "owner": {
+      "name": "alexk111",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4675984?v=4"
+    },
+    "stars": 501,
+    "starsDetail": {
+      "total": 501,
+      "week": 2,
+      "month": 8,
+      "year": 109,
+      "updatedAt": 1746711997
+    },
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 59,
+    "primaryLanguage": "",
+    "pushedAt": "2025-03-21T10:13:45.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-12-26T03:24:40.000Z",
+    "updatedAt": "2025-05-08T10:14:09.000Z"
+  },
+  {
     "id": "angrykoala/awesome-esolangs",
     "name": "angrykoala/awesome-esolangs",
     "description": "Curated list of awesome Esoteric languages and resources",
@@ -1549,7 +1589,7 @@
       "name": "willianjusten",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3991845?v=4"
     },
-    "stars": 4573,
+    "stars": 4575,
     "starsDetail": {
       "total": 4552,
       "week": 3,
@@ -1567,7 +1607,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-09-19T05:11:57.000Z",
-    "updatedAt": "2025-04-29T01:02:53.000Z"
+    "updatedAt": "2025-05-08T13:30:35.000Z"
   },
   {
     "id": "zingchart/awesome-charting",
@@ -2852,6 +2892,39 @@
     "updatedAt": "2025-05-08T10:12:44.000Z"
   },
   {
+    "id": "bs-community/awesome-minecraft",
+    "name": "bs-community/awesome-minecraft",
+    "description": "📝 The curated list of awesome things related to Minecraft.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "minecraft"
+    ],
+    "owner": {
+      "name": "bs-community",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/37259779?v=4"
+    },
+    "stars": 500,
+    "starsDetail": {
+      "total": 500,
+      "week": 4,
+      "month": 6,
+      "year": 107,
+      "updatedAt": 1746711994
+    },
+    "license": "Creative Commons Zero v1.0 Universal",
+    "forks": 27,
+    "primaryLanguage": "",
+    "pushedAt": "2025-05-03T15:22:08.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2018-05-27T03:38:58.000Z",
+    "updatedAt": "2025-05-08T10:12:24.000Z"
+  },
+  {
     "id": "christian-bromann/awesome-selenium",
     "name": "christian-bromann/awesome-selenium",
     "description": "A curated list of delightful Selenium resources.",
@@ -3760,7 +3833,7 @@
       "name": "addyosmani",
       "avatarUrl": "https://avatars.githubusercontent.com/u/110953?v=4"
     },
-    "stars": 3983,
+    "stars": 3982,
     "starsDetail": {
       "total": 3981,
       "week": 1,
@@ -3778,7 +3851,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-12-19T23:18:59.000Z",
-    "updatedAt": "2025-04-29T01:02:51.000Z"
+    "updatedAt": "2025-05-08T13:30:33.000Z"
   },
   {
     "id": "automata/awesome-jamstack",
@@ -5341,7 +5414,7 @@
       "name": "jorgebucaran",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56996?v=4"
     },
-    "stars": 4461,
+    "stars": 4473,
     "starsDetail": {
       "total": 4278,
       "week": 18,
@@ -5359,7 +5432,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-10-13T08:37:26.000Z",
-    "updatedAt": "2025-04-29T07:30:11.000Z"
+    "updatedAt": "2025-05-08T13:41:50.000Z"
   },
   {
     "id": "PatrickJS/awesome-angular",
@@ -7040,7 +7113,7 @@
       "name": "bolshchikov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1206121?v=4"
     },
-    "stars": 13406,
+    "stars": 13414,
     "starsDetail": {
       "total": 13339,
       "week": 8,
@@ -7049,7 +7122,7 @@
       "updatedAt": 1736031506
     },
     "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 892,
+    "forks": 891,
     "primaryLanguage": "",
     "pushedAt": "2022-01-20T09:29:27.000Z",
     "archived": false,
@@ -7058,7 +7131,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-21T09:56:48.000Z",
-    "updatedAt": "2025-04-29T01:02:54.000Z"
+    "updatedAt": "2025-05-08T13:30:36.000Z"
   },
   {
     "id": "phanan/htaccess",
@@ -7225,7 +7298,7 @@
       "name": "davidsonfellipe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/381179?v=4"
     },
-    "stars": 8505,
+    "stars": 8514,
     "starsDetail": {
       "total": 8409,
       "week": 6,
@@ -7243,7 +7316,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-10-14T15:18:35.000Z",
-    "updatedAt": "2025-04-29T01:02:54.000Z"
+    "updatedAt": "2025-05-08T13:30:36.000Z"
   },
   {
     "id": "stackshareio/awesome-stacks",
@@ -8268,7 +8341,7 @@
       "name": "denolib",
       "avatarUrl": "https://avatars.githubusercontent.com/u/46009281?v=4"
     },
-    "stars": 4330,
+    "stars": 4338,
     "starsDetail": {
       "total": 4280,
       "week": 2,
@@ -8277,16 +8350,16 @@
       "updatedAt": 1736031509
     },
     "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 238,
+    "forks": 239,
     "primaryLanguage": "",
-    "pushedAt": "2025-04-18T02:15:08.000Z",
+    "pushedAt": "2025-05-06T20:40:06.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-01-02T06:30:58.000Z",
-    "updatedAt": "2025-04-29T01:02:55.000Z"
+    "updatedAt": "2025-05-08T13:30:38.000Z"
   },
   {
     "id": "diegocard/awesome-html5",
@@ -13835,7 +13908,7 @@
       "name": "sindresorhus",
       "avatarUrl": "https://avatars.githubusercontent.com/u/170270?v=4"
     },
-    "stars": 4557,
+    "stars": 4563,
     "starsDetail": {
       "total": 4479,
       "week": 4,
@@ -13853,7 +13926,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-13T19:20:20.000Z",
-    "updatedAt": "2025-04-29T01:00:22.000Z"
+    "updatedAt": "2025-05-08T13:27:25.000Z"
   },
   {
     "id": "svaksha/Julia.jl",
@@ -14072,7 +14145,7 @@
       "name": "Urigo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1297448?v=4"
     },
-    "stars": 1418,
+    "stars": 1419,
     "starsDetail": {
       "total": 1421,
       "week": 1,
@@ -14090,7 +14163,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-06-20T15:42:59.000Z",
-    "updatedAt": "2025-04-29T00:58:36.000Z"
+    "updatedAt": "2025-05-08T13:25:17.000Z"
   },
   {
     "id": "bcoe/awesome-cross-platform-nodejs",
@@ -14104,7 +14177,7 @@
       "name": "bcoe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/194609?v=4"
     },
-    "stars": 1164,
+    "stars": 1166,
     "starsDetail": {
       "total": 1148,
       "week": 1,
@@ -14122,7 +14195,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2015-12-20T18:25:05.000Z",
-    "updatedAt": "2025-04-29T01:00:23.000Z"
+    "updatedAt": "2025-05-08T13:27:26.000Z"
   },
   {
     "id": "diessica/awesome-sketch",
@@ -14432,7 +14505,7 @@
     },
     "stars": 291,
     "starsDetail": {
-      "total": 289
+      "total": 291
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 49,
@@ -14503,7 +14576,7 @@
     },
     "stars": 123569,
     "starsDetail": {
-      "total": 123491
+      "total": 123569
     },
     "license": "Creative Commons Attribution 4.0 International",
     "forks": 12158,
@@ -14604,9 +14677,9 @@
       "name": "DanailMinchev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7883702?v=4"
     },
-    "stars": 32,
+    "stars": 35,
     "starsDetail": {
-      "total": 32
+      "total": 35
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 4,
@@ -14618,7 +14691,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2025-01-03T09:58:40.000Z",
-    "updatedAt": "2025-04-29T07:22:38.000Z"
+    "updatedAt": "2025-05-08T13:32:55.000Z"
   },
   {
     "id": "DataDaoDe/awesome-foss-apps",
@@ -14631,7 +14704,7 @@
     },
     "stars": 340,
     "starsDetail": {
-      "total": 341
+      "total": 340
     },
     "license": null,
     "forks": 17,
@@ -14704,7 +14777,7 @@
     },
     "stars": 74730,
     "starsDetail": {
-      "total": 74584
+      "total": 74730
     },
     "license": null,
     "forks": 9074,
@@ -14742,7 +14815,7 @@
     },
     "stars": 398,
     "starsDetail": {
-      "total": 397
+      "total": 398
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 17,
@@ -14773,7 +14846,7 @@
     },
     "stars": 356869,
     "starsDetail": {
-      "total": 355812
+      "total": 356869
     },
     "license": "Creative Commons Attribution 4.0 International",
     "forks": 63320,
@@ -14801,7 +14874,7 @@
     },
     "stars": 266,
     "starsDetail": {
-      "total": 260
+      "total": 266
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 37,
@@ -14833,7 +14906,7 @@
     },
     "stars": 27,
     "starsDetail": {
-      "total": 26
+      "total": 27
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 2,
@@ -14927,7 +15000,7 @@
     },
     "stars": 78,
     "starsDetail": {
-      "total": 77
+      "total": 78
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 2,
@@ -14962,7 +15035,7 @@
     },
     "stars": 212,
     "starsDetail": {
-      "total": 211
+      "total": 212
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 15,
@@ -14997,7 +15070,7 @@
     },
     "stars": 128,
     "starsDetail": {
-      "total": 127
+      "total": 128
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 11,
@@ -15102,7 +15175,7 @@
     },
     "stars": 399,
     "starsDetail": {
-      "total": 394
+      "total": 399
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 39,
@@ -15133,7 +15206,7 @@
     },
     "stars": 73734,
     "starsDetail": {
-      "total": 73532
+      "total": 73734
     },
     "license": null,
     "forks": 7243,
@@ -15171,7 +15244,7 @@
     },
     "stars": 341,
     "starsDetail": {
-      "total": 333
+      "total": 341
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 32,
@@ -15201,7 +15274,7 @@
     },
     "stars": 492,
     "starsDetail": {
-      "total": 485
+      "total": 492
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 27,
@@ -15259,7 +15332,7 @@
     },
     "stars": 81,
     "starsDetail": {
-      "total": 82
+      "total": 81
     },
     "license": null,
     "forks": 10,
@@ -15405,7 +15478,7 @@
     },
     "stars": 343,
     "starsDetail": {
-      "total": 342
+      "total": 343
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 56,
@@ -15440,7 +15513,7 @@
     },
     "stars": 450,
     "starsDetail": {
-      "total": 449
+      "total": 450
     },
     "license": null,
     "forks": 137,
@@ -15472,7 +15545,7 @@
     },
     "stars": 282,
     "starsDetail": {
-      "total": 281
+      "total": 282
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 19,
@@ -15497,7 +15570,7 @@
     },
     "stars": 376,
     "starsDetail": {
-      "total": 373
+      "total": 376
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 25,
@@ -15559,7 +15632,7 @@
     },
     "stars": 468,
     "starsDetail": {
-      "total": 467
+      "total": 468
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 60,
@@ -15626,7 +15699,7 @@
     },
     "stars": 498,
     "starsDetail": {
-      "total": 495
+      "total": 498
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 13,
@@ -15639,42 +15712,6 @@
     "goImportedBy": null,
     "createdAt": "2023-07-10T08:57:48.000Z",
     "updatedAt": "2025-05-08T10:14:23.000Z"
-  },
-  {
-    "id": "alexk111/awesome-bitcoin-payment-processors",
-    "name": "alexk111/awesome-bitcoin-payment-processors",
-    "description": "🌟 A curated list of Bitcoin payment processors enabling merchants, businesses and nonprofits to accept Bitcoin payments.",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "awesome-lists",
-      "bitcoin",
-      "bitcoin-payment",
-      "btc",
-      "lightning",
-      "lightning-network",
-      "payment-processing",
-      "payment-processors"
-    ],
-    "owner": {
-      "name": "alexk111",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4675984?v=4"
-    },
-    "stars": 501,
-    "starsDetail": {
-      "total": 498
-    },
-    "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 59,
-    "primaryLanguage": "",
-    "pushedAt": "2025-03-21T10:13:45.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-12-26T03:24:40.000Z",
-    "updatedAt": "2025-05-08T10:14:09.000Z"
   },
   {
     "id": "aliesbelik/awesome-gatling",
@@ -15729,7 +15766,7 @@
     },
     "stars": 161,
     "starsDetail": {
-      "total": 160
+      "total": 161
     },
     "license": "Other",
     "forks": 15,
@@ -15775,7 +15812,7 @@
     },
     "stars": 64,
     "starsDetail": {
-      "total": 63
+      "total": 64
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 7,
@@ -15806,7 +15843,7 @@
     },
     "stars": 113,
     "starsDetail": {
-      "total": 112
+      "total": 113
     },
     "license": "Other",
     "forks": 13,
@@ -15929,7 +15966,7 @@
     },
     "stars": 63065,
     "starsDetail": {
-      "total": 62990
+      "total": 63065
     },
     "license": "MIT License",
     "forks": 10112,
@@ -15994,7 +16031,7 @@
     },
     "stars": 407,
     "starsDetail": {
-      "total": 405
+      "total": 407
     },
     "license": "MIT License",
     "forks": 23,
@@ -16068,35 +16105,6 @@
     "updatedAt": "2025-05-08T10:11:30.000Z"
   },
   {
-    "id": "bs-community/awesome-minecraft",
-    "name": "bs-community/awesome-minecraft",
-    "description": "📝 The curated list of awesome things related to Minecraft.",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "minecraft"
-    ],
-    "owner": {
-      "name": "bs-community",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/37259779?v=4"
-    },
-    "stars": 500,
-    "starsDetail": {
-      "total": 498
-    },
-    "license": "Creative Commons Zero v1.0 Universal",
-    "forks": 27,
-    "primaryLanguage": "",
-    "pushedAt": "2025-05-03T15:22:08.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2018-05-27T03:38:58.000Z",
-    "updatedAt": "2025-05-08T10:12:24.000Z"
-  },
-  {
     "id": "busterc/awesome-cordova",
     "name": "busterc/awesome-cordova",
     "description": ":iphone: A curated list of amazingly awesome Cordova libraries, resources and shiny things.",
@@ -16150,7 +16158,7 @@
     },
     "stars": 356,
     "starsDetail": {
-      "total": 353
+      "total": 356
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 18,
@@ -16282,9 +16290,9 @@
       "name": "coderabbitai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/132028505?v=4"
     },
-    "stars": 49,
+    "stars": 54,
     "starsDetail": {
-      "total": 49
+      "total": 54
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 3,
@@ -16296,7 +16304,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-09-24T12:48:57.000Z",
-    "updatedAt": "2025-04-29T07:23:36.000Z"
+    "updatedAt": "2025-05-08T13:34:03.000Z"
   },
   {
     "id": "collective/awesome-plone",
@@ -16438,7 +16446,7 @@
     },
     "stars": 340,
     "starsDetail": {
-      "total": 339
+      "total": 340
     },
     "license": null,
     "forks": 41,
@@ -16469,7 +16477,7 @@
     },
     "stars": 279,
     "starsDetail": {
-      "total": 277
+      "total": 279
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 24,
@@ -16586,7 +16594,7 @@
     },
     "stars": 151,
     "starsDetail": {
-      "total": 150
+      "total": 151
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 6,
@@ -16679,7 +16687,7 @@
     },
     "stars": 151,
     "starsDetail": {
-      "total": 150
+      "total": 151
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 18,
@@ -16710,7 +16718,7 @@
     },
     "stars": 267,
     "starsDetail": {
-      "total": 266
+      "total": 267
     },
     "license": "Other",
     "forks": 20,
@@ -16740,7 +16748,7 @@
     },
     "stars": 43732,
     "starsDetail": {
-      "total": 43669
+      "total": 43732
     },
     "license": null,
     "forks": 5106,
@@ -16932,12 +16940,12 @@
       "name": "enaqx",
       "avatarUrl": "https://avatars.githubusercontent.com/u/182219?v=4"
     },
-    "stars": 67777,
+    "stars": 67910,
     "starsDetail": {
-      "total": 67777
+      "total": 67910
     },
     "license": null,
-    "forks": 7331,
+    "forks": 7343,
     "primaryLanguage": "",
     "pushedAt": "2024-12-06T20:56:37.000Z",
     "archived": false,
@@ -16946,7 +16954,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-08-06T05:31:44.000Z",
-    "updatedAt": "2025-04-29T01:02:53.000Z"
+    "updatedAt": "2025-05-08T13:30:35.000Z"
   },
   {
     "id": "eozer/awesome-snmp",
@@ -17094,7 +17102,7 @@
     },
     "stars": 331,
     "starsDetail": {
-      "total": 330
+      "total": 331
     },
     "license": null,
     "forks": 46,
@@ -17151,7 +17159,7 @@
     },
     "stars": 395,
     "starsDetail": {
-      "total": 394
+      "total": 395
     },
     "license": "MIT License",
     "forks": 59,
@@ -17318,7 +17326,7 @@
     },
     "stars": 145,
     "starsDetail": {
-      "total": 144
+      "total": 145
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 25,
@@ -17350,7 +17358,7 @@
     },
     "stars": 268,
     "starsDetail": {
-      "total": 269
+      "total": 268
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 34,
@@ -17375,7 +17383,7 @@
     },
     "stars": 433,
     "starsDetail": {
-      "total": 431
+      "total": 433
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 35,
@@ -17409,7 +17417,7 @@
     },
     "stars": 403,
     "starsDetail": {
-      "total": 396
+      "total": 403
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 20,
@@ -17534,7 +17542,7 @@
     },
     "stars": 96,
     "starsDetail": {
-      "total": 97
+      "total": 96
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 4,
@@ -17594,7 +17602,7 @@
     },
     "stars": 244,
     "starsDetail": {
-      "total": 243
+      "total": 244
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 22,
@@ -17721,7 +17729,7 @@
     },
     "stars": 455,
     "starsDetail": {
-      "total": 454
+      "total": 455
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 22,
@@ -17784,7 +17792,7 @@
     },
     "stars": 35096,
     "starsDetail": {
-      "total": 35087
+      "total": 35096
     },
     "license": null,
     "forks": 4007,
@@ -17816,7 +17824,7 @@
     },
     "stars": 354,
     "starsDetail": {
-      "total": 353
+      "total": 354
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 21,
@@ -17850,7 +17858,7 @@
     },
     "stars": 223,
     "starsDetail": {
-      "total": 221
+      "total": 223
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 9,
@@ -17878,7 +17886,7 @@
     },
     "stars": 199,
     "starsDetail": {
-      "total": 198
+      "total": 199
     },
     "license": null,
     "forks": 10,
@@ -17946,7 +17954,7 @@
     },
     "stars": 194,
     "starsDetail": {
-      "total": 190
+      "total": 194
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 17,
@@ -17977,7 +17985,7 @@
     },
     "stars": 33026,
     "starsDetail": {
-      "total": 32994
+      "total": 33026
     },
     "license": null,
     "forks": 1757,
@@ -18098,7 +18106,7 @@
     },
     "stars": 454,
     "starsDetail": {
-      "total": 453
+      "total": 454
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 27,
@@ -18127,7 +18135,7 @@
     },
     "stars": 37828,
     "starsDetail": {
-      "total": 37728
+      "total": 37828
     },
     "license": null,
     "forks": 4134,
@@ -18158,7 +18166,7 @@
     },
     "stars": 91,
     "starsDetail": {
-      "total": 90
+      "total": 91
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 2,
@@ -18186,9 +18194,9 @@
       "name": "lutzh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/944838?v=4"
     },
-    "stars": 452,
+    "stars": 453,
     "starsDetail": {
-      "total": 452
+      "total": 453
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 17,
@@ -18200,7 +18208,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-03-30T10:46:08.000Z",
-    "updatedAt": "2025-04-29T00:56:21.000Z"
+    "updatedAt": "2025-05-08T13:22:27.000Z"
   },
   {
     "id": "lyqht/awesome-supabase",
@@ -18217,7 +18225,7 @@
     },
     "stars": 361,
     "starsDetail": {
-      "total": 351
+      "total": 361
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 20,
@@ -18257,7 +18265,7 @@
     },
     "stars": 254,
     "starsDetail": {
-      "total": 252
+      "total": 254
     },
     "license": "GNU Affero General Public License v3.0",
     "forks": 24,
@@ -18359,7 +18367,7 @@
     },
     "stars": 162,
     "starsDetail": {
-      "total": 160
+      "total": 162
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 17,
@@ -18425,7 +18433,7 @@
     },
     "stars": 193,
     "starsDetail": {
-      "total": 191
+      "total": 193
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 7,
@@ -18564,7 +18572,7 @@
     },
     "stars": 242,
     "starsDetail": {
-      "total": 241
+      "total": 242
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 25,
@@ -18628,7 +18636,7 @@
     },
     "stars": 486,
     "starsDetail": {
-      "total": 485
+      "total": 486
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 27,
@@ -18701,7 +18709,7 @@
     },
     "stars": 440,
     "starsDetail": {
-      "total": 441
+      "total": 440
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 63,
@@ -18762,7 +18770,7 @@
     },
     "stars": 179058,
     "starsDetail": {
-      "total": 178699
+      "total": 179058
     },
     "license": "MIT License",
     "forks": 22703,
@@ -18840,7 +18848,7 @@
     },
     "stars": 92953,
     "starsDetail": {
-      "total": 92625
+      "total": 92953
     },
     "license": null,
     "forks": 5939,
@@ -18996,7 +19004,7 @@
     },
     "stars": 283,
     "starsDetail": {
-      "total": 281
+      "total": 283
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 35,
@@ -19026,7 +19034,7 @@
     },
     "stars": 60363,
     "starsDetail": {
-      "total": 60212
+      "total": 60363
     },
     "license": null,
     "forks": 8202,
@@ -19058,7 +19066,7 @@
     },
     "stars": 185,
     "starsDetail": {
-      "total": 184
+      "total": 185
     },
     "license": null,
     "forks": 16,
@@ -19083,7 +19091,7 @@
     },
     "stars": 386,
     "starsDetail": {
-      "total": 385
+      "total": 386
     },
     "license": "MIT License",
     "forks": 61,
@@ -19146,7 +19154,7 @@
     },
     "stars": 173,
     "starsDetail": {
-      "total": 172
+      "total": 173
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 38,
@@ -19176,7 +19184,7 @@
     },
     "stars": 173,
     "starsDetail": {
-      "total": 172
+      "total": 173
     },
     "license": "Other",
     "forks": 8,
@@ -19229,7 +19237,7 @@
     },
     "stars": 82,
     "starsDetail": {
-      "total": 81
+      "total": 82
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 6,
@@ -19261,7 +19269,7 @@
     },
     "stars": 155,
     "starsDetail": {
-      "total": 153
+      "total": 155
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 9,
@@ -19289,7 +19297,7 @@
     },
     "stars": 95672,
     "starsDetail": {
-      "total": 95042
+      "total": 95672
     },
     "license": null,
     "forks": 10351,
@@ -19326,7 +19334,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2025-04-18T11:42:21.000Z",
-    "updatedAt": "2025-04-29T07:22:21.000Z"
+    "updatedAt": "2025-05-08T13:32:33.000Z"
   },
   {
     "id": "robinrodricks/awesome-actionscript3",
@@ -19415,7 +19423,7 @@
     },
     "stars": 389,
     "starsDetail": {
-      "total": 387
+      "total": 389
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 29,
@@ -19452,7 +19460,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-12-05T10:17:38.000Z",
-    "updatedAt": "2025-04-29T01:02:53.000Z"
+    "updatedAt": "2025-05-08T13:30:34.000Z"
   },
   {
     "id": "sadcitizen/awesome-marionette",
@@ -19498,7 +19506,7 @@
     },
     "stars": 171,
     "starsDetail": {
-      "total": 168
+      "total": 171
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 14,
@@ -19594,7 +19602,7 @@
     },
     "stars": 134,
     "starsDetail": {
-      "total": 133
+      "total": 134
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 17,
@@ -19652,7 +19660,7 @@
     },
     "stars": 281,
     "starsDetail": {
-      "total": 278
+      "total": 281
     },
     "license": "Creative Commons Attribution 4.0 International",
     "forks": 42,
@@ -19746,7 +19754,7 @@
     },
     "stars": 62,
     "starsDetail": {
-      "total": 63
+      "total": 62
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 5,
@@ -19846,7 +19854,7 @@
     },
     "stars": 218,
     "starsDetail": {
-      "total": 214
+      "total": 218
     },
     "license": "Other",
     "forks": 22,
@@ -19875,9 +19883,9 @@
       "name": "sindresorhus",
       "avatarUrl": "https://avatars.githubusercontent.com/u/170270?v=4"
     },
-    "stars": 340,
+    "stars": 341,
     "starsDetail": {
-      "total": 340
+      "total": 341
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 14,
@@ -19889,7 +19897,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-05-03T11:56:58.000Z",
-    "updatedAt": "2025-04-29T00:58:51.000Z"
+    "updatedAt": "2025-05-08T13:25:36.000Z"
   },
   {
     "id": "slevithan/awesome-regex",
@@ -19908,7 +19916,7 @@
     },
     "stars": 292,
     "starsDetail": {
-      "total": 289
+      "total": 292
     },
     "license": "Other",
     "forks": 10,
@@ -20091,7 +20099,7 @@
     },
     "stars": 441,
     "starsDetail": {
-      "total": 440
+      "total": 441
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 55,
@@ -20141,7 +20149,7 @@
     },
     "stars": 492,
     "starsDetail": {
-      "total": 491
+      "total": 492
     },
     "license": "MIT License",
     "forks": 28,
@@ -20196,7 +20204,7 @@
     },
     "stars": 216,
     "starsDetail": {
-      "total": 215
+      "total": 216
     },
     "license": null,
     "forks": 10,
@@ -20255,7 +20263,7 @@
     },
     "stars": 395,
     "starsDetail": {
-      "total": 394
+      "total": 395
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 30,
@@ -20293,7 +20301,7 @@
     },
     "stars": 316,
     "starsDetail": {
-      "total": 314
+      "total": 316
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 29,
@@ -20324,7 +20332,7 @@
     },
     "stars": 50632,
     "starsDetail": {
-      "total": 50530
+      "total": 50632
     },
     "license": "MIT License",
     "forks": 5314,
@@ -20390,7 +20398,7 @@
     },
     "stars": 196,
     "starsDetail": {
-      "total": 195
+      "total": 196
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 11,
@@ -20421,7 +20429,7 @@
     },
     "stars": 203,
     "starsDetail": {
-      "total": 201
+      "total": 203
     },
     "license": "Creative Commons Attribution Share Alike 4.0 International",
     "forks": 12,
@@ -20512,7 +20520,7 @@
     },
     "stars": 217,
     "starsDetail": {
-      "total": 216
+      "total": 217
     },
     "license": "Other",
     "forks": 43,
@@ -20581,7 +20589,7 @@
     },
     "stars": 32111,
     "starsDetail": {
-      "total": 31998
+      "total": 32111
     },
     "license": "Apache License 2.0",
     "forks": 3085,
@@ -20707,7 +20715,7 @@
     },
     "stars": 127,
     "starsDetail": {
-      "total": 126
+      "total": 127
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 11,
@@ -20761,7 +20769,7 @@
     },
     "stars": 52394,
     "starsDetail": {
-      "total": 52310
+      "total": 52394
     },
     "license": "MIT License",
     "forks": 10225,
@@ -20853,7 +20861,7 @@
     },
     "stars": 202,
     "starsDetail": {
-      "total": 201
+      "total": 202
     },
     "license": "Other",
     "forks": 26,
@@ -20916,7 +20924,7 @@
     },
     "stars": 382,
     "starsDetail": {
-      "total": 381
+      "total": 382
     },
     "license": "Creative Commons Attribution Share Alike 4.0 International",
     "forks": 33,
@@ -20949,7 +20957,7 @@
     },
     "stars": 31557,
     "starsDetail": {
-      "total": 31521
+      "total": 31557
     },
     "license": "Do What The F*ck You Want To Public License",
     "forks": 5110,
@@ -20980,7 +20988,7 @@
     },
     "stars": 89,
     "starsDetail": {
-      "total": 86
+      "total": 89
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 9,

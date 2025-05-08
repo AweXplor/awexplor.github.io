@@ -358,6 +358,43 @@
     "updatedAt": "2025-05-08T09:59:25.000Z"
   },
   {
+    "id": "nikitabobko/AeroSpace",
+    "name": "nikitabobko/AeroSpace",
+    "description": "AeroSpace is an i3-like tiling window manager for macOS",
+    "topics": [
+      "i3",
+      "i3wm",
+      "mac",
+      "macos",
+      "tiling",
+      "tiling-window-manager",
+      "window-manager"
+    ],
+    "owner": {
+      "name": "nikitabobko",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20517828?v=4"
+    },
+    "stars": 12307,
+    "starsDetail": {
+      "total": 12307,
+      "week": 195,
+      "month": 922,
+      "year": 11034,
+      "updatedAt": 1746712025
+    },
+    "license": "MIT License",
+    "forks": 242,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2025-05-07T19:40:33.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2023-05-21T20:20:17.000Z",
+    "updatedAt": "2025-05-08T05:08:12.000Z"
+  },
+  {
     "id": "arsenetar/dupeguru",
     "name": "arsenetar/dupeguru",
     "description": "Find duplicate files",
@@ -463,7 +500,7 @@
       "name": "dnote",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26827777?v=4"
     },
-    "stars": 2862,
+    "stars": 2864,
     "starsDetail": {
       "total": 2811,
       "week": 2,
@@ -481,7 +518,7 @@
     "goPackage": "github.com/dnote/dnote",
     "goImportedBy": 0,
     "createdAt": "2017-03-30T23:07:25.000Z",
-    "updatedAt": "2025-04-29T07:32:15.000Z"
+    "updatedAt": "2025-05-08T13:44:19.000Z"
   },
   {
     "id": "gitahead/gitahead",
@@ -1169,7 +1206,7 @@
       "name": "ajeetdsouza",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1777663?v=4"
     },
-    "stars": 26125,
+    "stars": 26283,
     "starsDetail": {
       "total": 23998,
       "week": 335,
@@ -1178,16 +1215,16 @@
       "updatedAt": 1736031755
     },
     "license": "MIT License",
-    "forks": 623,
+    "forks": 625,
     "primaryLanguage": "Nix",
-    "pushedAt": "2025-04-13T13:46:27.000Z",
+    "pushedAt": "2025-05-06T07:26:12.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-03-05T13:11:40.000Z",
-    "updatedAt": "2025-04-29T07:24:27.000Z"
+    "updatedAt": "2025-05-08T13:35:02.000Z"
   },
   {
     "id": "Homebrew/homebrew-cask",
@@ -2949,7 +2986,7 @@
       "name": "PasteBar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/148391726?v=4"
     },
-    "stars": 1385,
+    "stars": 1394,
     "starsDetail": {
       "total": 1203,
       "week": 9,
@@ -2967,7 +3004,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-04-10T13:19:35.000Z",
-    "updatedAt": "2025-04-29T00:58:02.000Z"
+    "updatedAt": "2025-05-08T13:24:36.000Z"
   },
   {
     "id": "Aegisub/Aegisub",
@@ -4828,7 +4865,7 @@
       "name": "popcorn-official",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7267937?v=4"
     },
-    "stars": 9741,
+    "stars": 9751,
     "starsDetail": {
       "total": 9546,
       "week": 9,
@@ -4837,7 +4874,7 @@
       "updatedAt": 1736087014
     },
     "license": "Other",
-    "forks": 642,
+    "forks": 643,
     "primaryLanguage": "Shell",
     "pushedAt": "2025-03-02T17:33:50.000Z",
     "archived": false,
@@ -4846,7 +4883,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-02-16T11:07:20.000Z",
-    "updatedAt": "2025-04-29T00:58:07.000Z"
+    "updatedAt": "2025-05-08T13:24:42.000Z"
   },
   {
     "id": "wezterm/wezterm",
@@ -4864,7 +4901,7 @@
       "name": "wezterm",
       "avatarUrl": "https://avatars.githubusercontent.com/u/198158019?v=4"
     },
-    "stars": 20081,
+    "stars": 20277,
     "starsDetail": {
       "total": 19164,
       "week": 96,
@@ -4873,16 +4910,16 @@
       "updatedAt": 1739012816
     },
     "license": "Other",
-    "forks": 899,
+    "forks": 903,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-04-25T05:10:26.000Z",
+    "pushedAt": "2025-05-04T13:31:48.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-07T05:35:46.000Z",
-    "updatedAt": "2025-04-29T01:03:34.000Z"
+    "updatedAt": "2025-05-08T13:31:27.000Z"
   },
   {
     "id": "matryer/xbar",
@@ -6090,7 +6127,7 @@
       "name": "surrealdb",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10982346?v=4"
     },
-    "stars": 29180,
+    "stars": 29212,
     "starsDetail": {
       "total": 28452,
       "week": 64,
@@ -6099,16 +6136,16 @@
       "updatedAt": 1736031651
     },
     "license": "Other",
-    "forks": 980,
+    "forks": 984,
     "primaryLanguage": "RenderScript",
-    "pushedAt": "2025-04-29T00:58:45.000Z",
+    "pushedAt": "2025-05-08T13:31:26.000Z",
     "archived": false,
     "npmPackage": "surrealdb",
     "npmLastMonthDownloads": 17838,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-12-09T15:03:29.000Z",
-    "updatedAt": "2025-04-29T01:03:47.000Z"
+    "updatedAt": "2025-05-08T13:31:42.000Z"
   },
   {
     "id": "syncthing/syncthing-macos",
@@ -6177,7 +6214,7 @@
       "name": "wavetermdev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/120279640?v=4"
     },
-    "stars": 10037,
+    "stars": 10101,
     "starsDetail": {
       "total": 8131,
       "week": 230,
@@ -6186,16 +6223,16 @@
       "updatedAt": 1736087154
     },
     "license": "Apache License 2.0",
-    "forks": 340,
+    "forks": 346,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-04-29T00:22:23.000Z",
+    "pushedAt": "2025-05-05T17:39:20.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-06-08T00:26:00.000Z",
-    "updatedAt": "2025-04-29T07:30:29.000Z"
+    "updatedAt": "2025-05-08T13:42:12.000Z"
   },
   {
     "id": "Tribler/tribler",
@@ -7101,7 +7138,7 @@
       "name": "darktable-org",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1561544?v=4"
     },
-    "stars": 10688,
+    "stars": 10724,
     "starsDetail": {
       "total": 10210,
       "week": 117,
@@ -7112,14 +7149,14 @@
     "license": "GNU General Public License v3.0",
     "forks": 1183,
     "primaryLanguage": "Emacs Lisp",
-    "pushedAt": "2025-04-29T06:06:53.000Z",
+    "pushedAt": "2025-05-08T00:27:35.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2012-03-21T21:53:04.000Z",
-    "updatedAt": "2025-04-29T07:30:29.000Z"
+    "updatedAt": "2025-05-08T13:42:13.000Z"
   },
   {
     "id": "lima-vm/lima",
@@ -8631,7 +8668,7 @@
       "name": "jasonjmcghee",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1522149?v=4"
     },
-    "stars": 2406,
+    "stars": 2408,
     "starsDetail": {
       "total": 2347,
       "week": 6,
@@ -8649,7 +8686,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-12-27T21:50:31.000Z",
-    "updatedAt": "2025-04-29T00:56:35.000Z"
+    "updatedAt": "2025-05-08T13:22:45.000Z"
   },
   {
     "id": "jhspetersson/fselect",
@@ -8917,7 +8954,7 @@
       "name": "overtake",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1260850?v=4"
     },
-    "stars": 5206,
+    "stars": 5213,
     "starsDetail": {
       "total": 5097,
       "week": 7,
@@ -8926,16 +8963,16 @@
       "updatedAt": 1736061130
     },
     "license": "GNU General Public License v2.0",
-    "forks": 894,
-    "primaryLanguage": "MATLAB",
-    "pushedAt": "2024-08-11T18:38:44.000Z",
+    "forks": 900,
+    "primaryLanguage": "Limbo",
+    "pushedAt": "2025-05-01T08:29:45.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-10T10:14:10.000Z",
-    "updatedAt": "2025-04-28T21:38:49.000Z"
+    "updatedAt": "2025-05-08T13:20:57.000Z"
   },
   {
     "id": "pgmodeler/pgmodeler",
@@ -9005,7 +9042,7 @@
       "name": "GyulyVGC",
       "avatarUrl": "https://avatars.githubusercontent.com/u/100347457?v=4"
     },
-    "stars": 23546,
+    "stars": 23768,
     "starsDetail": {
       "total": 18893,
       "week": 48,
@@ -9014,16 +9051,16 @@
       "updatedAt": 1736031538
     },
     "license": "Apache License 2.0",
-    "forks": 715,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2025-04-28T03:50:19.000Z",
+    "forks": 728,
+    "primaryLanguage": "Dockerfile",
+    "pushedAt": "2025-05-05T10:28:00.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-31T21:55:56.000Z",
-    "updatedAt": "2025-04-29T01:03:05.000Z"
+    "updatedAt": "2025-05-08T13:30:50.000Z"
   },
   {
     "id": "bhj/KaraokeEternal",
@@ -9949,7 +9986,7 @@
       "name": "noah-nuebling",
       "avatarUrl": "https://avatars.githubusercontent.com/u/40808343?v=4"
     },
-    "stars": 6911,
+    "stars": 6992,
     "starsDetail": {
       "total": 6443,
       "week": 56,
@@ -9960,14 +9997,14 @@
     "license": "Other",
     "forks": 196,
     "primaryLanguage": "CSS",
-    "pushedAt": "2025-04-29T00:34:14.000Z",
+    "pushedAt": "2025-05-08T12:54:22.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-07T22:09:17.000Z",
-    "updatedAt": "2025-04-29T07:23:09.000Z"
+    "updatedAt": "2025-05-08T13:33:30.000Z"
   },
   {
     "id": "beekeeper-studio/beekeeper-studio",
@@ -11216,7 +11253,7 @@
       "name": "lihaoyun6",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16348097?v=4"
     },
-    "stars": 845,
+    "stars": 861,
     "starsDetail": {
       "total": 614,
       "week": 19,
@@ -11225,7 +11262,7 @@
       "updatedAt": 1736087008
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 33,
+    "forks": 37,
     "primaryLanguage": "Rich Text Format",
     "pushedAt": "2024-12-01T15:28:05.000Z",
     "archived": false,
@@ -11234,7 +11271,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-20T01:39:15.000Z",
-    "updatedAt": "2025-04-29T00:58:02.000Z"
+    "updatedAt": "2025-05-08T13:24:36.000Z"
   },
   {
     "id": "videolan/vlc",
@@ -11295,7 +11332,7 @@
       "name": "electerm",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32591856?v=4"
     },
-    "stars": 12395,
+    "stars": 12417,
     "starsDetail": {
       "total": 12003,
       "week": 69,
@@ -11304,16 +11341,16 @@
       "updatedAt": 1742273139
     },
     "license": "MIT License",
-    "forks": 1017,
+    "forks": 1019,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-04-29T06:53:12.000Z",
+    "pushedAt": "2025-05-08T08:19:10.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2017-10-07T09:54:11.000Z",
-    "updatedAt": "2025-04-29T07:23:19.000Z"
+    "updatedAt": "2025-05-08T13:33:42.000Z"
   },
   {
     "id": "pqrs-org/Karabiner-Elements",
@@ -11356,7 +11393,7 @@
       "name": "ghostty-org",
       "avatarUrl": "https://avatars.githubusercontent.com/u/169223740?v=4"
     },
-    "stars": 30039,
+    "stars": 30333,
     "starsDetail": {
       "total": 20334,
       "week": 6241,
@@ -11365,16 +11402,16 @@
       "updatedAt": 1736087153
     },
     "license": "MIT License",
-    "forks": 803,
+    "forks": 812,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-04-28T22:19:43.000Z",
+    "pushedAt": "2025-05-07T20:50:36.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-03-29T17:38:26.000Z",
-    "updatedAt": "2025-04-29T07:30:28.000Z"
+    "updatedAt": "2025-05-08T13:42:12.000Z"
   },
   {
     "id": "AuroraEditor/AuroraEditor",
@@ -11916,7 +11953,7 @@
       "name": "padloc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/38265889?v=4"
     },
-    "stars": 2751,
+    "stars": 2756,
     "starsDetail": {
       "total": 2659,
       "week": 7,
@@ -11934,7 +11971,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-11-10T21:06:35.000Z",
-    "updatedAt": "2025-04-29T00:57:17.000Z"
+    "updatedAt": "2025-05-08T13:23:38.000Z"
   },
   {
     "id": "pkulchenko/ZeroBraneStudio",
@@ -12945,7 +12982,7 @@
       "name": "FelixKratz",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22680421?v=4"
     },
-    "stars": 2047,
+    "stars": 2107,
     "starsDetail": {
       "total": 1620,
       "week": 30,
@@ -12963,7 +13000,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-11-02T16:14:50.000Z",
-    "updatedAt": "2025-04-29T00:58:13.000Z"
+    "updatedAt": "2025-05-08T13:24:49.000Z"
   },
   {
     "id": "nmap/nmap",
@@ -13251,7 +13288,7 @@
       "name": "readest",
       "avatarUrl": "https://avatars.githubusercontent.com/u/190965649?v=4"
     },
-    "stars": 7249,
+    "stars": 7521,
     "starsDetail": {
       "total": 1514,
       "week": 267,
@@ -13260,16 +13297,16 @@
       "updatedAt": 1736087339
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 332,
+    "forks": 348,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-04-28T16:25:17.000Z",
+    "pushedAt": "2025-05-08T07:26:58.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-12T23:16:55.000Z",
-    "updatedAt": "2025-04-29T01:03:47.000Z"
+    "updatedAt": "2025-05-08T13:31:43.000Z"
   },
   {
     "id": "viatsko/awesome-vscode",
@@ -14295,7 +14332,7 @@
       "name": "espanso",
       "avatarUrl": "https://avatars.githubusercontent.com/u/64536333?v=4"
     },
-    "stars": 10930,
+    "stars": 10982,
     "starsDetail": {
       "total": 10254,
       "week": 27,
@@ -14304,7 +14341,7 @@
       "updatedAt": 1736031727
     },
     "license": "GNU General Public License v3.0",
-    "forks": 305,
+    "forks": 306,
     "primaryLanguage": "Batchfile",
     "pushedAt": "2025-04-27T03:31:40.000Z",
     "archived": false,
@@ -14313,7 +14350,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-30T07:16:58.000Z",
-    "updatedAt": "2025-04-29T07:24:11.000Z"
+    "updatedAt": "2025-05-08T13:34:43.000Z"
   },
   {
     "id": "BubuAnabelas/awesome-markdown",
@@ -15358,7 +15395,7 @@
       "name": "trailbaseio",
       "avatarUrl": "https://avatars.githubusercontent.com/u/176172021?v=4"
     },
-    "stars": 1954,
+    "stars": 2069,
     "starsDetail": {
       "total": 1205,
       "week": 18,
@@ -15367,16 +15404,16 @@
       "updatedAt": 1736086993
     },
     "license": "Open Software License 3.0",
-    "forks": 44,
+    "forks": 46,
     "primaryLanguage": "HTML",
-    "pushedAt": "2025-04-28T22:39:58.000Z",
+    "pushedAt": "2025-05-08T10:26:57.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-10-29T09:39:33.000Z",
-    "updatedAt": "2025-04-29T00:56:10.000Z"
+    "updatedAt": "2025-05-08T13:22:13.000Z"
   },
   {
     "id": "linearmouse/linearmouse",
@@ -15471,7 +15508,7 @@
       "name": "mjmlio",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16115896?v=4"
     },
-    "stars": 17405,
+    "stars": 17424,
     "starsDetail": {
       "total": 17027,
       "week": 15,
@@ -15480,7 +15517,7 @@
       "updatedAt": 1729334084
     },
     "license": "MIT License",
-    "forks": 970,
+    "forks": 971,
     "primaryLanguage": "JavaScript",
     "pushedAt": "2025-02-20T17:29:39.000Z",
     "archived": false,
@@ -15489,7 +15526,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2016-01-28T14:04:05.000Z",
-    "updatedAt": "2025-04-29T00:59:47.000Z"
+    "updatedAt": "2025-05-08T13:26:42.000Z"
   },
   {
     "id": "FreeCAD/FreeCAD",
@@ -17858,7 +17895,7 @@
     },
     "stars": 161,
     "starsDetail": {
-      "total": 160
+      "total": 161
     },
     "license": "GNU General Public License v3.0",
     "forks": 13,
@@ -17891,7 +17928,7 @@
     },
     "stars": 428,
     "starsDetail": {
-      "total": 423
+      "total": 428
     },
     "license": "GNU General Public License v3.0",
     "forks": 10,
@@ -17923,7 +17960,7 @@
     },
     "stars": 117,
     "starsDetail": {
-      "total": 116
+      "total": 117
     },
     "license": "GNU General Public License v3.0",
     "forks": 5,
@@ -18003,9 +18040,9 @@
       "name": "BigBerny",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1528504?v=4"
     },
-    "stars": 279,
+    "stars": 283,
     "starsDetail": {
-      "total": 279
+      "total": 283
     },
     "license": "GNU General Public License v3.0",
     "forks": 7,
@@ -18017,7 +18054,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-07-15T22:59:46.000Z",
-    "updatedAt": "2025-04-29T00:58:04.000Z"
+    "updatedAt": "2025-05-08T13:24:39.000Z"
   },
   {
     "id": "Bunn/PiStats",
@@ -18089,7 +18126,7 @@
     },
     "stars": 95,
     "starsDetail": {
-      "total": 94
+      "total": 95
     },
     "license": "MIT License",
     "forks": 8,
@@ -18112,21 +18149,21 @@
       "name": "Celve",
       "avatarUrl": "https://avatars.githubusercontent.com/u/95223577?v=4"
     },
-    "stars": 358,
+    "stars": 365,
     "starsDetail": {
-      "total": 358
+      "total": 365
     },
     "license": "GNU General Public License v3.0",
     "forks": 1,
     "primaryLanguage": "Swift",
-    "pushedAt": "2025-02-22T05:42:14.000Z",
+    "pushedAt": "2025-05-08T09:19:46.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-03T06:01:12.000Z",
-    "updatedAt": "2025-04-29T01:03:30.000Z"
+    "updatedAt": "2025-05-08T13:31:22.000Z"
   },
   {
     "id": "ChimeHQ/Chime",
@@ -18145,7 +18182,7 @@
     },
     "stars": 370,
     "starsDetail": {
-      "total": 369
+      "total": 370
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "forks": 18,
@@ -18174,7 +18211,7 @@
     },
     "stars": 136,
     "starsDetail": {
-      "total": 137
+      "total": 136
     },
     "license": "MIT License",
     "forks": 11,
@@ -18206,7 +18243,7 @@
     },
     "stars": 407,
     "starsDetail": {
-      "total": 406
+      "total": 407
     },
     "license": "MIT License",
     "forks": 33,
@@ -18293,7 +18330,7 @@
     },
     "stars": 218,
     "starsDetail": {
-      "total": 219
+      "total": 218
     },
     "license": null,
     "forks": 11,
@@ -18349,7 +18386,7 @@
     },
     "stars": 63543,
     "starsDetail": {
-      "total": 63406
+      "total": 63543
     },
     "license": "MIT License",
     "forks": 3594,
@@ -18374,7 +18411,7 @@
     },
     "stars": 33,
     "starsDetail": {
-      "total": 32
+      "total": 33
     },
     "license": "Mozilla Public License 2.0",
     "forks": 0,
@@ -18448,7 +18485,7 @@
     },
     "stars": 43503,
     "starsDetail": {
-      "total": 43391
+      "total": 43503
     },
     "license": "BSD 2-Clause \"Simplified\" License",
     "forks": 10196,
@@ -18590,7 +18627,7 @@
     },
     "stars": 36276,
     "starsDetail": {
-      "total": 36214
+      "total": 36276
     },
     "license": "Apache License 2.0",
     "forks": 2072,
@@ -18683,7 +18720,7 @@
     },
     "stars": 403,
     "starsDetail": {
-      "total": 402
+      "total": 403
     },
     "license": "GNU General Public License v3.0",
     "forks": 22,
@@ -18788,7 +18825,7 @@
     },
     "stars": 289,
     "starsDetail": {
-      "total": 288
+      "total": 289
     },
     "license": "MIT License",
     "forks": 24,
@@ -18813,7 +18850,7 @@
     },
     "stars": 309,
     "starsDetail": {
-      "total": 310
+      "total": 309
     },
     "license": "GNU Lesser General Public License v2.1",
     "forks": 27,
@@ -18874,7 +18911,7 @@
     },
     "stars": 168,
     "starsDetail": {
-      "total": 166
+      "total": 168
     },
     "license": "MIT License",
     "forks": 4,
@@ -19034,7 +19071,7 @@
     },
     "stars": 314,
     "starsDetail": {
-      "total": 313
+      "total": 314
     },
     "license": "Other",
     "forks": 24,
@@ -19065,7 +19102,7 @@
     },
     "stars": 361,
     "starsDetail": {
-      "total": 360
+      "total": 361
     },
     "license": "GNU General Public License v3.0",
     "forks": 22,
@@ -19090,7 +19127,7 @@
     },
     "stars": 97,
     "starsDetail": {
-      "total": 95
+      "total": 97
     },
     "license": null,
     "forks": 7,
@@ -19155,7 +19192,7 @@
     },
     "stars": 141,
     "starsDetail": {
-      "total": 140
+      "total": 141
     },
     "license": null,
     "forks": 14,
@@ -19188,7 +19225,7 @@
     },
     "stars": 240,
     "starsDetail": {
-      "total": 239
+      "total": 240
     },
     "license": "Apache License 2.0",
     "forks": 24,
@@ -19226,7 +19263,7 @@
     },
     "stars": 106,
     "starsDetail": {
-      "total": 105
+      "total": 106
     },
     "license": null,
     "forks": 43,
@@ -19351,7 +19388,7 @@
     },
     "stars": 276,
     "starsDetail": {
-      "total": 275
+      "total": 276
     },
     "license": "GNU General Public License v2.0",
     "forks": 23,
@@ -19480,7 +19517,7 @@
     },
     "stars": 401,
     "starsDetail": {
-      "total": 400
+      "total": 401
     },
     "license": "Apache License 2.0",
     "forks": 40,
@@ -19505,7 +19542,7 @@
     },
     "stars": 200,
     "starsDetail": {
-      "total": 199
+      "total": 200
     },
     "license": "GNU General Public License v3.0",
     "forks": 7,
@@ -19575,7 +19612,7 @@
     },
     "stars": 261,
     "starsDetail": {
-      "total": 223
+      "total": 261
     },
     "license": "GNU General Public License v3.0",
     "forks": 15,
@@ -19621,7 +19658,7 @@
     },
     "stars": 48809,
     "starsDetail": {
-      "total": 48705
+      "total": 48809
     },
     "license": "GNU General Public License v2.0",
     "forks": 2123,
@@ -19649,7 +19686,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/43695246?v=4"
     },
     "stars": 152,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 152
+    },
     "license": "MIT License",
     "forks": 4,
     "primaryLanguage": "Swift",
@@ -19756,7 +19795,7 @@
     },
     "stars": 321,
     "starsDetail": {
-      "total": 320
+      "total": 321
     },
     "license": "Other",
     "forks": 30,
@@ -19795,7 +19834,7 @@
     },
     "stars": 47491,
     "starsDetail": {
-      "total": 47338
+      "total": 47491
     },
     "license": "MIT License",
     "forks": 4630,
@@ -19831,7 +19870,7 @@
     },
     "stars": 58728,
     "starsDetail": {
-      "total": 58491
+      "total": 58728
     },
     "license": "Apache License 2.0",
     "forks": 3107,
@@ -20083,7 +20122,7 @@
     },
     "stars": 154,
     "starsDetail": {
-      "total": 153
+      "total": 154
     },
     "license": "MIT License",
     "forks": 25,
@@ -20211,7 +20250,7 @@
     },
     "stars": 31967,
     "starsDetail": {
-      "total": 31851
+      "total": 31967
     },
     "license": null,
     "forks": 6994,
@@ -20244,7 +20283,7 @@
     },
     "stars": 60441,
     "starsDetail": {
-      "total": 60419
+      "total": 60441
     },
     "license": "MIT License",
     "forks": 17347,
@@ -20276,7 +20315,7 @@
     },
     "stars": 88,
     "starsDetail": {
-      "total": 87
+      "total": 88
     },
     "license": "GNU Lesser General Public License v3.0",
     "forks": 3,
@@ -20341,7 +20380,7 @@
     },
     "stars": 31246,
     "starsDetail": {
-      "total": 31181
+      "total": 31246
     },
     "license": "Apache License 2.0",
     "forks": 2209,
@@ -20391,7 +20430,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-13T16:10:58.000Z",
-    "updatedAt": "2025-04-29T07:30:46.000Z"
+    "updatedAt": "2025-05-08T13:42:33.000Z"
   },
   {
     "id": "bfmatei/PiPTool",
@@ -20502,7 +20541,7 @@
     },
     "stars": 198,
     "starsDetail": {
-      "total": 197
+      "total": 198
     },
     "license": null,
     "forks": 59,
@@ -20537,7 +20576,7 @@
     },
     "stars": 363,
     "starsDetail": {
-      "total": 362
+      "total": 363
     },
     "license": "GNU General Public License v3.0",
     "forks": 37,
@@ -20661,12 +20700,12 @@
       "name": "cartesiancs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63484669?v=4"
     },
-    "stars": 376,
+    "stars": 382,
     "starsDetail": {
-      "total": 376
+      "total": 382
     },
     "license": "MIT License",
-    "forks": 32,
+    "forks": 34,
     "primaryLanguage": "CSS",
     "pushedAt": "2025-04-28T04:24:27.000Z",
     "archived": false,
@@ -20675,7 +20714,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-08-26T23:46:03.000Z",
-    "updatedAt": "2025-04-29T07:23:55.000Z"
+    "updatedAt": "2025-05-08T13:34:26.000Z"
   },
   {
     "id": "cemolcay/ChordDetector",
@@ -20757,7 +20796,7 @@
     },
     "stars": 95,
     "starsDetail": {
-      "total": 94
+      "total": 95
     },
     "license": "MIT License",
     "forks": 16,
@@ -20818,7 +20857,7 @@
     },
     "stars": 122,
     "starsDetail": {
-      "total": 120
+      "total": 122
     },
     "license": "MIT License",
     "forks": 14,
@@ -20918,7 +20957,7 @@
     },
     "stars": 43463,
     "starsDetail": {
-      "total": 43295
+      "total": 43463
     },
     "license": "Apache License 2.0",
     "forks": 3703,
@@ -21168,7 +21207,7 @@
     },
     "stars": 379,
     "starsDetail": {
-      "total": 378
+      "total": 379
     },
     "license": "GNU General Public License v2.0",
     "forks": 30,
@@ -21201,7 +21240,7 @@
     },
     "stars": 472,
     "starsDetail": {
-      "total": 471
+      "total": 472
     },
     "license": "GNU General Public License v3.0",
     "forks": 18,
@@ -21258,7 +21297,7 @@
     },
     "stars": 222,
     "starsDetail": {
-      "total": 221
+      "total": 222
     },
     "license": "GNU General Public License v3.0",
     "forks": 22,
@@ -21415,7 +21454,7 @@
     },
     "stars": 116663,
     "starsDetail": {
-      "total": 116560
+      "total": 116663
     },
     "license": "MIT License",
     "forks": 16021,
@@ -21600,7 +21639,7 @@
     },
     "stars": 67,
     "starsDetail": {
-      "total": 66
+      "total": 67
     },
     "license": null,
     "forks": 3,
@@ -21635,7 +21674,7 @@
     },
     "stars": 313,
     "starsDetail": {
-      "total": 314
+      "total": 313
     },
     "license": "GNU General Public License v3.0",
     "forks": 28,
@@ -21700,7 +21739,7 @@
     },
     "stars": 15,
     "starsDetail": {
-      "total": 14
+      "total": 15
     },
     "license": "MIT License",
     "forks": 1,
@@ -21725,7 +21764,7 @@
     },
     "stars": 230,
     "starsDetail": {
-      "total": 229
+      "total": 230
     },
     "license": "MIT License",
     "forks": 22,
@@ -21750,7 +21789,7 @@
     },
     "stars": 153,
     "starsDetail": {
-      "total": 151
+      "total": 153
     },
     "license": "MIT License",
     "forks": 26,
@@ -21819,7 +21858,7 @@
     },
     "stars": 233,
     "starsDetail": {
-      "total": 232
+      "total": 233
     },
     "license": "MIT License",
     "forks": 32,
@@ -21910,7 +21949,7 @@
     },
     "stars": 374,
     "starsDetail": {
-      "total": 371
+      "total": 374
     },
     "license": "MIT License",
     "forks": 51,
@@ -21935,7 +21974,7 @@
     },
     "stars": 92,
     "starsDetail": {
-      "total": 91
+      "total": 92
     },
     "license": "GNU General Public License v3.0",
     "forks": 12,
@@ -21958,12 +21997,12 @@
       "name": "glinford",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7406497?v=4"
     },
-    "stars": 177,
+    "stars": 182,
     "starsDetail": {
-      "total": 177
+      "total": 182
     },
     "license": "MIT License",
-    "forks": 8,
+    "forks": 10,
     "primaryLanguage": "Swift",
     "pushedAt": "2025-03-23T12:51:47.000Z",
     "archived": false,
@@ -21972,7 +22011,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2025-02-23T14:33:01.000Z",
-    "updatedAt": "2025-04-29T07:23:40.000Z"
+    "updatedAt": "2025-05-08T13:34:08.000Z"
   },
   {
     "id": "gosu/ruby-app",
@@ -22052,7 +22091,7 @@
     },
     "stars": 53,
     "starsDetail": {
-      "total": 51
+      "total": 53
     },
     "license": "MIT License",
     "forks": 6,
@@ -22105,21 +22144,21 @@
       "name": "helix-editor",
       "avatarUrl": "https://avatars.githubusercontent.com/u/66235900?v=4"
     },
-    "stars": 37118,
+    "stars": 37270,
     "starsDetail": {
-      "total": 37118
+      "total": 37270
     },
     "license": "Mozilla Public License 2.0",
-    "forks": 2775,
+    "forks": 2789,
     "primaryLanguage": "C++",
-    "pushedAt": "2025-04-29T01:48:46.000Z",
+    "pushedAt": "2025-05-08T13:22:14.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-06-01T04:26:56.000Z",
-    "updatedAt": "2025-04-29T07:24:55.000Z"
+    "updatedAt": "2025-05-08T13:35:36.000Z"
   },
   {
     "id": "hisaac/PlainPasta",
@@ -22182,21 +22221,21 @@
       "name": "hoppscotch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56705483?v=4"
     },
-    "stars": 71438,
+    "stars": 71551,
     "starsDetail": {
-      "total": 71438
+      "total": 71551
     },
     "license": "MIT License",
-    "forks": 4899,
+    "forks": 4904,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-04-28T23:44:12.000Z",
+    "pushedAt": "2025-05-08T11:14:37.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-08-21T13:15:24.000Z",
-    "updatedAt": "2025-04-29T00:55:18.000Z"
+    "updatedAt": "2025-05-08T13:21:05.000Z"
   },
   {
     "id": "iina/iina",
@@ -22216,7 +22255,7 @@
     },
     "stars": 40293,
     "starsDetail": {
-      "total": 40199
+      "total": 40293
     },
     "license": "GNU General Public License v3.0",
     "forks": 2622,
@@ -22446,7 +22485,7 @@
     },
     "stars": 60,
     "starsDetail": {
-      "total": 59
+      "total": 60
     },
     "license": "Other",
     "forks": 5,
@@ -22671,7 +22710,7 @@
     },
     "stars": 39373,
     "starsDetail": {
-      "total": 39102
+      "total": 39373
     },
     "license": "GNU General Public License v2.0",
     "forks": 3513,
@@ -22701,7 +22740,7 @@
     },
     "stars": 54344,
     "starsDetail": {
-      "total": 54163
+      "total": 54344
     },
     "license": "Apache License 2.0",
     "forks": 5264,
@@ -22856,7 +22895,7 @@
     },
     "stars": 362,
     "starsDetail": {
-      "total": 360
+      "total": 362
     },
     "license": "MIT License",
     "forks": 26,
@@ -23004,7 +23043,7 @@
     },
     "stars": 320,
     "starsDetail": {
-      "total": 318
+      "total": 320
     },
     "license": "GNU General Public License v3.0",
     "forks": 35,
@@ -23034,7 +23073,7 @@
     },
     "stars": 474,
     "starsDetail": {
-      "total": 472
+      "total": 474
     },
     "license": "GNU General Public License v2.0",
     "forks": 63,
@@ -23059,7 +23098,7 @@
     },
     "stars": 277,
     "starsDetail": {
-      "total": 276
+      "total": 277
     },
     "license": null,
     "forks": 21,
@@ -23088,21 +23127,21 @@
       "name": "lapce",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43668847?v=4"
     },
-    "stars": 35838,
+    "stars": 36099,
     "starsDetail": {
-      "total": 35838
+      "total": 36099
     },
     "license": "Apache License 2.0",
-    "forks": 1112,
+    "forks": 1123,
     "primaryLanguage": "PowerShell",
-    "pushedAt": "2025-04-29T00:49:12.000Z",
+    "pushedAt": "2025-05-08T00:46:40.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-02-06T08:41:06.000Z",
-    "updatedAt": "2025-04-29T07:24:54.000Z"
+    "updatedAt": "2025-05-08T13:35:35.000Z"
   },
   {
     "id": "laurent22/joplin",
@@ -23131,7 +23170,7 @@
     },
     "stars": 49144,
     "starsDetail": {
-      "total": 48984
+      "total": 49144
     },
     "license": "Other",
     "forks": 5323,
@@ -23162,7 +23201,7 @@
     },
     "stars": 365,
     "starsDetail": {
-      "total": 364
+      "total": 365
     },
     "license": null,
     "forks": 15,
@@ -23267,7 +23306,7 @@
     },
     "stars": 146,
     "starsDetail": {
-      "total": 145
+      "total": 146
     },
     "license": null,
     "forks": 10,
@@ -23297,7 +23336,7 @@
     },
     "stars": 61006,
     "starsDetail": {
-      "total": 60562
+      "total": 61006
     },
     "license": "Apache License 2.0",
     "forks": 3250,
@@ -23334,7 +23373,7 @@
     },
     "stars": 36372,
     "starsDetail": {
-      "total": 36225
+      "total": 36372
     },
     "license": "GNU Affero General Public License v3.0",
     "forks": 2141,
@@ -23457,7 +23496,7 @@
     },
     "stars": 420,
     "starsDetail": {
-      "total": 419
+      "total": 420
     },
     "license": null,
     "forks": 28,
@@ -23489,7 +23528,7 @@
     },
     "stars": 205,
     "starsDetail": {
-      "total": 204
+      "total": 205
     },
     "license": null,
     "forks": 11,
@@ -23679,7 +23718,7 @@
     },
     "stars": 30,
     "starsDetail": {
-      "total": 29
+      "total": 30
     },
     "license": "MIT License",
     "forks": 3,
@@ -23706,21 +23745,21 @@
       "name": "maoyama",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1035994?v=4"
     },
-    "stars": 62,
+    "stars": 71,
     "starsDetail": {
-      "total": 62
+      "total": 71
     },
     "license": "MIT License",
     "forks": 3,
     "primaryLanguage": "Swift",
-    "pushedAt": "2025-04-29T02:53:45.000Z",
+    "pushedAt": "2025-05-07T10:58:16.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-09-18T08:58:40.000Z",
-    "updatedAt": "2025-04-29T07:23:21.000Z"
+    "updatedAt": "2025-05-08T13:33:44.000Z"
   },
   {
     "id": "marcinreliga/TeamStatus-for-GitHub",
@@ -23776,7 +23815,7 @@
     },
     "stars": 49585,
     "starsDetail": {
-      "total": 49481
+      "total": 49585
     },
     "license": "MIT License",
     "forks": 3636,
@@ -23811,7 +23850,7 @@
     },
     "stars": 48235,
     "starsDetail": {
-      "total": 48194
+      "total": 48235
     },
     "license": "GNU Affero General Public License v3.0",
     "forks": 7161,
@@ -23842,7 +23881,7 @@
     },
     "stars": 380,
     "starsDetail": {
-      "total": 379
+      "total": 380
     },
     "license": "MIT License",
     "forks": 31,
@@ -23875,7 +23914,7 @@
     },
     "stars": 32470,
     "starsDetail": {
-      "total": 32410
+      "total": 32470
     },
     "license": "Other",
     "forks": 7756,
@@ -23978,7 +24017,7 @@
     },
     "stars": 430,
     "starsDetail": {
-      "total": 431
+      "total": 430
     },
     "license": "MIT License",
     "forks": 41,
@@ -24121,7 +24160,7 @@
     },
     "stars": 162,
     "starsDetail": {
-      "total": 160
+      "total": 162
     },
     "license": "MIT License",
     "forks": 5,
@@ -24192,7 +24231,7 @@
     },
     "stars": 89304,
     "starsDetail": {
-      "total": 89032
+      "total": 89304
     },
     "license": "Other",
     "forks": 6067,
@@ -24268,37 +24307,6 @@
     "goImportedBy": null,
     "createdAt": "2015-09-25T09:45:00.000Z",
     "updatedAt": "2025-05-08T09:58:49.000Z"
-  },
-  {
-    "id": "nikitabobko/AeroSpace",
-    "name": "nikitabobko/AeroSpace",
-    "description": "AeroSpace is an i3-like tiling window manager for macOS",
-    "topics": [
-      "i3",
-      "i3wm",
-      "mac",
-      "macos",
-      "tiling",
-      "tiling-window-manager",
-      "window-manager"
-    ],
-    "owner": {
-      "name": "nikitabobko",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20517828?v=4"
-    },
-    "stars": 12307,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 242,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2025-05-07T19:40:33.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2023-05-21T20:20:17.000Z",
-    "updatedAt": "2025-05-08T05:08:12.000Z"
   },
   {
     "id": "novemberfiveco/xib2Storyboard",
@@ -24388,7 +24396,7 @@
     },
     "stars": 84390,
     "starsDetail": {
-      "total": 84221
+      "total": 84390
     },
     "license": "MIT License",
     "forks": 8750,
@@ -24445,7 +24453,7 @@
     },
     "stars": 40717,
     "starsDetail": {
-      "total": 40702
+      "total": 40717
     },
     "license": "MIT License",
     "forks": 3876,
@@ -24545,7 +24553,7 @@
     },
     "stars": 96,
     "starsDetail": {
-      "total": 95
+      "total": 96
     },
     "license": "GNU General Public License v3.0",
     "forks": 14,
@@ -24610,7 +24618,7 @@
     },
     "stars": 323,
     "starsDetail": {
-      "total": 321
+      "total": 323
     },
     "license": "MIT License",
     "forks": 14,
@@ -24647,7 +24655,7 @@
     },
     "stars": 64005,
     "starsDetail": {
-      "total": 63799
+      "total": 64005
     },
     "license": "GNU General Public License v2.0",
     "forks": 8379,
@@ -24672,7 +24680,7 @@
     },
     "stars": 367,
     "starsDetail": {
-      "total": 365
+      "total": 367
     },
     "license": "GNU General Public License v3.0",
     "forks": 15,
@@ -24756,7 +24764,7 @@
     },
     "stars": 80,
     "starsDetail": {
-      "total": 79
+      "total": 80
     },
     "license": null,
     "forks": 11,
@@ -24815,7 +24823,7 @@
     },
     "stars": 98,
     "starsDetail": {
-      "total": 99
+      "total": 98
     },
     "license": null,
     "forks": 10,
@@ -24882,7 +24890,7 @@
     },
     "stars": 32234,
     "starsDetail": {
-      "total": 32156
+      "total": 32234
     },
     "license": "MIT License",
     "forks": 2633,
@@ -24946,7 +24954,7 @@
     },
     "stars": 149,
     "starsDetail": {
-      "total": 150
+      "total": 149
     },
     "license": "MIT License",
     "forks": 16,
@@ -24971,7 +24979,7 @@
     },
     "stars": 79,
     "starsDetail": {
-      "total": 78
+      "total": 79
     },
     "license": "GNU General Public License v3.0",
     "forks": 8,
@@ -25062,7 +25070,7 @@
     },
     "stars": 494,
     "starsDetail": {
-      "total": 493
+      "total": 494
     },
     "license": "GNU General Public License v2.0",
     "forks": 22,
@@ -25106,21 +25114,21 @@
       "name": "rustdesk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/71636191?v=4"
     },
-    "stars": 87505,
+    "stars": 87862,
     "starsDetail": {
-      "total": 87505
+      "total": 87862
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 12438,
+    "forks": 12501,
     "primaryLanguage": "Objective-C",
-    "pushedAt": "2025-04-29T01:36:00.000Z",
+    "pushedAt": "2025-05-07T13:24:14.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-09-28T15:36:08.000Z",
-    "updatedAt": "2025-04-29T07:25:08.000Z"
+    "updatedAt": "2025-05-08T13:35:51.000Z"
   },
   {
     "id": "sahil-a/vidquizcreator",
@@ -25199,7 +25207,7 @@
     },
     "stars": 32727,
     "starsDetail": {
-      "total": 32719
+      "total": 32727
     },
     "license": "GNU General Public License v3.0",
     "forks": 7920,
@@ -25280,7 +25288,7 @@
     },
     "stars": 119,
     "starsDetail": {
-      "total": 118
+      "total": 119
     },
     "license": "MIT License",
     "forks": 4,
@@ -25388,7 +25396,7 @@
     },
     "stars": 364,
     "starsDetail": {
-      "total": 362
+      "total": 364
     },
     "license": "GNU General Public License v3.0",
     "forks": 50,
@@ -25413,7 +25421,7 @@
     },
     "stars": 55551,
     "starsDetail": {
-      "total": 55531
+      "total": 55551
     },
     "license": "Other",
     "forks": 9753,
@@ -25447,7 +25455,7 @@
     },
     "stars": 415,
     "starsDetail": {
-      "total": 414
+      "total": 415
     },
     "license": "GNU General Public License v3.0",
     "forks": 39,
@@ -25523,21 +25531,21 @@
       "name": "tauri-apps",
       "avatarUrl": "https://avatars.githubusercontent.com/u/54536011?v=4"
     },
-    "stars": 91952,
+    "stars": 92250,
     "starsDetail": {
-      "total": 91952
+      "total": 92250
     },
     "license": "Apache License 2.0",
-    "forks": 2820,
+    "forks": 2838,
     "primaryLanguage": "C++",
-    "pushedAt": "2025-04-29T01:10:38.000Z",
+    "pushedAt": "2025-05-08T12:54:18.000Z",
     "archived": false,
     "npmPackage": "tauri",
     "npmLastMonthDownloads": 1491,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-07-13T09:09:37.000Z",
-    "updatedAt": "2025-04-29T07:28:55.000Z"
+    "updatedAt": "2025-05-08T13:40:20.000Z"
   },
   {
     "id": "thamara/time-to-leave",
@@ -25600,7 +25608,7 @@
     },
     "stars": 70,
     "starsDetail": {
-      "total": 69
+      "total": 70
     },
     "license": "MIT License",
     "forks": 2,
@@ -25639,7 +25647,7 @@
     },
     "stars": 191,
     "starsDetail": {
-      "total": 192
+      "total": 191
     },
     "license": "GNU General Public License v3.0",
     "forks": 21,
@@ -25715,7 +25723,7 @@
     },
     "stars": 50484,
     "starsDetail": {
-      "total": 50220
+      "total": 50484
     },
     "license": "Other",
     "forks": 3339,
@@ -25843,12 +25851,12 @@
       "name": "upscayl",
       "avatarUrl": "https://avatars.githubusercontent.com/u/112148288?v=4"
     },
-    "stars": 36590,
+    "stars": 36752,
     "starsDetail": {
-      "total": 36590
+      "total": 36752
     },
     "license": "GNU Affero General Public License v3.0",
-    "forks": 1685,
+    "forks": 1694,
     "primaryLanguage": "Shell",
     "pushedAt": "2025-04-25T13:23:15.000Z",
     "archived": false,
@@ -25857,7 +25865,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-30T17:19:20.000Z",
-    "updatedAt": "2025-04-29T00:58:09.000Z"
+    "updatedAt": "2025-05-08T13:24:44.000Z"
   },
   {
     "id": "user-attachments/assets",
@@ -25994,7 +26002,7 @@
     },
     "stars": 32111,
     "starsDetail": {
-      "total": 31998
+      "total": 32111
     },
     "license": "Apache License 2.0",
     "forks": 3085,
@@ -26029,7 +26037,7 @@
     },
     "stars": 43937,
     "starsDetail": {
-      "total": 43913
+      "total": 43937
     },
     "license": "MIT License",
     "forks": 3529,
@@ -26089,7 +26097,7 @@
     },
     "stars": 38076,
     "starsDetail": {
-      "total": 38032
+      "total": 38076
     },
     "license": "Vim License",
     "forks": 5662,
@@ -26124,7 +26132,7 @@
     },
     "stars": 70,
     "starsDetail": {
-      "total": 69
+      "total": 70
     },
     "license": null,
     "forks": 9,
@@ -26281,7 +26289,7 @@
     },
     "stars": 225,
     "starsDetail": {
-      "total": 213
+      "total": 225
     },
     "license": "MIT License",
     "forks": 18,
@@ -26337,7 +26345,7 @@
     },
     "stars": 136,
     "starsDetail": {
-      "total": 135
+      "total": 136
     },
     "license": "MIT License",
     "forks": 20,
@@ -26371,7 +26379,7 @@
     },
     "stars": 80,
     "starsDetail": {
-      "total": 79
+      "total": 80
     },
     "license": "GNU General Public License v2.0",
     "forks": 22,
@@ -26403,7 +26411,7 @@
     },
     "stars": 36,
     "starsDetail": {
-      "total": 37
+      "total": 36
     },
     "license": "Apache License 2.0",
     "forks": 2,
@@ -26564,7 +26572,7 @@
     },
     "stars": 358,
     "starsDetail": {
-      "total": 356
+      "total": 358
     },
     "license": "GNU General Public License v3.0",
     "forks": 20,
@@ -26599,7 +26607,7 @@
     },
     "stars": 450,
     "starsDetail": {
-      "total": 451
+      "total": 450
     },
     "license": "MIT License",
     "forks": 22,
@@ -26649,7 +26657,7 @@
     },
     "stars": 259,
     "starsDetail": {
-      "total": 258
+      "total": 259
     },
     "license": "MIT License",
     "forks": 19,
@@ -26681,7 +26689,7 @@
     },
     "stars": 183,
     "starsDetail": {
-      "total": 182
+      "total": 183
     },
     "license": null,
     "forks": 24,
@@ -26734,21 +26742,21 @@
       "name": "zed-industries",
       "avatarUrl": "https://avatars.githubusercontent.com/u/79345384?v=4"
     },
-    "stars": 57549,
+    "stars": 58385,
     "starsDetail": {
-      "total": 57549
+      "total": 58385
     },
     "license": "Other",
-    "forks": 3965,
+    "forks": 4063,
     "primaryLanguage": "RenderScript",
-    "pushedAt": "2025-04-29T06:41:41.000Z",
+    "pushedAt": "2025-05-08T13:30:21.000Z",
     "archived": false,
     "npmPackage": "",
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-02-20T03:01:06.000Z",
-    "updatedAt": "2025-04-29T07:24:57.000Z"
+    "updatedAt": "2025-05-08T13:35:38.000Z"
   },
   {
     "id": "zenangst/Syncalicious",
@@ -26761,7 +26769,7 @@
     },
     "stars": 419,
     "starsDetail": {
-      "total": 417
+      "total": 419
     },
     "license": "Other",
     "forks": 11,

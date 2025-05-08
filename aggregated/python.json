@@ -4325,6 +4325,49 @@
     "updatedAt": "2025-05-08T05:53:25.000Z"
   },
   {
+    "id": "authlib/authlib",
+    "name": "authlib/authlib",
+    "description": "The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.",
+    "topics": [
+      "django",
+      "flask",
+      "jose",
+      "jwe",
+      "jwk",
+      "jws",
+      "jwt",
+      "oauth",
+      "oauth2",
+      "oauth2-provider",
+      "oauth2-server",
+      "oidc",
+      "openid-connect"
+    ],
+    "owner": {
+      "name": "authlib",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32964472?v=4"
+    },
+    "stars": 4812,
+    "starsDetail": {
+      "total": 4812,
+      "week": 15,
+      "month": 45,
+      "year": 560,
+      "updatedAt": 1746712047
+    },
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "forks": 483,
+    "primaryLanguage": "Makefile",
+    "pushedAt": "2025-05-03T07:29:06.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2017-10-27T06:52:26.000Z",
+    "updatedAt": "2025-05-08T05:52:50.000Z"
+  },
+  {
     "id": "paramiko/paramiko",
     "name": "paramiko/paramiko",
     "description": "The leading native Python SSHv2 protocol library.",
@@ -13621,7 +13664,7 @@
     },
     "stars": 324,
     "starsDetail": {
-      "total": 325
+      "total": 324
     },
     "license": "Other",
     "forks": 77,
@@ -13722,7 +13765,7 @@
     },
     "stars": 51961,
     "starsDetail": {
-      "total": 51862
+      "total": 51961
     },
     "license": "MIT License",
     "forks": 1830,
@@ -13762,7 +13805,7 @@
     },
     "stars": 200259,
     "starsDetail": {
-      "total": 199998
+      "total": 200259
     },
     "license": "MIT License",
     "forks": 46723,
@@ -13787,7 +13830,7 @@
     },
     "stars": 319,
     "starsDetail": {
-      "total": 318
+      "total": 319
     },
     "license": null,
     "forks": 44,
@@ -13841,7 +13884,7 @@
     },
     "stars": 64930,
     "starsDetail": {
-      "total": 64854
+      "total": 64930
     },
     "license": "GNU General Public License v3.0",
     "forks": 24018,
@@ -13875,7 +13918,7 @@
     },
     "stars": 41066,
     "starsDetail": {
-      "total": 41011
+      "total": 41066
     },
     "license": "Apache License 2.0",
     "forks": 28527,
@@ -13890,43 +13933,6 @@
     "updatedAt": "2025-05-08T05:53:49.000Z"
   },
   {
-    "id": "authlib/authlib",
-    "name": "authlib/authlib",
-    "description": "The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.",
-    "topics": [
-      "django",
-      "flask",
-      "jose",
-      "jwe",
-      "jwk",
-      "jws",
-      "jwt",
-      "oauth",
-      "oauth2",
-      "oauth2-provider",
-      "oauth2-server",
-      "oidc",
-      "openid-connect"
-    ],
-    "owner": {
-      "name": "authlib",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32964472?v=4"
-    },
-    "stars": 4812,
-    "starsDetail": null,
-    "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-    "forks": 483,
-    "primaryLanguage": "Makefile",
-    "pushedAt": "2025-05-03T07:29:06.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2017-10-27T06:52:26.000Z",
-    "updatedAt": "2025-05-08T05:52:50.000Z"
-  },
-  {
     "id": "carlosescri/DottedDict",
     "name": "carlosescri/DottedDict",
     "description": "Python library that provides a method of accessing lists and dicts with a dotted path notation.",
@@ -13937,7 +13943,7 @@
     },
     "stars": 206,
     "starsDetail": {
-      "total": 203
+      "total": 206
     },
     "license": "MIT License",
     "forks": 25,
@@ -13962,7 +13968,7 @@
     },
     "stars": 294,
     "starsDetail": {
-      "total": 293
+      "total": 294
     },
     "license": "MIT License",
     "forks": 34,
@@ -13997,7 +14003,7 @@
     },
     "stars": 83472,
     "starsDetail": {
-      "total": 83350
+      "total": 83472
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "forks": 32554,
@@ -14070,7 +14076,7 @@
     },
     "stars": 41351,
     "starsDetail": {
-      "total": 41291
+      "total": 41351
     },
     "license": null,
     "forks": 6993,
@@ -14095,7 +14101,7 @@
     },
     "stars": 73022,
     "starsDetail": {
-      "total": 72719
+      "total": 73022
     },
     "license": null,
     "forks": 14843,
@@ -14120,7 +14126,7 @@
     },
     "stars": 34044,
     "starsDetail": {
-      "total": 34032
+      "total": 34044
     },
     "license": "MIT License",
     "forks": 6733,
@@ -14166,7 +14172,7 @@
     },
     "stars": 35454,
     "starsDetail": {
-      "total": 35390
+      "total": 35454
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "forks": 3710,
@@ -14253,7 +14259,7 @@
     },
     "stars": 62960,
     "starsDetail": {
-      "total": 62935
+      "total": 62960
     },
     "license": "Apache License 2.0",
     "forks": 19579,
@@ -14303,7 +14309,7 @@
     },
     "stars": 483,
     "starsDetail": {
-      "total": 481
+      "total": 483
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "forks": 138,
@@ -14452,7 +14458,7 @@
     },
     "stars": 40773,
     "starsDetail": {
-      "total": 40686
+      "total": 40773
     },
     "license": "MIT License",
     "forks": 2617,
@@ -14555,7 +14561,7 @@
     },
     "stars": 91791,
     "starsDetail": {
-      "total": 91675
+      "total": 91791
     },
     "license": "MIT License",
     "forks": 3684,
@@ -14580,7 +14586,7 @@
     },
     "stars": 35933,
     "starsDetail": {
-      "total": 35874
+      "total": 35933
     },
     "license": "Other",
     "forks": 8663,
@@ -14605,7 +14611,7 @@
     },
     "stars": 458,
     "starsDetail": {
-      "total": 457
+      "total": 458
     },
     "license": "Other",
     "forks": 264,
@@ -14688,7 +14694,7 @@
     },
     "stars": 69486,
     "starsDetail": {
-      "total": 69424
+      "total": 69486
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "forks": 16384,
@@ -14747,7 +14753,7 @@
     },
     "stars": 352,
     "starsDetail": {
-      "total": 348
+      "total": 352
     },
     "license": "Creative Commons Zero v1.0 Universal",
     "forks": 36,
@@ -14782,7 +14788,7 @@
     },
     "stars": 40199,
     "starsDetail": {
-      "total": 40157
+      "total": 40199
     },
     "license": "MIT License",
     "forks": 2572,
@@ -14816,7 +14822,7 @@
     },
     "stars": 52830,
     "starsDetail": {
-      "total": 52800
+      "total": 52830
     },
     "license": "Apache License 2.0",
     "forks": 9448,
@@ -14844,7 +14850,7 @@
     },
     "stars": 41936,
     "starsDetail": {
-      "total": 41843
+      "total": 41936
     },
     "license": "MIT License",
     "forks": 3168,
@@ -14876,7 +14882,7 @@
     },
     "stars": 486,
     "starsDetail": {
-      "total": 484
+      "total": 486
     },
     "license": "Academic Free License v3.0",
     "forks": 147,
@@ -14901,7 +14907,7 @@
     },
     "stars": 66843,
     "starsDetail": {
-      "total": 66621
+      "total": 66843
     },
     "license": "Other",
     "forks": 31829,
@@ -14935,7 +14941,7 @@
     },
     "stars": 89762,
     "starsDetail": {
-      "total": 89471
+      "total": 89762
     },
     "license": "Other",
     "forks": 24087,
@@ -14981,7 +14987,7 @@
     },
     "stars": 36931,
     "starsDetail": {
-      "total": 36805
+      "total": 36931
     },
     "license": "Apache License 2.0",
     "forks": 6266,
@@ -15010,7 +15016,7 @@
     },
     "stars": 392,
     "starsDetail": {
-      "total": 391
+      "total": 392
     },
     "license": "Other",
     "forks": 40,
@@ -15044,7 +15050,7 @@
     },
     "stars": 55109,
     "starsDetail": {
-      "total": 55034
+      "total": 55109
     },
     "license": "BSD 3-Clause \"New\" or \"Revised\" License",
     "forks": 10780,
@@ -15107,7 +15113,7 @@
     },
     "stars": 34057,
     "starsDetail": {
-      "total": 33996
+      "total": 34057
     },
     "license": "Other",
     "forks": 5883,
@@ -15166,7 +15172,7 @@
     },
     "stars": 39236,
     "starsDetail": {
-      "total": 39073
+      "total": 39236
     },
     "license": "Apache License 2.0",
     "forks": 3438,
@@ -15200,7 +15206,7 @@
     },
     "stars": 189825,
     "starsDetail": {
-      "total": 189687
+      "total": 189825
     },
     "license": "Apache License 2.0",
     "forks": 74662,
@@ -15225,7 +15231,7 @@
     },
     "stars": 37339,
     "starsDetail": {
-      "total": 37238
+      "total": 37339
     },
     "license": "Other",
     "forks": 2188,
@@ -15280,7 +15286,7 @@
     },
     "stars": 135537,
     "starsDetail": {
-      "total": 135390
+      "total": 135537
     },
     "license": "The Unlicense",
     "forks": 10324,
@@ -15313,7 +15319,7 @@
     },
     "stars": 31557,
     "starsDetail": {
-      "total": 31521
+      "total": 31557
     },
     "license": "Do What The F*ck You Want To Public License",
     "forks": 5110,

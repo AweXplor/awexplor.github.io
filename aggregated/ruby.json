@@ -338,7 +338,7 @@
       "name": "excid3",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67093?v=4"
     },
-    "stars": 647,
+    "stars": 653,
     "starsDetail": {
       "total": 634,
       "week": 4,
@@ -347,16 +347,16 @@
       "updatedAt": 1742177423
     },
     "license": "MIT License",
-    "forks": 78,
+    "forks": 81,
     "primaryLanguage": "JavaScript",
-    "pushedAt": "2025-04-29T01:56:58.000Z",
+    "pushedAt": "2025-05-06T20:18:21.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-09-11T04:02:20.000Z",
-    "updatedAt": "2025-04-29T07:22:58.000Z"
+    "updatedAt": "2025-05-08T13:33:17.000Z"
   },
   {
     "id": "natalie-lang/natalie",
@@ -2033,7 +2033,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2015-05-06T13:25:25.000Z",
-    "updatedAt": "2025-04-29T00:59:41.000Z"
+    "updatedAt": "2025-05-08T13:26:35.000Z"
   },
   {
     "id": "github/scientist",
@@ -2919,6 +2919,42 @@
     "goImportedBy": null,
     "createdAt": "2011-04-08T01:56:15.000Z",
     "updatedAt": "2025-05-08T09:32:36.000Z"
+  },
+  {
+    "id": "red-data-tools/pycall.rb",
+    "name": "red-data-tools/pycall.rb",
+    "description": "Calling Python functions from the Ruby language",
+    "topics": [
+      "data-science",
+      "pycall",
+      "python",
+      "ruby",
+      "rubydatascience",
+      "rubyml"
+    ],
+    "owner": {
+      "name": "red-data-tools",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27811801?v=4"
+    },
+    "stars": 1090,
+    "starsDetail": {
+      "total": 1090,
+      "week": 2,
+      "month": 5,
+      "year": 68,
+      "updatedAt": 1746712048
+    },
+    "license": "MIT License",
+    "forks": 83,
+    "primaryLanguage": "Shell",
+    "pushedAt": "2025-05-08T09:21:54.000Z",
+    "archived": false,
+    "npmPackage": null,
+    "npmLastMonthDownloads": null,
+    "goPackage": null,
+    "goImportedBy": null,
+    "createdAt": "2016-10-05T15:57:34.000Z",
+    "updatedAt": "2025-05-08T09:36:40.000Z"
   },
   {
     "id": "ruby/rake",
@@ -9046,7 +9082,7 @@
       "name": "BayesWitnesses",
       "avatarUrl": "https://avatars.githubusercontent.com/u/46638712?v=4"
     },
-    "stars": 2875,
+    "stars": 2874,
     "starsDetail": {
       "total": 2833,
       "week": 1,
@@ -9064,7 +9100,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2019-01-13T02:32:55.000Z",
-    "updatedAt": "2025-04-29T01:01:41.000Z"
+    "updatedAt": "2025-05-08T13:29:03.000Z"
   },
   {
     "id": "MiniProfiler/rack-mini-profiler",
@@ -15154,7 +15190,7 @@
     },
     "stars": 441,
     "starsDetail": {
-      "total": 439
+      "total": 441
     },
     "license": "MIT License",
     "forks": 12,
@@ -15458,7 +15494,7 @@
     },
     "stars": 43503,
     "starsDetail": {
-      "total": 43391
+      "total": 43503
     },
     "license": "BSD 2-Clause \"Simplified\" License",
     "forks": 10196,
@@ -15626,7 +15662,7 @@
     },
     "stars": 413,
     "starsDetail": {
-      "total": 414
+      "total": 413
     },
     "license": "MIT License",
     "forks": 24,
@@ -15769,7 +15805,7 @@
     },
     "stars": 216,
     "starsDetail": {
-      "total": 218
+      "total": 216
     },
     "license": "MIT License",
     "forks": 131,
@@ -15866,7 +15902,7 @@
     },
     "stars": 32259,
     "starsDetail": {
-      "total": 32197
+      "total": 32259
     },
     "license": "Apache License 2.0",
     "forks": 8435,
@@ -15891,7 +15927,7 @@
     },
     "stars": 372,
     "starsDetail": {
-      "total": 373
+      "total": 372
     },
     "license": "MIT License",
     "forks": 29,
@@ -15997,7 +16033,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-05-18T05:54:19.000Z",
-    "updatedAt": "2025-04-29T01:03:34.000Z"
+    "updatedAt": "2025-05-08T13:31:26.000Z"
   },
   {
     "id": "a2design-inc/json-compare",
@@ -16275,7 +16311,7 @@
     },
     "stars": 324,
     "starsDetail": {
-      "total": 323
+      "total": 324
     },
     "license": "MIT License",
     "forks": 13,
@@ -16486,7 +16522,7 @@
     },
     "stars": 250,
     "starsDetail": {
-      "total": 251
+      "total": 250
     },
     "license": "MIT License",
     "forks": 22,
@@ -16740,7 +16776,7 @@
     },
     "stars": 445,
     "starsDetail": {
-      "total": 444
+      "total": 445
     },
     "license": "MIT License",
     "forks": 200,
@@ -16765,7 +16801,7 @@
     },
     "stars": 291,
     "starsDetail": {
-      "total": 284
+      "total": 291
     },
     "license": "MIT License",
     "forks": 17,
@@ -17416,7 +17452,7 @@
     },
     "stars": 253,
     "starsDetail": {
-      "total": 251
+      "total": 253
     },
     "license": "MIT License",
     "forks": 71,
@@ -17449,7 +17485,7 @@
     },
     "stars": 43940,
     "starsDetail": {
-      "total": 43856
+      "total": 43940
     },
     "license": "GNU General Public License v2.0",
     "forks": 8521,
@@ -17532,12 +17568,12 @@
       "name": "drwl",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1362443?v=4"
     },
-    "stars": 353,
+    "stars": 365,
     "starsDetail": {
-      "total": 353
+      "total": 365
     },
     "license": "Other",
-    "forks": 41,
+    "forks": 42,
     "primaryLanguage": "CSS",
     "pushedAt": "2025-04-11T02:04:47.000Z",
     "archived": false,
@@ -17546,7 +17582,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-06-15T03:50:52.000Z",
-    "updatedAt": "2025-04-29T00:56:12.000Z"
+    "updatedAt": "2025-05-08T13:22:16.000Z"
   },
   {
     "id": "dry-rb/dry-cli",
@@ -17841,7 +17877,7 @@
     },
     "stars": 40136,
     "starsDetail": {
-      "total": 40101
+      "total": 40136
     },
     "license": "MIT License",
     "forks": 5802,
@@ -17873,7 +17909,7 @@
     },
     "stars": 251,
     "starsDetail": {
-      "total": 250
+      "total": 251
     },
     "license": "MIT License",
     "forks": 6,
@@ -17935,7 +17971,7 @@
     },
     "stars": 276,
     "starsDetail": {
-      "total": 277
+      "total": 276
     },
     "license": "MIT License",
     "forks": 8,
@@ -18107,7 +18143,7 @@
     },
     "stars": 403,
     "starsDetail": {
-      "total": 402
+      "total": 403
     },
     "license": "Other",
     "forks": 120,
@@ -18354,7 +18390,7 @@
     },
     "stars": 145,
     "starsDetail": {
-      "total": 144
+      "total": 145
     },
     "license": "MIT License",
     "forks": 7,
@@ -18404,7 +18440,7 @@
     },
     "stars": 151,
     "starsDetail": {
-      "total": 150
+      "total": 151
     },
     "license": "MIT License",
     "forks": 11,
@@ -18657,7 +18693,7 @@
     },
     "stars": 177,
     "starsDetail": {
-      "total": 174
+      "total": 177
     },
     "license": "MIT License",
     "forks": 40,
@@ -18744,7 +18780,7 @@
     },
     "stars": 378,
     "starsDetail": {
-      "total": 379
+      "total": 378
     },
     "license": "MIT License",
     "forks": 35,
@@ -19351,7 +19387,7 @@
     },
     "stars": 333,
     "starsDetail": {
-      "total": 334
+      "total": 333
     },
     "license": "MIT License",
     "forks": 29,
@@ -19432,7 +19468,7 @@
     },
     "stars": 268,
     "starsDetail": {
-      "total": 267
+      "total": 268
     },
     "license": null,
     "forks": 20,
@@ -19972,7 +20008,7 @@
     },
     "stars": 106,
     "starsDetail": {
-      "total": 107
+      "total": 106
     },
     "license": "MIT License",
     "forks": 66,
@@ -20108,9 +20144,9 @@
       "name": "packetfu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6639388?v=4"
     },
-    "stars": 384,
+    "stars": 385,
     "starsDetail": {
-      "total": 384
+      "total": 385
     },
     "license": "Other",
     "forks": 85,
@@ -20122,7 +20158,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2011-05-28T04:41:28.000Z",
-    "updatedAt": "2025-04-29T01:03:36.000Z"
+    "updatedAt": "2025-05-08T13:31:30.000Z"
   },
   {
     "id": "panthomakos/timezone",
@@ -20444,7 +20480,7 @@
     },
     "stars": 56861,
     "starsDetail": {
-      "total": 56808
+      "total": 56861
     },
     "license": "MIT License",
     "forks": 21843,
@@ -20546,7 +20582,7 @@
     },
     "stars": 35501,
     "starsDetail": {
-      "total": 35446
+      "total": 35501
     },
     "license": "Other",
     "forks": 14304,
@@ -20593,36 +20629,6 @@
     "goImportedBy": null,
     "createdAt": "2013-03-28T20:13:04.000Z",
     "updatedAt": "2025-05-08T09:36:42.000Z"
-  },
-  {
-    "id": "red-data-tools/pycall.rb",
-    "name": "red-data-tools/pycall.rb",
-    "description": "Calling Python functions from the Ruby language",
-    "topics": [
-      "data-science",
-      "pycall",
-      "python",
-      "ruby",
-      "rubydatascience",
-      "rubyml"
-    ],
-    "owner": {
-      "name": "red-data-tools",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/27811801?v=4"
-    },
-    "stars": 1090,
-    "starsDetail": null,
-    "license": "MIT License",
-    "forks": 83,
-    "primaryLanguage": "Shell",
-    "pushedAt": "2025-05-08T09:21:54.000Z",
-    "archived": false,
-    "npmPackage": null,
-    "npmLastMonthDownloads": null,
-    "goPackage": null,
-    "goImportedBy": null,
-    "createdAt": "2016-10-05T15:57:34.000Z",
-    "updatedAt": "2025-05-08T09:36:40.000Z"
   },
   {
     "id": "rollbar/rollbar-gem",
@@ -20676,7 +20682,7 @@
     },
     "stars": 325,
     "starsDetail": {
-      "total": 324
+      "total": 325
     },
     "license": "MIT License",
     "forks": 30,
@@ -20699,21 +20705,21 @@
       "name": "rspec",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22388?v=4"
     },
-    "stars": 50,
+    "stars": 54,
     "starsDetail": {
-      "total": 50
+      "total": 54
     },
     "license": "MIT License",
     "forks": 19,
     "primaryLanguage": "Shell",
-    "pushedAt": "2025-03-21T22:11:03.000Z",
+    "pushedAt": "2025-05-05T20:38:12.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-11-27T01:05:29.000Z",
-    "updatedAt": "2025-04-29T00:56:15.000Z"
+    "updatedAt": "2025-05-08T13:22:19.000Z"
   },
   {
     "id": "ruby-amqp/march_hare",
@@ -20757,7 +20763,7 @@
     },
     "stars": 390,
     "starsDetail": {
-      "total": 391
+      "total": 390
     },
     "license": "GNU Free Documentation License v1.3",
     "forks": 98,
@@ -20978,7 +20984,7 @@
     },
     "stars": 340,
     "starsDetail": {
-      "total": 339
+      "total": 340
     },
     "license": null,
     "forks": 6,
@@ -21706,7 +21712,7 @@
     },
     "stars": 277,
     "starsDetail": {
-      "total": 278
+      "total": 277
     },
     "license": "Other",
     "forks": 22,
@@ -22190,7 +22196,7 @@
     },
     "stars": 445,
     "starsDetail": {
-      "total": 446
+      "total": 445
     },
     "license": "MIT License",
     "forks": 55,
