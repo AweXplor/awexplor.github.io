@@ -209,7 +209,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2019-10-23T21:03:44.000Z",
-    "updatedAt": "2025-05-09T16:37:12.000Z"
+    "updatedAt": "2025-05-10T19:38:43.000Z"
   },
   {
     "id": "ueberauth/ueberauth",
@@ -1100,7 +1100,7 @@
       "name": "jnv",
       "avatarUrl": "https://avatars.githubusercontent.com/u/616767?v=4"
     },
-    "stars": 10334,
+    "stars": 10338,
     "starsDetail": {
       "total": 10087,
       "week": 13,
@@ -1118,7 +1118,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2013-11-14T22:25:24.000Z",
-    "updatedAt": "2025-05-09T16:33:10.000Z"
+    "updatedAt": "2025-05-10T19:34:40.000Z"
   },
   {
     "id": "Accenture/reactive-interaction-gateway",
@@ -2277,7 +2277,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-07-18T11:14:03.000Z",
-    "updatedAt": "2025-05-09T16:34:07.000Z"
+    "updatedAt": "2025-05-10T19:35:39.000Z"
   },
   {
     "id": "rrrene/credo",
@@ -3436,7 +3436,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2019-01-13T02:32:55.000Z",
-    "updatedAt": "2025-05-09T16:31:46.000Z"
+    "updatedAt": "2025-05-10T19:33:15.000Z"
   },
   {
     "id": "aws-beam/aws-elixir",
@@ -6681,7 +6681,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-12-08T20:42:42.000Z",
-    "updatedAt": "2025-05-09T16:27:51.000Z"
+    "updatedAt": "2025-05-10T19:29:18.000Z"
   },
   {
     "id": "JohnJocoo/weighted_random",
@@ -7683,7 +7683,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2020-04-24T19:40:43.000Z",
-    "updatedAt": "2025-05-09T16:36:30.000Z"
+    "updatedAt": "2025-05-10T19:38:02.000Z"
   },
   {
     "id": "OCannings/tf-idf",
@@ -7720,7 +7720,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/30240248?v=4"
     },
     "stars": 197,
-    "starsDetail": null,
+    "starsDetail": {
+      "total": 197
+    },
     "license": "Other",
     "forks": 55,
     "primaryLanguage": "Elixir",
@@ -8320,7 +8322,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-07T14:47:56.000Z",
-    "updatedAt": "2025-05-09T16:25:30.000Z"
+    "updatedAt": "2025-05-10T19:26:55.000Z"
   },
   {
     "id": "WTTJ/algoliax",
@@ -10041,7 +10043,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2023-11-03T14:13:19.000Z",
-    "updatedAt": "2025-05-09T16:37:41.000Z"
+    "updatedAt": "2025-05-10T19:39:12.000Z"
   },
   {
     "id": "asiniy/download",
@@ -10841,14 +10843,14 @@
     "license": "Other",
     "forks": 5,
     "primaryLanguage": "Makefile",
-    "pushedAt": "2025-05-09T16:28:12.000Z",
+    "pushedAt": "2025-05-09T20:30:47.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-05-25T01:44:18.000Z",
-    "updatedAt": "2025-05-09T16:44:32.000Z"
+    "updatedAt": "2025-05-10T19:45:57.000Z"
   },
   {
     "id": "bayandin/awesome-awesomeness",
@@ -10859,12 +10861,12 @@
       "name": "bayandin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/864213?v=4"
     },
-    "stars": 32556,
+    "stars": 32557,
     "starsDetail": {
-      "total": 32556
+      "total": 32557
     },
     "license": null,
-    "forks": 3577,
+    "forks": 3580,
     "primaryLanguage": "Ruby",
     "pushedAt": "2024-06-02T22:46:41.000Z",
     "archived": false,
@@ -10873,7 +10875,7 @@
     "goPackage": "",
     "goImportedBy": 0,
     "createdAt": "2014-07-08T05:44:19.000Z",
-    "updatedAt": "2025-05-09T16:33:10.000Z"
+    "updatedAt": "2025-05-10T19:34:41.000Z"
   },
   {
     "id": "bbense/elixgrep",
@@ -21211,9 +21213,9 @@
       "name": "livebook-dev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87464290?v=4"
     },
-    "stars": 193,
+    "stars": 194,
     "starsDetail": {
-      "total": 193
+      "total": 194
     },
     "license": "Apache License 2.0",
     "forks": 21,
@@ -21225,7 +21227,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2021-05-20T09:20:06.000Z",
-    "updatedAt": "2025-05-09T16:44:22.000Z"
+    "updatedAt": "2025-05-10T19:45:47.000Z"
   },
   {
     "id": "liveforeverx/apix",
@@ -23506,14 +23508,14 @@
     "license": "MIT License",
     "forks": 2,
     "primaryLanguage": "Elixir",
-    "pushedAt": "2025-05-08T15:49:57.000Z",
+    "pushedAt": "2025-05-10T05:31:13.000Z",
     "archived": false,
     "npmPackage": null,
     "npmLastMonthDownloads": null,
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2024-03-22T17:19:10.000Z",
-    "updatedAt": "2025-05-09T16:45:03.000Z"
+    "updatedAt": "2025-05-10T19:46:26.000Z"
   },
   {
     "id": "mruoss/pluggable",
@@ -25425,7 +25427,7 @@
     },
     "stars": 311,
     "starsDetail": {
-      "total": 310
+      "total": 311
     },
     "license": "MIT License",
     "forks": 116,
@@ -25620,7 +25622,7 @@
     },
     "stars": 430,
     "starsDetail": {
-      "total": 429
+      "total": 430
     },
     "license": "MIT License",
     "forks": 228,
@@ -25949,7 +25951,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2022-12-27T10:39:42.000Z",
-    "updatedAt": "2025-05-09T16:44:22.000Z"
+    "updatedAt": "2025-05-10T19:45:46.000Z"
   },
   {
     "id": "polleverywhere/chaperon",
@@ -29355,7 +29357,7 @@
     },
     "stars": 374,
     "starsDetail": {
-      "total": 373
+      "total": 374
     },
     "license": "MIT License",
     "forks": 57,
@@ -30630,7 +30632,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2014-05-10T19:59:48.000Z",
-    "updatedAt": "2025-05-09T16:35:36.000Z"
+    "updatedAt": "2025-05-10T19:37:08.000Z"
   },
   {
     "id": "synrc/kvs",
@@ -31932,7 +31934,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2018-03-30T02:45:15.000Z",
-    "updatedAt": "2025-05-09T16:36:22.000Z"
+    "updatedAt": "2025-05-10T19:37:55.000Z"
   },
   {
     "id": "ueberauth/guardian_db",
@@ -32456,7 +32458,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2025-01-27T10:41:06.000Z",
-    "updatedAt": "2025-05-09T16:36:30.000Z"
+    "updatedAt": "2025-05-10T19:38:02.000Z"
   },
   {
     "id": "vegris/pachka",
@@ -32481,7 +32483,7 @@
     "goPackage": null,
     "goImportedBy": null,
     "createdAt": "2025-01-14T10:15:44.000Z",
-    "updatedAt": "2025-05-09T16:36:37.000Z"
+    "updatedAt": "2025-05-10T19:38:10.000Z"
   },
   {
     "id": "versilov/matrex",
@@ -34313,7 +34315,7 @@
     },
     "stars": 31563,
     "starsDetail": {
-      "total": 31558
+      "total": 31563
     },
     "license": "Do What The F*ck You Want To Public License",
     "forks": 5113,
