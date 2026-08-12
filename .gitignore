@@ -37,8 +37,8 @@ next-env.d.ts
 
 /public/aggregated/*
 .end
-/bin
 /.vscode
 /out
 /sqlite.db
+/sqlite.db.gz
 .env

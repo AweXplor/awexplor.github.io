@@ -8,10 +8,20 @@ function hasMoreToken() {
   return tokens.length > 0;
 }
 function invalidThisOctokit(octokit: any) {
-  if (octokit === _octokit) {
+  // only drop the current client when a replacement token is available,
+  // otherwise every later getOctokit() would throw NoMoreTokenError
+  if (octokit === _octokit && hasMoreToken()) {
     console.log("tokens iv");
     _octokit = undefined;
   }
+}
+
+// switch to the next token, if any. returns false when this was the last one,
+// in which case the caller has to wait for the rate limit window to reset.
+export function rotateOctokit() {
+  if (!hasMoreToken()) return false;
+  _octokit = undefined;
+  return true;
 }
 
 class NoMoreTokenError extends Error {
@@ -78,6 +88,7 @@ export async function fetchGithubProject(id: string) {
   for (const lang of Object.keys(languagesData)) {
     if (languagesData[lang] > maxCount) {
       primaryLanguage = lang;
+      maxCount = languagesData[lang];
     }
   }
 
@@ -97,6 +108,104 @@ export async function fetchGithubProject(id: string) {
     license: repoData.license?.name,
     description: repoData.description || "",
     primaryLanguage,
+  };
+}
+
+export type GithubProject = Awaited<ReturnType<typeof fetchGithubProject>>;
+
+const REPO_FIELDS = `
+fragment repoFields on Repository {
+  nameWithOwner
+  url
+  description
+  isArchived
+  stargazerCount
+  forkCount
+  pushedAt
+  createdAt
+  licenseInfo { name }
+  primaryLanguage { name }
+  repositoryTopics(first: 10) { nodes { topic { name } } }
+  owner { login avatarUrl }
+}`;
+
+/**
+ * Batched variant of fetchGithubProject.
+ *
+ * The REST version costs 2 requests per repository, which does not fit in the
+ * 5000 req/hour budget for a dataset of ~18k repositories. GraphQL resolves a
+ * whole batch with a single request costing 1 rate limit point, and returns the
+ * primary language directly so the extra listLanguages call is not needed.
+ *
+ * Repositories that were deleted or made private resolve to `null` instead of
+ * failing the whole batch.
+ */
+export async function fetchGithubProjects(ids: string[]) {
+  const octokit = getOctokit();
+
+  const varDefs: string[] = [];
+  const selections: string[] = [];
+  const variables: Record<string, string> = {};
+  ids.forEach((id, i) => {
+    const [owner, repo] = id.split("/");
+    varDefs.push(`$o${i}: String!`, `$n${i}: String!`);
+    selections.push(
+      `r${i}: repository(owner: $o${i}, name: $n${i}) { ...repoFields }`,
+    );
+    variables[`o${i}`] = owner;
+    variables[`n${i}`] = repo;
+  });
+
+  const query = `query batch(${varDefs.join(", ")}) {
+  rateLimit { cost remaining resetAt }
+  ${selections.join("\n  ")}
+}${REPO_FIELDS}`;
+
+  let data: any;
+  try {
+    data = await octokit.graphql(query, variables);
+  } catch (e: any) {
+    // a NOT_FOUND on any alias makes the whole call reject, but the payload
+    // still carries every repository that did resolve
+    if (e && typeof e === "object" && "data" in e && e.data) {
+      data = e.data;
+    } else {
+      throw e;
+    }
+  }
+
+  const projects = new Map<string, GithubProject>();
+  ids.forEach((id, i) => {
+    const node = data[`r${i}`];
+    if (!node) return;
+    projects.set(id, {
+      url: node.url,
+      name: node.nameWithOwner,
+      topics: (node.repositoryTopics?.nodes || []).map(
+        (x: any) => x.topic.name,
+      ),
+      stars: node.stargazerCount,
+      owner: {
+        // rendered as a github.com/<name> link, so it has to stay the login
+        name: node.owner.login,
+        avatarUrl: node.owner.avatarUrl,
+      },
+      forks: node.forkCount || 0,
+      pushedAt: new Date(node.pushedAt ?? node.createdAt),
+      createdAt: new Date(node.createdAt),
+      archived: node.isArchived,
+      license: node.licenseInfo?.name,
+      description: node.description || "",
+      primaryLanguage: node.primaryLanguage?.name || "",
+    });
+  });
+
+  return {
+    projects,
+    missing: ids.filter((id) => !projects.has(id)),
+    rateLimit: data.rateLimit as
+      | { cost: number; remaining: number; resetAt: string }
+      | undefined,
   };
 }
 
