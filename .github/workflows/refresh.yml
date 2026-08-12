@@ -1,0 +1,109 @@
+name: Refresh data
+
+# Rebuilds the dataset and redeploys the site. The published pages only ever
+# show the metadata captured by the last crawl, so without this the "last
+# activity" of every repository silently ages.
+
+on:
+  schedule:
+    # daily, off the hour to avoid the peak of scheduled workflows
+    - cron: "37 3 * * *"
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Comma separated config.yaml entries (default: all)"
+        required: false
+        type: string
+      max_repos:
+        description: "Stop after N repositories"
+        required: false
+        type: string
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+env:
+  # holds sqlite.db.gz between runs, the database is not tracked by git
+  DB_RELEASE_TAG: data
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    # a full refresh of ~18k repositories takes ~40 minutes, the limit is
+    # latency and not the rate limit budget
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Restore database
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release download "$DB_RELEASE_TAG" --pattern sqlite.db.gz --clobber; then
+            gunzip -f sqlite.db.gz
+            echo "restored $(du -h sqlite.db | cut -f1) database"
+          else
+            echo "no database published yet, starting from an empty one"
+          fi
+
+      - name: Apply migrations
+        run: pnpm migrate
+
+      - name: Crawl
+        env:
+          # optional: a comma separated list of PATs belonging to *different*
+          # accounts. the hourly quota is per account, and the built-in token
+          # is limited to 1000 requests/hour per repository.
+          GITHUB_TOKEN: ${{ secrets.CRAWL_GITHUB_TOKEN || github.token }}
+          # through the environment rather than inlined in the script, so a
+          # dispatch input cannot inject shell
+          ONLY: ${{ inputs.only }}
+          MAX_REPOS: ${{ inputs.max_repos }}
+        run: |
+          pnpm crawl ${ONLY:+--only="$ONLY"} ${MAX_REPOS:+--max-repos="$MAX_REPOS"}
+
+      # even when the crawl failed halfway: rows are committed batch by batch,
+      # so keeping them lets the next run resume instead of starting over
+      - name: Publish database
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          [ -f sqlite.db ] || exit 0
+          gzip -9 -c sqlite.db > sqlite.db.gz
+          gh release view "$DB_RELEASE_TAG" >/dev/null 2>&1 || \
+            gh release create "$DB_RELEASE_TAG" \
+              --title "Dataset" \
+              --notes "Crawled dataset the site is built from. Updated by the refresh workflow." \
+              --latest=false
+          gh release upload "$DB_RELEASE_TAG" sqlite.db.gz --clobber
+
+      - name: Build
+        run: pnpm build
+
+      - name: Deploy
+        run: |
+          cd out
+          git init -q -b pages
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "deploy from ${GITHUB_SHA::7}"
+          git push -q --force \
+            "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" \
+            pages
