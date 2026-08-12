@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "build": "next build",
+    "migrate": "drizzle-kit migrate",
+    "crawl": "tsx bin/crawl.ts",
     "publish": "gh-pages --dotfiles -d out  -b pages -r git@github.com:AweXplor/AweXplor.github.io.git --user \"adevday <124041366+adevday@users.noreply.github.com>\""
   },
   "imports": {
