@@ -69,6 +69,8 @@ async function renderToPublic(slug: string) {
   const filePath = path.join("public", "aggregated", `${slug}.json`);
 
   try {
+    // not tracked by git, so it is missing on a fresh checkout
+    await fs.mkdir(path.dirname(filePath), { recursive: true });
     await fs.writeFile(filePath, jsonContent, "utf-8");
   } catch (error) {
     console.error(`Failed to save ${slug}.json:`, error);
